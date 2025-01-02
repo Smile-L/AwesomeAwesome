@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * 0'  # 每周日0点运行
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
