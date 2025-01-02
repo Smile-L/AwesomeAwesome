@@ -51,13 +51,70 @@
             $('#repoTable').DataTable({
                 pageLength: 25,
                 order: [[2, 'desc']], // Sort by stars by default
+                dom: 'Blfrtip', // Buttons, length, filter, table, processing, info, pagination
+                buttons: [
+                    'colvis', // Column visibility
+                    {
+                        extend: 'collection',
+                        text: 'Export',
+                        buttons: ['csv', 'excel']
+                    }
+                ],
                 language: {
                     search: "Filter repositories:",
                     lengthMenu: "Show _MENU_ repositories per page",
                     info: "Showing _START_ to _END_ of _TOTAL_ repositories"
+                },
+                initComplete: function () {
+                    // Add column-specific filters
+                    this.api().columns().every(function () {
+                        var column = this;
+                        var title = $(column.header()).text();
+                        
+                        // Create filter for each column except Description
+                        if (title !== 'Description') {
+                            var select = $('<select class="form-select form-select-sm"><option value="">Filter ' + title + '</option></select>')
+                                .appendTo($(column.header()))
+                                .on('change', function () {
+                                    var val = $.fn.dataTable.util.escapeRegex($(this).val());
+                                    column.search(val ? '^'+val+'$' : '', true, false).draw();
+                                });
+
+                            column.data().unique().sort().each(function (d, j) {
+                                select.append('<option value="'+d+'">'+d+'</option>');
+                            });
+                        }
+                    });
                 }
             });
         });
     </script>
+    
+    <!-- Add required CSS -->
+    <link href="https://cdn.datatables.net/buttons/2.2.2/css/buttons.bootstrap5.min.css" rel="stylesheet">
+    
+    <!-- Add required JS -->
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.bootstrap5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.colVis.min.js"></script>
+    
+    <style>
+        .dataTables_filter {
+            margin-bottom: 10px;
+        }
+        .dt-buttons {
+            margin-bottom: 10px;
+        }
+        th select {
+            width: 100%;
+            margin-top: 5px;
+            padding: 2px;
+        }
+        .buttons-colvis {
+            margin-right: 5px;
+        }
+    </style>
 </body>
 </html>
