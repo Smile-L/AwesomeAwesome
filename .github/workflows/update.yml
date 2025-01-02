@@ -26,6 +26,8 @@ jobs:
           echo "SEARCH_QUERY=awesome in:name stars:>500" >> $GITHUB_ENV
           echo 'SEARCH_PARAMS={"q": "$SEARCH_QUERY", "sort": "stars", "order": "desc", "per_page": 100}' >> $GITHUB_ENV
       - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_readme.py
       - name: Commit and push changes

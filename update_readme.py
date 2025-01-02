@@ -7,10 +7,11 @@ import subprocess
 # 配置GitHub令牌
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 if not GITHUB_TOKEN:
-    raise Exception('请在环境变量中设置GITHUB_TOKEN')
+    # 尝试使用GitHub Actions的默认token
+    GITHUB_TOKEN = os.getenv('GITHUB_TOKEN', 'github-token')
 
 headers = {
-    'Authorization': f'token {GITHUB_TOKEN}'
+    'Authorization': f'Bearer {GITHUB_TOKEN}'
 }
 
 # GitHub API的基础URL
