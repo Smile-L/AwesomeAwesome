@@ -1,4 +1,5 @@
 import requests
+import time
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
 import os
@@ -24,24 +25,49 @@ SEARCH_REPOS_URL = f"{GITHUB_API_URL}/search/repositories"
 query = os.getenv('SEARCH_QUERY')
 params = eval(os.getenv('SEARCH_PARAMS'))
 
-response = requests.get(SEARCH_REPOS_URL, headers=headers, params=params)
-data = response.json()
-repos = data.get('items', [])
-
-# 提取仓库信息
+# 获取多页结果
 repositories = []
-for repo in repos:
-    repo_info = {
-        'name': repo['name'],
-        'full_name': repo['full_name'],
-        'html_url': repo['html_url'],
-        'description': repo['description'] or '无描述',
-        'stars': repo['stargazers_count'],
-        'updated_at': repo['updated_at'].split('T')[0],
-        'language': repo['language'] or 'Unknown',
-        'topics': repo.get('topics', [])
-    }
-    repositories.append(repo_info)
+page = 1
+while True:
+    params['page'] = page
+    response = requests.get(SEARCH_REPOS_URL, headers=headers, params=params)
+    data = response.json()
+    
+    if not data.get('items'):
+        break
+        
+    repos = data.get('items', [])
+    if not repos:
+        break
+        
+    print(f"Fetching page {page}, got {len(repos)} repositories")
+    
+    for repo in repos:
+        repo_info = {
+            'name': repo['name'],
+            'full_name': repo['full_name'],
+            'html_url': repo['html_url'],
+            'description': (repo['description'] or 'No description').replace('\n', ' ').replace('|', '\\|').replace('\r', ''),
+            'stars': repo['stargazers_count'],
+            'updated_at': repo['updated_at'].split('T')[0],
+            'language': repo['language'] or 'Unknown',
+            'topics': repo.get('topics', [])
+        }
+        repositories.append(repo_info)
+    
+    # GitHub API有速率限制，添加延时
+    time.sleep(2)
+    
+    # 获取前10页（1000个仓库）
+    if page >= 10:
+        break
+    
+    page += 1
+
+print(f"Total repositories fetched: {len(repositories)}")
+
+# 按star数排序
+repositories.sort(key=lambda x: x['stars'], reverse=True)
 
 # 渲染模板
 env = Environment(loader=FileSystemLoader('.'))
