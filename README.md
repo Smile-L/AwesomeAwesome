@@ -4,11 +4,8 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 | Repository | Language | Stars | Last Updated | Description |
 |------------|----------|-------|--------------|-------------|
-
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 339959 | 2025-01-02 | 😎 Awesome lists about all kinds of interesting topics |
-
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 229251 | 2025-01-02 | An opinionated list of awesome Python frameworks, libraries, software and resources. |
-
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | ⭐ 209974 | 2025-01-02 | A list of Free Software network services and web applications which can be hosted on your own servers |
 
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go | ⭐ 135445 | 2025-01-02 | A curated list of awesome Go frameworks, libraries and software |

@@ -1,14 +1,11 @@
 # Awesome-Awesome
 
-收集GitHub上标题包含"awesome"的高星项目，按主要语言分类。
+A curated list of awesome repositories on GitHub, sorted by stars.
 
-{% for language, repos in categorized_repos.items() %}
-## {{ language }}
-
-{% for repo in repos %}
-- [{{ repo['full_name'] }}]({{ repo['html_url'] }})  
-  ⭐ {{ repo['stars'] }} | 最后更新：{{ repo['updated_at'] }}  
-  {{ repo['description'] }}
+| Repository | Language | Stars | Last Updated | Description |
+|------------|----------|-------|--------------|-------------|
+{% for repo in repositories %}
+| [{{ repo['full_name'] }}]({{ repo['html_url'] }}) | {{ repo['language'] }} | ⭐ {{ repo['stars'] }} | {{ repo['updated_at'] }} | {{ repo['description'] }} |
 {% endfor %}
 
-{% endfor %}
+> Note: This list is automatically updated weekly. Last update time can be found in the debug info below.

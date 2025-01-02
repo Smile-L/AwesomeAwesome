@@ -43,16 +43,10 @@ for repo in repos:
     }
     repositories.append(repo_info)
 
-# 分类
-categorized_repos = defaultdict(list)
-for repo in repositories:
-    language = repo['language']
-    categorized_repos[language].append(repo)
-
 # 渲染模板
 env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('README_template.md')
-output = template.render(categorized_repos=categorized_repos)
+output = template.render(repositories=repositories)
 
 # 添加调试信息
 debug_info = f"""
@@ -61,7 +55,6 @@ debug_info = f"""
 - Search Query: {query}
 - Search Params: {params}
 - API Response Status: {response.status_code}
-- API Response: {response.text[:500]}...
 """
 
 # 写入README.md
