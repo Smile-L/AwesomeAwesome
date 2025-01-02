@@ -4,7 +4,6 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 | Repository | Language | Stars | Last Updated | Description |
 |------------|----------|-------|--------------|-------------|
-
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 339961 | 2025-01-02 | 😎 Awesome lists about all kinds of interesting topics |
 
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 229252 | 2025-01-02 | An opinionated list of awesome Python frameworks, libraries, software and resources. |
