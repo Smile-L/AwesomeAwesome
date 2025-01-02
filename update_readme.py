@@ -54,9 +54,19 @@ env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('README_template.md')
 output = template.render(categorized_repos=categorized_repos)
 
+# 添加调试信息
+debug_info = f"""
+## Debug Info
+- GITHUB_TOKEN: {'设置' if GITHUB_TOKEN else '未设置'}
+- Search Query: {query}
+- Search Params: {params}
+- API Response Status: {response.status_code}
+- API Response: {response.text[:500]}...
+"""
+
 # 写入README.md
 with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(output)
+    f.write(output + "\n\n" + debug_info)
 
 # 自动提交和推送
 subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'])
