@@ -4,8 +4,11 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 | Repository | Language | Stars | Last Updated | Description |
 |------------|----------|-------|--------------|-------------|
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 339959 | 2025-01-02 | 😎 Awesome lists about all kinds of interesting topics |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 229251 | 2025-01-02 | An opinionated list of awesome Python frameworks, libraries, software and resources. |
+
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 339961 | 2025-01-02 | 😎 Awesome lists about all kinds of interesting topics |
+
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 229252 | 2025-01-02 | An opinionated list of awesome Python frameworks, libraries, software and resources. |
+
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | ⭐ 209974 | 2025-01-02 | A list of Free Software network services and web applications which can be hosted on your own servers |
 
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go | ⭐ 135445 | 2025-01-02 | A curated list of awesome Go frameworks, libraries and software |
@@ -36,7 +39,7 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Unknown | ⭐ 59727 | 2025-01-02 | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
 
-| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Unknown | ⭐ 59066 | 2025-01-02 | :zap: Delightful Node.js packages and resources |
+| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Unknown | ⭐ 59067 | 2025-01-02 | :zap: Delightful Node.js packages and resources |
 
 | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | Unknown | ⭐ 58255 | 2025-01-02 | :books: List of awesome university courses for learning Computer Science! |
 
@@ -118,7 +121,7 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 | [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Unknown | ⭐ 22207 | 2025-01-02 | A collection of awesome penetration testing resources, tools and other shiny things |
 
-| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | Unknown | ⭐ 21290 | 2025-01-02 | A curated list of awesome places to learn and/or practice algorithms. |
+| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | Unknown | ⭐ 21291 | 2025-01-02 | A curated list of awesome places to learn and/or practice algorithms. |
 
 | [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | Unknown | ⭐ 21181 | 2025-01-02 | A curated list of awesome computer vision resources |
 
@@ -208,6 +211,6 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 
 ## Debug Info
 - GITHUB_TOKEN: 设置
-- Search Query: awesome in:name stars:>500
-- Search Params: {'q': 'awesome in:name stars:>500', 'sort': 'stars', 'order': 'desc', 'per_page': 100}
+- Search Query: awesome in:name stars:>100
+- Search Params: {'q': 'awesome in:name stars:>100', 'sort': 'stars', 'order': 'desc', 'per_page': 100}
 - API Response Status: 200
