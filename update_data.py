@@ -62,7 +62,7 @@ while True:
     # GitHub API有速率限制，添加延时
     time.sleep(2)
     
-    if page >= 20:
+    if repos[-1]['stargazers_count']<100 or page >= 50:
         break
     
     page += 1
