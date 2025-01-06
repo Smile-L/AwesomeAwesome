@@ -7,14 +7,7 @@ const repoData = [
     "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
     "stars": 340541,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "lists",
-      "resources",
-      "unicorns"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python",
@@ -23,14 +16,14 @@ const repoData = [
     "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
     "stars": 229657,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "collections",
       "python",
       "python-framework",
       "python-library",
-      "python-resources"
+      "python-resources",
+      "Python"
     ]
   },
   {
@@ -40,17 +33,7 @@ const repoData = [
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "stars": 210569,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cloud",
-      "free-software",
-      "hosting",
-      "privacy",
-      "self-hosted",
-      "selfhosted"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-go",
@@ -59,14 +42,14 @@ const repoData = [
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "stars": 135642,
     "updated_at": "2025-01-06",
-    "language": "Go",
     "topics": [
       "awesome",
       "awesome-list",
       "go",
       "golang",
       "golang-library",
-      "hacktoberfest"
+      "hacktoberfest",
+      "Go"
     ]
   },
   {
@@ -74,15 +57,15 @@ const repoData = [
     "full_name": "f/awesome-chatgpt-prompts",
     "html_url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
-    "stars": 115921,
+    "stars": 115922,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "bots",
       "chatbot",
       "chatgpt",
       "chatgpt-api",
-      "language"
+      "language",
+      "HTML"
     ]
   },
   {
@@ -92,18 +75,7 @@ const repoData = [
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "stars": 87345,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "bug-bounty",
-      "fuzzing",
-      "hacking",
-      "penetration-testing",
-      "pentesting-windows",
-      "reverse-engineering",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mac",
@@ -112,7 +84,6 @@ const repoData = [
     "description": "\uf8ff Now we have become very big, Different from the original idea. Collect premium software in various categories.",
     "stars": 78586,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "apple",
       "awesome",
@@ -124,7 +95,8 @@ const repoData = [
       "mac-osx",
       "macos",
       "macosx",
-      "software"
+      "software",
+      "JavaScript"
     ]
   },
   {
@@ -134,7 +106,6 @@ const repoData = [
     "description": "The iconic SVG, font, and CSS toolkit",
     "stars": 74501,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "css",
       "font",
@@ -142,7 +113,8 @@ const repoData = [
       "icons",
       "svg-icons",
       "svg-sprites",
-      "webfont"
+      "webfont",
+      "JavaScript"
     ]
   },
   {
@@ -152,7 +124,6 @@ const repoData = [
     "description": "\ud83c\udf89 A curated list of awesome things related to Vue.js",
     "stars": 72416,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -162,23 +133,7 @@ const repoData = [
     "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
     "stars": 72325,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android-interview-questions",
-      "angularjs-interview-questions",
-      "awesome",
-      "awesome-list",
-      "awesomeness",
-      "interview-practice",
-      "interview-questions",
-      "interviewing",
-      "javascript",
-      "javascript-interview-questions",
-      "list",
-      "python-interview-questions",
-      "rails-interview",
-      "ruby"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-for-beginners",
@@ -187,14 +142,7 @@ const repoData = [
     "description": "A list of awesome beginners-friendly projects.",
     "stars": 70455,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "beginner-project",
-      "beginners-friendly",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-machine-learning",
@@ -203,8 +151,9 @@ const repoData = [
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "stars": 66536,
     "updated_at": "2025-01-06",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "awesome-react",
@@ -213,19 +162,7 @@ const repoData = [
     "description": "A collection of awesome things regarding React ecosystem",
     "stars": 66261,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "javascript",
-      "react",
-      "react-apps",
-      "react-native",
-      "react-tutorial",
-      "samples",
-      "tutorial",
-      "typescript"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-public-datasets",
@@ -234,13 +171,7 @@ const repoData = [
     "description": "A topic-centric list of HQ open datasets.",
     "stars": 61545,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "aaron-swartz",
-      "awesome-public-datasets",
-      "datasets",
-      "opendata"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cpp",
@@ -249,21 +180,7 @@ const repoData = [
     "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
     "stars": 61021,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "c",
-      "c-plus-plus",
-      "cpp",
-      "cpp-library",
-      "cppcon",
-      "libraries",
-      "list",
-      "lists",
-      "programming-tutorial",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "architect-awesome",
@@ -272,7 +189,6 @@ const repoData = [
     "description": "\u540e\u7aef\u67b6\u6784\u5e08\u6280\u672f\u56fe\u8c31",
     "stars": 59947,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -282,29 +198,7 @@ const repoData = [
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "stars": 59784,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "awesome",
-      "awesome-list",
-      "backend",
-      "big-data",
-      "computer-science",
-      "design-patterns",
-      "devops",
-      "distributed-systems",
-      "interview",
-      "interview-practice",
-      "interview-questions",
-      "lists",
-      "machine-learning",
-      "programming",
-      "resources",
-      "scalability",
-      "system",
-      "system-design",
-      "web-development"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-nodejs",
@@ -313,15 +207,7 @@ const repoData = [
     "description": ":zap: Delightful Node.js packages and resources",
     "stars": 59116,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "javascript",
-      "list",
-      "node",
-      "nodejs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-courses",
@@ -330,13 +216,7 @@ const repoData = [
     "description": ":books: List of awesome university courses for learning Computer Science!",
     "stars": 58335,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computer-science",
-      "courses"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flutter",
@@ -345,7 +225,6 @@ const repoData = [
     "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
     "stars": 54267,
     "updated_at": "2025-01-06",
-    "language": "Dart",
     "topics": [
       "android",
       "awesome",
@@ -364,7 +243,8 @@ const repoData = [
       "mobile-app",
       "mobile-development",
       "reactive-programming",
-      "resources"
+      "resources",
+      "Dart"
     ]
   },
   {
@@ -374,14 +254,7 @@ const repoData = [
     "description": "ChatGPT \u4e2d\u6587\u8c03\u6559\u6307\u5357\u3002\u5404\u79cd\u573a\u666f\u4f7f\u7528\u6307\u5357\u3002\u5b66\u4e60\u600e\u4e48\u8ba9\u5b83\u542c\u4f60\u7684\u8bdd\u3002",
     "stars": 53597,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "chat-gpt",
-      "chatgpt",
-      "chatgpt3",
-      "chatgpt4",
-      "gpt"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-ui",
@@ -390,12 +263,7 @@ const repoData = [
     "description": "A curated list of awesome Android UI/UX libraries",
     "stars": 51167,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "ui"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rust",
@@ -404,10 +272,10 @@ const repoData = [
     "description": "A curated list of Rust code and resources.",
     "stars": 48016,
     "updated_at": "2025-01-06",
-    "language": "Rust",
     "topics": [
       "awesome",
-      "rust"
+      "rust",
+      "Rust"
     ]
   },
   {
@@ -415,9 +283,8 @@ const repoData = [
     "full_name": "vsouza/awesome-ios",
     "html_url": "https://github.com/vsouza/awesome-ios",
     "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ",
-    "stars": 47777,
+    "stars": 47778,
     "updated_at": "2025-01-06",
-    "language": "Swift",
     "topics": [
       "apple-swift",
       "arkit",
@@ -431,7 +298,8 @@ const repoData = [
       "swift-framework",
       "swift-language",
       "swift-library",
-      "swift-programming"
+      "swift-programming",
+      "Swift"
     ]
   },
   {
@@ -441,18 +309,7 @@ const repoData = [
     "description": "\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8d44\u6e90\u6c47\u603b :100:",
     "stars": 46448,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "demo",
-      "minapp",
-      "miniprogram",
-      "weapp-demo",
-      "wechat",
-      "wechat-weapp",
-      "wepy",
-      "wxapp",
-      "wxml"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-react-components",
@@ -461,14 +318,7 @@ const repoData = [
     "description": "Curated List of React Components & Libraries.",
     "stars": 43128,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "react",
-      "react-component",
-      "react-components"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-java",
@@ -477,11 +327,7 @@ const repoData = [
     "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
     "stars": 42416,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cheatsheets",
@@ -490,7 +336,6 @@ const repoData = [
     "description": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
     "stars": 40988,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "backend",
       "bash",
@@ -511,7 +356,8 @@ const repoData = [
       "sailsjs",
       "vim",
       "vuejs",
-      "xcode"
+      "xcode",
+      "JavaScript"
     ]
   },
   {
@@ -521,18 +367,7 @@ const repoData = [
     "description": "A curated list of software and architecture related design patterns.",
     "stars": 40737,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "awesome",
-      "awesome-list",
-      "cloud-computing",
-      "design-patterns",
-      "gof-patterns",
-      "lists",
-      "microservices",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-compose",
@@ -541,11 +376,11 @@ const repoData = [
     "description": "Awesome Docker Compose samples",
     "stars": 36502,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
-      "docker-compose"
+      "docker-compose",
+      "HTML"
     ]
   },
   {
@@ -555,12 +390,7 @@ const repoData = [
     "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
     "stars": 35970,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-react-native",
@@ -569,12 +399,12 @@ const repoData = [
     "description": "Awesome React Native components, news, tools, and learning material!",
     "stars": 34801,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "awesome-list",
       "mobile",
       "react",
-      "react-native"
+      "react-native",
+      "JavaScript"
     ]
   },
   {
@@ -584,7 +414,6 @@ const repoData = [
     "description": "The best design tools and plugins for everything \ud83d\udc49",
     "stars": 34506,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "animations",
       "awesome",
@@ -593,7 +422,8 @@ const repoData = [
       "design-systems",
       "design-tools",
       "font-awesome",
-      "ui-design"
+      "ui-design",
+      "JavaScript"
     ]
   },
   {
@@ -603,7 +433,6 @@ const repoData = [
     "description": "\ud83d\udc22 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
     "stars": 33821,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -613,17 +442,7 @@ const repoData = [
     "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
     "stars": 33486,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bash",
-      "cli",
-      "fish",
-      "list",
-      "shell",
-      "zsh"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-awesomeness",
@@ -632,8 +451,9 @@ const repoData = [
     "description": "A curated list of awesome awesomeness",
     "stars": 32242,
     "updated_at": "2025-01-06",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "awesome-php",
@@ -642,16 +462,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
     "stars": 31150,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-lists",
-      "php",
-      "php-applications",
-      "php-framework",
-      "php-installation",
-      "php-library"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-docker",
@@ -660,27 +471,7 @@ const repoData = [
     "description": ":whale: A curated list of Docker resources and projects",
     "stars": 30897,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "container",
-      "docker",
-      "docker-api",
-      "docker-container",
-      "docker-deployment",
-      "docker-environment",
-      "docker-image",
-      "docker-machine",
-      "docker-monitoring",
-      "docker-registry",
-      "docker-security",
-      "docker-swarm",
-      "dockerfile",
-      "list",
-      "moby",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-macos-command-line",
@@ -689,16 +480,7 @@ const repoData = [
     "description": "Use your macOS terminal shell to do awesome things.",
     "stars": 29095,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "macos",
-      "macosx",
-      "shell",
-      "terminal"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-cn",
@@ -707,9 +489,9 @@ const repoData = [
     "description": "Python\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\uff1aWeb\u6846\u67b6\u3001\u7f51\u7edc\u722c\u866b\u3001\u6a21\u677f\u5f15\u64ce\u3001\u6570\u636e\u5e93\u3001\u6570\u636e\u53ef\u89c6\u5316\u3001\u56fe\u7247\u5904\u7406\u7b49\uff0c\u7531\u300c\u5f00\u6e90\u524d\u54e8\u300d\u548c\u300cPython\u5f00\u53d1\u8005\u300d\u5fae\u4fe1\u516c\u53f7\u56e2\u961f\u7ef4\u62a4\u66f4\u65b0\u3002",
     "stars": 28993,
     "updated_at": "2025-01-05",
-    "language": "Makefile",
     "topics": [
-      "python"
+      "python",
+      "Makefile"
     ]
   },
   {
@@ -719,20 +501,7 @@ const repoData = [
     "description": "\u76f4\u64ad\u6e90\u76f8\u5173\u8d44\u6e90\u6c47\u603b \ud83d\udcfa \ud83d\udcaf IPTV\u3001M3U \u2014\u2014 \u52e4\u6d17\u624b\u3001\u6234\u53e3\u7f69\uff0c\u795d\u613f\u6240\u6709\u4eba\u767e\u6bd2\u4e0d\u4fb5",
     "stars": 26791,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "iptv",
-      "iptv-channels",
-      "iptv-free",
-      "iptv-m3u8",
-      "iptv-playlist",
-      "kodi",
-      "kodi-addons",
-      "kodi-plugin",
-      "m3u",
-      "m3u8"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sysadmin",
@@ -741,18 +510,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome open-source sysadmin resources.",
     "stars": 26176,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "devops",
-      "list",
-      "ops",
-      "self-hosted",
-      "software",
-      "sre",
-      "sysadmin"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cto",
@@ -761,38 +519,16 @@ const repoData = [
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "stars": 26136,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "awesome",
-      "awesome-list",
-      "cto",
-      "decision-making",
-      "engineering-management",
-      "hiring",
-      "interviewing",
-      "leadership",
-      "management",
-      "principles",
-      "roadmap",
-      "software-engineering",
-      "startups"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-electron",
     "full_name": "sindresorhus/awesome-electron",
     "html_url": "https://github.com/sindresorhus/awesome-electron",
     "description": "Useful resources for creating apps with Electron",
-    "stars": 26019,
+    "stars": 26018,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "electron",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deep-learning-papers",
@@ -801,11 +537,11 @@ const repoData = [
     "description": "The most cited deep learning papers",
     "stars": 25601,
     "updated_at": "2025-01-06",
-    "language": "TeX",
     "topics": [
       "deep-learning",
       "deep-neural-networks",
-      "machine-learning"
+      "machine-learning",
+      "TeX"
     ]
   },
   {
@@ -813,9 +549,8 @@ const repoData = [
     "full_name": "viatsko/awesome-vscode",
     "html_url": "https://github.com/viatsko/awesome-vscode",
     "description": "\ud83c\udfa8 A curated list of delightful VS Code packages and resources.",
-    "stars": 25490,
+    "stars": 25492,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
@@ -827,7 +562,8 @@ const repoData = [
       "visualstudio",
       "vscode",
       "vscode-extension",
-      "vscode-theme"
+      "vscode-theme",
+      "JavaScript"
     ]
   },
   {
@@ -837,17 +573,7 @@ const repoData = [
     "description": "A curated list of awesome actions to use on GitHub",
     "stars": 25462,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "actions",
-      "actions-list",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "curated-list",
-      "github",
-      "github-actions"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-datascience",
@@ -856,19 +582,7 @@ const repoData = [
     "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
     "stars": 25458,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "analytics",
-      "awesome-list",
-      "data-mining",
-      "data-science",
-      "data-scientists",
-      "data-visualization",
-      "deep-learning",
-      "hacktoberfest",
-      "machine-learning",
-      "science"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-github-profile-readme",
@@ -877,16 +591,7 @@ const repoData = [
     "description": "\ud83d\ude0e A curated list of awesome GitHub Profile which updates in real time ",
     "stars": 25174,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "github",
-      "github-profile-readme",
-      "github-readme",
-      "portfolio",
-      "profile-readme"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-swift",
@@ -895,7 +600,6 @@ const repoData = [
     "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
     "stars": 25012,
     "updated_at": "2025-01-06",
-    "language": "Ruby",
     "topics": [
       "awesome",
       "awesome-list",
@@ -909,7 +613,8 @@ const repoData = [
       "swift-extensions",
       "swift-framework",
       "swift-language",
-      "swift-library"
+      "swift-library",
+      "Ruby"
     ]
   },
   {
@@ -919,28 +624,7 @@ const repoData = [
     "description": "\ud83d\ude31 Falsehoods Programmers Believe in",
     "stars": 24986,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "date",
-      "edge-cases",
-      "email",
-      "engineering",
-      "falsehoods",
-      "geography",
-      "identity",
-      "internationalization",
-      "myths",
-      "network",
-      "phone-number",
-      "phone-numbers",
-      "postal-addresses",
-      "programming",
-      "resources",
-      "time",
-      "typography"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deep-learning",
@@ -949,18 +633,7 @@ const repoData = [
     "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
     "stars": 24538,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deep-learning",
-      "deep-learning-tutorial",
-      "deep-networks",
-      "face-images",
-      "machine-learning",
-      "neural-network",
-      "recurrent-networks"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-piracy",
@@ -969,7 +642,6 @@ const repoData = [
     "description": "A curated list of awesome warez and piracy links",
     "stars": 24431,
     "updated_at": "2025-01-05",
-    "language": "HTML",
     "topics": [
       "audiobooks",
       "awesome-list",
@@ -979,7 +651,8 @@ const repoData = [
       "music",
       "piracy",
       "tv",
-      "warez"
+      "warez",
+      "HTML"
     ]
   },
   {
@@ -989,7 +662,6 @@ const repoData = [
     "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
     "stars": 23811,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -999,7 +671,6 @@ const repoData = [
     "description": ":page_facing_up: Awesome CV is LaTeX template for your outstanding job application",
     "stars": 23516,
     "updated_at": "2025-01-06",
-    "language": "TeX",
     "topics": [
       "awesome",
       "coverletter",
@@ -1010,7 +681,8 @@ const repoData = [
       "pdf",
       "resume",
       "sharelatex",
-      "tex"
+      "tex",
+      "TeX"
     ]
   },
   {
@@ -1020,14 +692,14 @@ const repoData = [
     "description": "\u7ecf\u6d4e\u5b66\u4eba(\u542b\u97f3\u9891)\u3001\u7ebd\u7ea6\u5ba2\u3001\u536b\u62a5\u3001\u8fde\u7ebf\u3001\u5927\u897f\u6d0b\u6708\u520a\u7b49\u82f1\u8bed\u6742\u5fd7\u514d\u8d39\u4e0b\u8f7d,\u652f\u6301epub\u3001mobi\u3001pdf\u683c\u5f0f, \u6bcf\u5468\u66f4\u65b0",
     "stars": 22672,
     "updated_at": "2025-01-06",
-    "language": "CSS",
     "topics": [
       "download",
       "ebooks",
       "economist",
       "economist-ebooks",
       "new-yorker",
-      "pdf"
+      "pdf",
+      "CSS"
     ]
   },
   {
@@ -1037,7 +709,6 @@ const repoData = [
     "description": "\ud83d\udc27 A list of awesome Linux softwares ",
     "stars": 22534,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "applications",
       "awesome-list",
@@ -1056,7 +727,8 @@ const repoData = [
       "oss-icon",
       "software",
       "tools",
-      "ubuntu-linux"
+      "ubuntu-linux",
+      "Python"
     ]
   },
   {
@@ -1066,11 +738,7 @@ const repoData = [
     "description": "A collection of awesome penetration testing resources, tools and other shiny things",
     "stars": 22233,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-algorithms",
@@ -1079,7 +747,6 @@ const repoData = [
     "description": "A curated list of awesome places to learn and/or practice algorithms.",
     "stars": 21323,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1089,7 +756,6 @@ const repoData = [
     "description": "A curated list of awesome computer vision resources",
     "stars": 21194,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1099,7 +765,6 @@ const repoData = [
     "description": "Awesome-LLM: a curated list of Large Language Model",
     "stars": 20349,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1109,14 +774,14 @@ const repoData = [
     "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
     "stars": 20120,
     "updated_at": "2025-01-06",
-    "language": "C#",
     "topics": [
       "awesome",
       "awesome-list",
       "csharp",
       "dotnet-core",
       "list",
-      "microsoft"
+      "microsoft",
+      "C#"
     ]
   },
   {
@@ -1126,12 +791,7 @@ const repoData = [
     "description": ":scream: A curated list of amazingly awesome OSINT",
     "stars": 19668,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "osint",
-      "website"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dotnet",
@@ -1140,15 +800,7 @@ const repoData = [
     "description": "A collection of awesome .NET libraries, tools, frameworks and software",
     "stars": 19569,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "clr",
-      "csharp",
-      "dotnet",
-      "fsharp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flipperzero",
@@ -1157,13 +809,7 @@ const repoData = [
     "description": "\ud83d\udc2c A collection of awesome resources for the Flipper Zero device.",
     "stars": 19478,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "flipper-zero",
-      "flipperzero"
-    ]
+    "topics": []
   },
   {
     "name": "HarmonyOS",
@@ -1172,7 +818,6 @@ const repoData = [
     "description": "A curated list of awesome things related to HarmonyOS. \u534e\u4e3a\u9e3f\u8499\u64cd\u4f5c\u7cfb\u7edf\u3002",
     "stars": 19460,
     "updated_at": "2025-01-06",
-    "language": "C",
     "topics": [
       "architecture",
       "awesome",
@@ -1182,7 +827,8 @@ const repoData = [
       "iot-platform",
       "kernel",
       "operating-system",
-      "os"
+      "os",
+      "C"
     ]
   },
   {
@@ -1192,7 +838,6 @@ const repoData = [
     "description": "Learn System Design concepts and prepare for interviews using free resources.",
     "stars": 19442,
     "updated_at": "2025-01-06",
-    "language": "Java",
     "topics": [
       "awesome",
       "backend",
@@ -1203,7 +848,8 @@ const repoData = [
       "interview",
       "interview-questions",
       "scalability",
-      "system-design"
+      "system-design",
+      "Java"
     ]
   },
   {
@@ -1213,14 +859,14 @@ const repoData = [
     "description": "\ud83c\udd93\u514d\u8d39\u7684 ChatGPT \u955c\u50cf\u7f51\u7ad9\u5217\u8868\uff0c\u6301\u7eed\u66f4\u65b0\u3002List of free ChatGPT mirror sites, continuously updated. ",
     "stars": 19130,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "chat",
       "chatgpt",
       "free",
-      "freechatgpt"
+      "freechatgpt",
+      "Python"
     ]
   },
   {
@@ -1230,7 +876,6 @@ const repoData = [
     "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
     "stars": 18734,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "algorithmic-trading-engine",
       "algorithmic-trading-library",
@@ -1251,7 +896,8 @@ const repoData = [
       "trading-algorithms",
       "trading-bot",
       "trading-strategies",
-      "yahoo-finance"
+      "yahoo-finance",
+      "Python"
     ]
   },
   {
@@ -1261,8 +907,9 @@ const repoData = [
     "description": "\u6536\u96c6\u6240\u6709\u533a\u5757\u94fe(BlockChain)\u6280\u672f\u5f00\u53d1\u76f8\u5173\u8d44\u6599\uff0c\u5305\u62ecFabric\u548cEthereum\u5f00\u53d1\u8d44\u6599",
     "stars": 18549,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-readme",
@@ -1271,13 +918,7 @@ const repoData = [
     "description": "A curated list of awesome READMEs",
     "stars": 18444,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "readme"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-production-machine-learning",
@@ -1286,28 +927,7 @@ const repoData = [
     "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
     "stars": 17784,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "data-mining",
-      "deep-learning",
-      "explainability",
-      "interpretability",
-      "large-scale-machine-learning",
-      "large-scale-ml",
-      "machine-learning",
-      "machine-learning-operations",
-      "ml-operations",
-      "ml-ops",
-      "mlops",
-      "privacy-preserving",
-      "privacy-preserving-machine-learning",
-      "privacy-preserving-ml",
-      "production-machine-learning",
-      "production-ml",
-      "responsible-ai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cs-books",
@@ -1316,14 +936,7 @@ const repoData = [
     "description": "\ud83d\udd25 \u7ecf\u5178\u7f16\u7a0b\u4e66\u7c4d\u5927\u5168\uff0c\u6db5\u76d6\uff1a\u8ba1\u7b97\u673a\u7cfb\u7edf\u4e0e\u7f51\u7edc\u3001\u7cfb\u7edf\u67b6\u6784\u3001\u7b97\u6cd5\u4e0e\u6570\u636e\u7ed3\u6784\u3001\u524d\u7aef\u5f00\u53d1\u3001\u540e\u7aef\u5f00\u53d1\u3001\u79fb\u52a8\u5f00\u53d1\u3001\u6570\u636e\u5e93\u3001\u6d4b\u8bd5\u3001\u9879\u76ee\u4e0e\u56e2\u961f\u3001\u7a0b\u5e8f\u5458\u804c\u4e1a\u4fee\u70bc\u3001\u6c42\u804c\u9762\u8bd5\u7b49",
     "stars": 17674,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "cs-books",
-      "java",
-      "javaweb",
-      "linux",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-design-systems",
@@ -1332,15 +945,7 @@ const repoData = [
     "description": "\ud83d\udc85\ud83c\udffb \u2692 A collection of awesome design systems",
     "stars": 17470,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "design-systems",
-      "hacktoberfest",
-      "pattern-library",
-      "ui-library"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Chinese-LLM",
@@ -1349,15 +954,7 @@ const repoData = [
     "description": "\u6574\u7406\u5f00\u6e90\u7684\u4e2d\u6587\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u4ee5\u89c4\u6a21\u8f83\u5c0f\u3001\u53ef\u79c1\u6709\u5316\u90e8\u7f72\u3001\u8bad\u7ec3\u6210\u672c\u8f83\u4f4e\u7684\u6a21\u578b\u4e3a\u4e3b\uff0c\u5305\u62ec\u5e95\u5ea7\u6a21\u578b\uff0c\u5782\u76f4\u9886\u57df\u5fae\u8c03\u53ca\u5e94\u7528\uff0c\u6570\u636e\u96c6\u4e0e\u6559\u7a0b\u7b49\u3002",
     "stars": 17283,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-lists",
-      "chatglm",
-      "chinese",
-      "llama",
-      "llm",
-      "nlp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tensorflow",
@@ -1366,7 +963,6 @@ const repoData = [
     "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
     "stars": 17219,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1376,7 +972,6 @@ const repoData = [
     "description": "Awesome list of open-source startup alternatives to well-known SaaS products \ud83d\ude80",
     "stars": 17053,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "alternatives",
       "awesome",
@@ -1387,7 +982,8 @@ const repoData = [
       "resources",
       "saas",
       "startups",
-      "unicorns"
+      "unicorns",
+      "Python"
     ]
   },
   {
@@ -1397,17 +993,7 @@ const repoData = [
     "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
     "stars": 16871,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deep-learning",
-      "language",
-      "machine-learning",
-      "natural-language-processing",
-      "nlp",
-      "text-mining"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-applications",
@@ -1416,7 +1002,6 @@ const repoData = [
     "description": "\ud83d\udcbf Free software that works great, and also happens to be open-source Python. ",
     "stars": 16856,
     "updated_at": "2025-01-05",
-    "language": "Jupyter Notebook",
     "topics": [
       "application",
       "audio",
@@ -1427,7 +1012,8 @@ const repoData = [
       "productivity",
       "python",
       "science",
-      "video"
+      "video",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -1437,14 +1023,7 @@ const repoData = [
     "description": "Collections of awesome neovim plugins.",
     "stars": 16666,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "neovim",
-      "neovim-plugins",
-      "nvim-lua"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-macOS",
@@ -1453,16 +1032,7 @@ const repoData = [
     "description": " \uf8ff A curated list of awesome applications, softwares, tools and shiny things for macOS.",
     "stars": 16296,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "apple",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "list",
-      "mac",
-      "macos"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tunneling",
@@ -1471,15 +1041,7 @@ const repoData = [
     "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
     "stars": 16152,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ngrok",
-      "ngrok-alternative",
-      "self-hosted",
-      "ssh",
-      "tunnel-proxy",
-      "tunneling"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-login-model",
@@ -1488,7 +1050,6 @@ const repoData = [
     "description": "\ud83d\ude2epython\u6a21\u62df\u767b\u9646\u4e00\u4e9b\u5927\u578b\u7f51\u7ad9\uff0c\u8fd8\u6709\u4e00\u4e9b\u7b80\u5355\u7684\u722c\u866b\uff0c\u5e0c\u671b\u5bf9\u4f60\u4eec\u6709\u6240\u5e2e\u52a9\u2764\ufe0f\uff0c\u5982\u679c\u559c\u6b22\u8bb0\u5f97\u7ed9\u4e2astar\u54e6\ud83c\udf1f",
     "stars": 15967,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "163mail-login",
       "bilibili-login",
@@ -1506,7 +1067,8 @@ const repoData = [
       "tuchong",
       "twitter-bot",
       "weixinbot",
-      "zhihu-spider"
+      "zhihu-spider",
+      "Python"
     ]
   },
   {
@@ -1516,23 +1078,7 @@ const repoData = [
     "description": "\ud83c\udf1f Curated design resources from all over the world.",
     "stars": 15778,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "adobe",
-      "awesome",
-      "creative",
-      "curated",
-      "design",
-      "design-system",
-      "designer-news",
-      "font",
-      "graphics",
-      "podcast",
-      "sketch",
-      "ui",
-      "ux",
-      "vector"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-zsh-plugins",
@@ -1541,7 +1087,6 @@ const repoData = [
     "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
     "stars": 15731,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
@@ -1555,7 +1100,8 @@ const repoData = [
       "zsh-framework",
       "zsh-plugin",
       "zsh-prompt",
-      "zsh-theme"
+      "zsh-theme",
+      "Shell"
     ]
   },
   {
@@ -1565,13 +1111,13 @@ const repoData = [
     "description": "\ud83d\udda5 \ud83d\udcca \ud83d\udd79 \ud83d\udee0 A curated list of command line apps",
     "stars": 15652,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
       "cli",
       "cli-app",
-      "list"
+      "list",
+      "Shell"
     ]
   },
   {
@@ -1581,38 +1127,15 @@ const repoData = [
     "description": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
     "stars": 15579,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computer-vision",
-      "cv",
-      "data-science",
-      "deep-learning",
-      "facebook",
-      "machine-learning",
-      "natural-language-processing",
-      "neural-network",
-      "nlp",
-      "nlp-library",
-      "papers",
-      "probabilistic-programming",
-      "python",
-      "pytorch",
-      "pytorch-model",
-      "pytorch-tutorials",
-      "tutorials",
-      "utility-library"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-GitHub-Repo",
     "full_name": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "html_url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "\u6536\u96c6\u6574\u7406 GitHub \u4e0a\u9ad8\u8d28\u91cf\u3001\u6709\u8da3\u7684\u5f00\u6e90\u9879\u76ee\u3002",
-    "stars": 15531,
-    "updated_at": "2025-01-05",
-    "language": "Unknown",
+    "stars": 15532,
+    "updated_at": "2025-01-06",
     "topics": []
   },
   {
@@ -1622,21 +1145,7 @@ const repoData = [
     "description": "A collection of hacking / penetration testing resources to make you better!",
     "stars": 15510,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "buffer-overflow",
-      "ctf",
-      "exploit",
-      "hacking",
-      "malware",
-      "mitm",
-      "owasp",
-      "penetration-testing",
-      "privilege-escalation",
-      "privilege-escalation-linux",
-      "reverse-engineering",
-      "windows-privilege-escalation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-java-cn",
@@ -1645,7 +1154,6 @@ const repoData = [
     "description": "Java\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\u5f00\u53d1\u5e93\u3001\u5f00\u53d1\u5de5\u5177\u3001\u7f51\u7ad9\u3001\u535a\u5ba2\u3001\u5fae\u4fe1\u3001\u5fae\u535a\u7b49\uff0c\u7531\u4f2f\u4e50\u5728\u7ebf\u6301\u7eed\u66f4\u65b0\u3002",
     "stars": 15504,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1655,7 +1163,6 @@ const repoData = [
     "description": "A curated list for awesome kubernetes sources :ship::tada:",
     "stars": 15165,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "aws",
       "azure",
@@ -1674,7 +1181,8 @@ const repoData = [
       "minikube",
       "monitoring-kubernetes",
       "resource",
-      "schedule"
+      "schedule",
+      "Shell"
     ]
   },
   {
@@ -1684,12 +1192,12 @@ const repoData = [
     "description": "\u26a1\ufe0f A curated list of awesome things related to Vite.js",
     "stars": 14779,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
       "vite",
-      "vitejs"
+      "vitejs",
+      "JavaScript"
     ]
   },
   {
@@ -1697,9 +1205,8 @@ const repoData = [
     "full_name": "jobbole/awesome-programming-books",
     "html_url": "https://github.com/jobbole/awesome-programming-books",
     "description": "\u7ecf\u5178\u7f16\u7a0b\u4e66\u7c4d\u5927\u5168\uff0c\u6db5\u76d6\uff1a\u8ba1\u7b97\u673a\u7cfb\u7edf\u4e0e\u7f51\u7edc\u3001\u7cfb\u7edf\u67b6\u6784\u3001\u7b97\u6cd5\u4e0e\u6570\u636e\u7ed3\u6784\u3001\u524d\u7aef\u5f00\u53d1\u3001\u540e\u7aef\u5f00\u53d1\u3001\u79fb\u52a8\u5f00\u53d1\u3001\u6570\u636e\u5e93\u3001\u6d4b\u8bd5\u3001\u9879\u76ee\u4e0e\u56e2\u961f\u3001\u7a0b\u5e8f\u5458\u804c\u4e1a\u4fee\u70bc\u3001\u6c42\u804c\u9762\u8bd5\u7b49",
-    "stars": 14704,
+    "stars": 14705,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -1709,13 +1216,7 @@ const repoData = [
     "description": "Awesome list of GraphQL",
     "stars": 14621,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "graphql",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lowcode",
@@ -1724,14 +1225,7 @@ const repoData = [
     "description": "\u56fd\u5185\u4f4e\u4ee3\u7801\u5e73\u53f0\u4ece\u4e1a\u8005\u4ea4\u6d41",
     "stars": 14036,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awsome",
-      "low-code",
-      "lowcode",
-      "nocode"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-privacy",
@@ -1740,18 +1234,7 @@ const repoData = [
     "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
     "stars": 13892,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "alternatives",
-      "apps",
-      "awesome",
-      "awesome-list",
-      "degoogle",
-      "gafam",
-      "list",
-      "privacy",
-      "services"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-raspberry-pi",
@@ -1760,14 +1243,14 @@ const repoData = [
     "description": "\ud83d\udcdd A curated list of awesome Raspberry Pi tools, projects, images and resources",
     "stars": 13847,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
       "list",
       "raspberry-pi",
       "resources",
-      "rpi"
+      "rpi",
+      "Shell"
     ]
   },
   {
@@ -1777,18 +1260,7 @@ const repoData = [
     "description": "\ud83d\ude0e Awesome things related to Tailwind CSS",
     "stars": 13788,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "apps",
-      "awesome",
-      "awesome-list",
-      "css",
-      "postcss",
-      "resources",
-      "tailwind",
-      "tailwindcss",
-      "websites"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ruby",
@@ -1797,15 +1269,7 @@ const repoData = [
     "description": "\ud83d\udc8e A collection of awesome Ruby libraries, tools, frameworks and software",
     "stars": 13639,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "collection",
-      "curated-list",
-      "ruby",
-      "ruby-libraries"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-microservices",
@@ -1814,14 +1278,7 @@ const repoData = [
     "description": "A curated list of Microservice Architecture related principles and technologies.",
     "stars": 13439,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "cloud-computing",
-      "cloud-native",
-      "microservices",
-      "microservices-architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hacking",
@@ -1830,11 +1287,7 @@ const repoData = [
     "description": "A curated list of awesome Hacking tutorials, tools and resources",
     "stars": 13416,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "hacking"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Multimodal-Large-Language-Models",
@@ -1843,22 +1296,7 @@ const repoData = [
     "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
     "stars": 13379,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "chain-of-thought",
-      "in-context-learning",
-      "instruction-following",
-      "instruction-tuning",
-      "large-language-models",
-      "large-vision-language-model",
-      "large-vision-language-models",
-      "multi-modality",
-      "multimodal-chain-of-thought",
-      "multimodal-in-context-learning",
-      "multimodal-instruction-tuning",
-      "multimodal-large-language-models",
-      "visual-instruction-tuning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bigdata",
@@ -1867,24 +1305,7 @@ const repoData = [
     "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
     "stars": 13359,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bigdata",
-      "data",
-      "data-analytics",
-      "data-science",
-      "data-stream",
-      "data-visualization",
-      "data-warehouse",
-      "database",
-      "distributed-database",
-      "series-database",
-      "stream-processing",
-      "streaming-data",
-      "visualize-data"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-stock-resources",
@@ -1893,23 +1314,7 @@ const repoData = [
     "description": ":city_sunrise: A collection of links for free stock photography, video and Illustration websites",
     "stars": 13130,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "font",
-      "free-photos",
-      "icon-font",
-      "icons",
-      "list",
-      "music",
-      "patterns",
-      "stock-photography",
-      "stock-photos",
-      "stock-videos",
-      "templates",
-      "weather-icons"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-creative-coding",
@@ -1918,7 +1323,6 @@ const repoData = [
     "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
     "stars": 13114,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "3d-graphics",
       "art",
@@ -1936,7 +1340,8 @@ const repoData = [
       "programming-graphics",
       "resources",
       "shaders",
-      "webgl"
+      "webgl",
+      "HTML"
     ]
   },
   {
@@ -1946,21 +1351,7 @@ const repoData = [
     "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
     "stars": 12846,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "algorithm",
-      "awesome",
-      "awesome-list",
-      "competitive-programming",
-      "contest",
-      "data-structure",
-      "learning-materials",
-      "list",
-      "practice",
-      "programming-contests",
-      "quora",
-      "reference-materials"
-    ]
+    "topics": []
   },
   {
     "name": "vue-awesome-swiper",
@@ -1969,7 +1360,6 @@ const repoData = [
     "description": "\ud83c\udfc6 Swiper component for @vuejs",
     "stars": 12832,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "carousel",
       "carrousel",
@@ -1986,7 +1376,8 @@ const repoData = [
       "vue-swiper-component",
       "vue2",
       "vuejs",
-      "vuejs2"
+      "vuejs2",
+      "JavaScript"
     ]
   },
   {
@@ -1996,8 +1387,9 @@ const repoData = [
     "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
     "stars": 12744,
     "updated_at": "2025-01-05",
-    "language": "Elixir",
-    "topics": []
+    "topics": [
+      "Elixir"
+    ]
   },
   {
     "name": "awesome-mlops",
@@ -2006,18 +1398,7 @@ const repoData = [
     "description": "A curated list of references for MLOps ",
     "stars": 12718,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "data-science",
-      "devops",
-      "engineering",
-      "federated-learning",
-      "machine-learning",
-      "ml",
-      "mlops",
-      "software-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ai-agents",
@@ -2026,22 +1407,7 @@ const repoData = [
     "description": "A list of AI autonomous agents",
     "stars": 12695,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "agent",
-      "ai",
-      "artificial-intelligence",
-      "autogpt",
-      "autonomous-agents",
-      "awesome",
-      "babyagi",
-      "copilot",
-      "gpt",
-      "gpt-4",
-      "gpt-engineer",
-      "openai",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-github-vue",
@@ -2050,14 +1416,7 @@ const repoData = [
     "description": "Vue\u76f8\u5173\u5f00\u6e90\u9879\u76ee\u5e93\u6c47\u603b",
     "stars": 12673,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "vue",
-      "vue-blog",
-      "vue-bootstrap",
-      "vue-demo",
-      "vue-material"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-security",
@@ -2066,11 +1425,7 @@ const repoData = [
     "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
     "stars": 12624,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-aws",
@@ -2079,7 +1434,6 @@ const repoData = [
     "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
     "stars": 12613,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "aws",
       "aws-cli",
@@ -2100,7 +1454,8 @@ const repoData = [
       "redshift",
       "route53",
       "s3",
-      "serverless"
+      "serverless",
+      "Python"
     ]
   },
   {
@@ -2110,12 +1465,7 @@ const repoData = [
     "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
     "stars": 12595,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "laravel",
-      "php"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-podcasts",
@@ -2124,14 +1474,7 @@ const repoData = [
     "description": "Collection of awesome podcasts",
     "stars": 12371,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "podcast",
-      "software"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flask",
@@ -2140,12 +1483,7 @@ const repoData = [
     "description": "A curated list of awesome Flask resources and plugins",
     "stars": 12332,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "flask",
-      "flask-resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-redux",
@@ -2154,13 +1492,7 @@ const repoData = [
     "description": "Awesome list of Redux examples and middlewares",
     "stars": 12224,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "redux",
-      "redux-documentation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-malware-analysis",
@@ -2169,28 +1501,7 @@ const repoData = [
     "description": "Defund the Police.",
     "stars": 12132,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "analysis-framework",
-      "automated-analysis",
-      "awesome",
-      "awesome-list",
-      "chinese",
-      "chinese-translation",
-      "domain-analysis",
-      "drop-ice",
-      "dynamic-analysis",
-      "list",
-      "malware-analysis",
-      "malware-collection",
-      "malware-research",
-      "malware-samples",
-      "network-traffic",
-      "static-analysis",
-      "threat-intelligence",
-      "threat-sharing",
-      "threatintel"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sre",
@@ -2199,29 +1510,7 @@ const repoData = [
     "description": "A curated list of Site Reliability and Production Engineering resources.",
     "stars": 12107,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "alerting",
-      "availability",
-      "awesome",
-      "awesome-list",
-      "capacity-planning",
-      "devops",
-      "incident-response",
-      "list",
-      "monitoring",
-      "on-call",
-      "post-mortem",
-      "postmortem",
-      "production",
-      "reliability",
-      "reliability-engineering",
-      "scalability",
-      "service-level-agreement",
-      "site-reliability",
-      "site-reliability-engineering",
-      "sre"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-modern-cpp",
@@ -2230,14 +1519,14 @@ const repoData = [
     "description": "A collection of resources on modern C++",
     "stars": 12040,
     "updated_at": "2025-01-03",
-    "language": "HTML",
     "topics": [
       "cpp",
       "cpp11",
       "cpp14",
       "cpp17",
       "cpp1z",
-      "cpp20"
+      "cpp20",
+      "HTML"
     ]
   },
   {
@@ -2247,15 +1536,7 @@ const repoData = [
     "description": ":octocat: A collection of APIs",
     "stars": 11896,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "api",
-      "awesome",
-      "ios",
-      "web",
-      "windows"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cheatsheets",
@@ -2264,7 +1545,6 @@ const repoData = [
     "description": "\u8d85\u7ea7\u901f\u67e5\u8868 - \u7f16\u7a0b\u8bed\u8a00\u3001\u6846\u67b6\u548c\u5f00\u53d1\u5de5\u5177\u7684\u901f\u67e5\u8868\uff0c\u5355\u4e2a\u6587\u4ef6\u5305\u542b\u4e00\u5207\u4f60\u9700\u8981\u77e5\u9053\u7684\u4e1c\u897f :zap:",
     "stars": 11792,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "adb",
       "awesome",
@@ -2274,7 +1554,8 @@ const repoData = [
       "go",
       "linux",
       "nano",
-      "vim"
+      "vim",
+      "Shell"
     ]
   },
   {
@@ -2284,16 +1565,7 @@ const repoData = [
     "description": "\ud83d\udc36 A curated list of Web Security materials and resources.",
     "stars": 11599,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "penetration-testing",
-      "security",
-      "web",
-      "websecurity"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-adb",
@@ -2302,12 +1574,7 @@ const repoData = [
     "description": "ADB Usage Complete / ADB \u7528\u6cd5\u5927\u5168",
     "stars": 11480,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "android-adb",
-      "android-debug-bridge"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ddd",
@@ -2316,12 +1583,7 @@ const repoData = [
     "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
     "stars": 11380,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ai-painting",
@@ -2330,18 +1592,7 @@ const repoData = [
     "description": "AI\u7ed8\u753b\u8d44\u6599\u5408\u96c6\uff08\u5305\u542b\u56fd\u5185\u5916\u53ef\u4f7f\u7528\u5e73\u53f0\u3001\u4f7f\u7528\u6559\u7a0b\u3001\u53c2\u6570\u6559\u7a0b\u3001\u90e8\u7f72\u6559\u7a0b\u3001\u4e1a\u754c\u65b0\u95fb\u7b49\u7b49\uff09 Stable diffusion\u3001AnimateDiff\u3001Stable Cascade \u3001Stable SDXL Turbo",
     "stars": 11349,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai-painting",
-      "dd5",
-      "disco-diffusion",
-      "stable-diffusion",
-      "stable-diffusion-diffusers",
-      "stable-diffusion-embedding",
-      "stable-diffusion-tutorial",
-      "stable-diffusion-v1-5",
-      "stable-diffusion-webui"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Diffusion-Models",
@@ -2350,14 +1601,14 @@ const repoData = [
     "description": " A collection of resources and papers on Diffusion Models",
     "stars": 11306,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "artificial-intelligence",
       "diffusion-models",
       "generative-model",
       "machine-learning",
       "score-based",
-      "score-matching"
+      "score-matching",
+      "HTML"
     ]
   },
   {
@@ -2367,13 +1618,7 @@ const repoData = [
     "description": "A curated list of awesome things related to NestJS \ud83d\ude0e",
     "stars": 11257,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "nestjs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-ui",
@@ -2382,7 +1627,6 @@ const repoData = [
     "description": "A curated list of awesome iOS UI/UX libraries",
     "stars": 11127,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -2392,20 +1636,7 @@ const repoData = [
     "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
     "stars": 11115,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "deep-learning",
-      "intelligent-machines",
-      "intelligent-systems",
-      "machine-intelligence",
-      "machine-learning",
-      "neural-network",
-      "reinforcement-learning",
-      "statistical-learning",
-      "unsupervised-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-llm-apps",
@@ -2414,11 +1645,11 @@ const repoData = [
     "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
     "stars": 11093,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "llms",
       "python",
-      "rag"
+      "rag",
+      "Python"
     ]
   },
   {
@@ -2428,16 +1659,7 @@ const repoData = [
     "description": "A curated list of awesome Android packages and resources.",
     "stars": 11087,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android-development",
-      "android-library",
-      "android-tutorial",
-      "awesome",
-      "awesome-list",
-      "awesome-list-awesome-list",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-kotlin",
@@ -2446,14 +1668,14 @@ const repoData = [
     "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java. ",
     "stars": 11068,
     "updated_at": "2025-01-06",
-    "language": "Kotlin",
     "topics": [
       "hacktoberfest",
       "kotlin",
       "kotlin-android",
       "kotlin-extensions",
       "kotlin-language",
-      "kotlin-library"
+      "kotlin-library",
+      "Kotlin"
     ]
   },
   {
@@ -2463,7 +1685,6 @@ const repoData = [
     "description": "ChatGPT \u4e2d\u6587\u6307\u5357\ud83d\udd25\uff0cChatGPT \u4e2d\u6587\u8c03\u6559\u6307\u5357\uff0c\u6307\u4ee4\u6307\u5357\uff0c\u5e94\u7528\u5f00\u53d1\u6307\u5357\uff0c\u7cbe\u9009\u8d44\u6e90\u6e05\u5355\uff0c\u66f4\u597d\u7684\u4f7f\u7528 chatGPT \u8ba9\u4f60\u7684\u751f\u4ea7\u529b up up up! \ud83d\ude80",
     "stars": 10939,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "agi",
       "ai",
@@ -2483,7 +1704,8 @@ const repoData = [
       "openai-chatgpt",
       "prompt",
       "prompt-engineering",
-      "tools"
+      "tools",
+      "Python"
     ]
   },
   {
@@ -2493,8 +1715,9 @@ const repoData = [
     "description": "A collection of awesome readme templates to display on your profile",
     "stars": 10862,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-deep-vision",
@@ -2503,7 +1726,6 @@ const repoData = [
     "description": "A curated list of deep learning resources for computer vision ",
     "stars": 10855,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -2513,17 +1735,7 @@ const repoData = [
     "description": "A curated list of awesome things related to shadcn/ui.",
     "stars": 10841,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "open-source",
-      "resources",
-      "shad",
-      "shadcn",
-      "shadcn-ui"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-distributed-systems",
@@ -2532,15 +1744,7 @@ const repoData = [
     "description": "A curated list to learn about distributed systems",
     "stars": 10812,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "consensus",
-      "distributed-systems",
-      "lamport",
-      "paper",
-      "paxos"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hyper",
@@ -2549,15 +1753,7 @@ const repoData = [
     "description": "\ud83d\udda5 Delightful Hyper plugins, themes, and resources",
     "stars": 10755,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hyper",
-      "hyperterm",
-      "terminal",
-      "zeit"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-semantic-segmentation",
@@ -2566,13 +1762,7 @@ const repoData = [
     "description": ":metal: awesome-semantic-segmentation",
     "stars": 10573,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "benchmark",
-      "deeplearning",
-      "evaluation",
-      "semantic-segmentation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-nextjs",
@@ -2581,19 +1771,7 @@ const repoData = [
     "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
     "stars": 10481,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "framework",
-      "isomorphic",
-      "javascript",
-      "nextjs",
-      "reactjs",
-      "routing",
-      "server-side-rendering",
-      "tutorials",
-      "universal"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cpp-cn",
@@ -2602,10 +1780,7 @@ const repoData = [
     "description": "C++ \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u6807\u51c6\u5e93\u3001Web\u5e94\u7528\u6846\u67b6\u3001\u4eba\u5de5\u667a\u80fd\u3001\u6570\u636e\u5e93\u3001\u56fe\u7247\u5904\u7406\u3001\u673a\u5668\u5b66\u4e60\u3001\u65e5\u5fd7\u3001\u4ee3\u7801\u5206\u6790\u7b49\u3002\u7531\u300c\u5f00\u6e90\u524d\u54e8\u300d\u548c\u300cCPP\u5f00\u53d1\u8005\u300d\u5fae\u4fe1\u516c\u53f7\u56e2\u961f\u7ef4\u62a4\u66f4\u65b0\u3002",
     "stars": 10254,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "cpp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-postgres",
@@ -2614,12 +1789,7 @@ const repoData = [
     "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
     "stars": 10156,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "database",
-      "postgres",
-      "postgresql"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-generative-ai-guide",
@@ -2628,17 +1798,7 @@ const repoData = [
     "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
     "stars": 10059,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "generative-ai",
-      "interview-questions",
-      "large-language-models",
-      "llms",
-      "notebook-jupyter",
-      "vision-and-language"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-indie",
@@ -2647,18 +1807,7 @@ const repoData = [
     "description": "Resources for independent developers to make money",
     "stars": 10027,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bootstrapper",
-      "entrepreneurs",
-      "financial-independence",
-      "indie",
-      "indiedev",
-      "passive-income",
-      "sideproject"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-low-level-design",
@@ -2667,7 +1816,6 @@ const repoData = [
     "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
     "stars": 9978,
     "updated_at": "2025-01-06",
-    "language": "Java",
     "topics": [
       "awesome",
       "design-patterns",
@@ -2680,7 +1828,8 @@ const repoData = [
       "object-oriented-programming",
       "oops",
       "solid-principles",
-      "uml"
+      "uml",
+      "Java"
     ]
   },
   {
@@ -2690,12 +1839,12 @@ const repoData = [
     "description": "A curated list of CTF frameworks, libraries, resources and softwares",
     "stars": 9975,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "ctf",
       "penetration",
-      "security"
+      "security",
+      "JavaScript"
     ]
   },
   {
@@ -2705,14 +1854,7 @@ const repoData = [
     "description": "Awesome React Hooks",
     "stars": 9930,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hooks",
-      "react",
-      "react-hooks"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-guidelines",
@@ -2721,7 +1863,6 @@ const repoData = [
     "description": "A curated list of high quality coding style conventions and standards.",
     "stars": 9914,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-guidelines",
@@ -2731,7 +1872,8 @@ const repoData = [
       "guidelines",
       "hacktoberfest",
       "style-conventions",
-      "style-guide"
+      "style-guide",
+      "JavaScript"
     ]
   },
   {
@@ -2741,18 +1883,7 @@ const repoData = [
     "description": "A curated list of awesome System Design (A.K.A. Distributed Systems) resources. ",
     "stars": 9865,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "distributed-systems",
-      "hadoop-ecosystem",
-      "interview",
-      "message-broker",
-      "microservices",
-      "microservices-architecture",
-      "nosql",
-      "relational-database",
-      "stream-processing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cloudflare",
@@ -2761,7 +1892,6 @@ const repoData = [
     "description": "\u26c5\ufe0f \u7cbe\u9009\u7684 Cloudflare \u5de5\u5177\u3001\u5f00\u6e90\u9879\u76ee\u3001\u6307\u5357\u3001\u535a\u5ba2\u548c\u5176\u4ed6\u8d44\u6e90\u5217\u8868\u3002/ \u26c5\ufe0f A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
     "stars": 9777,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -2771,11 +1901,11 @@ const repoData = [
     "description": "A curated list of awesome things related to Django",
     "stars": 9734,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
-      "django"
+      "django",
+      "Python"
     ]
   },
   {
@@ -2785,13 +1915,7 @@ const repoData = [
     "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
     "stars": 9612,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "c",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-angular",
@@ -2800,7 +1924,6 @@ const repoData = [
     "description": ":page_facing_up: A curated list of awesome Angular resources",
     "stars": 9579,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "angular",
       "angular-components",
@@ -2810,7 +1933,8 @@ const repoData = [
       "angular4",
       "angular9",
       "awesome",
-      "awesome-list"
+      "awesome-list",
+      "HTML"
     ]
   },
   {
@@ -2820,16 +1944,7 @@ const repoData = [
     "description": "A list of learning materials to understand databases internals",
     "stars": 9565,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "blogs",
-      "books",
-      "course",
-      "database",
-      "papers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-architecture",
@@ -2838,10 +1953,7 @@ const repoData = [
     "description": "\u67b6\u6784\u5e08\u6280\u672f\u56fe\u8c31\uff0c\u52a9\u4f60\u65e9\u65e5\u6210\u4e3a\u67b6\u6784\u5e08",
     "stars": 9528,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dotfiles",
@@ -2850,19 +1962,7 @@ const repoData = [
     "description": "A curated list of dotfiles resources.",
     "stars": 9390,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bash",
-      "dotfiles",
-      "dotfiles-resources",
-      "fish",
-      "list",
-      "shell",
-      "tools",
-      "zsh"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-math",
@@ -2871,13 +1971,13 @@ const repoData = [
     "description": "A curated list of awesome mathematics resources",
     "stars": 9183,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "lecture-notes",
       "list",
-      "mathematics"
+      "mathematics",
+      "Python"
     ]
   },
   {
@@ -2887,7 +1987,6 @@ const repoData = [
     "description": "\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u6e90\u9879\u76ee\u5e93\u6c47\u603b",
     "stars": 9077,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -2897,13 +1996,13 @@ const repoData = [
     "description": "A community driven list of useful Scala libraries, frameworks and software.",
     "stars": 9061,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "scala",
       "scala-library",
-      "scalajs"
+      "scalajs",
+      "Python"
     ]
   },
   {
@@ -2913,19 +2012,7 @@ const repoData = [
     "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
     "stars": 9050,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "books",
-      "compiler",
-      "interpreter",
-      "list",
-      "programming-language",
-      "resources",
-      "runtime",
-      "virtual-machine"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-java",
@@ -2934,7 +2021,6 @@ const repoData = [
     "description": "Collection of awesome Java project on Github(\u975e\u5e38\u68d2\u7684 Java \u5f00\u6e90\u9879\u76ee\u96c6\u5408).",
     "stars": 8982,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -2944,18 +2030,7 @@ const repoData = [
     "description": "\ud83d\ude0e Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
     "stars": 8963,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-wasm",
-      "awesome-webassembly",
-      "list",
-      "lists",
-      "resources",
-      "wasm",
-      "webassembly"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-fenix",
@@ -2964,14 +2039,14 @@ const repoData = [
     "description": "\u8ba8\u8bba\u5982\u4f55\u6784\u5efa\u4e00\u5957\u53ef\u9760\u7684\u5927\u578b\u5206\u5e03\u5f0f\u7cfb\u7edf",
     "stars": 8949,
     "updated_at": "2025-01-06",
-    "language": "Vue",
     "topics": [
       "architecture",
       "cloud-native",
       "istio",
       "kubernetes",
       "microservice",
-      "springcloud"
+      "springcloud",
+      "Vue"
     ]
   },
   {
@@ -2981,13 +2056,7 @@ const repoData = [
     "description": "A curated list of awesome things related to FastAPI",
     "stars": 8915,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "fastapi",
-      "starlette"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-blazor",
@@ -2996,29 +2065,7 @@ const repoData = [
     "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
     "stars": 8912,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "asp-net-core",
-      "aspnetcore",
-      "awesome",
-      "awesome-list",
-      "blazor",
-      "blazor-application",
-      "blazor-component",
-      "blazor-crud",
-      "blazor-interop",
-      "blazor-master",
-      "blazor-port",
-      "blazor-sample",
-      "blazor-web",
-      "csharp",
-      "dotnet-core",
-      "microsoft",
-      "microsoft-blazor",
-      "razor",
-      "razor-components",
-      "webassembly"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rl",
@@ -3027,7 +2074,6 @@ const repoData = [
     "description": "Reinforcement learning resources curated",
     "stars": 8906,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -3037,13 +2083,13 @@ const repoData = [
     "description": "an awesome list of honeypot resources",
     "stars": 8784,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "honeyd",
       "honeypot",
-      "list"
+      "list",
+      "Python"
     ]
   },
   {
@@ -3053,7 +2099,6 @@ const repoData = [
     "description": ":crown: LeetCode of algorithms with java solution(updating).",
     "stars": 8705,
     "updated_at": "2025-01-06",
-    "language": "Java",
     "topics": [
       "algorithm",
       "algorithms",
@@ -3062,7 +2107,8 @@ const repoData = [
       "facebook",
       "leetcode",
       "leetcode-java",
-      "leetcode-solutions"
+      "leetcode-solutions",
+      "Java"
     ]
   },
   {
@@ -3072,29 +2118,7 @@ const repoData = [
     "description": "\ud83d\ude80 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
     "stars": 8703,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architectural-patterns",
-      "architectural-styles",
-      "architecture",
-      "awesome-list",
-      "clean-architecture",
-      "ddd",
-      "ddd-architecture",
-      "design-pattern",
-      "design-patterns",
-      "design-systems",
-      "event-driven-architecture",
-      "microservice",
-      "microservices",
-      "microservices-architecture",
-      "modular-monoliths",
-      "onion-architecture",
-      "oop",
-      "software-architecture",
-      "system-design",
-      "vertical-slice-architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-emacs",
@@ -3103,11 +2127,7 @@ const repoData = [
     "description": "A community driven list of useful Emacs packages, libraries and other items.",
     "stars": 8655,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "emacs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tuis",
@@ -3116,7 +2136,6 @@ const repoData = [
     "description": "List of projects that provide terminal user interfaces",
     "stars": 8525,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -3126,14 +2145,14 @@ const repoData = [
     "description": ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!",
     "stars": 8410,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
       "list",
       "webperf",
       "webperf-metrics",
-      "webperformance"
+      "webperformance",
+      "JavaScript"
     ]
   },
   {
@@ -3143,13 +2162,13 @@ const repoData = [
     "description": "A collection of android security related resources",
     "stars": 8312,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "android",
       "awesome",
       "awesome-list",
       "list",
-      "security"
+      "security",
+      "Shell"
     ]
   },
   {
@@ -3159,13 +2178,7 @@ const repoData = [
     "description": "A curated list of Awesome Threat Intelligence resources",
     "stars": 8281,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chatgpt",
@@ -3174,13 +2187,7 @@ const repoData = [
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "stars": 8213,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "chatgpt",
-      "gpt-3",
-      "gpt3",
-      "openai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-css-frameworks",
@@ -3189,7 +2196,6 @@ const repoData = [
     "description": "List of awesome CSS frameworks in 2025",
     "stars": 8171,
     "updated_at": "2025-01-05",
-    "language": "CSS",
     "topics": [
       "awesome",
       "awesome-list",
@@ -3198,7 +2204,8 @@ const repoData = [
       "css-framework",
       "framework",
       "list",
-      "scss"
+      "scss",
+      "CSS"
     ]
   },
   {
@@ -3208,11 +2215,11 @@ const repoData = [
     "description": "A curated list of delightful Bash scripts and resources.",
     "stars": 8076,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
-      "bash"
+      "bash",
+      "Shell"
     ]
   },
   {
@@ -3222,7 +2229,6 @@ const repoData = [
     "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
     "stars": 8069,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
@@ -3243,7 +2249,8 @@ const repoData = [
       "security-tools",
       "threat-intelligence",
       "vulnerabilities",
-      "wifi-network"
+      "wifi-network",
+      "Shell"
     ]
   },
   {
@@ -3253,19 +2260,7 @@ const repoData = [
     "description": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
     "stars": 8006,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "classification",
-      "dataset",
-      "deep-learning",
-      "forecasting",
-      "image-classification",
-      "machine-learning",
-      "multi-label-classification",
-      "series-forecasting"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tmux",
@@ -3274,12 +2269,7 @@ const repoData = [
     "description": "A list of awesome resources for tmux",
     "stars": 7969,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "tmux"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-ARKit",
@@ -3288,13 +2278,13 @@ const repoData = [
     "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
     "stars": 7885,
     "updated_at": "2025-01-05",
-    "language": "Swift",
     "topics": [
       "arkit",
       "augmented-reality",
       "ios",
       "objective-c",
-      "swift"
+      "swift",
+      "Swift"
     ]
   },
   {
@@ -3304,11 +2294,7 @@ const repoData = [
     "description": "A curated list of resources for Chinese NLP \u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u76f8\u5173\u8d44\u6599",
     "stars": 7836,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "chinese-nlp",
-      "nlp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-langchain",
@@ -3317,14 +2303,7 @@ const repoData = [
     "description": "\ud83d\ude0e Awesome list of tools and projects with the awesome LangChain framework",
     "stars": 7792,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "awesome-list",
-      "langchain",
-      "llm"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-incident-response",
@@ -3333,17 +2312,7 @@ const repoData = [
     "description": "A curated list of tools for incident response",
     "stars": 7773,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cybersecurity",
-      "dfir",
-      "incident-response",
-      "incident-response-tooling",
-      "list",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-javascript-cn",
@@ -3352,10 +2321,7 @@ const repoData = [
     "description": "JavaScript \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1a\u5305\u7ba1\u7406\u5668\u3001\u52a0\u8f7d\u5668\u3001\u6d4b\u8bd5\u6846\u67b6\u3001\u8fd0\u884c\u5668\u3001QA\u3001MVC\u6846\u67b6\u548c\u5e93\u3001\u6a21\u677f\u5f15\u64ce\u7b49\u3002\u7531\u300c\u5f00\u6e90\u524d\u54e8\u300d\u548c\u300c\u524d\u7aef\u5927\u5168\u300d\u5fae\u4fe1\u516c\u53f7\u56e2\u961f\u7ef4\u62a4\u66f4\u65b0\u3002",
     "stars": 7771,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "javascript"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-developer-streams",
@@ -3364,18 +2330,7 @@ const repoData = [
     "description": "\ud83d\udc69\ud83c\udfff\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffe\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb Awesome Developers, Streaming",
     "stars": 7755,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "developers",
-      "periscope",
-      "streaming",
-      "twitch",
-      "twitchdev",
-      "twitchtv",
-      "youtube"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-grpc",
@@ -3384,13 +2339,7 @@ const repoData = [
     "description": "A curated list of useful resources for gRPC",
     "stars": 7709,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "grpc",
-      "protocol-buffers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-iptv",
@@ -3399,13 +2348,7 @@ const repoData = [
     "description": "A curated list of resources related to IPTV",
     "stars": 7631,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "epg",
-      "iptv",
-      "players",
-      "tv"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-serverless",
@@ -3414,15 +2357,7 @@ const repoData = [
     "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
     "stars": 7464,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "cloud",
-      "cloud-computing",
-      "microservice",
-      "nobackend",
-      "serverless-applications",
-      "webservices"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cheatsheet",
@@ -3431,10 +2366,10 @@ const repoData = [
     "description": ":beers: awesome cheatsheet",
     "stars": 7441,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
-      "cheatsheet"
+      "cheatsheet",
+      "Python"
     ]
   },
   {
@@ -3444,14 +2379,7 @@ const repoData = [
     "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
     "stars": 7433,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "detection",
-      "object-detection",
-      "object-localisation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ml-for-cybersecurity",
@@ -3460,13 +2388,7 @@ const repoData = [
     "description": " :octocat: Machine Learning for Cyber Security",
     "stars": 7338,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "cyber-security",
-      "data-mining",
-      "machine-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cold-showers",
@@ -3475,10 +2397,7 @@ const repoData = [
     "description": "For when people get too hyped up about things",
     "stars": 7282,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "programming"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-front-end-system-design",
@@ -3487,15 +2406,7 @@ const repoData = [
     "description": "Curated front end system design resources for interviews and learning",
     "stars": 7216,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "front-end",
-      "front-end-system-design",
-      "javascript",
-      "react",
-      "system-design",
-      "system-design-interview"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-godot",
@@ -3504,14 +2415,7 @@ const repoData = [
     "description": "A curated list of free/libre plugins, scripts and add-ons for Godot",
     "stars": 7196,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "game-development",
-      "godot",
-      "godot-engine"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-privacy",
@@ -3520,7 +2424,6 @@ const repoData = [
     "description": "\ud83e\udd84  A curated list of privacy & security-focused software and services",
     "stars": 7131,
     "updated_at": "2025-01-06",
-    "language": "Astro",
     "topics": [
       "awesome",
       "awesome-list",
@@ -3528,7 +2431,8 @@ const repoData = [
       "privacy",
       "security",
       "self-hosted",
-      "software"
+      "software",
+      "Astro"
     ]
   },
   {
@@ -3538,11 +2442,7 @@ const repoData = [
     "description": "Go \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c \u5185\u5bb9\u5305\u62ec\uff1aWeb\u6846\u67b6\u3001\u6a21\u677f\u5f15\u64ce\u3001\u8868\u5355\u3001\u8eab\u4efd\u8ba4\u8bc1\u3001\u6570\u636e\u5e93\u3001ORM\u6846\u67b6\u3001\u56fe\u7247\u5904\u7406\u3001\u6587\u672c\u5904\u7406\u3001\u81ea\u7136\u8bed\u8a00\u5904\u7406\u3001\u673a\u5668\u5b66\u4e60\u3001\u65e5\u5fd7\u3001\u4ee3\u7801\u5206\u6790\u3001\u6559\u7a0b\u548c\uff08\u7535\u5b50\uff09\u4e66\u7b49\u3002\u7531\u300c\u5f00\u6e90\u524d\u54e8\u300d\u548c\u300cGo\u5f00\u53d1\u5927\u5168\u300d\u5fae\u4fe1\u56e2\u961f\u7ef4\u62a4\u3002",
     "stars": 7074,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "go",
-      "golang"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Red-Teaming",
@@ -3551,15 +2451,7 @@ const repoData = [
     "description": "List of Awesome Red Teaming Resources",
     "stars": 7008,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "cobalt-strike",
-      "empire",
-      "phishing",
-      "redteam",
-      "redteaming",
-      "uac"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-obsidian",
@@ -3568,11 +2460,11 @@ const repoData = [
     "description": "\ud83d\udd76\ufe0f Awesome stuff for Obsidian",
     "stars": 6959,
     "updated_at": "2025-01-06",
-    "language": "CSS",
     "topics": [
       "awesome",
       "awesome-list",
-      "obsidian"
+      "obsidian",
+      "CSS"
     ]
   },
   {
@@ -3582,11 +2474,7 @@ const repoData = [
     "description": "A curated list of data engineering tools for software developers",
     "stars": 6947,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-prometheus-alerts",
@@ -3595,7 +2483,6 @@ const repoData = [
     "description": "\ud83d\udea8 Collection of Prometheus alerting rules",
     "stars": 6824,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "alert",
       "alerting",
@@ -3611,7 +2498,8 @@ const repoData = [
       "promql",
       "query",
       "rule",
-      "supervision"
+      "supervision",
+      "HTML"
     ]
   },
   {
@@ -3621,7 +2509,6 @@ const repoData = [
     "description": "List of libraries, tools and APIs for web scraping and data processing.",
     "stars": 6810,
     "updated_at": "2025-01-06",
-    "language": "Makefile",
     "topics": [
       "captcha-bypass",
       "captcha-recaptcha",
@@ -3636,7 +2523,8 @@ const repoData = [
       "scraping-tool",
       "spider",
       "web-scraping",
-      "webscraping"
+      "webscraping",
+      "Makefile"
     ]
   },
   {
@@ -3646,12 +2534,7 @@ const repoData = [
     "description": "Resume\uff0cResume Templates\uff0c\u7a0b\u5e8f\u5458\u7b80\u5386\u4f8b\u53e5\uff0c\u7b80\u5386\u6a21\u7248\uff0c",
     "stars": 6789,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "resume",
-      "resume-template",
-      "resume-website"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-leetcode-resources",
@@ -3660,13 +2543,13 @@ const repoData = [
     "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
     "stars": 6732,
     "updated_at": "2025-01-06",
-    "language": "Java",
     "topics": [
       "algorithms",
       "coding",
       "data-structures",
       "leetcode",
-      "leetcode-patterns"
+      "leetcode-patterns",
+      "Java"
     ]
   },
   {
@@ -3676,12 +2559,7 @@ const repoData = [
     "description": "A curated list of awesome Unity assets, resources, and more.",
     "stars": 6726,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "game-development",
-      "unity"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-solidity",
@@ -3690,29 +2568,7 @@ const repoData = [
     "description": "\u27e0 A curated list of awesome Solidity resources, libraries, tools and more",
     "stars": 6635,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "contract-solidity",
-      "dapps",
-      "ethereum",
-      "linter-solidity",
-      "lists",
-      "resources",
-      "solidity",
-      "solidity-compiler",
-      "solidity-contracts",
-      "solidity-coverage",
-      "solidity-dapps",
-      "solidity-language",
-      "solidity-parser",
-      "solidity-security",
-      "solidity-web",
-      "web3",
-      "web3-dapp",
-      "web3-solidity"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-java-books",
@@ -3721,7 +2577,6 @@ const repoData = [
     "description": "Java\u5f00\u53d1\u8005\u6280\u672f\u4e66\u7c4d\u5927\u5168 - Java\u5165\u95e8\u4e66\u7c4d\uff0cJava\u57fa\u7840\u53ca\u8fdb\u9636\u4e66\u7c4d\uff0c\u6846\u67b6\u4e0e\u4e2d\u95f4\u4ef6\uff0c\u67b6\u6784\u8bbe\u8ba1\uff0c\u8bbe\u8ba1\u6a21\u5f0f\uff0c\u6570\u5b66\u4e0e\u7b97\u6cd5\uff0cJVM\u5468\u8fb9\u8bed\u8a00\uff0c\u9879\u76ee\u7ba1\u7406&\u9886\u5bfc\u529b&\u6d41\u7a0b\uff0c\u804c\u4e1a\u7d20\u517b\u4e0e\u4e2a\u4eba\u6210\u957f\uff0c\u683c\u5c40\u4e0e\u89c6\u91ce\uff0c\u9762\u8bd5\u53c2\u8003\u4e66\u7b49\u3002",
     "stars": 6612,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -3731,7 +2586,6 @@ const repoData = [
     "description": "A curated list of awesome open source workflow engines",
     "stars": 6572,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -3741,16 +2595,7 @@ const repoData = [
     "description": "A collection of awesome web crawler,spider in different languages",
     "stars": 6561,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "crawler",
-      "node-crawler",
-      "scraper",
-      "spider",
-      "web-crawler",
-      "web-scraper"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-NeRF",
@@ -3759,9 +2604,9 @@ const repoData = [
     "description": "A curated list of awesome neural radiance fields papers",
     "stars": 6556,
     "updated_at": "2025-01-05",
-    "language": "TeX",
     "topics": [
-      "nerf"
+      "nerf",
+      "TeX"
     ]
   },
   {
@@ -3771,13 +2616,13 @@ const repoData = [
     "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
     "stars": 6556,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "3d-gaussian-splatting",
       "3dgs",
       "gaussian-splatting",
       "nerf",
-      "neural-rendering"
+      "neural-rendering",
+      "HTML"
     ]
   },
   {
@@ -3787,7 +2632,6 @@ const repoData = [
     "description": "Largest list of models for Core ML (for iOS 11+)",
     "stars": 6538,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "apple",
       "awesome",
@@ -3808,7 +2652,8 @@ const repoData = [
       "ml",
       "model",
       "models",
-      "tensorflow-models"
+      "tensorflow-models",
+      "Python"
     ]
   },
   {
@@ -3818,29 +2663,7 @@ const repoData = [
     "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
     "stars": 6474,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "awesome-list",
-      "build-automation",
-      "c-sharp",
-      "framework",
-      "ios",
-      "java",
-      "javascript",
-      "kotlin",
-      "load-testing",
-      "mobile",
-      "performance-testing",
-      "php",
-      "python",
-      "ruby",
-      "software-quality",
-      "software-testing",
-      "test-automation",
-      "testing-tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-c-cn",
@@ -3849,7 +2672,6 @@ const repoData = [
     "description": "C \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\u4e86\uff1a\u6784\u5efa\u7cfb\u7edf\u3001\u7f16\u8bd1\u5668\u3001\u6570\u636e\u5e93\u3001\u52a0\u5bc6\u3001\u521d\u4e2d\u9ad8\u7684\u6559\u7a0b/\u6307\u5357\u3001\u4e66\u7c4d\u3001\u5e93\u7b49\u3002",
     "stars": 6472,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -3859,15 +2681,7 @@ const repoData = [
     "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
     "stars": 6471,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "embedded",
-      "embedded-systems",
-      "libraries",
-      "rust"
-    ]
+    "topics": []
   },
   {
     "name": "awesome",
@@ -3876,14 +2690,14 @@ const repoData = [
     "description": "awesome window manager",
     "stars": 6443,
     "updated_at": "2025-01-06",
-    "language": "Lua",
     "topics": [
       "awesomewm",
       "c",
       "hacktoberfest",
       "lua",
       "window-manager",
-      "xorg"
+      "xorg",
+      "Lua"
     ]
   },
   {
@@ -3893,7 +2707,6 @@ const repoData = [
     "description": "\ud83d\udd25 Web-application firewalls (WAFs) from security standpoint.",
     "stars": 6417,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -3907,7 +2720,8 @@ const repoData = [
       "waf-fingerprints",
       "waf-test",
       "waf-testing",
-      "web-application-firewall"
+      "web-application-firewall",
+      "Python"
     ]
   },
   {
@@ -3917,12 +2731,7 @@ const repoData = [
     "description": "A curated list of projects related to the reMarkable tablet",
     "stars": 6412,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "remarkable-tablet"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-appsec",
@@ -3931,14 +2740,14 @@ const repoData = [
     "description": "A curated list of resources for learning about application security",
     "stars": 6395,
     "updated_at": "2025-01-04",
-    "language": "PHP",
     "topics": [
       "application-security",
       "curated",
       "owasp",
       "reading-list",
       "security",
-      "security-experts"
+      "security-experts",
+      "PHP"
     ]
   },
   {
@@ -3948,7 +2757,6 @@ const repoData = [
     "description": "A curated list of amazingly awesome Home Assistant resources.",
     "stars": 6328,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
@@ -3966,7 +2774,8 @@ const repoData = [
       "internet-of-things",
       "iot",
       "mqtt",
-      "smarthome"
+      "smarthome",
+      "Shell"
     ]
   },
   {
@@ -3976,13 +2785,7 @@ const repoData = [
     "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
     "stars": 6283,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "machine-learning",
-      "machine-learning-on-source-code"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Embedded",
@@ -3991,28 +2794,7 @@ const repoData = [
     "description": "A curated list of awesome embedded programming.",
     "stars": 6272,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "autosar",
-      "awesome",
-      "beaglebone",
-      "bootloader",
-      "embedded",
-      "embedded-ai",
-      "embedded-gui",
-      "freertos",
-      "linux-programming",
-      "machine-learning",
-      "microcontroller",
-      "msp430",
-      "operating-systems",
-      "raspberry-pi",
-      "rtos",
-      "stm32",
-      "tiva-c-series",
-      "tm4c123"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-pipeline",
@@ -4021,11 +2803,7 @@ const repoData = [
     "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
     "stars": 6236,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "workflow"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-self-supervised-learning",
@@ -4034,16 +2812,7 @@ const repoData = [
     "description": "A curated list of awesome self-supervised methods",
     "stars": 6197,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "machine-learning",
-      "natural-language-processing",
-      "reinforcement-learning",
-      "robotics",
-      "self-supervised"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chrome-devtools",
@@ -4052,11 +2821,7 @@ const repoData = [
     "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
     "stars": 6192,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-multimodal-ml",
@@ -4065,20 +2830,7 @@ const repoData = [
     "description": "Reading list for research topics in multimodal machine learning",
     "stars": 6188,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "healthcare",
-      "machine-learning",
-      "multimodal-learning",
-      "natural-language-processing",
-      "reading-list",
-      "reinforcement-learning",
-      "representation-learning",
-      "robotics",
-      "speech-processing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-talks",
@@ -4087,7 +2839,6 @@ const repoData = [
     "description": "Awesome online talks and screencasts",
     "stars": 6106,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4097,26 +2848,15 @@ const repoData = [
     "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
     "stars": 6105,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "altium",
-      "awesome",
-      "eagle",
-      "electronics",
-      "gerber",
-      "hardware",
-      "kicad",
-      "pcb"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rnn",
     "full_name": "kjw0612/awesome-rnn",
     "html_url": "https://github.com/kjw0612/awesome-rnn",
     "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
-    "stars": 6100,
-    "updated_at": "2025-01-02",
-    "language": "Unknown",
+    "stars": 6101,
+    "updated_at": "2025-01-06",
     "topics": []
   },
   {
@@ -4126,13 +2866,13 @@ const repoData = [
     "description": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
     "stars": 6098,
     "updated_at": "2025-01-06",
-    "language": "Markdown",
     "topics": [
       "awesome",
       "awesome-list",
       "list",
       "youtube",
-      "youtubers"
+      "youtubers",
+      "Markdown"
     ]
   },
   {
@@ -4142,17 +2882,7 @@ const repoData = [
     "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 \ud83c\udf53 and reasoning techniques.",
     "stars": 6072,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "chain-of-thought",
-      "coding",
-      "llm",
-      "mathematics",
-      "mcts",
-      "openai-o1",
-      "reinforcement-learning",
-      "strawberry"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-generative-ai",
@@ -4161,17 +2891,7 @@ const repoData = [
     "description": "A curated list of modern Generative Artificial Intelligence projects and services",
     "stars": 6066,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "generative-ai",
-      "generative-art",
-      "large-language-models",
-      "llm"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-R",
@@ -4180,7 +2900,6 @@ const repoData = [
     "description": "A curated list of awesome R packages, frameworks and software.",
     "stars": 6060,
     "updated_at": "2025-01-05",
-    "language": "R",
     "topics": [
       "awesome",
       "awesome-list",
@@ -4188,7 +2907,8 @@ const repoData = [
       "data-science",
       "list",
       "r",
-      "rstats"
+      "rstats",
+      "R"
     ]
   },
   {
@@ -4198,20 +2918,7 @@ const repoData = [
     "description": "A curated list of Chaos Engineering resources.",
     "stars": 6049,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chaos",
-      "chaos-community",
-      "chaos-engineering",
-      "chaos-monkey",
-      "chaos-testing",
-      "netflix-chaos-monkey",
-      "resilience",
-      "simian-army",
-      "site-reliability-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chatgpt-api",
@@ -4220,12 +2927,12 @@ const repoData = [
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "stars": 6037,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "chatgpt",
-      "chatgpt-api"
+      "chatgpt-api",
+      "Python"
     ]
   },
   {
@@ -4235,15 +2942,7 @@ const repoData = [
     "description": "A curated list of cryptography resources and links.",
     "stars": 6007,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "crypto",
-      "cryptography",
-      "encryption",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-shodan-queries",
@@ -4252,25 +2951,7 @@ const repoData = [
     "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
     "stars": 6001,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cloud",
-      "dorks",
-      "hacking",
-      "infosec",
-      "internet-of-things",
-      "iot",
-      "network-infrastructure",
-      "penetration-testing",
-      "pentesting",
-      "security",
-      "security-scanner",
-      "security-tools",
-      "shodan",
-      "shodan-dorks"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Black-Friday-Cyber-Monday",
@@ -4279,7 +2960,6 @@ const repoData = [
     "description": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
     "stars": 5994,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4289,7 +2969,6 @@ const repoData = [
     "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
     "stars": 5994,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4299,38 +2978,16 @@ const repoData = [
     "description": "A list of web application security",
     "stars": 5957,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "appsec",
-      "hacking",
-      "hacking-tools",
-      "metasploit",
-      "owasp",
-      "penetration-testing",
-      "pentesting",
-      "scanner",
-      "security",
-      "vulnerabilities",
-      "vulnerability",
-      "web-hacking",
-      "web-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-roadmaps",
     "full_name": "liuchong/awesome-roadmaps",
     "html_url": "https://github.com/liuchong/awesome-roadmaps",
     "description": "A curated list of roadmaps.",
-    "stars": 5912,
+    "stars": 5911,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "lists",
-      "resources",
-      "roadmap"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android",
@@ -4339,10 +2996,10 @@ const repoData = [
     "description": "android libs from github or other websites",
     "stars": 5910,
     "updated_at": "2025-01-03",
-    "language": "Shell",
     "topics": [
       "android",
-      "android-libs"
+      "android-libs",
+      "Shell"
     ]
   },
   {
@@ -4352,7 +3009,6 @@ const repoData = [
     "description": "Collection of material design libs and res.",
     "stars": 5897,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4362,13 +3018,7 @@ const repoData = [
     "description": "A curated list of GPT agents for cybersecurity",
     "stars": 5771,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "agents",
-      "cybersecurity",
-      "infosec",
-      "llm"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-LLMs-In-China",
@@ -4377,7 +3027,6 @@ const repoData = [
     "description": "\u4e2d\u56fd\u5927\u6a21\u578b",
     "stars": 5716,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4387,13 +3036,7 @@ const repoData = [
     "description": ":fire: Learn some Swift",
     "stars": 5704,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "swift",
-      "swift-education"
-    ]
+    "topics": []
   },
   {
     "name": "maximum-awesome",
@@ -4402,8 +3045,9 @@ const repoData = [
     "description": "Config files for vim and tmux.",
     "stars": 5699,
     "updated_at": "2024-12-20",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "awesome-open-gpt",
@@ -4412,7 +3056,6 @@ const repoData = [
     "description": "Collection of Open Source Projects Related to GPT\uff0cGPT\u76f8\u5173\u5f00\u6e90\u9879\u76ee\u5408\u96c6\ud83d\ude80\u3001\u7cbe\u9009\ud83d\udd25\ud83d\udd25",
     "stars": 5674,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "agentgpt",
       "ai",
@@ -4433,7 +3076,8 @@ const repoData = [
       "machinelearning",
       "minigpt",
       "moss",
-      "open-source"
+      "open-source",
+      "Python"
     ]
   },
   {
@@ -4443,13 +3087,7 @@ const repoData = [
     "description": "Go \u8bed\u8a00\u4f18\u79c0\u8d44\u6e90\u6574\u7406\uff0c\u4e3a\u9879\u76ee\u843d\u5730\u52a0\u901f\ud83c\udfc3",
     "stars": 5651,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-go",
-      "go",
-      "golang"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-swift",
@@ -4458,16 +3096,7 @@ const repoData = [
     "description": "A curated list of awesome Swift frameworks, libraries and software.",
     "stars": 5643,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "objective-c",
-      "swift",
-      "swift-framework",
-      "swift-language",
-      "swift-library"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wsl",
@@ -4476,18 +3105,7 @@ const repoData = [
     "description": "Awesome list dedicated to Windows Subsystem for Linux",
     "stars": 5619,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hacktoberfest-accepted",
-      "microsoft",
-      "windows-10",
-      "windows-subsystem",
-      "windows-subsystem-for-linux",
-      "windows-subsystem-linux",
-      "wsl"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tf",
@@ -4496,17 +3114,7 @@ const repoData = [
     "description": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
     "stars": 5593,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "devops",
-      "hashicorp-terraform",
-      "infrastructure-as-code",
-      "opentofu",
-      "terraform",
-      "terraform-modules"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-security-hardening",
@@ -4515,23 +3123,7 @@ const repoData = [
     "description": "A collection of awesome security hardening guides, tools and other resources",
     "stars": 5580,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "best-practices",
-      "blue-team",
-      "blueteam",
-      "cis-benchmarks",
-      "computer-security",
-      "cyber-security",
-      "cybersecurity",
-      "infosec",
-      "linux-hardening",
-      "security",
-      "security-hardening",
-      "security-tools",
-      "windows-hardening"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-console-services",
@@ -4540,14 +3132,7 @@ const repoData = [
     "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
     "stars": 5563,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "curl",
-      "resources",
-      "terminal"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-github-android-ui",
@@ -4556,12 +3141,7 @@ const repoData = [
     "description": "\u5b89\u5353UI\u76f8\u5173\u5f00\u6e90\u9879\u76ee\u5e93\u6c47\u603b ",
     "stars": 5542,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "android-library",
-      "android-ui",
-      "awesome"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-prompts",
@@ -4570,18 +3150,7 @@ const repoData = [
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
     "stars": 5529,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "gpt4",
-      "gpts",
-      "gptstore",
-      "papers",
-      "prompt",
-      "prompt-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-libraries",
@@ -4590,7 +3159,6 @@ const repoData = [
     "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
     "stars": 5528,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4600,20 +3168,7 @@ const repoData = [
     "description": "\ud83d\udd25 Awesome list of resources on Web Development.",
     "stars": 5468,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome-list",
-      "css",
-      "developer-stories",
-      "javascript",
-      "machine-learning",
-      "open-source",
-      "podcast",
-      "pwa",
-      "serverless",
-      "vue"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-nodejs-projects",
@@ -4622,7 +3177,6 @@ const repoData = [
     "description": "Curated list of awesome open-source applications made with Node.js",
     "stars": 5460,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4632,14 +3186,7 @@ const repoData = [
     "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
     "stars": 5408,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "fuzzing",
-      "fuzzing-framework",
-      "secfigo"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-app-ideas",
@@ -4648,7 +3195,6 @@ const repoData = [
     "description": "List of awesome app ideas",
     "stars": 5392,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -4658,12 +3204,7 @@ const repoData = [
     "description": "A curated list of awesome Monorepo tools, software and architectures.",
     "stars": 5389,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "monorepo"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-javascript-learning",
@@ -4672,15 +3213,7 @@ const repoData = [
     "description": "A tiny list limited to the best JavaScript Learning Resources",
     "stars": 5387,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "javascript",
-      "javascript-learning",
-      "learning",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-animation",
@@ -4689,12 +3222,7 @@ const repoData = [
     "description": ":umbrella: A collection of iOS animation repos",
     "stars": 5377,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "animation",
-      "ios",
-      "swift"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-zero-knowledge-proofs",
@@ -4703,14 +3231,7 @@ const repoData = [
     "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
     "stars": 5355,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "explaining-snarks",
-      "knowledge-proofs",
-      "snark",
-      "team-crypto",
-      "zk-snarks"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-animation",
@@ -4719,12 +3240,7 @@ const repoData = [
     "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
     "stars": 5286,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "animations",
-      "ios-animation",
-      "swift-animation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chatgpt",
@@ -4733,18 +3249,7 @@ const repoData = [
     "description": "\ud83e\udd16 Awesome list for ChatGPT \u2014 an artificial intelligence chatbot developed by OpenAI",
     "stars": 5284,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "gpt",
-      "gpt-3",
-      "gpt-4",
-      "openai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome",
@@ -4753,16 +3258,7 @@ const repoData = [
     "description": "A curated list of awesome things related to Nuxt.js",
     "stars": 5245,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "nuxt",
-      "nuxtjs",
-      "tutorial",
-      "vue",
-      "welcome-pr"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-infosec",
@@ -4771,17 +3267,7 @@ const repoData = [
     "description": " A curated list of awesome infosec courses and training resources.",
     "stars": 5233,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "courses",
-      "infosec",
-      "lab",
-      "penetration-testing",
-      "pentest",
-      "security",
-      "security-professionals"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-d3",
@@ -4790,14 +3276,7 @@ const repoData = [
     "description": "A list of D3 libraries, plugins and utilities",
     "stars": 5213,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "charts",
-      "d3js",
-      "datavisualization",
-      "javascript",
-      "maps"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-domain-adaptation",
@@ -4806,18 +3285,7 @@ const repoData = [
     "description": "A collection of AWESOME things about domian adaptation",
     "stars": 5162,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "adversarial-learning",
-      "awesome-list",
-      "domain-adaptation",
-      "few-shot-learning",
-      "image-translation",
-      "optimal-transport",
-      "paper",
-      "transfer-learning",
-      "zero-shot-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-architecture",
@@ -4826,13 +3294,7 @@ const repoData = [
     "description": ":japanese_castle: Better ways to structure iOS apps",
     "stars": 5136,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "ios",
-      "mvvm",
-      "react"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tauri",
@@ -4841,12 +3303,7 @@ const repoData = [
     "description": "\ud83d\ude80 Awesome Tauri Apps, Plugins and Resources",
     "stars": 5130,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "tauri"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-css",
@@ -4855,13 +3312,7 @@ const repoData = [
     "description": ":art: A curated contents of amazing CSS :)",
     "stars": 5120,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "css",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cmake",
@@ -4870,34 +3321,16 @@ const repoData = [
     "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
     "stars": 5113,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cmake",
-      "cmake-examples",
-      "cmake-modules",
-      "cmake-resources",
-      "cmake-scripts",
-      "cmake-toolchains",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cursorrules",
     "full_name": "PatrickJS/awesome-cursorrules",
     "html_url": "https://github.com/PatrickJS/awesome-cursorrules",
     "description": "\ud83d\udcc4 A curated list of awesome .cursorrules files",
-    "stars": 5108,
+    "stars": 5109,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cursor",
-      "cursor-ai-editor",
-      "cursorrules"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-behavioral-interviews",
@@ -4906,13 +3339,7 @@ const repoData = [
     "description": "Tips and resources to prepare for Behavioral interviews.",
     "stars": 5090,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "behavioral-interviews",
-      "interview-preparation",
-      "interviews",
-      "software-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-pretrained-chinese-nlp-models",
@@ -4921,7 +3348,6 @@ const repoData = [
     "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
     "stars": 5018,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "bert",
       "chinese",
@@ -4939,7 +3365,8 @@ const repoData = [
       "pretrained-models",
       "roberta",
       "simbert",
-      "xlnet"
+      "xlnet",
+      "Python"
     ]
   },
   {
@@ -4949,16 +3376,7 @@ const repoData = [
     "description": "\ud83e\ude90 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
     "stars": 5016,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "3d",
-      "3d-models",
-      "awesome",
-      "awesome-list",
-      "blender",
-      "blender-addon",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "gans-awesome-applications",
@@ -4967,15 +3385,7 @@ const repoData = [
     "description": "Curated list of awesome GAN applications and demo",
     "stars": 5012,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "applications",
-      "curated-list",
-      "demonstration",
-      "generative-adversarial-network",
-      "github",
-      "papers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-split-keyboards",
@@ -4984,14 +3394,7 @@ const repoData = [
     "description": "A collection of ergonomic split keyboards \u2328",
     "stars": 4996,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ergonomic-keyboard",
-      "hardware",
-      "keyboards",
-      "mechanical-keyboard",
-      "split-keyboard"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeMenu",
@@ -5000,8 +3403,9 @@ const repoData = [
     "description": "Path 2.0 menu using CoreAnimation :)",
     "stars": 4994,
     "updated_at": "2025-01-03",
-    "language": "Objective-C",
-    "topics": []
+    "topics": [
+      "Objective-C"
+    ]
   },
   {
     "name": "awesome-go-cn",
@@ -5010,15 +3414,7 @@ const repoData = [
     "description": "\u4e00\u4e2a\u5f88\u68d2\u7684Go\u6846\u67b6\u3001\u5e93\u548c\u8f6f\u4ef6\u7684\u4e2d\u6587\u6536\u5f55\u5927\u5168\u3002:alarm_clock:\u811a\u672c\u5b9a\u671f\u4e0e\u82f1\u6587\u6587\u6863\u540c\u6b65\uff0c\u5305\u542b\u4e86\u5404\u5de5\u7a0bstar\u6570/\u6700\u8fd1\u66f4\u65b0\u65f6\u95f4\uff0c\u52a9\u60a8\u5feb\u901f\u53d1\u73b0\u4f18\u8d28\u9879\u76ee\u3002Awesome Go~",
     "stars": 4976,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cn-doc",
-      "go",
-      "golang",
-      "golang-library"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-powershell",
@@ -5027,7 +3423,6 @@ const repoData = [
     "description": "A curated list of delightful PowerShell modules and resources",
     "stars": 4921,
     "updated_at": "2025-01-06",
-    "language": "PowerShell",
     "topics": [
       "awesome",
       "awesome-list",
@@ -5038,7 +3433,8 @@ const repoData = [
       "powershell-cmdlets",
       "powershell-ise",
       "tutorial",
-      "windows-powershell"
+      "windows-powershell",
+      "PowerShell"
     ]
   },
   {
@@ -5048,21 +3444,7 @@ const repoData = [
     "description": "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!",
     "stars": 4911,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "database",
-      "elastalert",
-      "elasticsearch",
-      "elasticsearch-cluster",
-      "elasticsearch-configuration",
-      "kibana",
-      "logstash",
-      "lucene",
-      "nosql",
-      "query-elasticsearch",
-      "search"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-RxJava",
@@ -5071,7 +3453,6 @@ const repoData = [
     "description": "RxJava resources",
     "stars": 4833,
     "updated_at": "2024-12-30",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5081,14 +3462,14 @@ const repoData = [
     "description": "Awesome XSS stuff",
     "stars": 4826,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "payload",
       "payload-list",
       "xss",
       "xss-cheatsheet",
       "xss-detection",
-      "xss-payloads"
+      "xss-payloads",
+      "JavaScript"
     ]
   },
   {
@@ -5098,14 +3479,7 @@ const repoData = [
     "description": ":page_facing_up: \u9002\u5408\u4e2d\u6587\u7684\u7b80\u5386\u6a21\u677f\u6536\u96c6\uff08LaTeX\uff0cHTML/JS and so on\uff09\u7531 @hoochanlon \u7ef4\u62a4",
     "stars": 4825,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "engineer",
-      "html",
-      "json",
-      "latex",
-      "resume"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Bugbounty-Writeups",
@@ -5114,7 +3488,6 @@ const repoData = [
     "description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
     "stars": 4786,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "bugbounty",
       "bugbounty-blogs",
@@ -5125,7 +3498,8 @@ const repoData = [
       "bughunting",
       "bughunting-methodology",
       "bughunting-writeups",
-      "security-writeups"
+      "security-writeups",
+      "Python"
     ]
   },
   {
@@ -5135,7 +3509,6 @@ const repoData = [
     "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
     "stars": 4771,
     "updated_at": "2025-01-02",
-    "language": "Python",
     "topics": [
       "attention-mechanism",
       "classification-algorithm",
@@ -5156,7 +3529,8 @@ const repoData = [
       "node-embedding",
       "node2vec",
       "structural-attention",
-      "weisfeiler-lehman"
+      "weisfeiler-lehman",
+      "Python"
     ]
   },
   {
@@ -5166,7 +3540,6 @@ const repoData = [
     "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
     "stars": 4723,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5176,7 +3549,6 @@ const repoData = [
     "description": "\u6574\u7406\u77e5\u8bc6\u56fe\u8c31\u76f8\u5173\u5b66\u4e60\u8d44\u6599",
     "stars": 4711,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5186,27 +3558,7 @@ const repoData = [
     "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
     "stars": 4702,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "attention-mechanism",
-      "attention-mechanisms",
-      "awesome-list",
-      "computer-vision",
-      "deep-learning",
-      "detr",
-      "papers",
-      "self-attention",
-      "transformer",
-      "transformer-architecture",
-      "transformer-awesome",
-      "transformer-cv",
-      "transformer-models",
-      "transformer-with-cv",
-      "transformers",
-      "vision-transformer",
-      "visual-transformer",
-      "vit"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-asyncio",
@@ -5215,16 +3567,7 @@ const repoData = [
     "description": "A curated list of awesome Python asyncio frameworks, libraries, software and resources",
     "stars": 4683,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "asyncio",
-      "awesome",
-      "awesome-list",
-      "closember",
-      "coroutines",
-      "python",
-      "python-asyncio"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-devsecops",
@@ -5233,13 +3576,7 @@ const repoData = [
     "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
     "stars": 4681,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "devops",
-      "devsecops",
-      "podcast",
-      "threat-intelligence"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-typescript",
@@ -5248,7 +3585,6 @@ const repoData = [
     "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
     "stars": 4670,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5258,8 +3594,9 @@ const repoData = [
     "description": "A curated list about Audio Visualization.",
     "stars": 4664,
     "updated_at": "2025-01-05",
-    "language": "Shell",
-    "topics": []
+    "topics": [
+      "Shell"
+    ]
   },
   {
     "name": "awesome-webpack",
@@ -5268,13 +3605,13 @@ const repoData = [
     "description": "A curated list of awesome Webpack resources, libraries and tools",
     "stars": 4605,
     "updated_at": "2025-01-01",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
       "documentation",
       "list",
-      "webpack"
+      "webpack",
+      "HTML"
     ]
   },
   {
@@ -5284,7 +3621,6 @@ const repoData = [
     "description": "A curated list of small, focused npm packages.",
     "stars": 4605,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5294,17 +3630,7 @@ const repoData = [
     "description": "\ud83d\ude0eAwesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
     "stars": 4596,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "geo",
-      "geospatial",
-      "geospatial-library",
-      "geotools",
-      "gis",
-      "map",
-      "spatial-analysis"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-uses",
@@ -5313,9 +3639,9 @@ const repoData = [
     "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
     "stars": 4589,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
-      "hacktoberfest"
+      "hacktoberfest",
+      "JavaScript"
     ]
   },
   {
@@ -5325,7 +3651,6 @@ const repoData = [
     "description": "No description",
     "stars": 4587,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5335,12 +3660,7 @@ const repoData = [
     "description": "Awesome list of progressive web apps!",
     "stars": 4577,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "modern-web",
-      "pwa",
-      "service-worker"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-shizuku",
@@ -5349,17 +3669,7 @@ const repoData = [
     "description": "Curated list of awesome Android apps making use of Shizuku",
     "stars": 4568,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "adb",
-      "android",
-      "android-mods",
-      "awesome",
-      "awesome-list",
-      "no-root",
-      "rootless",
-      "shizuku"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-totally-open-chatgpt",
@@ -5368,15 +3678,7 @@ const repoData = [
     "description": "A list of totally open alternatives to ChatGPT",
     "stars": 4564,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "alternative",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "chatgpt",
-      "open-source"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-Face_Recognition",
@@ -5385,18 +3687,7 @@ const repoData = [
     "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
     "stars": 4555,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "face-alignment",
-      "face-detection",
-      "face-generation",
-      "face-recognition",
-      "face-reconstruction",
-      "face-retrieval",
-      "face-superresolution",
-      "face-tracking",
-      "face-transfer"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-AITools",
@@ -5405,24 +3696,7 @@ const repoData = [
     "description": "Collection of AI-related utilities. Welcome to submit issues and pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4issues \u6216\u8005pull requests",
     "stars": 4555,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "awesome-list",
-      "chat-gpt",
-      "chatgpt",
-      "gpt",
-      "gpt-4",
-      "gpt4",
-      "gpt4free",
-      "gpts",
-      "llm",
-      "llms",
-      "machinelearning",
-      "open-source",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-svg",
@@ -5431,10 +3705,10 @@ const repoData = [
     "description": "A curated list of SVG. ",
     "stars": 4552,
     "updated_at": "2025-01-03",
-    "language": "Shell",
     "topics": [
       "awesome-list",
-      "svg"
+      "svg",
+      "Shell"
     ]
   },
   {
@@ -5444,29 +3718,7 @@ const repoData = [
     "description": "\ud83d\udcda \u7ecf\u5178\u6280\u672f\u4e66\u7c4d\u63a8\u8350\uff0c\u6301\u7eed\u66f4\u65b0...",
     "stars": 4543,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "algorithm",
-      "c",
-      "clean-code",
-      "cpp",
-      "design-pattern",
-      "docker",
-      "git",
-      "golang",
-      "http",
-      "javascript",
-      "linux",
-      "mongodb",
-      "mysql",
-      "nginx",
-      "nodejs",
-      "os",
-      "python",
-      "redis",
-      "system",
-      "tcp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-reverse-engineering",
@@ -5475,27 +3727,7 @@ const repoData = [
     "description": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)",
     "stars": 4535,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android-security",
-      "angr",
-      "apk-analysis",
-      "binaryninja",
-      "binnavi",
-      "cuckoo",
-      "dynamorio",
-      "frida",
-      "gdb",
-      "ghidra",
-      "ida-plugin",
-      "idapro",
-      "idapython",
-      "intelpt",
-      "radare2",
-      "reverse-engineering",
-      "windbg",
-      "x64dbg"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-npm",
@@ -5504,17 +3736,7 @@ const repoData = [
     "description": "Awesome npm resources and tips",
     "stars": 4521,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "node",
-      "nodejs",
-      "npm",
-      "package-manager",
-      "yarn"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Android-Interview",
@@ -5523,20 +3745,7 @@ const repoData = [
     "description": ":fire: A awesome  android expert interview questions and answers\uff08continuous updating ...\uff09",
     "stars": 4507,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "android-interview",
-      "android-interview-practice",
-      "cheatsheet",
-      "cheatsheets",
-      "interview",
-      "interview-practice",
-      "interview-prep",
-      "interview-preparation",
-      "interview-questions",
-      "java"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-github-profile-readme-templates",
@@ -5545,11 +3754,11 @@ const repoData = [
     "description": "This repository contains best profile readme's for your reference. ",
     "stars": 4492,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "github-profile",
       "readme",
-      "readme-template"
+      "readme-template",
+      "HTML"
     ]
   },
   {
@@ -5559,14 +3768,7 @@ const repoData = [
     "description": "A curated list of awesome Go storage projects and libraries",
     "stars": 4490,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "golang",
-      "hacktoberfest",
-      "storage"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-robotics",
@@ -5575,10 +3777,7 @@ const repoData = [
     "description": "A list of awesome Robotics resources",
     "stars": 4485,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "robotics"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cybersecurity-blueteam",
@@ -5587,16 +3786,7 @@ const repoData = [
     "description": ":computer:\ud83d\udee1\ufe0f A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
     "stars": 4466,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "blue-team",
-      "computer-security",
-      "cybersecurity",
-      "defensive-security",
-      "infosec",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bugbounty-tools",
@@ -5605,15 +3795,7 @@ const repoData = [
     "description": "A curated list of various bug bounty tools",
     "stars": 4460,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bugbounty",
-      "security-tools",
-      "tools",
-      "web-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-code-review",
@@ -5622,13 +3804,7 @@ const repoData = [
     "description": "An \"Awesome\" list of code review resources - articles, papers, tools, etc",
     "stars": 4444,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "code-review",
-      "code-reviews"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-spring-boot",
@@ -5637,15 +3813,7 @@ const repoData = [
     "description": "Spring Boot Resources",
     "stars": 4433,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "spring",
-      "spring-boot",
-      "springboot",
-      "springboot-learning",
-      "vue-springboot"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-systematic-trading",
@@ -5654,7 +3822,6 @@ const repoData = [
     "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
     "stars": 4422,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "algorithmic-trading",
       "algotrading",
@@ -5674,7 +3841,8 @@ const repoData = [
       "quantitative-trading",
       "trading-algorithms",
       "trading-bot",
-      "trading-strategies"
+      "trading-strategies",
+      "Python"
     ]
   },
   {
@@ -5684,13 +3852,7 @@ const repoData = [
     "description": "A list of awesome ESLint plugins, configs, etc.",
     "stars": 4418,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "eslint",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-iot",
@@ -5699,7 +3861,6 @@ const repoData = [
     "description": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
     "stars": 4384,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "awesome-iot",
       "awesome-list",
@@ -5708,7 +3869,8 @@ const repoData = [
       "iot-application",
       "iot-cloud",
       "iot-device",
-      "iot-platform"
+      "iot-platform",
+      "Python"
     ]
   },
   {
@@ -5718,16 +3880,7 @@ const repoData = [
     "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
     "stars": 4378,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "desktop-environment",
-      "linux",
-      "linux-distribution",
-      "list",
-      "x-window-manager"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ebpf",
@@ -5736,18 +3889,7 @@ const repoData = [
     "description": "A curated list of awesome projects related to eBPF.",
     "stars": 4378,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bcc",
-      "bpf",
-      "ebpf",
-      "hacktoberfest",
-      "io-visor",
-      "linux-bpf-superpowers",
-      "xdp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wepy",
@@ -5756,7 +3898,6 @@ const repoData = [
     "description": "Awesome for wepy ! \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u7ec4\u4ef6\u5316\u5f00\u53d1\u6846\u67b6wepy\u5f00\u53d1\u8d44\u6e90\u6c47\u603b",
     "stars": 4355,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5766,18 +3907,7 @@ const repoData = [
     "description": "Sci-Fi worth consuming",
     "stars": 4345,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "books",
-      "list",
-      "movies",
-      "novels",
-      "recommendations",
-      "science-fiction",
-      "scifi"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ipfs",
@@ -5786,12 +3916,12 @@ const repoData = [
     "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
     "stars": 4337,
     "updated_at": "2025-01-04",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-ipfs",
       "awesome-list",
-      "ipfs"
+      "ipfs",
+      "JavaScript"
     ]
   },
   {
@@ -5801,21 +3931,7 @@ const repoData = [
     "description": "An awesome list that curates the best Kotlin Multiplatform libraries, tools and more. ",
     "stars": 4313,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "compose",
-      "compose-multiplatform",
-      "ios",
-      "jetbrains",
-      "kmm",
-      "kmp",
-      "kotlin",
-      "kotlin-multiplatform",
-      "libraries",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-cn",
@@ -5824,7 +3940,6 @@ const repoData = [
     "description": "iOS \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1a\u6846\u67b6\u3001\u7ec4\u4ef6\u3001\u6d4b\u8bd5\u3001Apple Store\u3001SDK\u3001XCode\u3001\u7f51\u7ad9\u3001\u4e66\u7c4d\u7b49",
     "stars": 4295,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5834,12 +3949,12 @@ const repoData = [
     "description": "\u3010\u5e72\u8d27\u3011\u53f2\u4e0a\u6700\u5168\u7684PyTorch\u5b66\u4e60\u8d44\u6e90\u6c47\u603b",
     "stars": 4292,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "deep-learning",
       "neural-network",
-      "pytroch"
+      "pytroch",
+      "Python"
     ]
   },
   {
@@ -5849,18 +3964,7 @@ const repoData = [
     "description": "Everything that makes working with databases easier",
     "stars": 4292,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cross-database",
-      "database",
-      "database-management",
-      "ide",
-      "monitoring",
-      "sql-client",
-      "visualization"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-quant",
@@ -5869,18 +3973,7 @@ const repoData = [
     "description": "\u4e2d\u56fd\u7684Quant\u76f8\u5173\u8d44\u6e90\u7d22\u5f15",
     "stars": 4287,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "china",
-      "cpp",
-      "finance",
-      "machine-learning",
-      "python",
-      "quant",
-      "r",
-      "statistics",
-      "trading"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deno",
@@ -5889,12 +3982,7 @@ const repoData = [
     "description": "Curated list of awesome things related to Deno",
     "stars": 4280,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deno"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Geospatial",
@@ -5903,24 +3991,7 @@ const repoData = [
     "description": "Long list of geospatial tools and resources",
     "stars": 4246,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "data-analysis",
-      "deep-learning",
-      "earth-observation",
-      "geoprocessing",
-      "geospatial",
-      "geospatial-analysis",
-      "geotools",
-      "gis",
-      "machine-learning",
-      "map",
-      "remote-sensing",
-      "spatial-analysis",
-      "spatial-data"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Swift-Playgrounds",
@@ -5929,7 +4000,6 @@ const repoData = [
     "description": "A List of Awesome Swift Playgrounds",
     "stars": 4232,
     "updated_at": "2025-01-03",
-    "language": "Swift",
     "topics": [
       "apple",
       "apple-playground",
@@ -5941,7 +4011,8 @@ const repoData = [
       "swift-language",
       "swift-playgrounds",
       "swift3",
-      "swift4"
+      "swift4",
+      "Swift"
     ]
   },
   {
@@ -5951,7 +4022,6 @@ const repoData = [
     "description": "\u673a\u5668\u5b66\u4e60\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\u673a\u5668\u5b66\u4e60\u9886\u57df\u7684\u6846\u67b6\u3001\u5e93\u4ee5\u53ca\u8f6f\u4ef6",
     "stars": 4230,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -5961,7 +4031,6 @@ const repoData = [
     "description": ":sunglasses: A curated list of awesome MLOps tools",
     "stars": 4212,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "ai",
       "awesome",
@@ -5970,7 +4039,8 @@ const repoData = [
       "machine-learning-engineering",
       "ml",
       "mle",
-      "mlops"
+      "mlops",
+      "Python"
     ]
   },
   {
@@ -5980,12 +4050,12 @@ const repoData = [
     "description": "An awesome & curated list of best LLMOps tools for developers",
     "stars": 4202,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "ai-development-tools",
       "awesome-list",
       "llmops",
-      "mlops"
+      "mlops",
+      "Shell"
     ]
   },
   {
@@ -5995,22 +4065,7 @@ const repoData = [
     "description": "\ud83d\ude0e A curated list of languages that compile directly to or have their VMs in WebAssembly",
     "stars": 4198,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "asmjs",
-      "astro",
-      "c",
-      "cpp",
-      "csharp",
-      "java",
-      "javascript",
-      "language",
-      "programming-language",
-      "typescript",
-      "wasm",
-      "web",
-      "webassembly"
-    ]
+    "topics": []
   },
   {
     "name": "awesome_3DReconstruction_list",
@@ -6019,16 +4074,7 @@ const repoData = [
     "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
     "stars": 4192,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "3d-reconstruction",
-      "awesome-list",
-      "computer-vision",
-      "motion-estimation",
-      "multiple-view-geometry",
-      "opensource",
-      "stereo-vision"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-books",
@@ -6037,11 +4083,11 @@ const repoData = [
     "description": ":books: \u5f00\u53d1\u8005\u63a8\u8350\u9605\u8bfb\u7684\u4e66\u7c4d",
     "stars": 4155,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "books",
       "chinese",
-      "pdf"
+      "pdf",
+      "JavaScript"
     ]
   },
   {
@@ -6051,7 +4097,6 @@ const repoData = [
     "description": "A curated list of awesome reversing resources",
     "stars": 4124,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6061,18 +4106,7 @@ const repoData = [
     "description": "ChatGPT\u8d44\u6599\u6c47\u603b\u5b66\u4e60\uff0c\u6301\u7eed\u66f4\u65b0......",
     "stars": 4109,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "chatgpt",
-      "deep-learning",
-      "gpt",
-      "gpt-3",
-      "nlp",
-      "openai",
-      "reinforcement-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-jupyter",
@@ -6081,22 +4115,7 @@ const repoData = [
     "description": "A curated list of awesome Jupyter projects, libraries and resources",
     "stars": 4105,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "data-science",
-      "data-visualization",
-      "frontend",
-      "ipython",
-      "jupyter",
-      "jupyter-notebook",
-      "jupyterhub",
-      "jupyterlab",
-      "jupyterlab-extension",
-      "python",
-      "visualization"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-point-cloud-analysis",
@@ -6105,22 +4124,7 @@ const repoData = [
     "description": "A list of papers and datasets about point cloud analysis (processing)",
     "stars": 4086,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "3d-graphics",
-      "3d-reconstruction",
-      "3d-registration",
-      "3d-representation",
-      "point-cloud-classification",
-      "point-cloud-dataset",
-      "point-cloud-detection",
-      "point-cloud-processing",
-      "point-cloud-recognition",
-      "point-cloud-registration",
-      "point-cloud-segmentation",
-      "point-clouds",
-      "point-set-registration"
-    ]
+    "topics": []
   },
   {
     "name": "awesome_print",
@@ -6129,8 +4133,9 @@ const repoData = [
     "description": "Pretty print your Ruby objects with style -- in full color and with proper indentation",
     "stars": 4075,
     "updated_at": "2025-01-02",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "awesome-gcp-certifications",
@@ -6139,13 +4144,7 @@ const repoData = [
     "description": "Google Cloud Platform Certification resources.",
     "stars": 4072,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "certification",
-      "cloud",
-      "gcp",
-      "google-cloud-platform"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sec-talks",
@@ -6154,13 +4153,7 @@ const repoData = [
     "description": "A collected list of awesome security talks",
     "stars": 4068,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "conferences",
-      "hacking",
-      "infosec",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-gbdev",
@@ -6169,28 +4162,7 @@ const repoData = [
     "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
     "stars": 4059,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "assembler",
-      "awesome",
-      "awesome-list",
-      "cartridge",
-      "dmg",
-      "documentation",
-      "game-boy-development",
-      "game-development",
-      "gameboy",
-      "gameboy-color",
-      "gameboy-color-emulator",
-      "gameboy-emulator",
-      "gamedev",
-      "gbdk",
-      "list",
-      "nintendo",
-      "resources",
-      "retrogaming",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Prompt-Engineering",
@@ -6199,7 +4171,6 @@ const repoData = [
     "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
     "stars": 4055,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "chatgpt",
       "chatgpt-api",
@@ -6219,7 +4190,8 @@ const repoData = [
       "promptengineering",
       "text-to-image",
       "text-to-speech",
-      "text-to-video"
+      "text-to-video",
+      "Python"
     ]
   },
   {
@@ -6229,15 +4201,7 @@ const repoData = [
     "description": "\u2b50\ufe0f A curated list of awesome forensic analysis tools and resources",
     "stars": 4054,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "computer-forensics",
-      "dfir",
-      "digital-forensics",
-      "forensic-analysis",
-      "free",
-      "open-source"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-CobaltStrike",
@@ -6246,12 +4210,7 @@ const repoData = [
     "description": "List of Awesome CobaltStrike Resources",
     "stars": 4046,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "cobalt-strike",
-      "redteam",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-automl-papers",
@@ -6260,13 +4219,7 @@ const repoData = [
     "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
     "stars": 4045,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "automated-feature-engineering",
-      "automl",
-      "hyperparameter-optimization",
-      "neural-architecture-search"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lua",
@@ -6275,7 +4228,6 @@ const repoData = [
     "description": "A curated list of quality Lua packages and resources.",
     "stars": 4040,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6285,24 +4237,7 @@ const repoData = [
     "description": "Free proxy,VPN,\u514d\u8d39\u4ee3\u7406,\u7f51\u7edc\u52a0\u901f,\u79d1\u5b66\u4e0a\u7f51,\u673a\u573a\u8ba2\u9605,\u7ffb\u5899,\u68af\u5b50 \u7121\u6599\u30d7\u30ed\u30ad\u30b7 \ubb34\ub8cc \ud504\ub85d\uc2dc Gratis gratuit \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 gratuito Gratis  Darmowe  \u00dccretsiz  \u0628\u0631\u0648\u0643\u0633\u064a \u0645\u062c\u0627\u0646\u064a \u092e\u0941\u092b\u094d\u0924 \u092a\u094d\u0930\u0949\u0915\u094d\u0938\u0940 \u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e1f\u0e23\u0e35 mi\u1ec5n ph\u00ed",
     "stars": 4032,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "clash",
-      "fanqiang",
-      "free",
-      "geopolitics",
-      "gfw",
-      "great-firewall",
-      "shadowsocks",
-      "shadowsocksr",
-      "ss",
-      "trojan",
-      "v2ray",
-      "vless",
-      "vmess",
-      "vpn-server",
-      "xray"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-macos-screensavers",
@@ -6311,13 +4246,7 @@ const repoData = [
     "description": "\ud83c\udf4e \ud83d\udda5 \ud83c\udf86 A curated list of screensavers for Mac OS X",
     "stars": 4015,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "screensavers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-books",
@@ -6326,14 +4255,7 @@ const repoData = [
     "description": ":books: Directory of Python books",
     "stars": 3998,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "book",
-      "learning-python",
-      "python-book",
-      "python-cookbook",
-      "python-programming"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Unity-Shader",
@@ -6342,7 +4264,6 @@ const repoData = [
     "description": ":boat: \u5173\u4e8e\u70ab\u9177\u7684Unity3D Shader \\| About Cool Unity3D Shaders ",
     "stars": 3983,
     "updated_at": "2025-01-06",
-    "language": "ShaderLab",
     "topics": [
       "awesome",
       "graphics-programming",
@@ -6351,7 +4272,8 @@ const repoData = [
       "shaderlab",
       "unity",
       "unity-shader",
-      "unity3d-shader"
+      "unity3d-shader",
+      "ShaderLab"
     ]
   },
   {
@@ -6361,22 +4283,7 @@ const repoData = [
     "description": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
     "stars": 3983,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "aigc",
-      "awesome",
-      "chatgpt",
-      "courses-resource",
-      "deep-learning",
-      "llm",
-      "midjourney",
-      "multimodal",
-      "nlp",
-      "prompt-engineering",
-      "stable-diffusion",
-      "tutorials"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-command-line-apps",
@@ -6385,16 +4292,7 @@ const repoData = [
     "description": ":shell: Use your terminal shell to do awesome things.",
     "stars": 3977,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "apps",
-      "awesome",
-      "awesome-list",
-      "list",
-      "shell",
-      "software",
-      "unix"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-analytics",
@@ -6403,7 +4301,6 @@ const repoData = [
     "description": "A curated list of analytics frameworks, software and other tools.",
     "stars": 3962,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6413,15 +4310,7 @@ const repoData = [
     "description": "A list of amazing Newsletters",
     "stars": 3962,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "email",
-      "email-newsletter",
-      "emails",
-      "newsletter"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-typescript",
@@ -6430,13 +4319,7 @@ const repoData = [
     "description": "A collection of awesome TypeScript resources for client-side and server-side development",
     "stars": 3955,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "react-typescripts",
-      "typescript",
-      "vue-typescript"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-threat-detection",
@@ -6445,16 +4328,7 @@ const repoData = [
     "description": "\u2728 A curated list of awesome threat detection and hunting resources \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
     "stars": 3952,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "detection",
-      "incident-response",
-      "security",
-      "threat-detection",
-      "threat-hunting"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-pentest-cheat-sheets",
@@ -6463,16 +4337,7 @@ const repoData = [
     "description": "Collection of the cheat sheets useful for pentesting",
     "stars": 3928,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "cheatsheet",
-      "penetration-testing",
-      "pentest",
-      "pentest-cheat-sheets",
-      "security",
-      "security-cheat-sheets"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-coins",
@@ -6481,23 +4346,7 @@ const repoData = [
     "description": "\u20bf A guide (for humans!) to cryto-currencies and their algos.",
     "stars": 3912,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "algo",
-      "algorithms",
-      "awesome",
-      "awesome-list",
-      "bitcoin",
-      "btc",
-      "coin",
-      "cryptocurrency",
-      "documentation",
-      "ethereum",
-      "guide",
-      "kennethreitz",
-      "nicehash",
-      "wallet"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Incremental-Learning",
@@ -6506,7 +4355,6 @@ const repoData = [
     "description": "Awesome Incremental Learning",
     "stars": 3887,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6516,7 +4364,6 @@ const repoData = [
     "description": "Collection of Testflight public app link\uff08iOS/iPad OS/macOS\uff09\u3002",
     "stars": 3862,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "app",
       "collection",
@@ -6524,7 +4371,8 @@ const repoData = [
       "ipad",
       "iphone",
       "macos",
-      "testflight"
+      "testflight",
+      "Python"
     ]
   },
   {
@@ -6534,16 +4382,7 @@ const repoData = [
     "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
     "stars": 3856,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "api",
-      "api-client",
-      "api-documentation",
-      "api-gateways",
-      "api-management",
-      "json-schema",
-      "swagger"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bots",
@@ -6552,29 +4391,7 @@ const repoData = [
     "description": "The most awesome list about bots \u2b50\ufe0f\ud83e\udd16",
     "stars": 3854,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "alexa",
-      "alexa-sdk",
-      "alexa-skills-kit",
-      "awesome",
-      "awesome-list",
-      "bot-framework",
-      "bots",
-      "chatbot",
-      "chatbots",
-      "cortana",
-      "facebook-bot",
-      "facebook-messenger",
-      "facebook-messenger-platform",
-      "messenger-bot",
-      "siri",
-      "slack",
-      "slack-bot",
-      "slackbot",
-      "telegram-bot",
-      "voice-assistant"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dataviz",
@@ -6583,15 +4400,7 @@ const repoData = [
     "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
     "stars": 3852,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "chart",
-      "data-visualization",
-      "dataviz",
-      "visualization",
-      "visualize-data"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-data-labeling",
@@ -6600,29 +4409,7 @@ const repoData = [
     "description": "A curated list of awesome data labeling tools",
     "stars": 3850,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "3d-annotation",
-      "annotation",
-      "annotation-tool",
-      "audio-annotation",
-      "audio-annotation-tool",
-      "awesome",
-      "awesome-list",
-      "bounding-box",
-      "data-labeling",
-      "deep-learning",
-      "image-annotation",
-      "image-labeling",
-      "image-labeling-tool",
-      "label-images",
-      "label-videos",
-      "labeling",
-      "labeling-tool",
-      "lidar",
-      "semantic-segmentation",
-      "video-annotation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-libra",
@@ -6631,7 +4418,6 @@ const repoData = [
     "description": "A Curated List of Awesome Facebook Libra Resources",
     "stars": 3843,
     "updated_at": "2024-11-30",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6641,21 +4427,7 @@ const repoData = [
     "description": "A curated list of action recognition and related area resources",
     "stars": 3839,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "action-classification",
-      "action-detection",
-      "action-recognition",
-      "activity-recognition",
-      "activity-understanding",
-      "awesome",
-      "awesome-list",
-      "object-recognition",
-      "pose-estimation",
-      "video-processing",
-      "video-recognition",
-      "video-understanding"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-webpack-cn",
@@ -6664,15 +4436,7 @@ const repoData = [
     "description": "[\u5370\u8bb0\u4e2d\u6587](https://docschina.org/) - webpack \u4f18\u79c0\u4e2d\u6587\u6587\u7ae0",
     "stars": 3818,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "angular",
-      "react",
-      "vue",
-      "webpack",
-      "webpack2",
-      "webpack3"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-alternatives-in-rust",
@@ -6681,8 +4445,9 @@ const repoData = [
     "description": "A curated list of replacements for existing software written in Rust",
     "stars": 3812,
     "updated_at": "2025-01-05",
-    "language": "Rust",
-    "topics": []
+    "topics": [
+      "Rust"
+    ]
   },
   {
     "name": "awesome-unity-open-source-on-github",
@@ -6691,25 +4456,7 @@ const repoData = [
     "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
     "stars": 3800,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "unity",
-      "unity-asset",
-      "unity-assets",
-      "unity-editor",
-      "unity-extension",
-      "unity-mobile",
-      "unity-native",
-      "unity-plugin",
-      "unity-sample",
-      "unity-script",
-      "unity-scripts",
-      "unity-shader",
-      "unity-ui",
-      "unity3d",
-      "unity3d-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-POC",
@@ -6718,10 +4465,7 @@ const repoData = [
     "description": "\u4e00\u4e2a\u6f0f\u6d1ePOC\u77e5\u8bc6\u5e93 \u76ee\u524d\u6570\u91cf 1000+",
     "stars": 3786,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "poc"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-blockchains",
@@ -6730,7 +4474,6 @@ const repoData = [
     "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
     "stars": 3740,
     "updated_at": "2025-01-04",
-    "language": "Ruby",
     "topics": [
       "blockchain",
       "content-addressable-storage",
@@ -6745,7 +4488,8 @@ const repoData = [
       "transactions",
       "tulipmania",
       "tx",
-      "universum"
+      "universum",
+      "Ruby"
     ]
   },
   {
@@ -6755,16 +4499,7 @@ const repoData = [
     "description": "The list of continuous integration services and tools",
     "stars": 3739,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "ci",
-      "comparison",
-      "continuous-integration",
-      "developer-tools",
-      "development",
-      "devops"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cyber-skills",
@@ -6773,7 +4508,6 @@ const repoData = [
     "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
     "stars": 3736,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6783,17 +4517,7 @@ const repoData = [
     "description": "A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.",
     "stars": 3734,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "diffusion-models",
-      "text-to-motion",
-      "text-to-video",
-      "video-editing",
-      "video-generation",
-      "video-restoration",
-      "video-understanding"
-    ]
+    "topics": []
   },
   {
     "name": "really-awesome-gan",
@@ -6802,7 +4526,6 @@ const repoData = [
     "description": "A list of papers on Generative Adversarial (Neural) Networks",
     "stars": 3732,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6812,22 +4535,7 @@ const repoData = [
     "description": "An awesome list of events and fellowship opportunities for Computer Science students",
     "stars": 3731,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "awesome-list",
-      "computer-science-students",
-      "data-science",
-      "devops",
-      "education",
-      "fellowship",
-      "learning",
-      "mooc",
-      "scholarship",
-      "students",
-      "web"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rails",
@@ -6836,13 +4544,7 @@ const repoData = [
     "description": "A curated list of awesome things related to Ruby on Rails",
     "stars": 3727,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "opensource-apps",
-      "rails"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-apache-airflow",
@@ -6851,13 +4553,13 @@ const repoData = [
     "description": "Curated list of resources about Apache Airflow",
     "stars": 3718,
     "updated_at": "2025-01-03",
-    "language": "Shell",
     "topics": [
       "airflow",
       "apache-airflow",
       "awesome",
       "awesome-list",
-      "workflow-management"
+      "workflow-management",
+      "Shell"
     ]
   },
   {
@@ -6867,7 +4569,6 @@ const repoData = [
     "description": "\u4e00\u4e2a\u653b\u9632\u77e5\u8bc6\u4ed3\u5e93 Red Teaming and Offensive Security",
     "stars": 3714,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "command-and-control",
       "execution",
@@ -6876,7 +4577,8 @@ const repoData = [
       "lateral-movement",
       "privilege-escalation",
       "reconnaissance",
-      "red-teaming"
+      "red-teaming",
+      "Python"
     ]
   },
   {
@@ -6886,29 +4588,7 @@ const repoData = [
     "description": "A curated list of awesome responsible machine learning resources.",
     "stars": 3699,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai-safety",
-      "awesome",
-      "awesome-list",
-      "data-science",
-      "explainable-ml",
-      "fairness",
-      "interpretability",
-      "interpretable-ai",
-      "interpretable-machine-learning",
-      "interpretable-ml",
-      "machine-learning",
-      "machine-learning-interpretability",
-      "privacy-enhancing-technologies",
-      "privacy-preserving-machine-learning",
-      "python",
-      "r",
-      "reliable-ai",
-      "secure-ml",
-      "transparency",
-      "xai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-satellite-imagery-datasets",
@@ -6917,17 +4597,7 @@ const repoData = [
     "description": "\ud83d\udef0\ufe0f List of satellite image training datasets with annotations for computer vision and deep learning",
     "stars": 3686,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "earth-observation",
-      "instance-segmentation",
-      "machine-learning",
-      "object-detection",
-      "remote-sensing",
-      "satellite-imagery"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ai-in-finance",
@@ -6936,21 +4606,7 @@ const repoData = [
     "description": "\ud83d\udd2c A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
     "stars": 3682,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "analysis",
-      "awesome",
-      "awesome-list",
-      "cryptocurrency",
-      "deep-learning",
-      "financial",
-      "neural-network",
-      "quant",
-      "quantitative-finance",
-      "reinforcement-learning",
-      "stock-market",
-      "technology-analysis"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rest",
@@ -6959,11 +4615,7 @@ const repoData = [
     "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
     "stars": 3671,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "rest"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Networking",
@@ -6972,7 +4624,6 @@ const repoData = [
     "description": "A curated list of awesome networking libraries, resources and shiny things",
     "stars": 3632,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -6982,23 +4633,7 @@ const repoData = [
     "description": "A curated list of awesome YARA rules, tools, and people.",
     "stars": 3629,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-yara",
-      "ioc",
-      "malware-analysis",
-      "malware-detection",
-      "malware-research",
-      "malware-rules",
-      "threat-hunting",
-      "yara",
-      "yara-manager",
-      "yara-rules",
-      "yara-scanner",
-      "yara-signatures"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-elm",
@@ -7007,17 +4642,7 @@ const repoData = [
     "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
     "stars": 3616,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "elm",
-      "elm-apps",
-      "elm-language",
-      "elm-news",
-      "elm-tutorial",
-      "elm-videos"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-network-analysis",
@@ -7026,7 +4651,6 @@ const repoData = [
     "description": "A curated list of awesome network analysis resources.",
     "stars": 3610,
     "updated_at": "2025-01-06",
-    "language": "R",
     "topics": [
       "awesome",
       "awesome-list",
@@ -7042,7 +4666,8 @@ const repoData = [
       "semantic-networks",
       "sna",
       "social-network-analysis",
-      "social-networks"
+      "social-networks",
+      "R"
     ]
   },
   {
@@ -7052,7 +4677,6 @@ const repoData = [
     "description": "A series of beautiful and practical landing page templates",
     "stars": 3603,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7062,15 +4686,7 @@ const repoData = [
     "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
     "stars": 3599,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "deep-learning",
-      "deep-reinforcement-learning",
-      "human-feedback",
-      "large-language-models",
-      "reinforcement-learning",
-      "rlhf"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hpp",
@@ -7079,29 +4695,7 @@ const repoData = [
     "description": "A curated list of awesome header-only C++ libraries",
     "stars": 3586,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "c-plus-plus",
-      "cplusplus",
-      "cpp-library",
-      "cpp03",
-      "cpp11",
-      "cpp14",
-      "cpp17",
-      "cpp20",
-      "cpp98",
-      "cross-platform",
-      "header-library",
-      "header-only",
-      "libraries",
-      "list",
-      "lists",
-      "modern-cpp",
-      "resources",
-      "single-header",
-      "single-header-lib"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-minimalist",
@@ -7110,7 +4704,6 @@ const repoData = [
     "description": "A curated list of awesome minimalist frameworks (simple and lightweight).",
     "stars": 3550,
     "updated_at": "2025-01-06",
-    "language": "Astro",
     "topics": [
       "awesome",
       "awesome-list",
@@ -7119,7 +4712,8 @@ const repoData = [
       "micro-framework",
       "minimalist",
       "minimalist-framework",
-      "minimalist-frameworks"
+      "minimalist-frameworks",
+      "Astro"
     ]
   },
   {
@@ -7129,16 +4723,7 @@ const repoData = [
     "description": "\u26a1\ufe0fAn awesome list of the best Termux hacking tools ",
     "stars": 3549,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome-list",
-      "hacking-tools",
-      "osint",
-      "penetration-testing",
-      "termux-hacking",
-      "wifi-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-css-learning",
@@ -7147,15 +4732,7 @@ const repoData = [
     "description": "A tiny list limited to the best CSS Learning Resources",
     "stars": 3538,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "css",
-      "css-learning",
-      "learning",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tips",
@@ -7164,7 +4741,6 @@ const repoData = [
     "description": "No description",
     "stars": 3533,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7174,14 +4750,7 @@ const repoData = [
     "description": "\ud83d\ude0e A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
     "stars": 3532,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "lists",
-      "nix",
-      "nixos"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-operators",
@@ -7190,11 +4759,7 @@ const repoData = [
     "description": "A resource tracking a number of Operators out in the wild.",
     "stars": 3526,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "kubernetes",
-      "operator"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-knowledge-distillation",
@@ -7203,20 +4768,7 @@ const repoData = [
     "description": "Awesome Knowledge Distillation",
     "stars": 3525,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "co-training",
-      "deep-learning",
-      "distillation",
-      "distillation-model",
-      "kd",
-      "knowldge-distillation",
-      "knowledge-distillation",
-      "knowledge-transfer",
-      "model-compression",
-      "model-distillation",
-      "teacher-student"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-stacks",
@@ -7225,7 +4777,6 @@ const repoData = [
     "description": "A curated list of tech stacks for building different applications & features",
     "stars": 3521,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
@@ -7233,7 +4784,8 @@ const repoData = [
       "mobile",
       "stacks",
       "tech-stacks",
-      "web"
+      "web",
+      "JavaScript"
     ]
   },
   {
@@ -7243,13 +4795,7 @@ const repoData = [
     "description": "Continuing the development of awesome-c list on GitHub",
     "stars": 3517,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "c",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-JavaScript-Interviews",
@@ -7258,7 +4804,6 @@ const repoData = [
     "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
     "stars": 3504,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "challenges",
       "css",
@@ -7275,7 +4820,8 @@ const repoData = [
       "reactjs",
       "redux",
       "system-design",
-      "webpack"
+      "webpack",
+      "JavaScript"
     ]
   },
   {
@@ -7285,15 +4831,7 @@ const repoData = [
     "description": "\uc5b4\uc378\ub370\ube0c\ube14\ub85c\uadf8. \uad6d\ub0b4 \uac1c\ubc1c/\uae30\uc220 \ube14\ub85c\uadf8 \ubaa8\uc74c(only \uc2e4\uba85\uc73c\ub85c).",
     "stars": 3492,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "blogs",
-      "devblog",
-      "developer",
-      "korean",
-      "tech-blog"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-golang-algorithm",
@@ -7302,7 +4840,6 @@ const repoData = [
     "description": ":memo: LeetCode of algorithms with golang solution(updating).",
     "stars": 3490,
     "updated_at": "2025-01-06",
-    "language": "Go",
     "topics": [
       "algorithm",
       "algorithms",
@@ -7311,7 +4848,8 @@ const repoData = [
       "golang-leetcode",
       "golang-solution",
       "leetcode",
-      "leetcode-solutions"
+      "leetcode-solutions",
+      "Go"
     ]
   },
   {
@@ -7321,16 +4859,7 @@ const repoData = [
     "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",
     "stars": 3468,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-functional-programming",
-      "awesome-list",
-      "awsome",
-      "f-algebras",
-      "functional-languages",
-      "recursion",
-      "recursion-schemes"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-k8s-resources",
@@ -7339,16 +4868,7 @@ const repoData = [
     "description": "A curated list of awesome Kubernetes tools and resources.",
     "stars": 3467,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "kubernetes",
-      "kubernetes-clusters",
-      "kubernetes-networking",
-      "kubernetes-operational",
-      "kubernetes-resources",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-http-benchmark",
@@ -7357,27 +4877,7 @@ const repoData = [
     "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
     "stars": 3454,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "benchmark",
-      "canary",
-      "development",
-      "http",
-      "http-benchmarking",
-      "http-pipelining",
-      "http2",
-      "http3",
-      "https",
-      "modern-dev",
-      "modern-web",
-      "rest-api",
-      "restful",
-      "restful-api",
-      "testing",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flutter-cn",
@@ -7386,19 +4886,7 @@ const repoData = [
     "description": "\u4e00\u4e2a\u5f88\u68d2\u7684Flutter\u5b66\u4e60\u8d44\u6e90\uff0c\u5b98\u65b9\u6559\u7a0b\uff0c\u63d2\u4ef6\uff0c\u5de5\u5177\uff0c\u6587\u7ae0\uff0cApp\uff0c\u89c6\u9891\u6559\u7a0b\u7b49\u7684\u8d44\u6e90\u5217\u8868",
     "stars": 3441,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "flutter",
-      "flutter-app",
-      "flutter-articles",
-      "flutter-components",
-      "flutter-navigation",
-      "flutter-plugins",
-      "flutter-tutorial",
-      "flutter-videos",
-      "ios"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-love2d",
@@ -7407,14 +4895,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome L\u00d6VE libraries, resources and shiny things.",
     "stars": 3431,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "game-development",
-      "love2d",
-      "lua"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-reactnative-ui",
@@ -7423,8 +4904,9 @@ const repoData = [
     "description": "Awesome React Native UI components updated weekly",
     "stars": 3422,
     "updated_at": "2024-12-24",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "Awesome-Visual-Transformer",
@@ -7433,15 +4915,7 @@ const repoData = [
     "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
     "stars": 3413,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "detr",
-      "transformer",
-      "transformer-awesome",
-      "transformer-cv",
-      "transformer-with-cv",
-      "visual-transformer"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-crystal",
@@ -7450,13 +4924,13 @@ const repoData = [
     "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
     "stars": 3394,
     "updated_at": "2025-01-05",
-    "language": "Crystal",
     "topics": [
       "awesome",
       "awesome-list",
       "crystal",
       "list",
-      "shards"
+      "shards",
+      "Crystal"
     ]
   },
   {
@@ -7466,12 +4940,7 @@ const repoData = [
     "description": "\uc88b\uc740 \uac1c\ubc1c\ud300\uc744 \ub9cc\ub4dc\ub294\ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc790\ub8cc ",
     "stars": 3389,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "cto",
-      "devteam",
-      "pair-programming"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Android-Notebook",
@@ -7480,13 +4949,7 @@ const repoData = [
     "description": ":computer: A complete plan for better android developers.\uff08continuous updating ...\uff09",
     "stars": 3369,
     "updated_at": "2024-12-19",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "interview",
-      "java",
-      "study-guide"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vulkan",
@@ -7495,18 +4958,7 @@ const repoData = [
     "description": "Awesome Vulkan ecosystem",
     "stars": 3366,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "amd",
-      "arm",
-      "khronos",
-      "nvidia",
-      "opengl",
-      "qualcomm",
-      "vulkan",
-      "vulkan-api",
-      "vulkan-libraries"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-styled-components",
@@ -7515,15 +4967,7 @@ const repoData = [
     "description": "A curated list of awesome styled-components resources \ud83d\udc85 ",
     "stars": 3359,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "css",
-      "css-in-js",
-      "react",
-      "styled-components"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cve-poc",
@@ -7532,12 +4976,7 @@ const repoData = [
     "description": "\u270d\ufe0f A curated list of CVE PoCs.",
     "stars": 3349,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "cve",
-      "poc"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-json-datasets",
@@ -7546,7 +4985,6 @@ const repoData = [
     "description": "A curated list of awesome JSON datasets that don't require authentication.",
     "stars": 3345,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
@@ -7555,7 +4993,8 @@ const repoData = [
       "datasets",
       "json",
       "json-dataset",
-      "list"
+      "list",
+      "JavaScript"
     ]
   },
   {
@@ -7565,22 +5004,7 @@ const repoData = [
     "description": ":house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!",
     "stars": 3344,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "awesome-list",
-      "django",
-      "firebase",
-      "ios",
-      "laravel",
-      "meteor",
-      "opensource-apps",
-      "rails",
-      "react",
-      "react-native",
-      "reactjs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-robotic-tooling",
@@ -7589,29 +5013,7 @@ const repoData = [
     "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
     "stars": 3334,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "aerospace",
-      "artificial-intelligence",
-      "automotive",
-      "autonomous-driving",
-      "awesome",
-      "awesome-list",
-      "cplusplus",
-      "cpp",
-      "lidar",
-      "machine-learning",
-      "mapping",
-      "point-cloud",
-      "python",
-      "robot",
-      "robotic",
-      "robotics",
-      "ros",
-      "ros2",
-      "self-driving-car",
-      "slam"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-blockchain",
@@ -7620,7 +5022,6 @@ const repoData = [
     "description": "\u26a1\ufe0fCurated list of resources for the development and applications of blockchain.",
     "stars": 3327,
     "updated_at": "2025-01-06",
-    "language": "Go",
     "topics": [
       "awesome",
       "awesome-list",
@@ -7641,7 +5042,8 @@ const repoData = [
       "pbft",
       "pos",
       "pow",
-      "white-paper"
+      "white-paper",
+      "Go"
     ]
   },
   {
@@ -7651,16 +5053,7 @@ const repoData = [
     "description": "\ud83e\udd16 A curated list of awesome Internet of Things projects and resources.",
     "stars": 3325,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "embedded-systems",
-      "hacktoberfest",
-      "hardware",
-      "internet-of-things",
-      "iot"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-etl",
@@ -7669,7 +5062,6 @@ const repoData = [
     "description": "A curated list of awesome ETL frameworks, libraries, and software.",
     "stars": 3315,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7679,14 +5071,7 @@ const repoData = [
     "description": "A curated list of awesome WYSIWYG Editors.",
     "stars": 3310,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "rich-text-editor",
-      "wysiwyg",
-      "wysiwyg-editor"
-    ]
+    "topics": []
   },
   {
     "name": "iOS-Tips",
@@ -7695,8 +5080,9 @@ const repoData = [
     "description": "iOS\u77e5\u8bc6\u5c0f\u96c6",
     "stars": 3292,
     "updated_at": "2024-12-26",
-    "language": "CSS",
-    "topics": []
+    "topics": [
+      "CSS"
+    ]
   },
   {
     "name": "awesome-single-cell",
@@ -7705,29 +5091,7 @@ const repoData = [
     "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
     "stars": 3260,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "analysis",
-      "analysis-pipeline",
-      "atac-seq",
-      "awesome-list",
-      "bioinformatics",
-      "cell-clusters",
-      "cell-cycle",
-      "cell-differentiation",
-      "cell-populations",
-      "clustering",
-      "data-integration",
-      "data-visualization",
-      "dimensionality-reduction",
-      "gene-expression",
-      "gene-expression-profiles",
-      "python",
-      "rna-seq-data",
-      "rna-seq-experiments",
-      "scrna-seq-data",
-      "single-cell"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-coding-js",
@@ -7736,7 +5100,6 @@ const repoData = [
     "description": "\u7528JavaScript\u5b9e\u73b0\u7684\u7b97\u6cd5\u548c\u6570\u636e\u7ed3\u6784\uff0c\u9644\u8be6\u7ec6\u89e3\u91ca\u548c\u5237\u9898\u6307\u5357",
     "stars": 3259,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7746,14 +5109,7 @@ const repoData = [
     "description": "\ud83c\udf29\ufe0f A list of awesome online development environments",
     "stars": 3257,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "ide",
-      "list",
-      "lists"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Bioinformatics",
@@ -7762,12 +5118,7 @@ const repoData = [
     "description": "A curated list of awesome Bioinformatics libraries and software.",
     "stars": 3250,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bioinformatics"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vehicle-security",
@@ -7776,21 +5127,7 @@ const repoData = [
     "description": "\ud83d\ude97  A curated list of resources for learning about vehicle security and car hacking.",
     "stars": 3235,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "automotive",
-      "awesome",
-      "awesome-list",
-      "car-hacking",
-      "cars",
-      "cybersecurity",
-      "hacking",
-      "hacking-vehicles",
-      "hardware",
-      "learning",
-      "security",
-      "vehicle-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-angular-components",
@@ -7799,20 +5136,7 @@ const repoData = [
     "description": "Catalog of Angular 2+ Components & Libraries",
     "stars": 3228,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "angular-component",
-      "angular-components",
-      "angular-library",
-      "angular2-component",
-      "angular2-components",
-      "angular2-directive",
-      "angular2-library",
-      "angular2-modal",
-      "angular2-toaster",
-      "devarchy",
-      "ng2"
-    ]
+    "topics": []
   },
   {
     "name": "Font-Awesome-SVG-PNG",
@@ -7821,8 +5145,9 @@ const repoData = [
     "description": "Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator",
     "stars": 3216,
     "updated_at": "2025-01-03",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-IntelliJ-IDEA",
@@ -7831,19 +5156,7 @@ const repoData = [
     "description": "\u6536\u96c6\u4e00\u4e9b Intellij IDEA \u7684\u4e00\u4e9b\u6280\u5de7",
     "stars": 3216,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "gsonformat",
-      "idea",
-      "intellij",
-      "java",
-      "jclasslib-bytecode-viewer",
-      "keyboard",
-      "keymap",
-      "plugins",
-      "quicklist",
-      "theme"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-LLM-Robotics",
@@ -7852,7 +5165,6 @@ const repoData = [
     "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
     "stars": 3209,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7862,7 +5174,6 @@ const repoData = [
     "description": "\u6df1\u5ea6\u5b66\u4e60\u5165\u95e8\u8bfe\u3001\u8d44\u6df1\u8bfe\u3001\u7279\u8272\u8bfe\u3001\u5b66\u672f\u6848\u4f8b\u3001\u4ea7\u4e1a\u5b9e\u8df5\u6848\u4f8b\u3001\u6df1\u5ea6\u5b66\u4e60\u77e5\u8bc6\u767e\u79d1\u53ca\u9762\u8bd5\u9898\u5e93The course, case and knowledge of Deep Learning and AI",
     "stars": 3182,
     "updated_at": "2025-01-06",
-    "language": "Jupyter Notebook",
     "topics": [
       "bert",
       "classification",
@@ -7881,7 +5192,8 @@ const repoData = [
       "segmentation",
       "tinybert",
       "transformer",
-      "video"
+      "video",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -7891,7 +5203,6 @@ const repoData = [
     "description": "A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
     "stars": 3176,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7901,7 +5212,6 @@ const repoData = [
     "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
     "stars": 3170,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7911,15 +5221,7 @@ const repoData = [
     "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
     "stars": 3166,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "graphics",
-      "java",
-      "java-8",
-      "javafx",
-      "javafx-frameworks",
-      "javafx-library"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-pcaptools",
@@ -7928,7 +5230,6 @@ const repoData = [
     "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
     "stars": 3156,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -7938,14 +5239,7 @@ const repoData = [
     "description": "Curated list of awesome GPTs \ud83d\udc4d.",
     "stars": 3148,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "curated-list",
-      "gpts"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hand-pose-estimation",
@@ -7954,7 +5248,6 @@ const repoData = [
     "description": "Awesome work on hand pose estimation/tracking",
     "stars": 3147,
     "updated_at": "2025-01-04",
-    "language": "Python",
     "topics": [
       "3d-hand",
       "computer-vision",
@@ -7968,7 +5261,8 @@ const repoData = [
       "hand-shape",
       "hand-tracking",
       "human-computer-interaction",
-      "keypoints"
+      "keypoints",
+      "Python"
     ]
   },
   {
@@ -7978,13 +5272,13 @@ const repoData = [
     "description": "A curated list of awesome articles, websites and resources about mental health in the software industry.",
     "stars": 3141,
     "updated_at": "2025-01-05",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
       "mental-health",
       "mental-health-awareness",
-      "self-care"
+      "self-care",
+      "HTML"
     ]
   },
   {
@@ -7994,16 +5288,7 @@ const repoData = [
     "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
     "stars": 3128,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "dynamic-analysis",
-      "frida",
-      "hooking",
-      "ios",
-      "r2frida"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-xcode-extensions",
@@ -8012,7 +5297,6 @@ const repoData = [
     "description": "Awesome native Xcode extensions.",
     "stars": 3127,
     "updated_at": "2025-01-06",
-    "language": "Ruby",
     "topics": [
       "awesome",
       "extension",
@@ -8020,7 +5304,8 @@ const repoData = [
       "source-editor-extension",
       "xcode",
       "xcode-extension",
-      "xcode-plugin"
+      "xcode-plugin",
+      "Ruby"
     ]
   },
   {
@@ -8030,22 +5315,7 @@ const repoData = [
     "description": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.",
     "stars": 3124,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "api-hacking",
-      "api-hacks",
-      "api-hardening",
-      "api-hunting",
-      "api-pentest",
-      "api-sec",
-      "api-security",
-      "apisec",
-      "awesome-list",
-      "fuzzing",
-      "infosec",
-      "pentest",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ai-residency",
@@ -8054,14 +5324,7 @@ const repoData = [
     "description": "List of AI Residency Programs",
     "stars": 3122,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "artificial-intelligence",
-      "awesome-list",
-      "internships",
-      "jobs",
-      "machine-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-haskell",
@@ -8070,8 +5333,9 @@ const repoData = [
     "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
     "stars": 3120,
     "updated_at": "2025-01-03",
-    "language": "Haskell",
-    "topics": []
+    "topics": [
+      "Haskell"
+    ]
   },
   {
     "name": "Awesome-LLM-Inference",
@@ -8080,22 +5344,7 @@ const repoData = [
     "description": "\ud83d\udcd6A curated list of Awesome LLM/VLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism, etc. \ud83c\udf89\ud83c\udf89",
     "stars": 3115,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-llm",
-      "deepseek",
-      "deepseek-v3",
-      "flash-attention",
-      "flash-attention-2",
-      "flash-attention-3",
-      "llm",
-      "llm-inference",
-      "llms",
-      "paged-attention",
-      "sora",
-      "tensorrt-llm",
-      "vllm"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-alfred-workflows",
@@ -8104,14 +5353,7 @@ const repoData = [
     "description": "A curated list of awesome alfred workflows",
     "stars": 3109,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "alfred",
-      "alfred-workflow",
-      "awesome",
-      "awesome-list",
-      "text-manipulation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hacking",
@@ -8120,7 +5362,6 @@ const repoData = [
     "description": "Awesome hacking is an awesome collection of hacking tools.",
     "stars": 3106,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "curated-list",
       "forensics",
@@ -8129,7 +5370,8 @@ const repoData = [
       "malware",
       "penetration-testing",
       "security",
-      "security-tools"
+      "security-tools",
+      "Python"
     ]
   },
   {
@@ -8139,11 +5381,11 @@ const repoData = [
     "description": "Awesome WM themes",
     "stars": 3092,
     "updated_at": "2025-01-05",
-    "language": "Lua",
     "topics": [
       "awesomewm",
       "lua",
-      "themes"
+      "themes",
+      "Lua"
     ]
   },
   {
@@ -8153,18 +5395,7 @@ const repoData = [
     "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
     "stars": 3092,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "advent-of-code",
-      "advent-of-code-2018",
-      "advent-of-code-2019",
-      "advent-of-code-2020",
-      "advent-of-code-2021",
-      "advent-of-code-2022",
-      "advent-of-code-2023",
-      "adventofcode",
-      "awesome"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mobile-security",
@@ -8173,25 +5404,7 @@ const repoData = [
     "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
     "stars": 3091,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "android-security",
-      "awesome",
-      "awesome-list",
-      "bugbounty",
-      "hacking",
-      "hacking-tools",
-      "ios",
-      "ios-security",
-      "mobile",
-      "mobile-security",
-      "pentesting",
-      "redteam",
-      "resources",
-      "reverse-engineering",
-      "security-tools"
-    ]
+    "topics": []
   },
   {
     "name": "comments-for-awesome-courses",
@@ -8200,8 +5413,9 @@ const repoData = [
     "description": "\u540d\u6821\u516c\u5f00\u8bfe\u7a0b\u8bc4\u4ef7\u7f51",
     "stars": 3080,
     "updated_at": "2025-01-05",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "awesome-causality-algorithms",
@@ -8210,19 +5424,7 @@ const repoData = [
     "description": "An index of algorithms for learning causality with data",
     "stars": 3076,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "baselines",
-      "causal-inference",
-      "causality",
-      "causality-algorithms",
-      "causality-analysis",
-      "learning-to-rank",
-      "multilabel-classification",
-      "recommender-system",
-      "unconfoundedness-assumption"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-project",
@@ -8231,22 +5433,7 @@ const repoData = [
     "description": "A curated list of awesome project development links",
     "stars": 3071,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "collection",
-      "curated",
-      "curated-list",
-      "design",
-      "links",
-      "list",
-      "programming",
-      "project",
-      "project-management",
-      "projects"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bits",
@@ -8255,10 +5442,7 @@ const repoData = [
     "description": ":computer: A curated list of awesome bitwise operations and tricks",
     "stars": 3066,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "bit-manipulation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-static-generators",
@@ -8267,11 +5451,7 @@ const repoData = [
     "description": "A curated list of static web site generators.",
     "stars": 3038,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "website"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-browser-extensions-for-github",
@@ -8280,7 +5460,6 @@ const repoData = [
     "description": "A collection of awesome browser extensions for GitHub.",
     "stars": 3037,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
@@ -8288,7 +5467,8 @@ const repoData = [
       "chrome-extension",
       "github",
       "github-extension",
-      "list"
+      "list",
+      "JavaScript"
     ]
   },
   {
@@ -8298,7 +5478,6 @@ const repoData = [
     "description": "A curated list of amazingly awesome Burp Extensions",
     "stars": 3029,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8308,29 +5487,7 @@ const repoData = [
     "description": "Promoting Solutions that Improve Wellbeing, Freedom and Society",
     "stars": 3029,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "decentralization",
-      "democracy",
-      "ergonomics",
-      "ethics",
-      "fediverse",
-      "freedom-of-information",
-      "freedom-of-speech",
-      "giveupgithub",
-      "health",
-      "humane",
-      "humane-tech",
-      "mindfulness",
-      "privacy",
-      "privacy-protection",
-      "social",
-      "social-media",
-      "social-networks",
-      "society",
-      "transparency"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-design-cn",
@@ -8339,7 +5496,6 @@ const repoData = [
     "description": "\u8bbe\u8ba1\u5e08\u8d44\u6e90\u5927\u5168\uff0c\u5305\u542b\uff1aICON\u56fe\u6807\u3001Logo\u8bbe\u8ba1\u3001PhotoShop\u63d2\u4ef6\u3001\u4ea4\u4e92\u8bbe\u8ba1\u5de5\u5177\u3001\u6d41\u7a0b\u56fe\u3001\u7ebf\u6846\u56fe/\u539f\u578b\u56fe\u3001\u8bbe\u8ba1\u535a\u5ba2\u7b49",
     "stars": 3019,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8349,7 +5505,6 @@ const repoData = [
     "description": "A delightful list of personal tech blogs",
     "stars": 3018,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8359,29 +5514,7 @@ const repoData = [
     "description": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
     "stars": 3006,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "acoustic-model",
-      "attention-mechanism",
-      "automatic-speech-recognition",
-      "cnn",
-      "diffusion-models",
-      "dnn",
-      "language-model",
-      "neural-network",
-      "papers",
-      "recognition-synthesis",
-      "rnn",
-      "roadmap",
-      "seq2seq",
-      "singing-voice-synthesis",
-      "speaker-verification",
-      "speech-recognition",
-      "speech-synthesis",
-      "timit-dataset",
-      "tts",
-      "voice-conversion"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-TS-anomaly-detection",
@@ -8390,17 +5523,7 @@ const repoData = [
     "description": "List of tools & datasets for anomaly detection on time-series data.",
     "stars": 2995,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "anomaly-detection",
-      "awesome-list",
-      "data-analysis",
-      "data-mining",
-      "machine-learning",
-      "outlier-detection",
-      "temporal-data",
-      "time-series"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-web-components",
@@ -8409,15 +5532,7 @@ const repoData = [
     "description": "A curated list of awesome Web Components resources.",
     "stars": 2987,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "custom-elements",
-      "shadow-dom",
-      "web-components",
-      "webcomponents"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Cellular-Hacking",
@@ -8426,17 +5541,7 @@ const repoData = [
     "description": "Awesome-Cellular-Hacking",
     "stars": 2979,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "eviltwin",
-      "gsm",
-      "gsm-network",
-      "hacking",
-      "lte",
-      "lte-evil-twin",
-      "rogue-bts",
-      "sdr"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-status-pages",
@@ -8445,15 +5550,7 @@ const repoData = [
     "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
     "stars": 2976,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "monitoring",
-      "opensource",
-      "status",
-      "statuspage"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mechanical-keyboard",
@@ -8462,7 +5559,6 @@ const repoData = [
     "description": "\u2328\ufe0f A curated list of Open Source Mechanical Keyboard resources.",
     "stars": 2976,
     "updated_at": "2025-01-06",
-    "language": "Astro",
     "topics": [
       "3d-printing",
       "awesome",
@@ -8476,7 +5572,8 @@ const repoData = [
       "mechanical-keyboards",
       "pcb",
       "qmk",
-      "qmk-firmware"
+      "qmk-firmware",
+      "Astro"
     ]
   },
   {
@@ -8486,20 +5583,7 @@ const repoData = [
     "description": "A curated list of awesome tools and technology to help you out with ricing on linux",
     "stars": 2974,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "arch-linux",
-      "awesome",
-      "awesome-list",
-      "cli-tool",
-      "linux",
-      "panel",
-      "rice",
-      "ricing",
-      "terminal-emulators",
-      "tiling",
-      "window-manager"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wechat-weapp",
@@ -8508,8 +5592,9 @@ const repoData = [
     "description": "No description",
     "stars": 2961,
     "updated_at": "2024-11-26",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-lane-detection",
@@ -8518,11 +5603,7 @@ const repoData = [
     "description": "A paper list of lane detection.",
     "stars": 2952,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "lane-detection",
-      "lane-lines-detection"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cms",
@@ -8531,13 +5612,7 @@ const repoData = [
     "description": "\ud83d\udcda A collection of open and closed source Content Management Systems (CMS) for your perusal.",
     "stars": 2951,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "cms",
-      "labs",
-      "toml"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-diagramming",
@@ -8546,12 +5621,7 @@ const repoData = [
     "description": "A curated collection of diagramming tools used by leading software engineering teams",
     "stars": 2946,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "diagram",
-      "uml"
-    ]
+    "topics": []
   },
   {
     "name": "react-awesome-slider",
@@ -8560,7 +5630,6 @@ const repoData = [
     "description": "React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. \ud83d\udda5\ufe0f \ud83d\udcf1 ",
     "stars": 2944,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "carousel",
       "carousel-component",
@@ -8581,7 +5650,8 @@ const repoData = [
       "react-gallery",
       "react-slider",
       "reactjs",
-      "ui-components"
+      "ui-components",
+      "JavaScript"
     ]
   },
   {
@@ -8591,8 +5661,9 @@ const repoData = [
     "description": "\u2764\ufe0f Awesome Flutter Tips and Tricks  \u2764\ufe0f",
     "stars": 2938,
     "updated_at": "2024-12-31",
-    "language": "Dart",
-    "topics": []
+    "topics": [
+      "Dart"
+    ]
   },
   {
     "name": "awesome-semantic-segmentation-pytorch",
@@ -8601,10 +5672,10 @@ const repoData = [
     "description": "Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)",
     "stars": 2904,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "pytorch",
-      "semantic-segmentation"
+      "semantic-segmentation",
+      "Python"
     ]
   },
   {
@@ -8614,11 +5685,7 @@ const repoData = [
     "description": "A series of exquisite and compact web page cool effects",
     "stars": 2904,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "web-effect"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-hyprland",
@@ -8627,18 +5694,7 @@ const repoData = [
     "description": "Awesome list for Hyprland [maintainer=@yavko]",
     "stars": 2901,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "awesome-readme",
-      "awesome-resources",
-      "hyprland",
-      "hyprland-ipc",
-      "list",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-discord-communities",
@@ -8647,7 +5703,6 @@ const repoData = [
     "description": "A curated list of awesome Discord communities for programmers",
     "stars": 2899,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -8656,7 +5711,8 @@ const repoData = [
       "discord",
       "discord-server",
       "game-development",
-      "web"
+      "web",
+      "Python"
     ]
   },
   {
@@ -8666,15 +5722,7 @@ const repoData = [
     "description": "A curated list of deep learning image classification papers and codes",
     "stars": 2883,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computer-vision",
-      "deep-learning",
-      "image-classification",
-      "papers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deeplearning-resources",
@@ -8683,18 +5731,7 @@ const repoData = [
     "description": "Deep Learning and deep reinforcement learning research papers and some codes",
     "stars": 2881,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "code",
-      "corpus",
-      "deep-learning",
-      "modelzoo",
-      "neural-network",
-      "nlp",
-      "paper",
-      "reinforcement-learning",
-      "video"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ecs",
@@ -8703,13 +5740,7 @@ const repoData = [
     "description": "A curated list of awesome ECS guides, development tools, and resources",
     "stars": 2873,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "aws",
-      "aws-ecs",
-      "aws-fargate",
-      "containers"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-devenv",
@@ -8718,7 +5749,6 @@ const repoData = [
     "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
     "stars": 2868,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8728,7 +5758,6 @@ const repoData = [
     "description": "A curated list of awesome tools for SQLAlchemy",
     "stars": 2866,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -8737,7 +5766,8 @@ const repoData = [
       "orm",
       "python",
       "rdbms",
-      "sqlalchemy"
+      "sqlalchemy",
+      "Python"
     ]
   },
   {
@@ -8747,21 +5777,7 @@ const repoData = [
     "description": "\ud83e\uddd1\u200d\ud83d\ude80 \u5168\u4e16\u754c\u6700\u597d\u7684LLM\u8d44\u6599\u603b\u7ed3 \\| Summary of the world's best LLM resources.",
     "stars": 2862,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "book",
-      "course",
-      "large-language-models",
-      "llama",
-      "llm",
-      "mistral",
-      "openai",
-      "qwen",
-      "rag",
-      "retrieval-augmented-generation",
-      "webui"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-awesome",
@@ -8770,11 +5786,7 @@ const repoData = [
     "description": "A curated list of awesome curated lists of many topics.",
     "stars": 2861,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-katas",
@@ -8783,22 +5795,7 @@ const repoData = [
     "description": "A curated list of code katas",
     "stars": 2860,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "code-katas",
-      "coding",
-      "coding-exercises",
-      "coding-katas",
-      "dojo",
-      "katas",
-      "learning",
-      "list",
-      "practice",
-      "training"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-performance",
@@ -8807,13 +5804,7 @@ const repoData = [
     "description": "Android performance optimization  tutorials, videos and tools list(Android\u6027\u80fd\u4f18\u5316\u89c6\u9891\uff0c\u6587\u6863\u4ee5\u53ca\u5de5\u5177) ",
     "stars": 2857,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "android-performance",
-      "memory-leak",
-      "performance-optimization"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ocr",
@@ -8822,7 +5813,6 @@ const repoData = [
     "description": "Links to awesome OCR projects",
     "stars": 2855,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8832,7 +5822,6 @@ const repoData = [
     "description": "List of articles related to deep learning applied to music",
     "stars": 2842,
     "updated_at": "2025-01-05",
-    "language": "TeX",
     "topics": [
       "article",
       "audio",
@@ -8853,7 +5842,8 @@ const repoData = [
       "neural-networks",
       "research",
       "resources",
-      "unicorns"
+      "unicorns",
+      "TeX"
     ]
   },
   {
@@ -8863,7 +5853,6 @@ const repoData = [
     "description": "Here I list down all of the high-quality blogs that I publish on my website.",
     "stars": 2837,
     "updated_at": "2025-01-03",
-    "language": "Java",
     "topics": [
       "android",
       "android-optimization",
@@ -8872,7 +5861,8 @@ const repoData = [
       "kotlin",
       "performance",
       "tutorial",
-      "tutorials"
+      "tutorials",
+      "Java"
     ]
   },
   {
@@ -8882,13 +5872,7 @@ const repoData = [
     "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
     "stars": 2836,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "ocaml",
-      "programming-language",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Microservices-DotNet",
@@ -8897,27 +5881,7 @@ const repoData = [
     "description": "\ud83d\udc8e A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
     "stars": 2833,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "asp-net",
-      "asp-net-core",
-      "aspnet",
-      "aspnet-core",
-      "aspnet-mvc",
-      "aspnetcore",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "distributed",
-      "distributed-systems",
-      "dotnet",
-      "dotnet-core",
-      "dotnetcore",
-      "microservice",
-      "microservice-architecture",
-      "microservices",
-      "microservices-architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bun",
@@ -8926,14 +5890,7 @@ const repoData = [
     "description": "\u26a1\ufe0f A curated list of awesome things related to Bun",
     "stars": 2827,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-bun",
-      "awesome-list",
-      "bun",
-      "bunjs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-taro",
@@ -8942,7 +5899,6 @@ const repoData = [
     "description": "\u591a\u7aef\u7edf\u4e00\u5f00\u53d1\u6846\u67b6 Taro \u4f18\u79c0\u5b66\u4e60\u8d44\u6e90\u6c47\u603b",
     "stars": 2811,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -8952,8 +5908,9 @@ const repoData = [
     "description": "Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.",
     "stars": 2809,
     "updated_at": "2024-11-29",
-    "language": "Objective-C",
-    "topics": []
+    "topics": [
+      "Objective-C"
+    ]
   },
   {
     "name": "awesome-rails-gem",
@@ -8962,8 +5919,9 @@ const repoData = [
     "description": "A collection of awesome Ruby Gems for Rails development.",
     "stars": 2807,
     "updated_at": "2025-01-02",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "Awesome-ChatGPT-prompts-ZH_CN",
@@ -8972,18 +5930,7 @@ const repoData = [
     "description": "\u5982\u4f55\u5c06ChatGPT\u8c03\u6559\u6210\u4e00\u53ea\u732b\u5a18",
     "stars": 2801,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "bing-chat",
-      "catgirl",
-      "chatgpt",
-      "claude",
-      "claude-slack",
-      "neko",
-      "newbing",
-      "prompt-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-healthcare",
@@ -8992,13 +5939,7 @@ const repoData = [
     "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
     "stars": 2795,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "health",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Vision-Attentions",
@@ -9007,8 +5948,9 @@ const repoData = [
     "description": "Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    ",
     "stars": 2793,
     "updated_at": "2025-01-03",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "awesome-mysql-cn",
@@ -9017,7 +5959,6 @@ const repoData = [
     "description": "MySQL \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5206\u6790\u5de5\u5177\u3001\u5907\u4efd\u3001\u6027\u80fd\u6d4b\u8bd5\u3001\u914d\u7f6e\u3001\u90e8\u7f72\u3001GUI \u7b49",
     "stars": 2789,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9027,14 +5968,7 @@ const repoData = [
     "description": "A curated list of awesome social engineering resources.",
     "stars": 2781,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "infosec",
-      "osint",
-      "psychology",
-      "social-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Quant-Machine-Learning-Trading",
@@ -9043,17 +5977,7 @@ const repoData = [
     "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
     "stars": 2779,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deep-learning",
-      "financial-machine-learning",
-      "machine-learning",
-      "machine-learning-trading",
-      "stock-trading",
-      "trading-strategies"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-quantum-machine-learning",
@@ -9062,7 +5986,6 @@ const repoData = [
     "description": "Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web",
     "stars": 2776,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "ai",
       "ant-colony-optimization",
@@ -9082,7 +6005,8 @@ const repoData = [
       "quantum-computing",
       "quantum-programming-language",
       "qubits",
-      "tensorflow"
+      "tensorflow",
+      "HTML"
     ]
   },
   {
@@ -9092,7 +6016,6 @@ const repoData = [
     "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
     "stars": 2772,
     "updated_at": "2025-01-05",
-    "language": "Vim Script",
     "topics": [
       "collection",
       "color-scheme",
@@ -9103,7 +6026,8 @@ const repoData = [
       "nvim",
       "plugins",
       "themes",
-      "vim"
+      "vim",
+      "Vim Script"
     ]
   },
   {
@@ -9113,17 +6037,7 @@ const repoData = [
     "description": "A curated collection of game development learning resources",
     "stars": 2769,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "education",
-      "game-development",
-      "gamedev",
-      "learn",
-      "learning",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-anomaly-detection",
@@ -9132,18 +6046,7 @@ const repoData = [
     "description": "A curated list of awesome anomaly detection resources",
     "stars": 2767,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "anomaly",
-      "anomaly-detection",
-      "anomalydetection",
-      "awesome",
-      "awesome-anomaly-detection",
-      "awesomeanomalydetection",
-      "deep-learning",
-      "machine-learning",
-      "machinelearning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ml-courses",
@@ -9152,14 +6055,7 @@ const repoData = [
     "description": "Awesome free machine learning and AI courses with video lectures.",
     "stars": 2756,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "ai-courses",
-      "artificial-intelligence",
-      "deep-learning",
-      "machine-learning",
-      "reinforcement-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-nodejs-security",
@@ -9168,18 +6064,7 @@ const repoData = [
     "description": "Awesome Node.js Security resources",
     "stars": 2753,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "cybersecurity",
-      "hacktoberfest",
-      "infosec",
-      "nodejs",
-      "owasp",
-      "pentest",
-      "security",
-      "vulnerabilities",
-      "web-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-oscp",
@@ -9188,17 +6073,7 @@ const repoData = [
     "description": "A curated list of awesome OSCP resources",
     "stars": 2752,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "offensive-security",
-      "oscp",
-      "oscp-prep",
-      "oscp-tools",
-      "penetration-testing",
-      "pentest",
-      "pentesting"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-oneliner-bugbounty",
@@ -9207,18 +6082,7 @@ const repoData = [
     "description": "A collection of awesome one-liner scripts especially for bug bounty tips.",
     "stars": 2742,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "bash",
-      "bug-bounty",
-      "bugbounty",
-      "bugbountytips",
-      "hacktoberfest",
-      "liner-scripts",
-      "one-liners",
-      "recon"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-computer-history",
@@ -9227,17 +6091,7 @@ const repoData = [
     "description": "An Awesome List of computer history videos, documentaries and related folklore",
     "stars": 2742,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computer-history",
-      "documentary",
-      "hackers",
-      "history",
-      "list",
-      "video"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-notebooks",
@@ -9246,7 +6100,6 @@ const repoData = [
     "description": "Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
     "stars": 2741,
     "updated_at": "2025-01-06",
-    "language": "Jupyter Notebook",
     "topics": [
       "awesome",
       "awesome-list",
@@ -9259,7 +6112,8 @@ const repoData = [
       "notebooks-templates",
       "opensource",
       "python",
-      "templates"
+      "templates",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -9269,7 +6123,6 @@ const repoData = [
     "description": "Awesome AI\uff0c\u4f60\u7684\u300a\u4eba\u5de5\u667a\u80fd\u6307\u5357\u300b\uff01",
     "stars": 2738,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9279,8 +6132,9 @@ const repoData = [
     "description": "\u8868\u767d\u4ee3\u7801\u6536\u85cf\u9986~\u8c01\u8bf4\u7a0b\u5e8f\u733f\u4e0d\u61c2\u6d6a\u6f2b\u2764\ufe0f",
     "stars": 2734,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "Awesome-WanAndroid",
@@ -9289,7 +6143,6 @@ const repoData = [
     "description": ":zap:\u81f4\u529b\u4e8e\u6253\u9020\u4e00\u6b3e\u6781\u81f4\u4f53\u9a8c\u7684 http://www.wanandroid.com/ \u5ba2\u6237\u7aef\uff0c\u77e5\u8bc6\u548c\u7f8e\u662f\u53ef\u4ee5\u5e76\u5b58\u7684\u54e6QAQn(*\u2267\u25bd\u2266*)n",
     "stars": 2733,
     "updated_at": "2025-01-01",
-    "language": "Java",
     "topics": [
       "android",
       "app",
@@ -9308,7 +6161,8 @@ const repoData = [
       "retrofit2",
       "rxbus",
       "rxjava2",
-      "wanandroid"
+      "wanandroid",
+      "Java"
     ]
   },
   {
@@ -9318,13 +6172,7 @@ const repoData = [
     "description": "a curated list of awesome streaming frameworks, applications, etc",
     "stars": 2731,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "stream-processing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-clojure",
@@ -9333,11 +6181,11 @@ const repoData = [
     "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
     "stars": 2715,
     "updated_at": "2025-01-06",
-    "language": "Clojure",
     "topics": [
       "awesome-list",
       "clojure",
-      "hacktoberfest"
+      "hacktoberfest",
+      "Clojure"
     ]
   },
   {
@@ -9347,12 +6195,7 @@ const repoData = [
     "description": "\u7edd\u5999\u7684\u4e2a\u4eba\u751f\u4ea7\u529b\uff08Awesome Productivity - Chinese version\uff09",
     "stars": 2711,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "productivity",
-      "productivity-booster"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-kotlin",
@@ -9361,15 +6204,7 @@ const repoData = [
     "description": "A curated list of awesome Kotlin frameworks, libraries, documents and other resources",
     "stars": 2705,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "android-development",
-      "java",
-      "kotlin",
-      "kotlin-android",
-      "kotlin-language",
-      "kotlin-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-AutoHotkey",
@@ -9378,7 +6213,6 @@ const repoData = [
     "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
     "stars": 2696,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9388,7 +6222,6 @@ const repoData = [
     "description": "\ud83d\ude80 Awesome (free) web apps that work without login",
     "stars": 2690,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "application",
       "applications",
@@ -9399,7 +6232,8 @@ const repoData = [
       "no-login",
       "no-login-web-apps",
       "portableapps",
-      "web-app"
+      "web-app",
+      "Shell"
     ]
   },
   {
@@ -9409,7 +6243,6 @@ const repoData = [
     "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
     "stars": 2681,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9419,24 +6252,7 @@ const repoData = [
     "description": "\ud83d\ude80 A curated and opinionated list of resources (English & Russian) for Backend developers \\| \u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f Backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
     "stars": 2679,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "backend",
-      "backend-developers",
-      "backend-engineers",
-      "computer-science",
-      "curated-list",
-      "databases",
-      "for-beginners",
-      "guide",
-      "guides",
-      "list",
-      "roadmap",
-      "software-engineering",
-      "topics",
-      "web"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mlss",
@@ -9445,14 +6261,14 @@ const repoData = [
     "description": "\ud83e\udd16 Machine Learning Summer School deadlines",
     "stars": 2670,
     "updated_at": "2025-01-05",
-    "language": "HTML",
     "topics": [
       "artificial-intelligence",
       "deep-learning",
       "machine-learning",
       "reinforcement-learning",
       "summer-school",
-      "summer-schools"
+      "summer-schools",
+      "HTML"
     ]
   },
   {
@@ -9462,7 +6278,6 @@ const repoData = [
     "description": "\u7b97\u6cd5\u5de5\u7a0b\u5e08(\u4eba\u5de5\u667a\u80fdCV\u65b9\u5411)\u9762\u8bd5\u95ee\u9898\u53ca\u76f8\u5173\u8d44\u6599",
     "stars": 2669,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9472,11 +6287,7 @@ const repoData = [
     "description": "A curated list of awesome resources for design and implement RESTful API's.",
     "stars": 2668,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-PICO-8",
@@ -9485,22 +6296,7 @@ const repoData = [
     "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
     "stars": 2664,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "8-bit-computer",
-      "8bit",
-      "awesome",
-      "awesome-list",
-      "cartridge",
-      "fantasy-console",
-      "game-development",
-      "game-engine",
-      "gamedev",
-      "list",
-      "lua",
-      "pico-8",
-      "pico8"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-data-science",
@@ -9509,20 +6305,7 @@ const repoData = [
     "description": "Probably the best curated list of data science software in Python.",
     "stars": 2654,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-python",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "deep-learning",
-      "machine-learning",
-      "python",
-      "scikit-learn",
-      "statistics"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Learning-with-Label-Noise",
@@ -9531,15 +6314,7 @@ const repoData = [
     "description": "A curated list of resources for Learning with Noisy Labels",
     "stars": 2650,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "deep-neural-networks",
-      "label-noise",
-      "noisy-data",
-      "noisy-labels",
-      "robust-learning",
-      "unreliable-labels"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-productivity",
@@ -9548,13 +6323,7 @@ const repoData = [
     "description": "A curated list of delightful productivity resources.",
     "stars": 2646,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "productivity"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-generative-ai",
@@ -9563,27 +6332,7 @@ const repoData = [
     "description": "A curated list of Generative AI tools, works, models, and references",
     "stars": 2635,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai-art",
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "dall-e",
-      "dalle2",
-      "embeddings",
-      "generative-ai",
-      "gpt-4",
-      "llm",
-      "llm-agent",
-      "midjourney",
-      "openai",
-      "prompt-engineering",
-      "semantic-search",
-      "stable-diffusion",
-      "text-to-image",
-      "txt2img"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-quantum-computing",
@@ -9592,13 +6341,7 @@ const repoData = [
     "description": "A curated list of awesome quantum computing learning and developing resources.",
     "stars": 2633,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "quantum",
-      "quantum-computing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cl",
@@ -9607,14 +6350,14 @@ const repoData = [
     "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
     "stars": 2633,
     "updated_at": "2025-01-04",
-    "language": "Makefile",
     "topics": [
       "awesome",
       "common-lisp",
       "common-lisp-tools",
       "libraries",
       "lisp",
-      "quicklisp"
+      "quicklisp",
+      "Makefile"
     ]
   },
   {
@@ -9624,10 +6367,7 @@ const repoData = [
     "description": "nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things ",
     "stars": 2631,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "nostr"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-node-based-uis",
@@ -9636,14 +6376,7 @@ const repoData = [
     "description": "A curated list with resources about node-based UIs",
     "stars": 2622,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "etl",
-      "node-based-ui",
-      "visual-programming",
-      "workflow-editor"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bilibili-extra",
@@ -9652,11 +6385,11 @@ const repoData = [
     "description": "\u6536\u96c6\u4e00\u4e9b\u8ba9\u6211\u4eec\u5728\u4f7f\u7528B\u7ad9\u65f6\u66f4\u52a0\u65b9\u4fbf\u7684\u6d4f\u89c8\u5668\u6269\u5c55/\u811a\u672c/\u7a0b\u5e8f\u3010\u6708\u5e95\u66f4\u65b0\u3011",
     "stars": 2621,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "awesome-list",
-      "bilibili"
+      "bilibili",
+      "JavaScript"
     ]
   },
   {
@@ -9666,17 +6399,7 @@ const repoData = [
     "description": "All things livecoding",
     "stars": 2616,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "coding",
-      "graphics",
-      "live",
-      "livecoding",
-      "music",
-      "synthesis"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-musicdsp",
@@ -9685,16 +6408,7 @@ const repoData = [
     "description": "A curated list of my favourite music DSP and audio programming resources",
     "stars": 2612,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "audio",
-      "audiounit",
-      "dsp",
-      "plugin",
-      "vst",
-      "vst2",
-      "vst3"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Super-Resolution",
@@ -9703,7 +6417,6 @@ const repoData = [
     "description": "Collect super-resolution related papers, data, repositories",
     "stars": 2609,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9713,13 +6426,7 @@ const repoData = [
     "description": "A curated list of network embedding techniques.",
     "stars": 2597,
     "updated_at": "2024-12-23",
-    "language": "Unknown",
-    "topics": [
-      "graph-embeddings",
-      "knowledge-graph",
-      "network-embedding",
-      "representation-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome",
@@ -9728,7 +6435,6 @@ const repoData = [
     "description": "\u26a1\ufe0f Delightful Rollup Plugins, Packages, and Resources",
     "stars": 2594,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9738,22 +6444,7 @@ const repoData = [
     "description": "\ud83d\ude0e \ud83d\udd17 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.",
     "stars": 2594,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "ctf",
-      "ethical-hacking",
-      "hacking",
-      "hacking-resources",
-      "hacktoberfest",
-      "learning-hacking",
-      "owasp",
-      "penetration-testing",
-      "resources",
-      "vulnerable-applications",
-      "web-hacking"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-html5",
@@ -9762,12 +6453,7 @@ const repoData = [
     "description": ":memo: A curated list of awesome HTML5 resources",
     "stars": 2580,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-startup-credits",
@@ -9776,14 +6462,7 @@ const repoData = [
     "description": "\u2728 A collection of awesome companies offering free/discounted plans for eligible startups",
     "stars": 2577,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "startup-credits",
-      "startups"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-saas-boilerplates",
@@ -9792,7 +6471,6 @@ const repoData = [
     "description": "No description",
     "stars": 2573,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -9802,16 +6480,7 @@ const repoData = [
     "description": "\ud83d\udcd5  Curated list of technical case studies on WebGL and creative development",
     "stars": 2572,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "case-studies",
-      "development",
-      "frontend",
-      "performance",
-      "reading",
-      "webgl"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-kotlin-apps",
@@ -9820,7 +6489,6 @@ const repoData = [
     "description": "\ud83d\udc53 A curated list of awesome android kotlin apps by open-source contributors.",
     "stars": 2565,
     "updated_at": "2025-01-06",
-    "language": "Kotlin",
     "topics": [
       "android",
       "awesome",
@@ -9841,7 +6509,8 @@ const repoData = [
       "rxjava",
       "unit-testing",
       "viewmodel",
-      "workmanager"
+      "workmanager",
+      "Kotlin"
     ]
   },
   {
@@ -9851,12 +6520,7 @@ const repoData = [
     "description": "some code tips for android \ud83d\udcaf",
     "stars": 2555,
     "updated_at": "2024-12-21",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "awesome",
-      "tips"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-game-security",
@@ -9865,7 +6529,6 @@ const repoData = [
     "description": "awesome game security [Welcome to PR]",
     "stars": 2540,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "android",
       "anti",
@@ -9886,7 +6549,8 @@ const repoData = [
       "security",
       "system",
       "web3",
-      "windows"
+      "windows",
+      "Python"
     ]
   },
   {
@@ -9896,13 +6560,7 @@ const repoData = [
     "description": " A curated list of awesome JupyterLab extensions and resources",
     "stars": 2539,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "collections",
-      "jupyterlab",
-      "jupyterlab-extension"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Knowledge-Distillation",
@@ -9911,15 +6569,7 @@ const repoData = [
     "description": "Awesome Knowledge-Distillation. \u5206\u7c7b\u6574\u7406\u7684\u77e5\u8bc6\u84b8\u998fpaper(2014-2021)\u3002",
     "stars": 2532,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "deep-learning",
-      "distillation",
-      "kd",
-      "knowldge-distillation",
-      "model-compression",
-      "transfer-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deep-text-detection-recognition",
@@ -9928,21 +6578,7 @@ const repoData = [
     "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
     "stars": 2517,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "awesome-lists",
-      "deep-learning",
-      "ocr",
-      "ocr-detection",
-      "ocr-paper",
-      "ocr-paper-list",
-      "ocr-papers",
-      "ocr-recognition",
-      "text-detection",
-      "text-detection-recognition",
-      "text-recognition"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ssh",
@@ -9951,20 +6587,7 @@ const repoData = [
     "description": ":computer: A curated list of SSH resources.",
     "stars": 2514,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "devops",
-      "list",
-      "mosh",
-      "openssh",
-      "ssh",
-      "ssh-agent",
-      "ssh-key",
-      "ssh-keys",
-      "ssh-keyscan"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-git",
@@ -9973,13 +6596,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
     "stars": 2503,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "git"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mongodb",
@@ -9988,14 +6605,7 @@ const repoData = [
     "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
     "stars": 2502,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "mongodb",
-      "mongodb-resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-draft-js",
@@ -10004,13 +6614,7 @@ const repoData = [
     "description": "Awesome list of Draft.js resources",
     "stars": 2497,
     "updated_at": "2024-12-21",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "draft-js",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Deblurring",
@@ -10019,23 +6623,7 @@ const repoData = [
     "description": "A curated list of resources for Image and Video Deblurring",
     "stars": 2495,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "burst-deblurring",
-      "camera-shake",
-      "deblurring",
-      "deep-learning",
-      "defocus-blur",
-      "defocus-deblurring",
-      "image-deblurring",
-      "image-deconvolution",
-      "kernel-estimation",
-      "motion-blur",
-      "motion-deblurring",
-      "restoration",
-      "stereo-deblurring",
-      "video-deblurring"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-programmers",
@@ -10044,11 +6632,11 @@ const repoData = [
     "description": "A list of history's greatest software engineers and tech pioneers",
     "stars": 2489,
     "updated_at": "2025-01-04",
-    "language": "CSS",
     "topics": [
       "awesome",
       "best-software-engineers",
-      "software-engineers"
+      "software-engineers",
+      "CSS"
     ]
   },
   {
@@ -10058,7 +6646,6 @@ const repoData = [
     "description": "A curated list of resources on implicit neural representations.",
     "stars": 2485,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10068,14 +6655,7 @@ const repoData = [
     "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
     "stars": 2483,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "game",
-      "game-development",
-      "game-programming"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-portfolio-websites",
@@ -10084,7 +6664,6 @@ const repoData = [
     "description": "A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.",
     "stars": 2472,
     "updated_at": "2025-01-04",
-    "language": "HTML",
     "topics": [
       "ch-20",
       "css",
@@ -10102,7 +6681,8 @@ const repoData = [
       "sci20",
       "slop",
       "slop20",
-      "swoc2021"
+      "swoc2021",
+      "HTML"
     ]
   },
   {
@@ -10112,13 +6692,7 @@ const repoData = [
     "description": "\ud83c\udfa8 A curated list of awesome resources for digital designers.",
     "stars": 2471,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "design",
-      "ui-design",
-      "ux-design",
-      "webdesign"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sushi",
@@ -10127,16 +6701,7 @@ const repoData = [
     "description": "\ud83c\udf63 \uad6d\ub0b4 \uc2a4\uc2dc \uc624\ub9c8\uce74\uc138 \ub9db\uc9d1 \ub9ac\uc2a4\ud2b8",
     "stars": 2468,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "japan",
-      "korea",
-      "korean",
-      "seoul",
-      "sushi",
-      "sushi-ware"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-terminal-fonts",
@@ -10145,8 +6710,9 @@ const repoData = [
     "description": "Tools and instructions on how to have awesome symbols in a terminal with a monospace font",
     "stars": 2463,
     "updated_at": "2025-01-02",
-    "language": "Shell",
-    "topics": []
+    "topics": [
+      "Shell"
+    ]
   },
   {
     "name": "awesome-nest-boilerplate",
@@ -10155,8 +6721,9 @@ const repoData = [
     "description": "Awesome NestJS Boilerplate \ud83d\ude0d, Typescript \ud83d\udcaa, Postgres \ud83c\udf89, TypeORM \ud83e\udd73",
     "stars": 2461,
     "updated_at": "2025-01-06",
-    "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "TypeScript"
+    ]
   },
   {
     "name": "awesome-cs",
@@ -10165,13 +6732,7 @@ const repoData = [
     "description": "\u8ba1\u7b97\u673a\u4f18\u8d28\u4e66\u7c4d\u641c\u7f57+\u5b66\u4e60\u8def\u7ebf\u63a8\u8350\uff01",
     "stars": 2460,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "algorithms",
-      "computer-science",
-      "data-structures",
-      "system"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tensor-compilers",
@@ -10180,16 +6741,7 @@ const repoData = [
     "description": "A list of awesome compiler projects and papers for tensor computation and deep learning.",
     "stars": 2455,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "code-generation",
-      "compiler",
-      "deep-learning",
-      "high-performance-computing",
-      "machine-learning",
-      "programming-language",
-      "tensor"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-emails",
@@ -10198,19 +6750,7 @@ const repoData = [
     "description": "\u2709\ufe0f An awesome list of resources to build better emails.",
     "stars": 2454,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "email",
-      "email-campaigns",
-      "email-marketing",
-      "email-template",
-      "emails",
-      "html",
-      "html-emails",
-      "jdion",
-      "responsive-email"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-human-pose-estimation",
@@ -10219,17 +6759,7 @@ const repoData = [
     "description": "A collection of awesome resources in Human Pose estimation.",
     "stars": 2453,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "2d-human-pose",
-      "3d-human-pose",
-      "awesome-list",
-      "computer-vision",
-      "deep-learning",
-      "deep-learning-papers",
-      "human-pose-estimation",
-      "pose-estimation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-images",
@@ -10238,7 +6768,6 @@ const repoData = [
     "description": "A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.",
     "stars": 2450,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10248,7 +6777,6 @@ const repoData = [
     "description": "\ud83d\udc0b Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.",
     "stars": 2447,
     "updated_at": "2025-01-05",
-    "language": "PHP",
     "topics": [
       "docker",
       "feedly",
@@ -10257,7 +6785,8 @@ const repoData = [
       "rss-feed",
       "rss-reader",
       "tt-rss",
-      "ttrss"
+      "ttrss",
+      "PHP"
     ]
   },
   {
@@ -10267,7 +6796,6 @@ const repoData = [
     "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7",
     "stars": 2441,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10277,12 +6805,7 @@ const repoData = [
     "description": "Awesome Crowd Counting",
     "stars": 2436,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "crowd-analysis",
-      "crowd-counting"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-angularjs",
@@ -10291,7 +6814,6 @@ const repoData = [
     "description": ":cyclone: A list of awesome AngularJs services, directives, utilities and resources.",
     "stars": 2433,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10301,15 +6823,7 @@ const repoData = [
     "description": "Collect libraries and packages about blockchain/cryptography in Rust",
     "stars": 2433,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "blockchain",
-      "consensus",
-      "cryptography",
-      "p2p",
-      "rust"
-    ]
+    "topics": []
   },
   {
     "name": "vue-awesome",
@@ -10318,12 +6832,12 @@ const repoData = [
     "description": "Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.",
     "stars": 2430,
     "updated_at": "2024-12-27",
-    "language": "JavaScript",
     "topics": [
       "font-awesome",
       "icon",
       "svg",
-      "vue"
+      "vue",
+      "JavaScript"
     ]
   },
   {
@@ -10333,7 +6847,6 @@ const repoData = [
     "description": "A List of Quality OpenResty Libraries, and Resources.",
     "stars": 2423,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10343,16 +6856,7 @@ const repoData = [
     "description": "A curated list of awesome puppeteer resources.",
     "stars": 2422,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "automation",
-      "awesome",
-      "awesome-list",
-      "crawling",
-      "headless-chrome",
-      "puppeteer",
-      "scraping"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cordova-plugins",
@@ -10361,13 +6865,13 @@ const repoData = [
     "description": "Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. ",
     "stars": 2416,
     "updated_at": "2025-01-01",
-    "language": "TypeScript",
     "topics": [
       "angular",
       "cordova",
       "cordova-plugin",
       "ionic",
-      "ionic-framework"
+      "ionic-framework",
+      "TypeScript"
     ]
   },
   {
@@ -10377,11 +6881,11 @@ const repoData = [
     "description": "Awesome Typst Links",
     "stars": 2409,
     "updated_at": "2025-01-06",
-    "language": "Emacs Lisp",
     "topics": [
       "awesome",
       "awesome-list",
-      "typst"
+      "typst",
+      "Emacs Lisp"
     ]
   },
   {
@@ -10391,12 +6895,7 @@ const repoData = [
     "description": ":boom: Funny comments",
     "stars": 2408,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "comment",
-      "comments"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-peer-to-peer",
@@ -10405,13 +6904,7 @@ const repoData = [
     "description": "A list of peer-to-peer resources.",
     "stars": 2404,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "p2p",
-      "peer-to-peer",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome_nested_set",
@@ -10420,8 +6913,9 @@ const repoData = [
     "description": "An awesome replacement for acts_as_nested_set and better_nested_set.",
     "stars": 2401,
     "updated_at": "2025-01-02",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "awesome-italia-remote",
@@ -10430,7 +6924,6 @@ const repoData = [
     "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
     "stars": 2400,
     "updated_at": "2025-01-02",
-    "language": "Go",
     "topics": [
       "awesome",
       "awesome-list",
@@ -10438,7 +6931,8 @@ const repoData = [
       "jobs",
       "list",
       "remote",
-      "remote-jobs"
+      "remote-jobs",
+      "Go"
     ]
   },
   {
@@ -10448,29 +6942,7 @@ const repoData = [
     "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
     "stars": 2399,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "2d-virtual-try-on",
-      "3d-virtual-try-on",
-      "awesome-list",
-      "awesome-lists",
-      "cloth",
-      "collection",
-      "curated",
-      "curated-list",
-      "fashion",
-      "fashion-tech",
-      "garment",
-      "image",
-      "image-based",
-      "multi-pose",
-      "multi-pose-guided",
-      "try-on",
-      "video",
-      "video-virtual-try-on",
-      "virtual-try-on",
-      "vton"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Cybersecurity-Handbooks",
@@ -10479,20 +6951,7 @@ const repoData = [
     "description": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
     "stars": 2397,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "capture-the-flag",
-      "ctf",
-      "cybersecurity",
-      "handbooks",
-      "infosec",
-      "offensive",
-      "offensive-security",
-      "penetration-testing",
-      "pentesting",
-      "red-teaming",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-software-architecture",
@@ -10501,14 +6960,7 @@ const repoData = [
     "description": "A curated list of resources on software architecture",
     "stars": 2396,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "software-architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vector-tiles",
@@ -10517,7 +6969,6 @@ const repoData = [
     "description": "Awesome implementations of the Mapbox Vector Tile specification",
     "stars": 2394,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10527,8 +6978,9 @@ const repoData = [
     "description": "A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.",
     "stars": 2390,
     "updated_at": "2024-12-27",
-    "language": "CSS",
-    "topics": []
+    "topics": [
+      "CSS"
+    ]
   },
   {
     "name": "awesome-jellyfin",
@@ -10537,12 +6989,12 @@ const repoData = [
     "description": "A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)",
     "stars": 2387,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "awesome",
       "awesome-list",
       "hacktoberfest",
-      "jellyfin"
+      "jellyfin",
+      "Shell"
     ]
   },
   {
@@ -10552,7 +7004,6 @@ const repoData = [
     "description": "A collection of research papers on decision, classification and regression trees with implementations.",
     "stars": 2386,
     "updated_at": "2025-01-03",
-    "language": "Python",
     "topics": [
       "cart",
       "catboost",
@@ -10573,7 +7024,8 @@ const repoData = [
       "regression-tree",
       "statistical-learning",
       "tree-ensemble",
-      "xgboost"
+      "xgboost",
+      "Python"
     ]
   },
   {
@@ -10583,13 +7035,7 @@ const repoData = [
     "description": "A curated list of neural network pruning resources.",
     "stars": 2385,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "model-acceleration",
-      "model-compression",
-      "pruning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mysql",
@@ -10598,7 +7044,6 @@ const repoData = [
     "description": "A curated list of awesome MySQL software, libraries, tools and resources",
     "stars": 2382,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10608,18 +7053,7 @@ const repoData = [
     "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
     "stars": 2381,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "lists",
-      "quantified",
-      "quantified-self",
-      "self",
-      "tracking",
-      "wearables"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dart",
@@ -10628,14 +7062,7 @@ const repoData = [
     "description": "A curated list of awesome Dart frameworks, libraries, and software",
     "stars": 2378,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "dart",
-      "dart-frameworks",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-english",
@@ -10644,15 +7071,7 @@ const repoData = [
     "description": "A collection of awesome study resources for learners of English.",
     "stars": 2366,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "english",
-      "english-resources",
-      "esl",
-      "learn-english"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-robotics-libraries",
@@ -10661,18 +7080,7 @@ const repoData = [
     "description": ":sunglasses: A curated list of robotics libraries and software",
     "stars": 2362,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "machine-learning",
-      "motion-planning",
-      "multibody-dynamics",
-      "optimization",
-      "robotics",
-      "robotics-libraries",
-      "simulation",
-      "slam"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-repos",
@@ -10681,21 +7089,7 @@ const repoData = [
     "description": "A curated list of GitHub Repositories full of FREE Resources.",
     "stars": 2361,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-repos",
-      "awesome-repositories",
-      "free",
-      "github",
-      "github-repos",
-      "hacktoberfest",
-      "hacktoberfest-accepted",
-      "hacktorberfest",
-      "repos",
-      "repositories",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-logseq",
@@ -10704,7 +7098,6 @@ const repoData = [
     "description": "Awesome Logseq resources created by the community <3",
     "stars": 2361,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10714,11 +7107,7 @@ const repoData = [
     "description": "Curated Awesome list about Network Automation",
     "stars": 2360,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-avalonia",
@@ -10727,15 +7116,7 @@ const repoData = [
     "description": "A collection of interesting libraries and tools for Avalonia project.",
     "stars": 2358,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "avalonia",
-      "avaloniaui",
-      "awsome",
-      "awsome-list",
-      "csharp",
-      "dotnet"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-seo",
@@ -10744,25 +7125,7 @@ const repoData = [
     "description": "Google SEO Research and Web Traffic Monetization",
     "stars": 2355,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ahrefs-seo",
-      "awesome",
-      "awesome-list",
-      "best-practices",
-      "collections",
-      "google",
-      "google-seo",
-      "marketing",
-      "moz-seo",
-      "optimization",
-      "search-engine",
-      "search-engine-optimization",
-      "semrush",
-      "seo",
-      "seo-twitter",
-      "tips"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-raspberry-pi-zh",
@@ -10771,10 +7134,7 @@ const repoData = [
     "description": "\u6811\u8393\u6d3e(Raspberry Pi )\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248 , \u5305\u62ec\u5de5\u5177\u3001\u9879\u76ee\u3001\u955c\u50cf\u3001\u8d44\u6e90\u7b49",
     "stars": 2353,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "raspberry-pi"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-docsify",
@@ -10783,13 +7143,7 @@ const repoData = [
     "description": "\ud83d\udc96 A curated list of awesome things related to docsify",
     "stars": 2351,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "docsify",
-      "docsify-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-interview",
@@ -10798,13 +7152,13 @@ const repoData = [
     "description": "\u5251\u6307\u524d\u7aef Offer",
     "stars": 2351,
     "updated_at": "2025-01-03",
-    "language": "HTML",
     "topics": [
       "algorithms",
       "front-end",
       "interview-questions",
       "programming",
-      "web"
+      "web",
+      "HTML"
     ]
   },
   {
@@ -10814,11 +7168,11 @@ const repoData = [
     "description": "Awesome TypeScript loader for webpack",
     "stars": 2350,
     "updated_at": "2024-12-14",
-    "language": "TypeScript",
     "topics": [
       "loader",
       "typescript",
-      "webpack"
+      "webpack",
+      "TypeScript"
     ]
   },
   {
@@ -10828,7 +7182,6 @@ const repoData = [
     "description": "A curated list of community detection research papers with implementations. ",
     "stars": 2343,
     "updated_at": "2025-01-03",
-    "language": "Python",
     "topics": [
       "bigclam",
       "clustering",
@@ -10849,7 +7202,8 @@ const repoData = [
       "networkx",
       "node2vec",
       "social-network",
-      "unsupervised-learning"
+      "unsupervised-learning",
+      "Python"
     ]
   },
   {
@@ -10859,12 +7213,7 @@ const repoData = [
     "description": "A curated list of awesome things related to functional programming in Python.",
     "stars": 2341,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "functional-programming",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-product-design",
@@ -10873,23 +7222,7 @@ const repoData = [
     "description": "A collection of bookmarks, resources, articles for product designers.",
     "stars": 2336,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "article",
-      "awesome",
-      "awesome-list",
-      "bookmark",
-      "design",
-      "design-resource",
-      "font",
-      "iot",
-      "list",
-      "product-design",
-      "stock",
-      "tools",
-      "ui",
-      "ux"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-unity3d",
@@ -10898,7 +7231,6 @@ const repoData = [
     "description": "A categorized collection of awesome opensource unity3d repos",
     "stars": 2335,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10908,14 +7240,7 @@ const repoData = [
     "description": "\u6536\u96c6\u548c\u68b3\u7406\u5782\u76f4\u9886\u57df\u7684\u5f00\u6e90\u6a21\u578b\u3001\u6570\u636e\u96c6\u53ca\u8bc4\u6d4b\u57fa\u51c6\u3002",
     "stars": 2329,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "dataset",
-      "llm",
-      "nlp",
-      "paper-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ai-devtools",
@@ -10924,7 +7249,6 @@ const repoData = [
     "description": "Curated list of AI-powered developer tools.",
     "stars": 2324,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -10934,29 +7258,7 @@ const repoData = [
     "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
     "stars": 2321,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "automotive",
-      "automotive-security",
-      "awesome",
-      "awesome-list",
-      "bus-monitoring",
-      "can",
-      "can-bus",
-      "can-fd",
-      "canbus",
-      "canutils",
-      "car-hacking",
-      "elm327",
-      "embedded",
-      "j2534",
-      "lawicel",
-      "logger",
-      "obd2",
-      "slcan",
-      "sniffer",
-      "socketcan"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-editorjs",
@@ -10965,14 +7267,7 @@ const repoData = [
     "description": "\ud83e\udd29 A curated list of awesome Editor.js tools, libraries and resources.",
     "stars": 2312,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "editorjs",
-      "libraries",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-neural-rendering",
@@ -10981,14 +7276,7 @@ const repoData = [
     "description": "Resources of Neural Rendering",
     "stars": 2309,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "computer-graphics",
-      "computer-vision",
-      "neural-rendering",
-      "neural-representations"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-gan-for-medical-imaging",
@@ -10997,20 +7285,7 @@ const repoData = [
     "description": "Awesome GAN for Medical Imaging",
     "stars": 2306,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "ct-denoising",
-      "deeplearning",
-      "detection",
-      "gan",
-      "generative-adversarial-network",
-      "medical-image-synthesis",
-      "medical-imaging",
-      "reconstruction",
-      "registration",
-      "segmentation",
-      "super-resolution"
-    ]
+    "topics": []
   },
   {
     "name": "windows11",
@@ -11019,7 +7294,6 @@ const repoData = [
     "description": "\ud83c\udf0e Windows 11 Settings, Tweaks, Scripts",
     "stars": 2302,
     "updated_at": "2025-01-06",
-    "language": "Batchfile",
     "topics": [
       "flighthub",
       "powershell",
@@ -11029,7 +7303,8 @@ const repoData = [
       "windows-10",
       "windows-11",
       "windows10",
-      "windows11"
+      "windows11",
+      "Batchfile"
     ]
   },
   {
@@ -11039,16 +7314,7 @@ const repoData = [
     "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
     "stars": 2286,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "books",
-      "computervision",
-      "learning",
-      "point-cloud",
-      "reconstruction",
-      "ros",
-      "slam"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-geojson",
@@ -11057,13 +7323,7 @@ const repoData = [
     "description": "GeoJSON utilities that will make your life easier.",
     "stars": 2278,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "geojson",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "jetpack-compose-awesome",
@@ -11072,13 +7332,13 @@ const repoData = [
     "description": "\ud83d\udcdd A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
     "stars": 2263,
     "updated_at": "2025-01-05",
-    "language": "Kotlin",
     "topics": [
       "android",
       "android-jetpack",
       "awesome",
       "jetpack-compose",
-      "kotlin"
+      "kotlin",
+      "Kotlin"
     ]
   },
   {
@@ -11088,19 +7348,7 @@ const repoData = [
     "description": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT",
     "stars": 2263,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "chatgpt-api",
-      "gpt-3",
-      "gpt-4",
-      "gpt-o1",
-      "llm",
-      "nlp",
-      "openai"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-AutoDL",
@@ -11109,7 +7357,6 @@ const repoData = [
     "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
     "stars": 2260,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "autodl",
       "automl",
@@ -11117,7 +7364,8 @@ const repoData = [
       "deep-learning",
       "hyper-parameter-optimization",
       "nas",
-      "neural-architecture-search"
+      "neural-architecture-search",
+      "Python"
     ]
   },
   {
@@ -11127,23 +7375,7 @@ const repoData = [
     "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
     "stars": 2258,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cpp",
-      "javascript",
-      "qml",
-      "qml-bindings",
-      "qpm",
-      "qt",
-      "qt-quick",
-      "qt4",
-      "qt5",
-      "qtcreator",
-      "qtquick",
-      "qtquick-controls"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chatgpt",
@@ -11152,36 +7384,15 @@ const repoData = [
     "description": "\ud83e\udde0 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. \ud83c\udf1f Please consider supporting this project by giving it a star.",
     "stars": 2255,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatbot",
-      "chatgpt",
-      "chatgpt-api",
-      "chatgpt-api-wrapper",
-      "chatgpt-browser-extension",
-      "chatgpt-chrome-extension",
-      "chatgpt-firefox-extension",
-      "chatgpt-go",
-      "chatgpt-sdk",
-      "chatgpt3",
-      "machine-learning",
-      "machinelearning",
-      "nlp",
-      "openai",
-      "openai-api",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-systematic-trading",
     "full_name": "wangzhe3224/awesome-systematic-trading",
     "html_url": "https://github.com/wangzhe3224/awesome-systematic-trading",
     "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more \\| \u91cf\u5316\u4ea4\u6613 \\| \u91cf\u5316\u6295\u8d44",
-    "stars": 2249,
+    "stars": 2250,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "algorithmic-trading",
       "alpha",
@@ -11202,7 +7413,8 @@ const repoData = [
       "trading",
       "trading-algorithms",
       "trading-bot",
-      "trading-strategies"
+      "trading-strategies",
+      "HTML"
     ]
   },
   {
@@ -11212,7 +7424,6 @@ const repoData = [
     "description": " A curated list of pretrained sentence and word embedding models",
     "stars": 2237,
     "updated_at": "2025-01-03",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -11231,7 +7442,8 @@ const repoData = [
       "subword-models",
       "unsupervised-learning",
       "word-embeddings",
-      "wordembedding"
+      "wordembedding",
+      "Python"
     ]
   },
   {
@@ -11241,16 +7453,7 @@ const repoData = [
     "description": "\u4e2d\u6587\u533b\u5b66NLP\u516c\u5f00\u8d44\u6e90\u6574\u7406\uff1a\u672f\u8bed\u96c6/\u8bed\u6599\u5e93/\u8bcd\u5411\u91cf/\u9884\u8bad\u7ec3\u6a21\u578b/\u77e5\u8bc6\u56fe\u8c31/\u547d\u540d\u5b9e\u4f53\u8bc6\u522b/QA/\u4fe1\u606f\u62bd\u53d6/\u6a21\u578b/\u8bba\u6587/etc",
     "stars": 2236,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "dataset",
-      "dictionary",
-      "knowledge-graph",
-      "medical",
-      "model",
-      "nlp",
-      "resource"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Text-to-Image",
@@ -11259,19 +7462,7 @@ const repoData = [
     "description": "(\u0dc6`\ua4b3\u00b4\u0dc6) A Survey on Text-to-Image Generation/Synthesis.",
     "stars": 2236,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awseome-list",
-      "generative-adversarial-network",
-      "image-generation",
-      "image-manipulation",
-      "image-synthesis",
-      "multimodal",
-      "multimodal-deep-learning",
-      "survey",
-      "text-to-face",
-      "text-to-image"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-eventstorming",
@@ -11280,15 +7471,7 @@ const repoData = [
     "description": "Awesome EventStorming",
     "stars": 2234,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "articles",
-      "eventstorming",
-      "knowledge",
-      "links",
-      "videos",
-      "workshop-materials"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Graph-Neural-Networks",
@@ -11297,15 +7480,7 @@ const repoData = [
     "description": "Paper Lists for Graph Neural Networks",
     "stars": 2230,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "convolutional-networks",
-      "deep-learning",
-      "generated-graphs",
-      "graph-attention",
-      "graph-auto-encoder",
-      "graph-network"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dotnet-maui",
@@ -11314,13 +7489,7 @@ const repoData = [
     "description": "A curated list of awesome .NET MAUI libraries and resources.",
     "stars": 2229,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "dotnet",
-      "dotnet-maui",
-      "maui"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-certificates",
@@ -11329,17 +7498,7 @@ const repoData = [
     "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
     "stars": 2228,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "badges",
-      "career",
-      "certificate",
-      "courses",
-      "free",
-      "hacktoberfest"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-regression-testing",
@@ -11348,13 +7507,7 @@ const repoData = [
     "description": "\ud83d\udd76\ufe0f A curated list of resources around the topic: visual regression testing",
     "stars": 2219,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "test-automation",
-      "testing",
-      "testing-tools"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-LLM-Reasoning",
@@ -11363,27 +7516,7 @@ const repoData = [
     "description": "Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 \ud83c\udf53",
     "stars": 2214,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "chain-of-thought",
-      "chatgpt",
-      "cot",
-      "gpt",
-      "gpt-4o",
-      "in-context-learning",
-      "insight-v",
-      "language-models",
-      "marco-o1",
-      "mllm",
-      "multimodal",
-      "openai-o1",
-      "papers",
-      "prompt",
-      "prompt-engineering",
-      "reasoning",
-      "strawberry"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-autonomous-vehicles",
@@ -11392,14 +7525,7 @@ const repoData = [
     "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
     "stars": 2210,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "autonomous-cars",
-      "autonomous-vehicles",
-      "car-driving",
-      "computer-vision",
-      "deep-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-webapp",
@@ -11408,11 +7534,7 @@ const repoData = [
     "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7\uff1a\u7f51\u7ad9+iOS App\u6e90\u7801",
     "stars": 2203,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "python",
-      "python3"
-    ]
+    "topics": []
   },
   {
     "name": "awesome",
@@ -11421,15 +7543,7 @@ const repoData = [
     "description": "A curated list of awesome Chart.js resources and libraries",
     "stars": 2199,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "chartjs",
-      "charts",
-      "integrations",
-      "plugins",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-layers",
@@ -11438,17 +7552,7 @@ const repoData = [
     "description": "\u03bb A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
     "stars": 2198,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "aws",
-      "aws-lambda",
-      "cloud",
-      "serverless",
-      "serverless-application-model",
-      "serverless-framework",
-      "serverless-functions"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-opengl",
@@ -11457,20 +7561,7 @@ const repoData = [
     "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
     "stars": 2194,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "computer-graphics",
-      "game-development",
-      "glsl-editors",
-      "graphics-pipeline",
-      "lists",
-      "opengl",
-      "opengl-library",
-      "opengl-tutorial",
-      "video-tutorial"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-opensource-data-engineering",
@@ -11479,11 +7570,7 @@ const repoData = [
     "description": "An Awesome List of Open-Source Data Engineering Projects",
     "stars": 2194,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "data-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-engineering-management",
@@ -11492,15 +7579,7 @@ const repoData = [
     "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
     "stars": 2193,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "engineering-management",
-      "leadership",
-      "productivity",
-      "project-management"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mobx",
@@ -11509,7 +7588,6 @@ const repoData = [
     "description": "A collection of awesome things regarding MobX.",
     "stars": 2188,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11519,7 +7597,6 @@ const repoData = [
     "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
     "stars": 2185,
     "updated_at": "2024-12-27",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11529,15 +7606,7 @@ const repoData = [
     "description": "A curated list of MQTT related stuff. :sparkles:",
     "stars": 2176,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "internet-of-things",
-      "list",
-      "mqtt",
-      "smarthome"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-iot-hacks",
@@ -11546,13 +7615,7 @@ const repoData = [
     "description": "A Collection of Hacks in IoT Space so that we can address them (hopefully).",
     "stars": 2166,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "hack",
-      "iot",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wm-widgets",
@@ -11561,7 +7624,6 @@ const repoData = [
     "description": "Widgets for Awesome Window Manager",
     "stars": 2165,
     "updated_at": "2025-01-04",
-    "language": "Lua",
     "topics": [
       "awesome-wm-widgets",
       "awesomewm",
@@ -11570,7 +7632,8 @@ const repoData = [
       "gerrit",
       "jira",
       "spotify",
-      "widgets"
+      "widgets",
+      "Lua"
     ]
   },
   {
@@ -11580,12 +7643,7 @@ const repoData = [
     "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
     "stars": 2157,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "gpt-4"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-serverless",
@@ -11594,15 +7652,7 @@ const repoData = [
     "description": "DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.",
     "stars": 2147,
     "updated_at": "2024-12-25",
-    "language": "Unknown",
-    "topics": [
-      "serverless",
-      "serverless-applications",
-      "serverless-architectures",
-      "serverless-framework",
-      "serverless-functions",
-      "serverless-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Python-Scripts",
@@ -11611,9 +7661,9 @@ const repoData = [
     "description": "A Curated list of Awesome Python Scripts that Automate Stuffs. ",
     "stars": 2146,
     "updated_at": "2025-01-04",
-    "language": "Python",
     "topics": [
-      "hacktoberfest"
+      "hacktoberfest",
+      "Python"
     ]
   },
   {
@@ -11623,12 +7673,12 @@ const repoData = [
     "description": "A curated list of awesome Dash (plotly) resources",
     "stars": 2143,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "plotly",
-      "python"
+      "python",
+      "Python"
     ]
   },
   {
@@ -11638,18 +7688,7 @@ const repoData = [
     "description": "Awesome papers about unifying LLMs and KGs",
     "stars": 2141,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awsome",
-      "chatgpt",
-      "gpt-4",
-      "kg",
-      "knowledge-graph",
-      "language-model",
-      "large-language-model",
-      "llm",
-      "survey"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-github",
@@ -11658,23 +7697,7 @@ const repoData = [
     "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  \u6536\u96c6\u8fd9\u4e2a\u5217\u8868\uff0c\u53ea\u662f\u4e3a\u4e86\u66f4\u597d\u5730\u4f7f\u7528GitHub,\u6b22\u8fce\u63d0\u4ea4pr\u548cissue\u3002",
     "stars": 2139,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome-github",
-      "awesome-list",
-      "git",
-      "gitbook",
-      "github",
-      "github-api",
-      "github-card",
-      "github-client",
-      "github-extension",
-      "github-pages",
-      "github-rank",
-      "github-stars",
-      "github-trending",
-      "travis-ci"
-    ]
+    "topics": []
   },
   {
     "name": "awesome_time_series_in_python",
@@ -11683,13 +7706,7 @@ const repoData = [
     "description": "This curated list contains  python packages for time series analysis",
     "stars": 2129,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "machine-learning",
-      "python",
-      "statistics",
-      "time-series"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-research",
@@ -11698,17 +7715,7 @@ const repoData = [
     "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
     "stars": 2128,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesomeness",
-      "list",
-      "research",
-      "research-tool",
-      "research-tools",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-developer-experience",
@@ -11717,7 +7724,6 @@ const repoData = [
     "description": "\ud83e\udd18 A curated list of DX (Developer Experience) resources",
     "stars": 2126,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11727,7 +7733,6 @@ const repoData = [
     "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
     "stars": 2123,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -11738,7 +7743,8 @@ const repoData = [
       "productivity",
       "resources",
       "sre",
-      "tools"
+      "tools",
+      "Python"
     ]
   },
   {
@@ -11748,7 +7754,6 @@ const repoData = [
     "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
     "stars": 2122,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11758,17 +7763,7 @@ const repoData = [
     "description": "Actively curated list of awesome BI tools. PRs welcome!",
     "stars": 2109,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "business-intelligence",
-      "data-analysis",
-      "data-science",
-      "data-visualization",
-      "database",
-      "etl",
-      "sql"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cloud-security",
@@ -11777,19 +7772,7 @@ const repoData = [
     "description": "\ud83d\udee1\ufe0f Awesome Cloud Security Resources \u2694\ufe0f",
     "stars": 2107,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "aws",
-      "aws-security",
-      "azure",
-      "azure-security",
-      "cloud-computing",
-      "cloud-security",
-      "cybersecurity",
-      "gcp",
-      "gcp-security",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cloud-native",
@@ -11798,14 +7781,14 @@ const repoData = [
     "description": "A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/",
     "stars": 2105,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
       "cloud-native",
       "containers",
       "devops",
-      "microservices"
+      "microservices",
+      "HTML"
     ]
   },
   {
@@ -11815,12 +7798,7 @@ const repoData = [
     "description": "An Awesome List for getting started with web archiving",
     "stars": 2100,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "webarchiving"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-streamlit",
@@ -11829,7 +7807,6 @@ const repoData = [
     "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
     "stars": 2098,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "analytics",
       "apps",
@@ -11845,7 +7822,8 @@ const repoData = [
       "models",
       "python",
       "streamlit",
-      "trading"
+      "trading",
+      "HTML"
     ]
   },
   {
@@ -11855,28 +7833,7 @@ const repoData = [
     "description": "\ud83d\udc54 How to transition from software development to engineering management",
     "stars": 2097,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "career",
-      "compensation",
-      "cto",
-      "culture",
-      "engineering-team",
-      "executive-management",
-      "hiring",
-      "leadership",
-      "management",
-      "motivation",
-      "onboarding",
-      "politics",
-      "product-management",
-      "project-management",
-      "recruitment",
-      "systems",
-      "transition"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-jvm",
@@ -11885,7 +7842,6 @@ const repoData = [
     "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
     "stars": 2092,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11895,12 +7851,7 @@ const repoData = [
     "description": "awesome list of browser exploitation tutorials",
     "stars": 2073,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "browser-exploitation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-argo",
@@ -11909,29 +7860,7 @@ const repoData = [
     "description": "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)",
     "stars": 2067,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "argo",
-      "argo-events",
-      "argo-rollouts",
-      "argo-workflows",
-      "argocd",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "cloud-native",
-      "cncf",
-      "continuous-delivery",
-      "devops",
-      "gitops",
-      "infrastructure-as-code",
-      "kubernetes",
-      "machine-learning",
-      "mlops",
-      "workflow-engine",
-      "workflow-management",
-      "workflow-orchestration"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-consensus",
@@ -11940,13 +7869,7 @@ const repoData = [
     "description": "Awesome list for Paxos and friends",
     "stars": 2066,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "consensus-algorithm",
-      "paxos",
-      "raft"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Chatbot",
@@ -11955,7 +7878,6 @@ const repoData = [
     "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
     "stars": 2062,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "chatbot",
@@ -11964,7 +7886,8 @@ const repoData = [
       "seq2seq-chatbot",
       "seq2seq-model",
       "tensorflow",
-      "tutorial"
+      "tutorial",
+      "Python"
     ]
   },
   {
@@ -11974,7 +7897,6 @@ const repoData = [
     "description": "Cocos Creator \u6e38\u620f\u8d44\u6e90\u5408\u96c6",
     "stars": 2057,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11984,7 +7906,6 @@ const repoData = [
     "description": "\u6df1\u5165\u63a2\u7d22\u7cbe\u9009\u7684\u5957\u58f3\u7ad9\u548c\u5fc5\u5907API\u8d44\u6e90\u3002\u672c\u6587\u4e3a\u521d\u5b66\u8005\u548c\u7ecf\u9a8c\u4e30\u5bcc\u7684\u8fd0\u8425\u8005\u63d0\u4f9b\u4e00\u7ad9\u5f0f\u6307\u5357\uff0c\u6db5\u76d6\u5e38\u89c1\u95ee\u9898\u89e3\u7b54\u548c\u57fa\u7840\u653b\u7565\uff0c\u52a9\u60a8\u8fc8\u5411\u5957\u58f3\u7ad9\u526f\u4e1a\u6210\u529f\u4e4b\u8def\u3002Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.",
     "stars": 2057,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -11994,15 +7915,7 @@ const repoData = [
     "description": "A curated list of Wayland code and resources.",
     "stars": 2054,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "sway",
-      "swaywm",
-      "wayland",
-      "wayland-compositor",
-      "window-manager",
-      "wm"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wagtail",
@@ -12011,15 +7924,7 @@ const repoData = [
     "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
     "stars": 2053,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "cms",
-      "django-cms",
-      "hacktoberfest",
-      "python",
-      "wagtail"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Text2SQL",
@@ -12028,26 +7933,7 @@ const repoData = [
     "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL\u3001Text2API\u3001Text2Vis and more.",
     "stars": 2049,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "datset",
-      "deep-learning",
-      "finetuning",
-      "hacktoberfest",
-      "hacktoberfest2024",
-      "llm",
-      "nl-to-sql",
-      "nl2sql",
-      "nlp",
-      "survey",
-      "test",
-      "text-to-sql",
-      "text2api",
-      "text2dsl",
-      "text2sql"
-    ]
+    "topics": []
   },
   {
     "name": "vim-awesome",
@@ -12056,8 +7942,9 @@ const repoData = [
     "description": "Awesome Vim plugins from across the universe",
     "stars": 2044,
     "updated_at": "2025-01-02",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "awesome-papers",
@@ -12066,7 +7953,6 @@ const repoData = [
     "description": "Papers & presentation materials from Hugging Face's internal science day",
     "stars": 2042,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12076,7 +7962,6 @@ const repoData = [
     "description": "User-friendly query builder for React",
     "stars": 2038,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "ant-design",
       "antd",
@@ -12093,7 +7978,8 @@ const repoData = [
       "react-components",
       "reactjs",
       "sql",
-      "typescript"
+      "typescript",
+      "JavaScript"
     ]
   },
   {
@@ -12103,16 +7989,7 @@ const repoData = [
     "description": "\ud83d\udcd6  A curated list of Awesome Userscripts.",
     "stars": 2032,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "greasemonkey",
-      "list",
-      "privacy",
-      "userscripts",
-      "youtube"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ml",
@@ -12121,7 +7998,6 @@ const repoData = [
     "description": "Curated list of useful LLM / Analytics / Datascience resources",
     "stars": 2031,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12131,13 +8007,13 @@ const repoData = [
     "description": "\u2714\ufe0fFont Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier",
     "stars": 2030,
     "updated_at": "2024-12-26",
-    "language": "CSS",
     "topics": [
       "bootstrap",
       "bootstrap4",
       "checkbox",
       "font-awesome",
-      "nojs"
+      "nojs",
+      "CSS"
     ]
   },
   {
@@ -12147,14 +8023,7 @@ const repoData = [
     "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
     "stars": 2017,
     "updated_at": "2024-12-30",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "aws",
-      "aws-cdk",
-      "cdk"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-opensource-documents",
@@ -12163,7 +8032,6 @@ const repoData = [
     "description": ":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.",
     "stars": 2016,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12173,15 +8041,7 @@ const repoData = [
     "description": "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.",
     "stars": 2015,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "function-calling",
-      "gpt-actions",
-      "large-language-models",
-      "llm",
-      "structured-generation"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Dify-Workflow",
@@ -12190,7 +8050,6 @@ const repoData = [
     "description": "\u5206\u4eab\u4e00\u4e9b\u597d\u7528\u7684 Dify DSL \u5de5\u4f5c\u6d41\u7a0b\uff0c\u81ea\u7528\u3001\u5b66\u4e60\u4e24\u76f8\u5b9c\u3002 Sharing some Dify workflows.",
     "stars": 2013,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12200,7 +8059,6 @@ const repoData = [
     "description": "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. \ud83e\udd80",
     "stars": 2010,
     "updated_at": "2025-01-04",
-    "language": "JavaScript",
     "topics": [
       "awasome",
       "deep-learning",
@@ -12209,7 +8067,8 @@ const repoData = [
       "machine-learning-library",
       "natural-language-processing",
       "rust",
-      "rust-library"
+      "rust-library",
+      "JavaScript"
     ]
   },
   {
@@ -12219,14 +8078,7 @@ const repoData = [
     "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
     "stars": 2007,
     "updated_at": "2024-12-19",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "charts",
-      "commercial",
-      "javascript",
-      "open-source"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Asset-Discovery",
@@ -12235,15 +8087,7 @@ const repoData = [
     "description": "List of Awesome Asset Discovery Resources",
     "stars": 2005,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "asset-discovery",
-      "awesome-list",
-      "infosec",
-      "osint",
-      "recon",
-      "reconnaissance"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vim",
@@ -12252,11 +8096,7 @@ const repoData = [
     "description": "The Vim plugin shortlist",
     "stars": 2001,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "vim"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-security-weixin-official-accounts",
@@ -12265,7 +8105,6 @@ const repoData = [
     "description": "\u7f51\u7edc\u5b89\u5168\u7c7b\u516c\u4f17\u53f7\u63a8\u8350\uff0c\u6b22\u8fce\u5927\u5bb6\u63a8\u8350",
     "stars": 2001,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12275,20 +8114,7 @@ const repoData = [
     "description": "A curated list of awesome GPTs in the GPT Store",
     "stars": 1999,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "gpt",
-      "gpt-4",
-      "gpt-store",
-      "gpts",
-      "gpts-list",
-      "gptstore",
-      "openai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vuepress",
@@ -12297,7 +8123,6 @@ const repoData = [
     "description": "\ud83c\udf89 A curated list of awesome things related to VuePress",
     "stars": 1998,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12307,13 +8132,13 @@ const repoData = [
     "description": ".NET Core\u5e93\u3001\u5de5\u5177\u3001\u6846\u67b6\u548c\u8f6f\u4ef6\u7684\u4e2d\u6587\u6536\u5f55\u5927\u5168\u3002 \u5185\u5bb9\u5305\u62ec\uff1a\u5e93\u3001\u5de5\u5177\u3001\u6846\u67b6\u3001\u6a21\u677f\u5f15\u64ce\u3001\u8eab\u4efd\u8ba4\u8bc1\u3001\u6570\u636e\u5e93\u3001ORM\u6846\u67b6\u3001\u56fe\u7247\u5904\u7406\u3001\u6587\u672c\u5904\u7406\u3001\u673a\u5668\u5b66\u4e60\u3001\u65e5\u5fd7\u3001\u4ee3\u7801\u5206\u6790\u3001\u6559\u7a0b\u7b49\u3002",
     "stars": 1991,
     "updated_at": "2025-01-06",
-    "language": "C#",
     "topics": [
       "awesome",
       "csharp",
       "dotnet",
       "dotnet-core",
-      "netcore3"
+      "netcore3",
+      "C#"
     ]
   },
   {
@@ -12323,7 +8148,6 @@ const repoData = [
     "description": "awesome-python with :octocat: :star: and :fork_and_knife:",
     "stars": 1986,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12333,17 +8157,7 @@ const repoData = [
     "description": "A curated list of awesome software for Apple's macOS.",
     "stars": 1979,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "apps",
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "macos",
-      "oss",
-      "osx",
-      "software"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-git-addons",
@@ -12352,21 +8166,7 @@ const repoData = [
     "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
     "stars": 1978,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "add-on",
-      "add-ons",
-      "addon",
-      "addons",
-      "awesome",
-      "awesome-list",
-      "cli",
-      "git",
-      "hacktoberfest",
-      "list",
-      "lists",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-programming-books",
@@ -12375,14 +8175,7 @@ const repoData = [
     "description": "\ud83d\udcda A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human\u2013computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)",
     "stars": 1974,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "books",
-      "learning-resources",
-      "programming"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-windows-kernel-security-development",
@@ -12391,16 +8184,7 @@ const repoData = [
     "description": "windows kernel security development",
     "stars": 1972,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "antirootkit",
-      "antivirus",
-      "bootkit",
-      "driver",
-      "framework",
-      "rootkit",
-      "shellcode"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-awesome-awesome",
@@ -12409,11 +8193,7 @@ const repoData = [
     "description": ":octocat: A a curated list of curated lists of awesome lists.",
     "stars": 1971,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-pinned-gists",
@@ -12422,12 +8202,7 @@ const repoData = [
     "description": "\ud83d\udccc\u2728 A collection of awesome dynamic pinned gists for GitHub",
     "stars": 1966,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "pinned-gist"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-reinforcement-learning-zh",
@@ -12436,7 +8211,6 @@ const repoData = [
     "description": "\u4e2d\u6587\u6574\u7406\u7684\u5f3a\u5316\u5b66\u4e60\u8d44\u6599\uff08Reinforcement Learning\uff09",
     "stars": 1964,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12446,7 +8220,6 @@ const repoData = [
     "description": "A curated list of awesome C frameworks, libraries and software.",
     "stars": 1963,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12456,13 +8229,7 @@ const repoData = [
     "description": "Awesome things about htmx",
     "stars": 1958,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "htmx"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-investing",
@@ -12471,14 +8238,7 @@ const repoData = [
     "description": " \ud83d\udcb8\ud83d\udcb8 Curated list of investment & finance related resources ",
     "stars": 1955,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "finance",
-      "investing",
-      "stock-market"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-bookmarks",
@@ -12487,8 +8247,9 @@ const repoData = [
     "description": ":sparkling_heart: A curated list of awesome things ",
     "stars": 1954,
     "updated_at": "2024-12-21",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-explainable-graph-reasoning",
@@ -12497,16 +8258,7 @@ const repoData = [
     "description": "A collection of research papers and software related to explainability in graph machine learning.",
     "stars": 1953,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "deep-learning",
-      "explainable-ai",
-      "explainable-ml",
-      "graph",
-      "graph-algorithms",
-      "graphml"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Books-Notes",
@@ -12515,9 +8267,9 @@ const repoData = [
     "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: \u4f18\u79c0\u521b\u4e1a\u3001\u5546\u4e1a\u3001\u4ea7\u54c1\u3001\u4eba\u6587\u3001\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u9886\u57df\u76f8\u5173\u7684\u4e66\u7c4d\u5f52\u6863\uff0c\u4ee5\u53ca\u6211\u7684\u8bfb\u4e66\u7b14\u8bb0\u3002",
     "stars": 1951,
     "updated_at": "2025-01-02",
-    "language": "HTML",
     "topics": [
-      "book"
+      "book",
+      "HTML"
     ]
   },
   {
@@ -12527,8 +8279,9 @@ const repoData = [
     "description": "List of awesome open source hardware tools, generators, and reusable designs",
     "stars": 1951,
     "updated_at": "2025-01-05",
-    "language": "Python",
-    "topics": []
+    "topics": [
+      "Python"
+    ]
   },
   {
     "name": "Awesome-Image-Inpainting",
@@ -12537,12 +8290,12 @@ const repoData = [
     "description": "A curated list of image inpainting and video inpainting papers and resources",
     "stars": 1950,
     "updated_at": "2025-01-03",
-    "language": "Python",
     "topics": [
       "face-completion",
       "image-inpainting",
       "paper-list",
-      "video-inpainting"
+      "video-inpainting",
+      "Python"
     ]
   },
   {
@@ -12552,16 +8305,7 @@ const repoData = [
     "description": "View roadmaps about developer roles to help you learn",
     "stars": 1947,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "app-developer",
-      "awesome",
-      "career-guide",
-      "devops",
-      "mobile-developer",
-      "roadmap",
-      "web-developer"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Model-Quantization",
@@ -12570,20 +8314,7 @@ const repoData = [
     "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
     "stars": 1941,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "binarization",
-      "binarized-neural-networks",
-      "binary-network",
-      "deep-learning",
-      "efficient-deep-learning",
-      "lightweight-neural-network",
-      "model-acceleration",
-      "model-compression",
-      "model-quantization",
-      "quantization"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-react-renderer",
@@ -12592,7 +8323,6 @@ const repoData = [
     "description": "Awesome list of React Renderer",
     "stars": 1941,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12602,14 +8332,7 @@ const repoData = [
     "description": "Awesome Golang Security resources \ud83d\udd76\ud83d\udd10",
     "stars": 1938,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "golang",
-      "security",
-      "security-tools",
-      "static-analysis"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Federated-Learning",
@@ -12618,29 +8341,7 @@ const repoData = [
     "description": "FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai",
     "stars": 1937,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "adversarial-attack-and-defense",
-      "communication-efficiency",
-      "computation-efficiency",
-      "computer-vision",
-      "continual-learning",
-      "decentralized-federated-learning",
-      "distributed-optimization",
-      "federated-learning",
-      "hierarchical-federated-learning",
-      "incentive-mechanism",
-      "interpretability",
-      "machine-learning",
-      "neural-architecture-search",
-      "non-iid",
-      "privacy",
-      "semi-supervised-learning",
-      "straggler-problem",
-      "transfer-learning",
-      "vertical-federated-learning",
-      "wireless-communication"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-games-of-coding",
@@ -12649,15 +8350,7 @@ const repoData = [
     "description": "A curated list of games that can teach you how to learn a programming language.",
     "stars": 1936,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "game",
-      "guido-van-robot",
-      "programming-language",
-      "robocode"
-    ]
+    "topics": []
   },
   {
     "name": "knowledge",
@@ -12666,7 +8359,6 @@ const repoData = [
     "description": "\u6587\u6863\u7740\u91cd\u6784\u5efa\u4e00\u4e2a\u5b8c\u6574\u7684\u300c\u524d\u7aef\u6280\u672f\u67b6\u6784\u56fe\u8c31\u300d\uff0c\u65b9\u4fbf F2E(Front End Engineering\u53c8\u79f0FEE\u3001F2E) \u5b66\u4e60\u4e0e\u8fdb\u9636\u3002",
     "stars": 1935,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesome",
       "canvas",
@@ -12687,7 +8379,8 @@ const repoData = [
       "vue",
       "webgl",
       "webpack",
-      "webpack4"
+      "webpack4",
+      "JavaScript"
     ]
   },
   {
@@ -12697,7 +8390,6 @@ const repoData = [
     "description": "A curated list of resources (books, tutorials, courses, tools and vulnerable applications) for learning about Exploit Development",
     "stars": 1923,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12707,7 +8399,6 @@ const repoData = [
     "description": "A curated list for Awesome Kubernetes Security resources",
     "stars": 1921,
     "updated_at": "2024-12-24",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12717,12 +8408,16 @@ const repoData = [
     "description": "A curated list of awesome V frameworks, libraries, software and resources.",
     "stars": 1919,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "v"
-    ]
+    "topics": []
+  },
+  {
+    "name": "awesome-crypto-trading-bots",
+    "full_name": "botcrypto-io/awesome-crypto-trading-bots",
+    "html_url": "https://github.com/botcrypto-io/awesome-crypto-trading-bots",
+    "description": "Awesome crypto trading bots",
+    "stars": 1919,
+    "updated_at": "2025-01-06",
+    "topics": []
   },
   {
     "name": "awesome-music",
@@ -12731,36 +8426,7 @@ const repoData = [
     "description": "Awesome Music Projects",
     "stars": 1919,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "audio",
-      "awesome",
-      "awesome-list",
-      "free-music-scores",
-      "lilypond",
-      "list",
-      "midi",
-      "music-notation",
-      "music-programming",
-      "music-scores",
-      "sheet-music"
-    ]
-  },
-  {
-    "name": "awesome-crypto-trading-bots",
-    "full_name": "botcrypto-io/awesome-crypto-trading-bots",
-    "html_url": "https://github.com/botcrypto-io/awesome-crypto-trading-bots",
-    "description": "Awesome crypto trading bots",
-    "stars": 1918,
-    "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "crypto",
-      "list",
-      "trading"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-space",
@@ -12769,12 +8435,12 @@ const repoData = [
     "description": "\ud83d\udef0\ufe0f\ud83d\ude80A list of awesome space-related packages and resources maintained by The Orbital Index",
     "stars": 1916,
     "updated_at": "2025-01-06",
-    "language": "Ruby",
     "topics": [
       "astronomy-apis",
       "awesome",
       "awesome-list",
-      "space"
+      "space",
+      "Ruby"
     ]
   },
   {
@@ -12784,15 +8450,7 @@ const repoData = [
     "description": "\ud83d\udcda A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
     "stars": 1912,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "osint",
-      "osint-resources",
-      "telegram",
-      "telethon"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Graph-LLM",
@@ -12801,7 +8459,6 @@ const repoData = [
     "description": "A collection of AWESOME things about Graph-Related LLMs.",
     "stars": 1912,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12811,7 +8468,6 @@ const repoData = [
     "description": "All CPU and MCU documentation in one place",
     "stars": 1908,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "arm",
       "avr",
@@ -12832,7 +8488,8 @@ const repoData = [
       "sparc",
       "vax",
       "xtensa",
-      "z80"
+      "z80",
+      "HTML"
     ]
   },
   {
@@ -12842,7 +8499,6 @@ const repoData = [
     "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
     "stars": 1908,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12852,18 +8508,7 @@ const repoData = [
     "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
     "stars": 1907,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "datasets",
-      "llm",
-      "nlp",
-      "papers",
-      "software-engineering",
-      "survey",
-      "tmlr"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-atom",
@@ -12872,12 +8517,7 @@ const repoData = [
     "description": "A curated list of delightful Atom packages and resources.",
     "stars": 1905,
     "updated_at": "2024-12-19",
-    "language": "Unknown",
-    "topics": [
-      "atom",
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-rat",
@@ -12886,18 +8526,7 @@ const repoData = [
     "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
     "stars": 1904,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "c2",
-      "command-and-control",
-      "command-control",
-      "malware-analysis",
-      "rat",
-      "rat-analysis",
-      "rat-malware",
-      "remote-access-tool",
-      "remote-administration-tool"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-interactive-journalism",
@@ -12906,12 +8535,7 @@ const repoData = [
     "description": "A list of awesome interactive journalism projects.",
     "stars": 1903,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
-    "topics": [
-      "datavisualization",
-      "ddj",
-      "journalism"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-testing",
@@ -12920,15 +8544,7 @@ const repoData = [
     "description": "A curated list of testing resources",
     "stars": 1900,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "naughty-strings",
-      "tester",
-      "testing"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeQRCode",
@@ -12937,12 +8553,12 @@ const repoData = [
     "description": "An awesome QR code generator for Android.",
     "stars": 1896,
     "updated_at": "2025-01-06",
-    "language": "Kotlin",
     "topics": [
       "qr-code",
       "qr-generator",
       "qrcode",
-      "qrcode-generator"
+      "qrcode-generator",
+      "Kotlin"
     ]
   },
   {
@@ -12952,7 +8568,6 @@ const repoData = [
     "description": "continuous integration and continuous delivery",
     "stars": 1895,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12962,11 +8577,7 @@ const repoData = [
     "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
     "stars": 1895,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "galaxy",
-      "gog"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deepbio",
@@ -12975,7 +8586,6 @@ const repoData = [
     "description": "A curated list of awesome deep learning applications in the field of computational biology",
     "stars": 1893,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -12983,26 +8593,9 @@ const repoData = [
     "full_name": "ARPSyndicate/awesome-intelligence",
     "html_url": "https://github.com/ARPSyndicate/awesome-intelligence",
     "description": "A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources",
-    "stars": 1891,
+    "stars": 1893,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-intelligence",
-      "awesome-list",
-      "awesome-lists",
-      "crypto",
-      "cybersecurity",
-      "economics",
-      "geopolitics",
-      "hacktoberfest",
-      "hacktoberfest2024",
-      "malware",
-      "osint",
-      "stocks",
-      "terrorism",
-      "tor"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Video-Diffusion-Models",
@@ -13011,19 +8604,7 @@ const repoData = [
     "description": "[CSUR] A Survey on Video Diffusion Models",
     "stars": 1889,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "diffusion",
-      "diffusion-models",
-      "survey",
-      "text-to-video",
-      "video",
-      "video-diffusion",
-      "video-diffusion-model",
-      "video-editing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sass",
@@ -13032,12 +8613,7 @@ const repoData = [
     "description": "\ud83c\udfa8 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
     "stars": 1883,
     "updated_at": "2024-12-19",
-    "language": "Unknown",
-    "topics": [
-      "css",
-      "sass",
-      "scss"
-    ]
+    "topics": []
   },
   {
     "name": "DeepLearing-Interview-Awesome-2024",
@@ -13046,20 +8622,7 @@ const repoData = [
     "description": "AIGC-interview/CV-interview/LLMs-interview\u9762\u8bd5\u95ee\u9898\u4e0e\u7b54\u6848\u96c6\u5408\u4ed3\uff0c\u540c\u65f6\u5305\u542b\u5de5\u4f5c\u548c\u79d1\u7814\u8fc7\u7a0b\u4e2d\u7684\u65b0\u60f3\u6cd5\u3001\u65b0\u95ee\u9898\u3001\u65b0\u8d44\u6e90\u4e0e\u65b0\u9879\u76ee",
     "stars": 1879,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "aigc",
-      "algorithms",
-      "awesome-cv",
-      "cnn",
-      "deep-learning",
-      "interview-questions",
-      "leetcode-python",
-      "machine-learning",
-      "medical-imaging",
-      "pytorch",
-      "self-driving-car"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-php",
@@ -13068,7 +8631,6 @@ const repoData = [
     "description": "\u6536\u96c6\u6574\u7406\u4e00\u4e9b\u5e38\u7528\u7684PHP\u7c7b\u5e93, \u8d44\u6e90\u4ee5\u53ca\u6280\u5de7. \u4ee5\u4fbf\u5728\u5de5\u4f5c\u4e2d\u8fc5\u901f\u7684\u67e5\u627e\u6240\u9700...",
     "stars": 1874,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13078,15 +8640,7 @@ const repoData = [
     "description": "A curated list of awesome embedded and IoT security resources.",
     "stars": 1873,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "embedded",
-      "firmware",
-      "iot",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-static-website-services",
@@ -13095,12 +8649,7 @@ const repoData = [
     "description": "\ud83d\udcc4 \ud83d\udee0 A curated list of awesome static websites services",
     "stars": 1872,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-xamarin",
@@ -13109,15 +8658,7 @@ const repoData = [
     "description": "A collection of interesting libraries/tools for Xamarin mobile projects ",
     "stars": 1865,
     "updated_at": "2024-12-21",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "xamarin",
-      "xamarin-binding",
-      "xamarin-library",
-      "xamarin-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-quality-assurance-roadmap",
@@ -13126,20 +8667,7 @@ const repoData = [
     "description": ":books: The starting point of your career as a Software Quality Assurance Engineer \\| Quality Automation Engineer :books:",
     "stars": 1864,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "api-testing",
-      "automation-test",
-      "awesome",
-      "awesome-list",
-      "career",
-      "e2e-testing",
-      "qa",
-      "quality-engineering",
-      "roadmap",
-      "software-testing",
-      "testing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-chatgpt",
@@ -13148,19 +8676,7 @@ const repoData = [
     "description": "\u26a1 Everything about ChatGPT",
     "stars": 1861,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "chatgpt",
-      "chatgpt-api",
-      "chatgpt-app",
-      "openai",
-      "openminclub",
-      "prompt",
-      "prompt-engineering",
-      "resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wpf",
@@ -13169,7 +8685,6 @@ const repoData = [
     "description": "A collection of awesome WPF resources, libraries and UI controls.",
     "stars": 1860,
     "updated_at": "2025-01-05",
-    "language": "C#",
     "topics": [
       "awesome",
       "awesome-list",
@@ -13178,7 +8693,8 @@ const repoData = [
       "dotnet-core",
       "net",
       "ui-components",
-      "wpf"
+      "wpf",
+      "C#"
     ]
   },
   {
@@ -13188,8 +8704,9 @@ const repoData = [
     "description": "the font-awesome font bundled as an asset for the rails asset pipeline",
     "stars": 1858,
     "updated_at": "2025-01-03",
-    "language": "HTML",
-    "topics": []
+    "topics": [
+      "HTML"
+    ]
   },
   {
     "name": "Awesome-RCE-techniques",
@@ -13198,7 +8715,6 @@ const repoData = [
     "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
     "stars": 1857,
     "updated_at": "2025-01-06",
-    "language": "Dockerfile",
     "topics": [
       "awesome-list",
       "bugbounty",
@@ -13207,7 +8723,8 @@ const repoData = [
       "execution",
       "exploit",
       "framework",
-      "rce"
+      "rce",
+      "Dockerfile"
     ]
   },
   {
@@ -13217,7 +8734,6 @@ const repoData = [
     "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
     "stars": 1854,
     "updated_at": "2025-01-06",
-    "language": "Pascal",
     "topics": [
       "awesome",
       "awesome-list",
@@ -13225,7 +8741,8 @@ const repoData = [
       "freepascal",
       "lazarus",
       "list",
-      "pascal-language"
+      "pascal-language",
+      "Pascal"
     ]
   },
   {
@@ -13235,13 +8752,7 @@ const repoData = [
     "description": "bert nlp papers, applications and  github resources, including the newst xlnet  \uff0c BERT\u3001XLNet \u76f8\u5173\u8bba\u6587\u548c github \u9879\u76ee",
     "stars": 1849,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "bert",
-      "google-bert",
-      "nlp",
-      "xlnet"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeCpp",
@@ -13250,12 +8761,12 @@ const repoData = [
     "description": "---AWESOME--- C++\u5b66\u4e60\u7b14\u8bb0\u548c\u5e38\u89c1\u9762\u8bd5\u77e5\u8bc6\u70b9\uff0cC++11\u7279\u6027\uff0c\u5305\u62ec\u667a\u80fd\u6307\u9488\u3001\u56db\u79cd\u5f3a\u5236\u8f6c\u6362\u3001function\u548cbind\u3001\u79fb\u52a8\u8bed\u4e49\u3001\u5b8c\u7f8e\u8f6c\u53d1\u3001tuple\u3001\u591a\u6001\u539f\u7406\u3001\u865a\u8868\u3001\u53cb\u5143\u51fd\u6570\u3001\u7b26\u53f7\u91cd\u8f7d\u3001\u51fd\u6570\u6307\u9488\u3001\u6df1\u6d45\u62f7\u8d1d\u3001struct\u5185\u5b58\u5bf9\u9f50\u3001volatile\u4ee5\u53caunion\\static\u7b49\u5404\u79cd\u5173\u952e\u5b57\u7684\u7528\u6cd5\u7b49\u7b49",
     "stars": 1845,
     "updated_at": "2025-01-06",
-    "language": "C++",
     "topics": [
       "awesome",
       "cpp",
       "cpp11",
-      "notes"
+      "notes",
+      "C++"
     ]
   },
   {
@@ -13265,19 +8776,7 @@ const repoData = [
     "description": "awesome cloud security \u6536\u96c6\u4e00\u4e9b\u56fd\u5185\u5916\u4e0d\u9519\u7684\u4e91\u5b89\u5168\u8d44\u6e90\uff0c\u8be5\u9879\u76ee\u4e3b\u8981\u9762\u5411\u56fd\u5185\u7684\u5b89\u5168\u4eba\u5458",
     "stars": 1837,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-cloud-security",
-      "cloud-native",
-      "cloud-security",
-      "cloudnative",
-      "cloudsecurity",
-      "cybersecurity",
-      "docker",
-      "kubernetes",
-      "tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-swiftui",
@@ -13286,17 +8785,7 @@ const repoData = [
     "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
     "stars": 1837,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "combine",
-      "guide",
-      "ios",
-      "swift",
-      "swiftui",
-      "tutorial",
-      "video",
-      "xcode"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-yii2",
@@ -13305,10 +8794,7 @@ const repoData = [
     "description": "Yii2 \u5e72\u8d27\u96c6",
     "stars": 1836,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "yii2"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-linux-containers",
@@ -13317,13 +8803,7 @@ const repoData = [
     "description": "A curated list of awesome Linux Containers frameworks, libraries and software",
     "stars": 1836,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "best-practices",
-      "containers",
-      "linux-containers"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Federated-Machine-Learning",
@@ -13332,18 +8812,7 @@ const repoData = [
     "description": "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",
     "stars": 1835,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "differential-privacy",
-      "distributed-computing",
-      "edge-computing",
-      "federated-learning",
-      "machine-learning",
-      "privacy-preserving-machine-learning",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-a11y",
@@ -13352,16 +8821,7 @@ const repoData = [
     "description": "A curate list about A11Y",
     "stars": 1832,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "a11y",
-      "accessibility",
-      "assistive-technology",
-      "awesome",
-      "awesome-list",
-      "wai-aria",
-      "wcag"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-crypto-papers",
@@ -13370,15 +8830,7 @@ const repoData = [
     "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
     "stars": 1828,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "applied-cryptography",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "cryptography",
-      "howto"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lockfree",
@@ -13387,15 +8839,7 @@ const repoData = [
     "description": "A collection of resources on wait-free and lock-free programming",
     "stars": 1826,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "assembly",
-      "concurrency",
-      "concurrent-programming",
-      "cpp",
-      "lock-free",
-      "wait-free"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cyber-security-university",
@@ -13404,20 +8848,7 @@ const repoData = [
     "description": "\ud83c\udf93 Because Education should be free. Contributions welcome! \ud83d\udd75\ufe0f ",
     "stars": 1826,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "courses",
-      "curriculum",
-      "cyber-security",
-      "cybersecurity",
-      "education",
-      "educational-project",
-      "free",
-      "hacking",
-      "learning-by-doing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-iam",
@@ -13426,29 +8857,7 @@ const repoData = [
     "description": "\ud83d\udc64 Identity and Access Management knowledge for cloud platforms",
     "stars": 1824,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "2fa",
-      "acl",
-      "anonymization",
-      "authentication",
-      "authorization",
-      "awesome",
-      "awesome-list",
-      "cloud",
-      "cryptography",
-      "gdpr",
-      "hardware-security-module",
-      "iam",
-      "jwt",
-      "oauth",
-      "openid",
-      "password",
-      "pki",
-      "privacy",
-      "secret-management",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-adversarial-machine-learning",
@@ -13457,7 +8866,6 @@ const repoData = [
     "description": "A curated list of awesome adversarial machine learning resources",
     "stars": 1822,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13467,14 +8875,14 @@ const repoData = [
     "description": "This Repository contain awesome vanilla JavaScript projects. ",
     "stars": 1820,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "bootstrap",
       "css3",
       "html5",
       "javascript",
       "vanila-js",
-      "vanilla-javascript"
+      "vanilla-javascript",
+      "JavaScript"
     ]
   },
   {
@@ -13484,7 +8892,6 @@ const repoData = [
     "description": "PHP\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5e93\u3001\u6846\u67b6\u3001\u6a21\u677f\u3001\u5b89\u5168\u3001\u4ee3\u7801\u5206\u6790\u3001\u65e5\u5fd7\u3001\u7b2c\u4e09\u65b9\u5e93\u3001\u914d\u7f6e\u5de5\u5177\u3001Web \u5de5\u5177\u7b49",
     "stars": 1810,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13494,12 +8901,7 @@ const repoData = [
     "description": "\u4e2d\u6587\u6e38\u620f\u670d\u52a1\u5668\u8d44\u6e90\u5927\u5168",
     "stars": 1810,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "chinese",
-      "gamesever"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-semi-supervised-learning",
@@ -13508,16 +8910,7 @@ const repoData = [
     "description": "\ud83d\ude0e An up-to-date & curated list of awesome semi-supervised learning papers, methods & resources.",
     "stars": 1810,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "computer-vision",
-      "deep-learning",
-      "generative-model",
-      "graph-neural-networks",
-      "machine-learning",
-      "natural-language-processing",
-      "semi-supervised-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-free-software",
@@ -13526,17 +8919,7 @@ const repoData = [
     "description": "Curated list of free as in freedom software",
     "stars": 1797,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "free-software",
-      "gnu",
-      "gpl",
-      "libre",
-      "open-source",
-      "software-freedom"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-home-networking-cn",
@@ -13545,10 +8928,7 @@ const repoData = [
     "description": "\u5bb6\u5ead\u7f51\u7edc\u77e5\u8bc6\u6574\u7406",
     "stars": 1796,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "quasar-awesome",
@@ -13557,19 +8937,7 @@ const repoData = [
     "description": "\ud83c\udf89 A list of awesome things related to Quasar",
     "stars": 1792,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "cordova",
-      "electron",
-      "ios",
-      "material",
-      "material-design",
-      "quasar",
-      "quasar-framework",
-      "vue",
-      "vue2",
-      "vuejs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-aws-amplify",
@@ -13578,17 +8946,7 @@ const repoData = [
     "description": "Curated list of AWS Amplify Resources",
     "stars": 1788,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "amazon-s3",
-      "angular",
-      "aws",
-      "aws-amplify",
-      "aws-appsync",
-      "javascript",
-      "react",
-      "react-native"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Interview",
@@ -13597,23 +8955,7 @@ const repoData = [
     "description": "Collection of awesome interview references.",
     "stars": 1787,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "android",
-      "backend",
-      "cpp",
-      "deep-learning",
-      "frontend",
-      "interview",
-      "interview-practice",
-      "interview-prep",
-      "interview-preparation",
-      "interviews",
-      "ios",
-      "java",
-      "machine-learning",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "react-native-awesome",
@@ -13622,14 +8964,7 @@ const repoData = [
     "description": "React Native \u5b66\u4e60\u8d44\u6e90\u7cbe\u9009\u4ed3\u5e93(\u6c47\u805a\u77e5\u8bc6\uff0c\u5206\u4eab\u7cbe\u534e)\u6c47\u96c6\u4e86\u5404\u7c7breact-native\u5b66\u4e60\u8d44\u6599\u3001\u5de5\u5177\u3001\u7ec4\u4ef6\u3001\u5f00\u6e90App\u3001\u8d44\u6e90\u4e0b\u8f7d\u3001\u4ee5\u53ca\u76f8\u5173\u65b0\u95fb\u7b49\uff0c\u53ea\u6c42\u7cbe\u4e0d\u6c42\u5168\u3002",
     "stars": 1787,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
-    "topics": [
-      "react-native",
-      "react-native-lesson",
-      "react-native-resources",
-      "react-native-study",
-      "react-native-tutorial"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mpc",
@@ -13638,12 +8973,7 @@ const repoData = [
     "description": " A curated list of multi party computation resources and links.",
     "stars": 1783,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "crypto",
-      "multiparty-computation",
-      "secure-computation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-quarto",
@@ -13652,16 +8982,7 @@ const repoData = [
     "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
     "stars": 1780,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "quarto",
-      "quarto-extension",
-      "quarto-pub",
-      "quarto-template",
-      "quartopub"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-virtualization",
@@ -13670,12 +8991,7 @@ const repoData = [
     "description": "Collection of resources about Virtualization",
     "stars": 1779,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "hypervisor",
-      "virtual-machine",
-      "virtualization"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-LLMs-for-Video-Understanding",
@@ -13684,7 +9000,6 @@ const repoData = [
     "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25Latest Papers, Codes and Datasets on Vid-LLMs.",
     "stars": 1775,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13694,13 +9009,7 @@ const repoData = [
     "description": "\uac1c\ubc1c\uc790\ub97c \uc704\ud55c \uc774\ub825\uc11c \uc791\uc131 \uac00\uc774\ub4dc, \ud3ec\ub9f7 \uadf8\ub9ac\uace0 \ub2e4\uc591\ud55c \uc608\uc2dc\ub4e4",
     "stars": 1769,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "coverletter",
-      "cv",
-      "portfolio",
-      "resume"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-embedding-models",
@@ -13709,7 +9018,6 @@ const repoData = [
     "description": "A curated list of awesome embedding models tutorials, projects and communities.",
     "stars": 1767,
     "updated_at": "2024-12-27",
-    "language": "Jupyter Notebook",
     "topics": [
       "awesome",
       "embedding-models",
@@ -13717,7 +9025,8 @@ const repoData = [
       "machine-learning",
       "natural-language-processing",
       "papers",
-      "word2vec"
+      "word2vec",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -13727,7 +9036,6 @@ const repoData = [
     "description": "A curated list of resources for learning about http://www.keycloak.org",
     "stars": 1762,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13737,16 +9045,7 @@ const repoData = [
     "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). \u5de5\u4e1a\u5f02\u5e38/\u7455\u75b5\u68c0\u6d4b\u8bba\u6587\u53ca\u6570\u636e\u96c6\u68c0\u7d22\u5e93(\u6301\u7eed\u66f4\u65b0)\u3002",
     "stars": 1761,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "anomaly-detection",
-      "anomaly-segmentation",
-      "computer-vision",
-      "dataset",
-      "deep-learning",
-      "defect-detection",
-      "industrial-image"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-technical-writing",
@@ -13755,16 +9054,7 @@ const repoData = [
     "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
     "stars": 1760,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "content",
-      "documentation",
-      "open-source",
-      "resources",
-      "technical-writing",
-      "writing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cloudnative-trainings",
@@ -13773,20 +9063,7 @@ const repoData = [
     "description": "Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software",
     "stars": 1758,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "cloud-native",
-      "cncf",
-      "containers",
-      "continuous-learning",
-      "devops",
-      "devsecops",
-      "istio",
-      "k8s",
-      "kubernetes",
-      "linux-foundation",
-      "service-mesh"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-claude-prompts",
@@ -13795,25 +9072,7 @@ const repoData = [
     "description": "This repo includes Claude prompt curation to use Claude better.",
     "stars": 1757,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "anthropic",
-      "anthropic-claude",
-      "awesome-claude",
-      "awesome-claude-prompts",
-      "awesome-prompts",
-      "chatgpt",
-      "chatgpt-4",
-      "chatgpt3",
-      "claude",
-      "claude-ai",
-      "openai",
-      "openai-chatgpt",
-      "prompt",
-      "prompt-learning",
-      "prompt-toolkit",
-      "prompts"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-windows-domain-hardening",
@@ -13822,12 +9081,7 @@ const repoData = [
     "description": "A curated list of awesome Security Hardening techniques for Windows.",
     "stars": 1755,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "hardening",
-      "security",
-      "windows"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ml4co",
@@ -13836,12 +9090,12 @@ const repoData = [
     "description": "Awesome machine learning for combinatorial optimization papers.",
     "stars": 1755,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "combinatorial-optimization",
       "machine-learning",
       "operations-research",
-      "paper-list"
+      "paper-list",
+      "Python"
     ]
   },
   {
@@ -13851,7 +9105,6 @@ const repoData = [
     "description": "DotNet \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1a\u7f16\u8bd1\u5668\u3001\u538b\u7f29\u3001\u5e94\u7528\u6846\u67b6\u3001\u5e94\u7528\u6a21\u677f\u3001\u52a0\u5bc6\u3001\u6570\u636e\u5e93\u3001\u53cd\u7f16\u8bd1\u3001IDE\u3001\u65e5\u5fd7\u3001\u98ce\u683c\u6307\u5357\u7b49\u3002",
     "stars": 1752,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13861,16 +9114,7 @@ const repoData = [
     "description": "An awesome README template for your projects!",
     "stars": 1752,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "boilerplate",
-      "readme",
-      "readme-boilerplate",
-      "readme-bolierplate",
-      "readme-template",
-      "template",
-      "template-repository"
-    ]
+    "topics": []
   },
   {
     "name": "google-apps-script-awesome-list",
@@ -13879,16 +9123,7 @@ const repoData = [
     "description": "The usual list of links to interesting resources for Google Apps Script",
     "stars": 1750,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "awesome-lists",
-      "gas",
-      "google-apps-script",
-      "google-appsscript",
-      "lists",
-      "snippets"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-typing",
@@ -13897,19 +9132,7 @@ const repoData = [
     "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
     "stars": 1747,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "mypy",
-      "mypy-plugins",
-      "mypy-stubs",
-      "pep484",
-      "pyi",
-      "python",
-      "python-stubs",
-      "python-types"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Anything",
@@ -13918,15 +9141,7 @@ const repoData = [
     "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
     "stars": 1744,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "anything",
-      "anything-ai",
-      "awesome",
-      "awesome-segment-anything",
-      "general-ai",
-      "segment-anything"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeCppGameDev",
@@ -13935,8 +9150,9 @@ const repoData = [
     "description": "A curated list of awesome C++ (mainly) things for Game Development. Inspired by awesome-... stuff. ",
     "stars": 1743,
     "updated_at": "2025-01-05",
-    "language": "Markdown",
-    "topics": []
+    "topics": [
+      "Markdown"
+    ]
   },
   {
     "name": "awesome-slam-datasets",
@@ -13945,7 +9161,6 @@ const repoData = [
     "description": "A curated list of awesome datasets for SLAM",
     "stars": 1743,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -13955,16 +9170,7 @@ const repoData = [
     "description": "\ud83d\udcddAwesome and classical image retrieval papers",
     "stars": 1743,
     "updated_at": "2024-12-22",
-    "language": "Unknown",
-    "topics": [
-      "cbir",
-      "image-retrieval",
-      "image-retrieval-papers",
-      "instance-retrieval",
-      "local-features",
-      "nearest-neighbor-search",
-      "visual-search"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-learning-resources",
@@ -13973,7 +9179,6 @@ const repoData = [
     "description": "\ud83d\udc53 A curated list of awesome android learning resources for android app developers. ",
     "stars": 1743,
     "updated_at": "2025-01-05",
-    "language": "Kotlin",
     "topics": [
       "android",
       "android-kotlin",
@@ -13994,7 +9199,8 @@ const repoData = [
       "mvvm",
       "mvvm-android",
       "resources",
-      "study-guide"
+      "study-guide",
+      "Kotlin"
     ]
   },
   {
@@ -14004,16 +9210,7 @@ const repoData = [
     "description": "Django \u4f18\u79c0\u8d44\u6e90\u5927\u5168\u3002",
     "stars": 1742,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "django",
-      "django-admin",
-      "django-application",
-      "django-framework",
-      "django-models",
-      "django-orm",
-      "django-rest"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-linux-rootkits",
@@ -14022,15 +9219,7 @@ const repoData = [
     "description": "awesome-linux-rootkits",
     "stars": 1742,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "linux",
-      "linux-kernel",
-      "lkm-rootkit",
-      "rootkit"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-pytorch-list-CNVersion",
@@ -14039,7 +9228,6 @@ const repoData = [
     "description": "Awesome-pytorch-list \u7ffb\u8bd1\u5de5\u4f5c\u8fdb\u884c\u4e2d......",
     "stars": 1741,
     "updated_at": "2025-01-06",
-    "language": "Jupyter Notebook",
     "topics": [
       "awsome-pytorch-list",
       "cnversion",
@@ -14059,7 +9247,8 @@ const repoData = [
       "pytorch-models",
       "pytorch-tutorials",
       "tutorials",
-      "utility-library"
+      "utility-library",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -14069,12 +9258,12 @@ const repoData = [
     "description": "A curated list of awesome Apache Spark packages and resources.",
     "stars": 1739,
     "updated_at": "2025-01-05",
-    "language": "Shell",
     "topics": [
       "apache-spark",
       "awesome",
       "pyspark",
-      "sparkr"
+      "sparkr",
+      "Shell"
     ]
   },
   {
@@ -14084,10 +9273,7 @@ const repoData = [
     "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
     "stars": 1739,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "ai"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-llm-powered-agent",
@@ -14096,25 +9282,7 @@ const repoData = [
     "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
     "stars": 1731,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "chatgpt",
-      "embodied-agent",
-      "embodied-ai",
-      "foundation-model",
-      "foundation-models",
-      "generative-agents",
-      "generative-ai",
-      "generative-model",
-      "generative-models",
-      "gpt-4",
-      "large-language-model",
-      "large-language-models",
-      "llm",
-      "llm-powered-agents",
-      "llms"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-transfer-learning",
@@ -14123,14 +9291,7 @@ const repoData = [
     "description": "Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)",
     "stars": 1730,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "domain-adaptation",
-      "paper",
-      "transfer-learning",
-      "unsupervised-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ros2",
@@ -14139,12 +9300,7 @@ const repoData = [
     "description": "The Robot Operating System Version 2.0 is awesome!",
     "stars": 1728,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "ros2"
-    ]
+    "topics": []
   },
   {
     "name": "nuxt3-awesome-starter",
@@ -14153,12 +9309,12 @@ const repoData = [
     "description": "a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss + Nuxt Layer",
     "stars": 1728,
     "updated_at": "2025-01-06",
-    "language": "Vue",
     "topics": [
       "nuxt3",
       "nuxt3-template",
       "tailwindcss",
-      "vue"
+      "vue",
+      "Vue"
     ]
   },
   {
@@ -14168,17 +9324,7 @@ const repoData = [
     "description": "Awesome generative art",
     "stars": 1727,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "artists",
-      "awesome",
-      "awesome-list",
-      "generative-art",
-      "openframeworks",
-      "processing",
-      "vjing",
-      "vvvv"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-remote-sensing-change-detection",
@@ -14187,13 +9333,7 @@ const repoData = [
     "description": "List of datasets, codes, and contests related to remote sensing change detection",
     "stars": 1721,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "change-detection",
-      "dataset",
-      "remote-sensing"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-open-source-games",
@@ -14202,13 +9342,7 @@ const repoData = [
     "description": "Collection of Games that have the source code available on GitHub",
     "stars": 1720,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "games",
-      "opensource"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-electron-alternatives",
@@ -14217,14 +9351,7 @@ const repoData = [
     "description": "A curated list of awesome Electron alternatives.",
     "stars": 1718,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "cross-platform-desktop-app-dev",
-      "electron",
-      "electron-alternatives",
-      "pwa"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cryptoeconomics",
@@ -14233,17 +9360,7 @@ const repoData = [
     "description": "An awesome curated list of Cryptoeconomic research and learning materials",
     "stars": 1716,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "bitcoin",
-      "blockchain",
-      "casper",
-      "consensus",
-      "cryptoeconomics",
-      "ethereum",
-      "game-theory",
-      "pos"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-baremetal",
@@ -14252,7 +9369,6 @@ const repoData = [
     "description": "Bare-metal is awesome. Let's share our favourite tools. ",
     "stars": 1716,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14262,13 +9378,7 @@ const repoData = [
     "description": "A curated list of awesome Prometheus resources, projects and tools.",
     "stars": 1714,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "prometheus"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-os",
@@ -14277,18 +9387,7 @@ const repoData = [
     "description": "A list of operating systems and stuff",
     "stars": 1704,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "kernel",
-      "linux",
-      "linux-kernel",
-      "operating-system",
-      "os",
-      "os-dev",
-      "osdev"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-django",
@@ -14297,21 +9396,7 @@ const repoData = [
     "description": "The Best Django Resource, Awesome Django for mature packages.",
     "stars": 1701,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-django",
-      "awesome-list",
-      "django",
-      "django-admin",
-      "django-blog",
-      "django-blog-templates",
-      "django-channels",
-      "django-cms",
-      "django-packages",
-      "django-project",
-      "django-rest-framework"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-startup",
@@ -14320,25 +9405,7 @@ const repoData = [
     "description": ":sunglasses: All the required resources to build your own startup",
     "stars": 1693,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "advice",
-      "awesome",
-      "awesome-list",
-      "code",
-      "course-materials",
-      "engineering",
-      "entrepreneurs",
-      "free",
-      "free-software",
-      "hacktober",
-      "hacktoberfest",
-      "hacktoberfest2020",
-      "startup",
-      "startup-services",
-      "startups",
-      "venture-capital"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-animation",
@@ -14347,11 +9414,7 @@ const repoData = [
     "description": ":octocat: A great list of open sourced UI Motion Library produced by Animatious Group.",
     "stars": 1689,
     "updated_at": "2024-12-01",
-    "language": "Unknown",
-    "topics": [
-      "animation",
-      "ios-animation"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-css-cn",
@@ -14360,7 +9423,6 @@ const repoData = [
     "description": "CSS \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1aCSS\u9884\u5904\u7406\u5668\u3001\u6846\u67b6\u3001CSS\u7ed3\u6784\u3001\u4ee3\u7801\u98ce\u683c\u6307\u5357\u3001\u547d\u540d\u4e60\u60ef\u7b49\u7b49",
     "stars": 1683,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14370,14 +9432,7 @@ const repoData = [
     "description": "Awesome Japanese Learning Resources",
     "stars": 1683,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "hiragana",
-      "japan",
-      "japanese-language",
-      "kanji",
-      "katakana"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeBump",
@@ -14386,8 +9441,9 @@ const repoData = [
     "description": "AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump. ",
     "stars": 1677,
     "updated_at": "2025-01-04",
-    "language": "C++",
-    "topics": []
+    "topics": [
+      "C++"
+    ]
   },
   {
     "name": "awesome-resources",
@@ -14396,7 +9452,6 @@ const repoData = [
     "description": "Awesome resources for coding and learning: open source projects, websites, books e.g.",
     "stars": 1677,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "algorithm",
       "android",
@@ -14406,7 +9461,8 @@ const repoData = [
       "javascript",
       "learning",
       "nodejs",
-      "ruby"
+      "ruby",
+      "HTML"
     ]
   },
   {
@@ -14416,14 +9472,14 @@ const repoData = [
     "description": "An awesome QR code generator written in JavaScript.",
     "stars": 1677,
     "updated_at": "2025-01-01",
-    "language": "JavaScript",
     "topics": [
       "qr",
       "qr-code",
       "qr-generator",
       "qrcode",
       "qrcode-generator",
-      "qrcode-image"
+      "qrcode-image",
+      "JavaScript"
     ]
   },
   {
@@ -14433,14 +9489,7 @@ const repoData = [
     "description": "Collection of advice for prospective and current PhD students",
     "stars": 1677,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "computer-science",
-      "machine-learning",
-      "phd-application",
-      "phd-students",
-      "research"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Deep-Learning-Resources",
@@ -14449,16 +9498,7 @@ const repoData = [
     "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
     "stars": 1676,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cnn",
-      "deep-learning",
-      "lstm",
-      "machine-learning",
-      "tensorflow"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Scene-Text-Recognition",
@@ -14467,13 +9507,7 @@ const repoData = [
     "description": "A curated list of resources dedicated to scene text localization and recognition",
     "stars": 1674,
     "updated_at": "2024-12-26",
-    "language": "Unknown",
-    "topics": [
-      "natural-images",
-      "scene-texts",
-      "text-detection",
-      "text-recognition"
-    ]
+    "topics": []
   },
   {
     "name": "awesome",
@@ -14482,18 +9516,7 @@ const repoData = [
     "description": "\ud83c\udf89 The best resources related to Vuetify",
     "stars": 1673,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "applications",
-      "awesome",
-      "awesome-list",
-      "guide",
-      "plugins",
-      "projects",
-      "showcases",
-      "utilities",
-      "vuetify"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-mcp-servers",
@@ -14502,11 +9525,7 @@ const repoData = [
     "description": "A collection of MCP servers.",
     "stars": 1673,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "mcp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cli-apps-in-a-csv",
@@ -14515,7 +9534,6 @@ const repoData = [
     "description": "The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files",
     "stars": 1673,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
@@ -14527,7 +9545,8 @@ const repoData = [
       "linux-command",
       "resources",
       "terminal-based",
-      "tui"
+      "tui",
+      "Python"
     ]
   },
   {
@@ -14537,7 +9556,6 @@ const repoData = [
     "description": " A curated list of promising OCR resources",
     "stars": 1666,
     "updated_at": "2024-12-09",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14547,14 +9565,14 @@ const repoData = [
     "description": "A curated list of resources related to Industrial Control System (ICS) security.",
     "stars": 1666,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-list",
       "hacktoberfest",
       "ics",
       "iiot",
-      "security"
+      "security",
+      "Python"
     ]
   },
   {
@@ -14564,25 +9582,7 @@ const repoData = [
     "description": "Terminal Emulators",
     "stars": 1665,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "bash",
-      "c",
-      "command-line",
-      "cpp",
-      "golang",
-      "haskell",
-      "node",
-      "powershell",
-      "python",
-      "ruby",
-      "rust",
-      "shell",
-      "swift",
-      "terminal",
-      "terminal-emulators",
-      "tty"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-anki",
@@ -14591,21 +9591,7 @@ const repoData = [
     "description": "A curated list of awesome Anki add-ons, decks and resources",
     "stars": 1665,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "anki",
-      "anki-addon",
-      "anki-cards",
-      "anki-deck",
-      "anki-flashcards",
-      "anki-template",
-      "anki-theme",
-      "awesome",
-      "awesome-list",
-      "deck",
-      "flashcards",
-      "list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-openai-vision-api-experiments",
@@ -14614,7 +9600,6 @@ const repoData = [
     "description": "Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API \ud83d\udd25",
     "stars": 1661,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "chatgpt",
       "classification",
@@ -14625,7 +9610,8 @@ const repoData = [
       "open-vocabulary-segmentation",
       "openai",
       "segment-anything",
-      "zero-shot"
+      "zero-shot",
+      "Python"
     ]
   },
   {
@@ -14635,16 +9621,7 @@ const repoData = [
     "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
     "stars": 1659,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deep-learning",
-      "machine-learning",
-      "speaker-diarization",
-      "speech-processing",
-      "speech-recognition"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-security",
@@ -14653,15 +9630,7 @@ const repoData = [
     "description": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
     "stars": 1658,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "android-awesome",
-      "android-cookbook",
-      "android-malware",
-      "android-pentest",
-      "android-pentesting",
-      "android-security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cn",
@@ -14670,7 +9639,6 @@ const repoData = [
     "description": "\u8d85\u8d5e\u5217\u8868\u5408\u96c6",
     "stars": 1657,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "awesome",
       "awesome-go",
@@ -14688,7 +9656,8 @@ const repoData = [
       "learning",
       "learning-java",
       "learning-js",
-      "learning-python"
+      "learning-python",
+      "Python"
     ]
   },
   {
@@ -14698,7 +9667,6 @@ const repoData = [
     "description": ":nut_and_bolt: A collection of awesome resources for learning Service Workers",
     "stars": 1657,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14708,7 +9676,6 @@ const repoData = [
     "description": "Awesome metaverse projects",
     "stars": 1656,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14718,11 +9685,7 @@ const repoData = [
     "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
     "stars": 1656,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-dynamodb",
@@ -14731,7 +9694,6 @@ const repoData = [
     "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
     "stars": 1656,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14741,7 +9703,6 @@ const repoData = [
     "description": "A curated list of data mining papers about fraud detection.",
     "stars": 1646,
     "updated_at": "2025-01-03",
-    "language": "Python",
     "topics": [
       "churn",
       "classification",
@@ -14762,7 +9723,8 @@ const repoData = [
       "graph-classification",
       "link-prediction",
       "logistic-regression",
-      "random-forest"
+      "random-forest",
+      "Python"
     ]
   },
   {
@@ -14772,14 +9734,7 @@ const repoData = [
     "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
     "stars": 1645,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "erlang",
-      "erlang-library",
-      "lists"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-okr",
@@ -14788,7 +9743,6 @@ const repoData = [
     "description": "A curated list about OKR (Objective - Key Results)",
     "stars": 1644,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14798,7 +9752,6 @@ const repoData = [
     "description": "No description",
     "stars": 1644,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14808,7 +9761,6 @@ const repoData = [
     "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
     "stars": 1643,
     "updated_at": "2025-01-03",
-    "language": "Markdown",
     "topics": [
       "awesome",
       "awesome-canvas",
@@ -14818,7 +9770,8 @@ const repoData = [
       "draw-graphics",
       "html5-canvas",
       "javascript",
-      "particles"
+      "particles",
+      "Markdown"
     ]
   },
   {
@@ -14828,18 +9781,7 @@ const repoData = [
     "description": "JAX - A curated list of resources https://github.com/google/jax",
     "stars": 1639,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "autograd",
-      "awesome",
-      "awesome-list",
-      "deep-learning",
-      "jax",
-      "machine-learning",
-      "neural-network",
-      "numpy",
-      "xla"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-frontend",
@@ -14848,10 +9790,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome frontend libraries, resources and shiny things.",
     "stars": 1637,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-geek-podcasts",
@@ -14860,8 +9799,9 @@ const repoData = [
     "description": "A curated list of podcasts we like to listen to. ",
     "stars": 1637,
     "updated_at": "2024-12-14",
-    "language": "Ruby",
-    "topics": []
+    "topics": [
+      "Ruby"
+    ]
   },
   {
     "name": "awesome-websockets",
@@ -14870,23 +9810,7 @@ const repoData = [
     "description": "A curated list of Websocket libraries and resources.",
     "stars": 1635,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "html5-websockets",
-      "node-websocket",
-      "php-websocket",
-      "websocket",
-      "websocket-api",
-      "websocket-chat",
-      "websocket-client",
-      "websocket-library",
-      "websocket-node",
-      "websocket-protocol",
-      "websocket-rails",
-      "websocket-server",
-      "websocketd",
-      "websockets"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-self-supervised-gnn",
@@ -14895,7 +9819,6 @@ const repoData = [
     "description": "Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).",
     "stars": 1628,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "deep-learning",
       "graph-mining",
@@ -14904,7 +9827,8 @@ const repoData = [
       "machine-learning",
       "pre-training",
       "pretraining",
-      "self-supervised-learning"
+      "self-supervised-learning",
+      "Python"
     ]
   },
   {
@@ -14914,14 +9838,14 @@ const repoData = [
     "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
     "stars": 1623,
     "updated_at": "2025-01-06",
-    "language": "C",
     "topics": [
       "flipper",
       "flipper-zero",
       "flipperzero",
       "pentesting",
       "roguemaster",
-      "security-tools"
+      "security-tools",
+      "C"
     ]
   },
   {
@@ -14931,25 +9855,7 @@ const repoData = [
     "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
     "stars": 1623,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ddpm",
-      "deep-learning",
-      "denoising",
-      "diffusion",
-      "diffusion-models",
-      "generation",
-      "generative-models",
-      "machine-learning",
-      "medical-imaging",
-      "ncsn",
-      "reconstruction",
-      "score-based",
-      "score-matching",
-      "sde",
-      "segmentation",
-      "vae"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-promises",
@@ -14958,7 +9864,6 @@ const repoData = [
     "description": "A curated list of useful resources for JavaScript Promises",
     "stars": 1622,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -14968,7 +9873,6 @@ const repoData = [
     "description": ":sunglasses: List of helpful resources added by the community for the community!",
     "stars": 1621,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
@@ -14977,7 +9881,8 @@ const repoData = [
       "hacktoberfest",
       "jekyll",
       "ruby",
-      "sass"
+      "sass",
+      "HTML"
     ]
   },
   {
@@ -14987,10 +9892,7 @@ const repoData = [
     "description": "\u5173\u4e8e\u9762\u8bd5/\u8c08Offer/\u7a0b\u5e8f\u5458\u804c\u573a\u751f\u6daf\u7b49",
     "stars": 1621,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "tips-and-tricks"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-fonts",
@@ -14999,17 +9901,7 @@ const repoData = [
     "description": "Curated list of fonts and everything",
     "stars": 1619,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "fonts",
-      "free-fonts",
-      "google-fonts",
-      "icon-font",
-      "list",
-      "programming-fonts"
-    ]
+    "topics": []
   },
   {
     "name": "AwesomeSites",
@@ -15018,14 +9910,14 @@ const repoData = [
     "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
     "stars": 1618,
     "updated_at": "2025-01-06",
-    "language": "JavaScript",
     "topics": [
       "awesomesite",
       "awesomesites",
       "frontend",
       "html",
       "javascript",
-      "website"
+      "website",
+      "JavaScript"
     ]
   },
   {
@@ -15035,13 +9927,7 @@ const repoData = [
     "description": "an awesome list of decentralized services and technologies",
     "stars": 1618,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
-    "topics": [
-      "decentralized",
-      "decentralized-applications",
-      "decentralized-protocols",
-      "decentralized-web"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-speaking",
@@ -15050,15 +9936,7 @@ const repoData = [
     "description": "Resources about public speaking",
     "stars": 1613,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "conference",
-      "list",
-      "speaking",
-      "speaking-resources"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Backbones",
@@ -15067,7 +9945,6 @@ const repoData = [
     "description": "Integrate deep learning models for image classification \\| Backbone learning/comparison/magic modification project",
     "stars": 1612,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "cnn",
       "deep-learning",
@@ -15076,7 +9953,8 @@ const repoData = [
       "pytorch-classification",
       "resnet",
       "swin-transformer",
-      "transformer"
+      "transformer",
+      "Python"
     ]
   },
   {
@@ -15086,7 +9964,6 @@ const repoData = [
     "description": "Uma lista selecionada de conte\u00fados sobre lideran\u00e7a t\u00e9cnica, com prefer\u00eancia em conte\u00fados em portugu\u00eas",
     "stars": 1608,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15096,12 +9973,12 @@ const repoData = [
     "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
     "stars": 1606,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "asgi",
       "awesome",
       "awesome-list",
-      "python"
+      "python",
+      "Python"
     ]
   },
   {
@@ -15111,25 +9988,7 @@ const repoData = [
     "description": "A curated list of Artificial Intelligence Top Tools",
     "stars": 1605,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "ai-tools",
-      "ai-top-tools",
-      "awesome",
-      "awesome-ai",
-      "awesome-ai-tools",
-      "awesome-list",
-      "bestofai",
-      "easywithai",
-      "futurepedia",
-      "futuretools",
-      "machine-learning",
-      "ml",
-      "mlops",
-      "theresanaiforthat",
-      "top-ai-tools"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ggplot2",
@@ -15138,14 +9997,7 @@ const repoData = [
     "description": "A curated list of awesome ggplot2 tutorials, packages etc.",
     "stars": 1605,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "data-visualization",
-      "geoms",
-      "ggplot2",
-      "ggplot2-themes",
-      "scales"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flutter-plugins",
@@ -15154,7 +10006,6 @@ const repoData = [
     "description": "\ud83d\udd25\ud83d\udd25 \u6536\u96c6\u597d\u7528\u7684Flutter\u63d2\u4ef6\u4ee5\u4fbf\u66f4\u6548\u7387\u7684\u5f00\u53d1",
     "stars": 1604,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15164,10 +10015,7 @@ const repoData = [
     "description": "A curated list of engineering-related video games rated Very Positive or higher on Steam",
     "stars": 1604,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-video",
@@ -15176,7 +10024,6 @@ const repoData = [
     "description": " A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.",
     "stars": 1599,
     "updated_at": "2025-01-03",
-    "language": "HTML",
     "topics": [
       "audio",
       "awesome",
@@ -15197,7 +10044,8 @@ const repoData = [
       "streaming",
       "video",
       "video-streaming",
-      "vmaf"
+      "vmaf",
+      "HTML"
     ]
   },
   {
@@ -15207,12 +10055,7 @@ const repoData = [
     "description": "A curated list of delightful Laravel PHP framework packages and resources",
     "stars": 1598,
     "updated_at": "2024-12-19",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "laravel",
-      "php"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-svelte",
@@ -15221,14 +10064,7 @@ const repoData = [
     "description": "\u26a1 A curated list of awesome Svelte resources",
     "stars": 1598,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "sapper",
-      "svelte",
-      "sveltejs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-libgen",
@@ -15237,7 +10073,6 @@ const repoData = [
     "description": "\ud83d\ude0e Awesome list of Library Genesis, the world's largest free library.",
     "stars": 1597,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15247,16 +10082,7 @@ const repoData = [
     "description": "AIOps\u5b66\u4e60\u8d44\u6599\u6c47\u603b\uff0c\u6b22\u8fce\u4e00\u8d77\u8865\u5168\u8fd9\u4e2a\u4ed3\u5e93\uff0c\u6b22\u8fcestar",
     "stars": 1587,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "aiops",
-      "alarm-reduction",
-      "anomaly-detection",
-      "deep-learning",
-      "machine-learning",
-      "root-cause-analysis",
-      "time-series-analysis"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-distributed-systems",
@@ -15265,12 +10091,7 @@ const repoData = [
     "description": "Awesome list of distributed systems resources",
     "stars": 1584,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "distributed-systems"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-python-scientific-audio",
@@ -15279,12 +10100,7 @@ const repoData = [
     "description": " Curated list of python software and packages related to scientific research in audio",
     "stars": 1584,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "audio",
-      "awesome-list",
-      "python"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-go",
@@ -15293,7 +10109,6 @@ const repoData = [
     "description": "A curated list of awesome Go frameworks, libraries and software.",
     "stars": 1581,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15303,17 +10118,7 @@ const repoData = [
     "description": "A curated list of awesome things related to Flutter desktop.",
     "stars": 1581,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "flutter",
-      "flutter-app",
-      "flutter-apps",
-      "flutter-demo",
-      "flutter-desktop",
-      "flutter-desktop-app",
-      "flutter-desktop-template",
-      "flutter-examples"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-awesome-nodejs",
@@ -15322,20 +10127,7 @@ const repoData = [
     "description": "\ud83d\udc22\ud83d\ude80 An Awesome list of Awesome lists related to Node.js.",
     "stars": 1580,
     "updated_at": "2024-12-30",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "developer-tools",
-      "javascript",
-      "lists",
-      "modules",
-      "node",
-      "nodejs",
-      "npm",
-      "resources",
-      "turtle-rocket"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-FL",
@@ -15344,7 +10136,6 @@ const repoData = [
     "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
     "stars": 1580,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "artificial-intelligence",
       "awesome",
@@ -15365,7 +10156,8 @@ const repoData = [
       "privacy",
       "security",
       "system",
-      "tabular-data"
+      "tabular-data",
+      "Python"
     ]
   },
   {
@@ -15375,17 +10167,7 @@ const repoData = [
     "description": "\ud83d\udd10 A curated list of awesome WebAuthn and Passkey resources",
     "stars": 1579,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "authentication",
-      "awesome",
-      "awesome-list",
-      "fido2",
-      "passkey",
-      "passkeys",
-      "passkeys-demo",
-      "webauthn"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-deepfakes",
@@ -15394,13 +10176,7 @@ const repoData = [
     "description": "Everything Deepfakes",
     "stars": 1577,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "computer-vision",
-      "deepfakes",
-      "faceswap"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-slam",
@@ -15409,7 +10185,6 @@ const repoData = [
     "description": "A curated list of awesome SLAM tutorials, projects and communities.",
     "stars": 1576,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15419,13 +10194,7 @@ const repoData = [
     "description": "A curated list of awesome things related to Vue 3",
     "stars": 1576,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "vue",
-      "vue3",
-      "vuejs"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-loginless",
@@ -15434,12 +10203,7 @@ const repoData = [
     "description": "an awesome list of internet services that don't require logins or registrations",
     "stars": 1575,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "account",
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-web-dev-books",
@@ -15448,7 +10212,6 @@ const repoData = [
     "description": "\u5982\u679c\u6709\u4eba\u8ba9\u4f60\u63a8\u8350\u524d\u7aef\u6280\u672f\u4e66\uff0c\u8bf7\u8ba9\u4ed6\u770b\u8fd9\u4e2a\u5217\u8868",
     "stars": 1574,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15458,7 +10221,6 @@ const repoData = [
     "description": "A collaborative list of awesome for iOS developers. Include quick preview.",
     "stars": 1571,
     "updated_at": "2025-01-06",
-    "language": "PHP",
     "topics": [
       "animation",
       "awesome",
@@ -15473,7 +10235,8 @@ const repoData = [
       "ui",
       "ui-components",
       "uikit",
-      "xcode"
+      "xcode",
+      "PHP"
     ]
   },
   {
@@ -15483,7 +10246,6 @@ const repoData = [
     "description": "Use FontAwesome in your Swift projects",
     "stars": 1570,
     "updated_at": "2024-12-16",
-    "language": "Swift",
     "topics": [
       "carthage",
       "cocoapods",
@@ -15492,7 +10254,8 @@ const repoData = [
       "ios",
       "macos",
       "swift",
-      "tvos"
+      "tvos",
+      "Swift"
     ]
   },
   {
@@ -15502,14 +10265,7 @@ const repoData = [
     "description": "A list of open source projects with links to contribute or donate.",
     "stars": 1567,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "open-source",
-      "opensource"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-segment-anything",
@@ -15518,19 +10274,7 @@ const repoData = [
     "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
     "stars": 1567,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "application",
-      "awesome-list",
-      "chatgpt",
-      "image-generation",
-      "inpainting",
-      "object-detection",
-      "segment-anything",
-      "segmentation",
-      "stable-diffusion",
-      "suvey"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-f2e-libs",
@@ -15539,7 +10283,6 @@ const repoData = [
     "description": "\ud83c\udf89 \u6574\u7406\u6211\u5e73\u65f6\u5173\u6ce8\u7684\u524d\u7aef\u5e93\u3002",
     "stars": 1567,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15549,7 +10292,6 @@ const repoData = [
     "description": "\u7cfb\u7edf\u7ba1\u7406\u5458\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5907\u4efd/\u514b\u9686\u8f6f\u4ef6\u3001\u4e91\u8ba1\u7b97/\u4e91\u5b58\u50a8\u3001\u534f\u4f5c\u8f6f\u4ef6\u3001\u914d\u7f6e\u7ba1\u7406\u3001\u65e5\u5fd7\u7ba1\u7406\u3001\u76d1\u63a7\u3001\u9879\u76ee\u7ba1\u7406\u7b49",
     "stars": 1566,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15559,7 +10301,6 @@ const repoData = [
     "description": "A list of the best places to job hunt. I've been curating this for the past 7 years.",
     "stars": 1566,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15569,28 +10310,7 @@ const repoData = [
     "description": "Une liste de liens permettant de se former aux outils utilis\u00e9s dans le domaine du Devops",
     "stars": 1564,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "ansible",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "devops",
-      "devops-tools",
-      "docker",
-      "french",
-      "github",
-      "gitlab",
-      "good-first-issue",
-      "hacktoberfest",
-      "kubernetes",
-      "nginx",
-      "podman",
-      "prometheus",
-      "puppet",
-      "salt",
-      "terraform"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-coronavirus",
@@ -15599,7 +10319,6 @@ const repoData = [
     "description": "\ud83e\udda0  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
     "stars": 1563,
     "updated_at": "2025-01-06",
-    "language": "TypeScript",
     "topics": [
       "2019-ncov",
       "2019ncov",
@@ -15614,7 +10333,8 @@ const repoData = [
       "covid19",
       "covid19-data",
       "epidemiology",
-      "sars-cov-2"
+      "sars-cov-2",
+      "TypeScript"
     ]
   },
   {
@@ -15624,14 +10344,7 @@ const repoData = [
     "description": "Cybersecurity oriented awesome list",
     "stars": 1562,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cybersecurity",
-      "exploitation",
-      "reverse-engineering"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-unix",
@@ -15640,28 +10353,7 @@ const repoData = [
     "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
     "stars": 1561,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bsd",
-      "devuan",
-      "freebsd",
-      "illumos",
-      "kernel",
-      "linux",
-      "linux-distribution",
-      "macos",
-      "minix",
-      "netbsd",
-      "openbsd",
-      "plan9",
-      "posix",
-      "slackware",
-      "solaris",
-      "unix",
-      "unix-philosophy"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-talking-head-generation",
@@ -15670,13 +10362,7 @@ const repoData = [
     "description": "No description",
     "stars": 1560,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "face-reenactment",
-      "image-animation",
-      "motion-transfer",
-      "talking-head"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-gitops",
@@ -15685,11 +10371,7 @@ const repoData = [
     "description": "A curated list for awesome GitOps resources",
     "stars": 1550,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-progressive-web-apps",
@@ -15698,7 +10380,6 @@ const repoData = [
     "description": ":sunrise: A collection of awesome resources for building progressive web apps",
     "stars": 1550,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15708,7 +10389,6 @@ const repoData = [
     "description": "A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)",
     "stars": 1549,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15718,13 +10398,7 @@ const repoData = [
     "description": "Digital Human Resource Collection: 2D/3D/4D human modeling, avatar generation & animation, clothed people digitalization, virtual try-on, and others.",
     "stars": 1548,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "avatar",
-      "clothed-people-digitalization",
-      "digital-human",
-      "virtual-try-on"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-symfony",
@@ -15733,7 +10407,6 @@ const repoData = [
     "description": "A list of awesome Symfony bundles, utilities and resources.",
     "stars": 1547,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15743,20 +10416,7 @@ const repoData = [
     "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
     "stars": 1547,
     "updated_at": "2024-12-20",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cross-platform",
-      "react-native",
-      "vue",
-      "weex",
-      "weex-android",
-      "weex-demo",
-      "weex-html5",
-      "weex-ios",
-      "weex-plugin"
-    ]
+    "topics": []
   },
   {
     "name": "CS-Awesome-Courses",
@@ -15765,12 +10425,7 @@ const repoData = [
     "description": "\u8ba1\u7b97\u673a\u7684\u4f18\u79c0\u8bfe\u7a0b",
     "stars": 1547,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "courses",
-      "learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tikz",
@@ -15779,14 +10434,7 @@ const repoData = [
     "description": "A curated list of awesome TikZ documentations, libraries and resources",
     "stars": 1547,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "latex",
-      "tex",
-      "tikz"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-webgpu",
@@ -15795,17 +10443,7 @@ const repoData = [
     "description": "\ud83d\ude0e Curated list of awesome things around WebGPU ecosystem. ",
     "stars": 1544,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "3d",
-      "awesome",
-      "awesome-list",
-      "gpu-computing",
-      "javascript",
-      "w3c",
-      "webgl",
-      "webgpu"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-android-cn",
@@ -15814,7 +10452,6 @@ const repoData = [
     "description": "Android \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\uff1a\u56fe\u8868\u3001\u6e38\u620f\u5f00\u53d1\u3001GUI\u3001\u5d29\u6e83\u68c0\u6d4b\u3001\u8c03\u8bd5\u5de5\u5177\u7b49\uff0c\u7531\u4f2f\u4e50\u5728\u7ebf\u6301\u7eed\u66f4\u65b0\u3002",
     "stars": 1542,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15824,7 +10461,6 @@ const repoData = [
     "description": "CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon! ",
     "stars": 1540,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -15834,13 +10470,13 @@ const repoData = [
     "description": "List of resources about programming practices for writing safety-critical software.",
     "stars": 1539,
     "updated_at": "2024-12-21",
-    "language": "Python",
     "topics": [
       "awesome-list",
       "awesome-lists",
       "safety",
       "safety-critical",
-      "safety-standards"
+      "safety-standards",
+      "Python"
     ]
   },
   {
@@ -15850,22 +10486,7 @@ const repoData = [
     "description": "List of awesome resources for machine learning-based algorithmic trading",
     "stars": 1535,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "cryptocurrency",
-      "deep-learning",
-      "deep-neural-networks",
-      "deep-reinforcement-learning",
-      "deep-trading",
-      "fintech",
-      "frequency-trading",
-      "machine-learning",
-      "quantitative-trading",
-      "stock-trading",
-      "trading-algorithms",
-      "trading-bot",
-      "trading-bots"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lit",
@@ -15874,12 +10495,7 @@ const repoData = [
     "description": "A curated list of awesome Lit resources.",
     "stars": 1534,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "lit-html"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-made-by-brazilians",
@@ -15888,18 +10504,7 @@ const repoData = [
     "description": "\ud83c\udde7\ud83c\uddf7 A collection of amazing open source projects built by brazilian developers",
     "stars": 1531,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-brazil",
-      "awesome-opensource",
-      "awesomebrazil",
-      "css",
-      "javascript",
-      "made-by-brazilians",
-      "programming-language",
-      "stars"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Android-Architecture",
@@ -15908,10 +10513,7 @@ const repoData = [
     "description": "Android\u67b6\u6784\u5408\u96c6",
     "stars": 1529,
     "updated_at": "2024-12-25",
-    "language": "Unknown",
-    "topics": [
-      "android-architecture"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-uikit",
@@ -15920,7 +10522,6 @@ const repoData = [
     "description": "Collect JS Frameworks, Web components library and Admin Template.",
     "stars": 1529,
     "updated_at": "2024-12-29",
-    "language": "Dockerfile",
     "topics": [
       "angular",
       "angular-components",
@@ -15941,7 +10542,8 @@ const repoData = [
       "uiw",
       "vue",
       "vue-admin",
-      "vue-components"
+      "vue-components",
+      "Dockerfile"
     ]
   },
   {
@@ -15951,23 +10553,7 @@ const repoData = [
     "description": "Curated list of open-source quantum software projects.",
     "stars": 1525,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "compilers",
-      "quantum-algorithms",
-      "quantum-annealing",
-      "quantum-assembly",
-      "quantum-chemistry",
-      "quantum-circuit-simulator",
-      "quantum-circuits",
-      "quantum-compiler",
-      "quantum-computer",
-      "quantum-computer-simulator",
-      "quantum-computing",
-      "quantum-programming-language",
-      "quantum-programs",
-      "quantum-simulators"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-tiny-object-detection",
@@ -15976,14 +10562,7 @@ const repoData = [
     "description": "\ud83d\udd76 A curated list of Tiny Object Detection papers and related resources.",
     "stars": 1525,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "face-detection",
-      "object-detection",
-      "pedestrian-detection",
-      "small-object-detection"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-flask",
@@ -15992,13 +10571,7 @@ const repoData = [
     "description": "A curated list of awesome things related to Flask",
     "stars": 1521,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "flask",
-      "flask-resources"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ios-chart",
@@ -16007,12 +10580,7 @@ const repoData = [
     "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift",
     "stars": 1519,
     "updated_at": "2024-12-14",
-    "language": "Unknown",
-    "topics": [
-      "chart",
-      "ios-charts",
-      "swift-charts"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-stable-diffusion",
@@ -16021,15 +10589,7 @@ const repoData = [
     "description": "Curated list of awesome resources for the Stable Diffusion AI Model.",
     "stars": 1519,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "awesome",
-      "awesome-list",
-      "diffusion",
-      "esrgan",
-      "stable-diffusion"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-shiny-extensions",
@@ -16038,17 +10598,7 @@ const repoData = [
     "description": "\ud83d\udc1d Awesome R and Python packages offering extended UI or server components for the web framework Shiny",
     "stars": 1518,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "rshiny",
-      "shiny",
-      "shiny-apps",
-      "shiny-for-python",
-      "shiny-inputs",
-      "shiny-themes"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Meta-Learning",
@@ -16057,15 +10607,7 @@ const repoData = [
     "description": " A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.",
     "stars": 1516,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "deep-meta-learning",
-      "few-shot-learning",
-      "meta-reinforcement",
-      "metalearning",
-      "one-shot-learning",
-      "zero-shot-learning"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-starknet",
@@ -16074,19 +10616,7 @@ const repoData = [
     "description": "A curated list of awesome StarkNet resources, libraries, tools and more",
     "stars": 1515,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "cairo",
-      "cairo-lang",
-      "layer2",
-      "rollups",
-      "scaling",
-      "starknet",
-      "starks",
-      "starkware",
-      "zkrollup",
-      "zkstarks"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-CloudSec-Labs",
@@ -16095,7 +10625,6 @@ const repoData = [
     "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
     "stars": 1515,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -16105,16 +10634,7 @@ const repoData = [
     "description": "\ud83d\ude0e A curated list of awesome things related to Yew / WebAssembly.",
     "stars": 1515,
     "updated_at": "2025-01-02",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "rust",
-      "wasm",
-      "webassembly",
-      "yew",
-      "yew-framework"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-low-light-image-enhancement",
@@ -16123,7 +10643,6 @@ const repoData = [
     "description": "This is a resouce list for low light image enhancement",
     "stars": 1514,
     "updated_at": "2025-01-06",
-    "language": "MATLAB",
     "topics": [
       "computer-vision",
       "contrast-enhancement",
@@ -16134,7 +10653,8 @@ const repoData = [
       "image-processing",
       "low-light",
       "low-light-image-enhancement",
-      "retinex"
+      "retinex",
+      "MATLAB"
     ]
   },
   {
@@ -16144,10 +10664,10 @@ const repoData = [
     "description": "A curated list of awesome things related to Strapi",
     "stars": 1511,
     "updated_at": "2025-01-05",
-    "language": "JavaScript",
     "topics": [
       "awesome-list",
-      "strapi"
+      "strapi",
+      "JavaScript"
     ]
   },
   {
@@ -16157,15 +10677,7 @@ const repoData = [
     "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
     "stars": 1511,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "datasets",
-      "large-language-models",
-      "llm4rec",
-      "recommender-system",
-      "survey"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-RemoteWork",
@@ -16174,18 +10686,7 @@ const repoData = [
     "description": "Resources for remote workers: approaches, hiring page, remote life and more.",
     "stars": 1509,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "hiring",
-      "hiring-sites",
-      "job-board",
-      "jobs",
-      "remote",
-      "remote-job",
-      "remote-work",
-      "remote-workers",
-      "telecom"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Interaction-Aware-Trajectory-Prediction",
@@ -16194,7 +10695,6 @@ const repoData = [
     "description": "A selection of state-of-the-art research materials on trajectory prediction",
     "stars": 1508,
     "updated_at": "2025-01-03",
-    "language": "TeX",
     "topics": [
       "artificial-intelligence",
       "autonomous-driving",
@@ -16215,7 +10715,8 @@ const repoData = [
       "traffic",
       "trajectory-generation",
       "trajectory-prediction",
-      "vehicle-trajectory"
+      "vehicle-trajectory",
+      "TeX"
     ]
   },
   {
@@ -16225,7 +10726,6 @@ const repoData = [
     "description": "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.",
     "stars": 1507,
     "updated_at": "2025-01-06",
-    "language": "Jupyter Notebook",
     "topics": [
       "ai",
       "algorithms",
@@ -16246,7 +10746,8 @@ const repoData = [
       "natural-language-processing",
       "neural-networks",
       "nlp",
-      "time-series"
+      "time-series",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -16256,7 +10757,6 @@ const repoData = [
     "description": "Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR/CVR prediction), Post Ranking, Large Model (Generative Recommendation, LLM), Transfer learning, Reinforcement Learning and so on.",
     "stars": 1507,
     "updated_at": "2025-01-05",
-    "language": "Python",
     "topics": [
       "advertising",
       "ctr",
@@ -16265,7 +10765,8 @@ const repoData = [
       "recommender-system",
       "reinforcement-learning",
       "search",
-      "search-engine"
+      "search-engine",
+      "Python"
     ]
   },
   {
@@ -16275,7 +10776,6 @@ const repoData = [
     "description": "A curated list of awesome ZK resources, libraries, tools and more.  ",
     "stars": 1504,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -16285,29 +10785,7 @@ const repoData = [
     "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
     "stars": 1503,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "cheatsheet",
-      "geochemistry",
-      "geology",
-      "geophysics",
-      "geoscience",
-      "geosciences",
-      "geospatial",
-      "geostatistics",
-      "groundwater",
-      "modflow",
-      "open-data",
-      "open-science",
-      "open-source",
-      "python",
-      "reservoir-modeling",
-      "seismic",
-      "simulation",
-      "subsurface"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-broadcasting",
@@ -16316,12 +10794,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
     "stars": 1500,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "broadcast",
-      "broadcasting"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-grid",
@@ -16330,19 +10803,7 @@ const repoData = [
     "description": "A curated list of grid(table) libraries and resources that developers may find useful.",
     "stars": 1498,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "angular",
-      "awesome",
-      "awesome-list",
-      "datagrid",
-      "ember",
-      "grid",
-      "javascript",
-      "jquery",
-      "react",
-      "spreadsheet"
-    ]
+    "topics": []
   },
   {
     "name": "wheel-awesome",
@@ -16351,8 +10812,9 @@ const repoData = [
     "description": "\u5929\u5929\u9020\u8f6e\u5b50\uff0c\u624b\u5199\u9762\u8bd5\u5e38\u89c1\u6e90\u7801\u3002",
     "stars": 1495,
     "updated_at": "2024-12-26",
-    "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "JavaScript"
+    ]
   },
   {
     "name": "awesome-knowledge-graph",
@@ -16361,14 +10823,7 @@ const repoData = [
     "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
     "stars": 1494,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "graph",
-      "graph-database",
-      "knowledge-graph",
-      "nlp"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-sdn",
@@ -16377,18 +10832,7 @@ const repoData = [
     "description": "A awesome list about Software Defined Network (SDN)",
     "stars": 1493,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "hacktoberfest",
-      "network-virtualization",
-      "open-network",
-      "openflow",
-      "openflow-controller",
-      "openflow-protocol",
-      "overlay-network",
-      "sdn",
-      "switch"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-jest",
@@ -16397,13 +10841,7 @@ const repoData = [
     "description": "\ud83d\udd76Awesome Jest packages and resources ",
     "stars": 1493,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "javascript",
-      "jest"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-cyber-security",
@@ -16412,14 +10850,7 @@ const repoData = [
     "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
     "stars": 1491,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "certification",
-      "cyber-security",
-      "hacking",
-      "operation-systens",
-      "papers-published"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-go-China",
@@ -16428,12 +10859,7 @@ const repoData = [
     "description": "A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.",
     "stars": 1490,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "go",
-      "golang"
-    ]
+    "topics": []
   },
   {
     "name": "awesome_lists",
@@ -16442,14 +10868,14 @@ const repoData = [
     "description": "Awesome Lists for Tenure-Track Assistant Professors and PhD students. (\u52a9\u7406\u6559\u6388/\u535a\u58eb\u751f\u751f\u5b58\u6307\u5357)",
     "stars": 1486,
     "updated_at": "2025-01-06",
-    "language": "Python",
     "topics": [
       "advice",
       "ai",
       "assistant-professor",
       "awesome-list",
       "gpu",
-      "grants-search"
+      "grants-search",
+      "Python"
     ]
   },
   {
@@ -16459,20 +10885,7 @@ const repoData = [
     "description": "Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation",
     "stars": 1482,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "artificial-intelligence",
-      "auto-tuning",
-      "compiler",
-      "machine-learning",
-      "multi-cores",
-      "operating-systems",
-      "optimisation",
-      "parallel-computing",
-      "parallel-programming",
-      "parallelisation",
-      "parallelism"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lockpicking",
@@ -16481,19 +10894,7 @@ const repoData = [
     "description": ":unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.",
     "stars": 1480,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "keypicking",
-      "lockpicking",
-      "locksmith",
-      "locksmithing",
-      "locksport",
-      "physec",
-      "physical-security",
-      "picking-locks"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Dataset-Distillation",
@@ -16502,10 +10903,10 @@ const repoData = [
     "description": "A curated list of awesome papers on dataset distillation and related applications.",
     "stars": 1480,
     "updated_at": "2025-01-06",
-    "language": "HTML",
     "topics": [
       "awesome-list",
-      "deep-learning"
+      "deep-learning",
+      "HTML"
     ]
   },
   {
@@ -16515,8 +10916,9 @@ const repoData = [
     "description": "List of GitHub profiles that have awesome customisation, that you can use for inspiration",
     "stars": 1479,
     "updated_at": "2025-01-06",
-    "language": "HTML",
-    "topics": []
+    "topics": [
+      "HTML"
+    ]
   },
   {
     "name": "awesome-decentralized-finance",
@@ -16525,17 +10927,7 @@ const repoData = [
     "description": "A curated list of awesome decentralized finance projects",
     "stars": 1475,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "blockchain",
-      "decentralized",
-      "decentralized-finance",
-      "defi",
-      "ethereum",
-      "open-finance"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-product-management",
@@ -16544,13 +10936,13 @@ const repoData = [
     "description": "\ud83d\ude80 A curated list of awesome resources for product/program managers to learn and grow.",
     "stars": 1472,
     "updated_at": "2025-01-06",
-    "language": "CSS",
     "topics": [
       "awesome",
       "awesome-list",
       "pm",
       "product",
-      "product-management"
+      "product-management",
+      "CSS"
     ]
   },
   {
@@ -16560,12 +10952,7 @@ const repoData = [
     "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
     "stars": 1472,
     "updated_at": "2024-12-28",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "bucklescript",
-      "reasonml"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-normalizing-flows",
@@ -16574,7 +10961,6 @@ const repoData = [
     "description": "Awesome resources on normalizing flows.",
     "stars": 1471,
     "updated_at": "2025-01-02",
-    "language": "Python",
     "topics": [
       "autoregressive",
       "awesome-list",
@@ -16584,7 +10970,8 @@ const repoData = [
       "generative-modeling",
       "machine-learning",
       "normalizing-flows",
-      "variational-inference"
+      "variational-inference",
+      "Python"
     ]
   },
   {
@@ -16594,11 +10981,7 @@ const repoData = [
     "description": "\ud83e\udd86 A curated list of awesome DuckDB resources",
     "stars": 1470,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-micropython",
@@ -16607,12 +10990,12 @@ const repoData = [
     "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
     "stars": 1468,
     "updated_at": "2025-01-05",
-    "language": "HTML",
     "topics": [
       "awesome",
       "awesome-list",
       "collection",
-      "micropython"
+      "micropython",
+      "HTML"
     ]
   },
   {
@@ -16622,7 +11005,6 @@ const repoData = [
     "description": "List of Awesome Advanced Windows Exploitation References",
     "stars": 1467,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -16632,11 +11014,7 @@ const repoData = [
     "description": "Spring Cloud \u8d44\u6e90\u5927\u5168",
     "stars": 1464,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "spring-cloud",
-      "springcloud"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-malware-development",
@@ -16645,12 +11023,7 @@ const repoData = [
     "description": "Organized list of my malware development resources",
     "stars": 1462,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "malware",
-      "malware-development",
-      "malware-research"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Ionic",
@@ -16659,13 +11032,7 @@ const repoData = [
     "description": "\ud83d\ude0e A curated list of amazingly awesome Ionic libraries, resources and solutions.",
     "stars": 1461,
     "updated_at": "2024-12-31",
-    "language": "Unknown",
-    "topics": [
-      "angular",
-      "cordova-plugin",
-      "ionic",
-      "ionic-libraries"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-GPT-Store",
@@ -16674,24 +11041,7 @@ const repoData = [
     "description": "Custom GPT Store - A collection of major GPTS available in public",
     "stars": 1456,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "agentgpt",
-      "ai-agents",
-      "awesome-gpt-store",
-      "awesome-gpts",
-      "awesome-list",
-      "chatgpt",
-      "chatgpt-api",
-      "chatgpt-plugins",
-      "customgpt",
-      "gpt-4",
-      "gpt-store",
-      "gpts",
-      "gptshowcas",
-      "gptslist",
-      "gptstore"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome_GPT_Super_Prompting",
@@ -16700,26 +11050,7 @@ const repoData = [
     "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
     "stars": 1456,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "adversarial-machine-learning",
-      "agent",
-      "ai",
-      "assistant",
-      "chatgpt",
-      "gpt",
-      "gpt-3",
-      "gpt-4",
-      "hacking",
-      "jailbreak",
-      "leaks",
-      "llm",
-      "prompt-engineering",
-      "prompt-injection",
-      "prompt-security",
-      "prompts",
-      "system-prompt"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-web-desktops",
@@ -16728,24 +11059,7 @@ const repoData = [
     "description": "Websites, web apps, portfolios which look like desktop operating systems",
     "stars": 1454,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "classic-mac-os",
-      "cloud-os",
-      "design",
-      "desktop",
-      "directory",
-      "list",
-      "retro",
-      "web-desktop",
-      "web-os",
-      "webdesign",
-      "webtop",
-      "windows-xp",
-      "windows98"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-programming-books-1",
@@ -16754,7 +11068,6 @@ const repoData = [
     "description": "\u8ba1\u7b97\u673a\u7ecf\u5178\u4e66\u7c4d\ud83d\udcda\uff0c\u4fdd\u7559\u4e66\u5355",
     "stars": 1451,
     "updated_at": "2024-12-22",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -16764,17 +11077,7 @@ const repoData = [
     "description": " A curated list of radar datasets, detection, tracking and fusion",
     "stars": 1448,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "autonomous-driving",
-      "autonomous-vehicles",
-      "dataset",
-      "deep-learning",
-      "detection",
-      "fusion",
-      "radar",
-      "slam"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-qt",
@@ -16783,15 +11086,7 @@ const repoData = [
     "description": "A curated list of awesome tools, libraries, and resources for the Qt framework.",
     "stars": 1448,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "list",
-      "qt",
-      "qt-applications",
-      "qt-framework"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-AISourceHub",
@@ -16800,7 +11095,6 @@ const repoData = [
     "description": "\u672c\u4ed3\u5e93\u6536\u96c6AI\u79d1\u6280\u9886\u57df\u9ad8\u8d28\u91cf\u4fe1\u606f\u6e90\u3002 \u53ef\u4ee5\u8d77\u5230\u4e00\u4e2a\u540c\u6b65\u4fe1\u606f\u6e90\u7684\u4f5c\u7528\uff0c\u907f\u514d\u4fe1\u606f\u5dee\u548c\u4fe1\u606f\u8327\u623f\u3002",
     "stars": 1447,
     "updated_at": "2025-01-06",
-    "language": "TypeScript",
     "topics": [
       "ai",
       "awesome",
@@ -16810,7 +11104,8 @@ const repoData = [
       "source",
       "technology",
       "twitter",
-      "wechat"
+      "wechat",
+      "TypeScript"
     ]
   },
   {
@@ -16820,25 +11115,7 @@ const repoData = [
     "description": "A curated list of amazingly awesome Cybersecurity datasets",
     "stars": 1445,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "attack",
-      "cybersecurity",
-      "data",
-      "dataframe",
-      "datasets",
-      "deep",
-      "deeplearning",
-      "events",
-      "ids",
-      "ips",
-      "learning",
-      "logs",
-      "machinelearning",
-      "malware",
-      "security",
-      "traffic"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-semantic-web",
@@ -16847,16 +11124,7 @@ const repoData = [
     "description": "A curated list of various semantic web and linked data resources.",
     "stars": 1445,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "owl",
-      "r2rml",
-      "rdf",
-      "semantic-web",
-      "sparql"
-    ]
+    "topics": []
   },
   {
     "name": "k8s_awesome_document",
@@ -16865,14 +11133,7 @@ const repoData = [
     "description": "\u30102021\u5e74\u65b0\u9c9c\u51fa\u7089\u3011K8s\uff08Kubernetes\uff09\u7684\u5de5\u7a0b\u5e08\u8d44\u6599\u5408\u8f91\uff0c\u4e66\u7c4d\u63a8\u8350\uff0c\u9762\u8bd5\u9898\uff0c\u7cbe\u9009\u6587\u7ae0\uff0c\u5f00\u6e90\u9879\u76ee\uff0cPPT\uff0c\u89c6\u9891\uff0c\u5927\u5382\u8d44\u6599",
     "stars": 1445,
     "updated_at": "2025-01-04",
-    "language": "Unknown",
-    "topics": [
-      "docker",
-      "go",
-      "golang",
-      "k8s",
-      "kubernetes"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-devsecops",
@@ -16881,16 +11142,7 @@ const repoData = [
     "description": "Curating the best DevSecOps resources and tooling.",
     "stars": 1444,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "application-security",
-      "awesome",
-      "awesome-list",
-      "devops",
-      "devsecops",
-      "hacktoberfest",
-      "secure-software-development"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-ansible",
@@ -16899,14 +11151,7 @@ const repoData = [
     "description": "Awesome Ansible List",
     "stars": 1444,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "ansible",
-      "awesome",
-      "awesome-list",
-      "hacktoberfest",
-      "learning-ansible"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-vector-search",
@@ -16915,19 +11160,7 @@ const repoData = [
     "description": "Collections of vector search related libraries, service and research papers",
     "stars": 1441,
     "updated_at": "2024-12-29",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "knn-search",
-      "machine-learning",
-      "nearest-neighbor-search",
-      "search-engine",
-      "similarity-search",
-      "vector",
-      "vector-search",
-      "vector-search-engine"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-lite-websites",
@@ -16936,14 +11169,7 @@ const repoData = [
     "description": "A list of awesome lightweight websites without all the bloat",
     "stars": 1440,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "collection",
-      "links",
-      "websites"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-explainable-AI",
@@ -16952,7 +11178,6 @@ const repoData = [
     "description": "A  collection of research materials on explainable AI/ML",
     "stars": 1439,
     "updated_at": "2025-01-05",
-    "language": "Markdown",
     "topics": [
       "counterfactual-explanations",
       "explainable-ai",
@@ -16961,7 +11186,8 @@ const repoData = [
       "interpretable-ai",
       "recourse",
       "xai",
-      "xml"
+      "xml",
+      "Markdown"
     ]
   },
   {
@@ -16971,7 +11197,6 @@ const repoData = [
     "description": "The best place to find devs in Vietnam!",
     "stars": 1439,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -16981,7 +11206,6 @@ const repoData = [
     "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
     "stars": 1438,
     "updated_at": "2025-01-06",
-    "language": "Dockerfile",
     "topics": [
       "appsec",
       "awesome",
@@ -16990,7 +11214,8 @@ const repoData = [
       "devsecops-university",
       "practical-devsecops",
       "security-review",
-      "threat-modeling"
+      "threat-modeling",
+      "Dockerfile"
     ]
   },
   {
@@ -17000,11 +11225,7 @@ const repoData = [
     "description": "Awesome materials about database development.",
     "stars": 1436,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "database"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-matlab",
@@ -17013,7 +11234,6 @@ const repoData = [
     "description": "A curated list of awesome Matlab frameworks, libraries and software.",
     "stars": 1434,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -17023,7 +11243,6 @@ const repoData = [
     "description": "For deep RL and the future of AI. ",
     "stars": 1434,
     "updated_at": "2025-01-03",
-    "language": "HTML",
     "topics": [
       "aaai",
       "aamas",
@@ -17044,7 +11263,8 @@ const repoData = [
       "reinforcement-learning",
       "reward",
       "theoretical-computer-science",
-      "uai"
+      "uai",
+      "HTML"
     ]
   },
   {
@@ -17054,16 +11274,7 @@ const repoData = [
     "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
     "stars": 1425,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "architecture",
-      "awesome",
-      "awesome-list",
-      "azure",
-      "cloud",
-      "microsoft",
-      "security"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-gleam",
@@ -17072,12 +11283,12 @@ const repoData = [
     "description": "\ud83d\udcaf A collection of Gleam libraries, projects, and resources",
     "stars": 1422,
     "updated_at": "2025-01-05",
-    "language": "Gleam",
     "topics": [
       "awesome-list",
       "gleam",
       "libraries",
-      "projects"
+      "projects",
+      "Gleam"
     ]
   },
   {
@@ -17087,7 +11298,6 @@ const repoData = [
     "description": "[mirror] A list of software and resources for professional audio/video/live events production on Linux.",
     "stars": 1420,
     "updated_at": "2025-01-06",
-    "language": "Shell",
     "topics": [
       "audio",
       "free-software",
@@ -17099,7 +11309,8 @@ const repoData = [
       "production",
       "software",
       "video",
-      "vst"
+      "vst",
+      "Shell"
     ]
   },
   {
@@ -17109,7 +11320,6 @@ const repoData = [
     "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
     "stars": 1419,
     "updated_at": "2024-12-21",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -17119,7 +11329,6 @@ const repoData = [
     "description": "Curated list of LaTeX awesomeness",
     "stars": 1419,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -17129,29 +11338,7 @@ const repoData = [
     "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
     "stars": 1418,
     "updated_at": "2025-01-05",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bus",
-      "datasets",
-      "gtfs",
-      "gtfs-analysis",
-      "gtfs-converters",
-      "gtfs-feed",
-      "gtfs-files",
-      "gtfs-libraries",
-      "gtfs-realtime",
-      "gtfs-utils",
-      "gtfs-validator",
-      "list",
-      "realtime-data",
-      "tools",
-      "transit",
-      "transit-agencies",
-      "transit-data",
-      "transit-map"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-json",
@@ -17160,11 +11347,7 @@ const repoData = [
     "description": "A curated list of awesome JSON libraries and resources.",
     "stars": 1413,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "awesome-list",
-      "json"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-google-colab",
@@ -17173,7 +11356,6 @@ const repoData = [
     "description": "Google Colaboratory Notebooks and Repositories (by @firmai)",
     "stars": 1411,
     "updated_at": "2024-12-27",
-    "language": "Jupyter Notebook",
     "topics": [
       "coursera",
       "data-science",
@@ -17183,7 +11365,8 @@ const repoData = [
       "machine-learning",
       "notebooks",
       "python",
-      "tutorial"
+      "tutorial",
+      "Jupyter Notebook"
     ]
   },
   {
@@ -17193,18 +11376,7 @@ const repoData = [
     "description": ":books: A collection of edge/contour/boundary detection papers and toolbox.",
     "stars": 1408,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "boundary-detection",
-      "contour-detection",
-      "contour-extraction",
-      "edge-detection",
-      "edge-detection-algorithms",
-      "edge-detection-papers",
-      "edge-detection-toolbox",
-      "edge-extraction",
-      "edge-toolbox"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-move",
@@ -17213,11 +11385,7 @@ const repoData = [
     "description": "Code and content from the Move community.",
     "stars": 1407,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-wordpress",
@@ -17226,8 +11394,9 @@ const repoData = [
     "description": "A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. ",
     "stars": 1405,
     "updated_at": "2025-01-04",
-    "language": "HTML",
-    "topics": []
+    "topics": [
+      "HTML"
+    ]
   },
   {
     "name": "awesome-imbalanced-learning",
@@ -17236,22 +11405,7 @@ const repoData = [
     "description": "\ud83d\ude0e Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries \\| \u6709\u5173\u7c7b\u522b\u4e0d\u5e73\u8861/\u957f\u5c3e\u5b66\u4e60\u7684\u4e00\u5207\uff1a\u8bba\u6587\u3001\u4ee3\u7801\u3001\u6846\u67b6\u4e0e\u5e93",
     "stars": 1405,
     "updated_at": "2025-01-01",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "class-imbalance",
-      "deep-learning",
-      "ensemble-learning",
-      "fair-ml",
-      "fairness-ml",
-      "imbalanced-classes",
-      "imbalanced-classification",
-      "imbalanced-data",
-      "imbalanced-learning",
-      "machine-learning",
-      "skewed-data"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-diffusion-categorized",
@@ -17260,23 +11414,7 @@ const repoData = [
     "description": "collection of diffusion model papers categorized by their subareas",
     "stars": 1403,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "continual-learning",
-      "controlnet",
-      "detection",
-      "diffusion",
-      "diffusion-model",
-      "diffusion-models",
-      "few-shot",
-      "image-edit",
-      "inpainting",
-      "inversion",
-      "segmentation",
-      "stable-diffusion",
-      "text-guided",
-      "tracking"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-for-non-programmers",
@@ -17285,13 +11423,7 @@ const repoData = [
     "description": "No description",
     "stars": 1401,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "readme"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Implicit-NeRF-Robotics",
@@ -17300,24 +11432,7 @@ const repoData = [
     "description": "A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites",
     "stars": 1400,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "3d-computer-vision",
-      "6d-pose-estimation",
-      "computer-vision",
-      "deep-learning",
-      "dynamics",
-      "implicit-neural-representation",
-      "implicit-representations",
-      "manipulation",
-      "navigation",
-      "nerf",
-      "neural-radiance-fields",
-      "planning",
-      "pose-estimation",
-      "robotics",
-      "slam"
-    ]
+    "topics": []
   },
   {
     "name": "Awesome-Talking-Face",
@@ -17326,7 +11441,6 @@ const repoData = [
     "description": "\ud83d\udcd6 A curated list of resources dedicated to talking face.",
     "stars": 1396,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -17336,18 +11450,7 @@ const repoData = [
     "description": "A list of webassemby runtimes",
     "stars": 1396,
     "updated_at": "2025-01-03",
-    "language": "Unknown",
-    "topics": [
-      "cranelift",
-      "engine",
-      "javascript",
-      "rust",
-      "virtual-machine",
-      "vm",
-      "wasm",
-      "wasm-runtime",
-      "webassembly"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-parcel",
@@ -17356,7 +11459,6 @@ const repoData = [
     "description": "\ud83d\udd17 A curated list of awesome Parcel resources, libraries, tools and boilerplates",
     "stars": 1395,
     "updated_at": "2024-12-11",
-    "language": "Unknown",
     "topics": []
   },
   {
@@ -17366,14 +11468,7 @@ const repoData = [
     "description": "An Awesome list of long-term visas",
     "stars": 1394,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "immigration",
-      "remote-work",
-      "visa"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-search",
@@ -17382,7 +11477,6 @@ const repoData = [
     "description": "Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness",
     "stars": 1390,
     "updated_at": "2025-01-02",
-    "language": "HTML",
     "topics": [
       "autocomplete-suggestions",
       "ecommerce-search",
@@ -17403,7 +11497,8 @@ const repoData = [
       "semantic-search",
       "spelling-correction",
       "suggestions",
-      "synonyms"
+      "synonyms",
+      "HTML"
     ]
   },
   {
@@ -17413,27 +11508,7 @@ const repoData = [
     "description": "\u270f\ufe0e Curated list about digital typography \ud83d\udd25",
     "stars": 1389,
     "updated_at": "2025-01-06",
-    "language": "Unknown",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "color-fonts",
-      "emoji",
-      "font-editor",
-      "font-family",
-      "fonts",
-      "opentype",
-      "opentype-fonts",
-      "otf",
-      "truetype",
-      "ttf",
-      "typeface",
-      "typography",
-      "unicode",
-      "webfonts",
-      "woff",
-      "woff2"
-    ]
+    "topics": []
   },
   {
     "name": "awesome-awesomeness-zh_CN",
@@ -17442,12 +11517,12 @@ const repoData = [
     "description": "\u4e00\u4efd\u5173\u4e8e\u201c\u8d44\u6599\u6c47\u603b\u201d\u7684\u6c47\u603b\u3002",
     "stars": 1388,
     "updated_at": "2025-01-03",
-    "language": "JavaScript",
     "topics": [
       "android",
       "nodejs",
       "python",
-      "swift"
+      "swift",
+      "JavaScript"
     ]
   }
 ];
