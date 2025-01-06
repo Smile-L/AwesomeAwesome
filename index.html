@@ -79,6 +79,22 @@
             margin-top: -1rem;
             margin-bottom: 2rem;
         }
+        /* Force column widths */
+        #repoTable {
+            table-layout: fixed;
+        }
+        #repoTable th:nth-child(1) { width: 30%; }
+        #repoTable th:nth-child(2) { width: 10%; }
+        #repoTable th:nth-child(3) { width: 10%; }
+        #repoTable th:nth-child(4) { width: 50%; }
+        #repoTable td {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        #repoTable td:last-child {
+            white-space: normal;
+        }
     </style>
 </head>
 <body>
@@ -94,7 +110,7 @@
                 <thead>
                     <tr>
                         <th>Repository</th>
-                        <th>Language</th>
+                        <th>Topics</th>
                         <th>Stars</th>
                         <th>Description</th>
                     </tr>
@@ -120,9 +136,13 @@
                         data: null,
                         render: function(data, type, row) {
                             return `<a href="${row.html_url}" target="_blank" class="repo-link">${row.full_name}</a>`;
-                        }
+                        },
+                        width: "20%"
                     },
-                    { data: 'language' },
+                    { 
+                        data: 'topics',
+                        width: "15%"
+                    },
                     { 
                         data: 'stars',
                         render: function(data, type, row) {
@@ -130,15 +150,19 @@
                                 return `<span class="star-count">⭐</span>${data.toLocaleString()}`;
                             }
                             return data;
-                        }
+                        },
+                        width: "15%"
                     },
-                    { data: 'description' }
+                    { 
+                        data: 'description',
+                        width: "50%"
+                    }
                 ],
                 pageLength: 50,
                 lengthChange: false,
                 order: [[2, 'desc']], // Sort by stars by default
                 dom: 'lrtip', // Removes default filter
-                language: {
+                topics: {
                     info: "Showing _START_ to _END_ of _TOTAL_ repositories",
                     infoEmpty: "No repositories to show",
                     infoFiltered: "(filtered from _MAX_ total repositories)"

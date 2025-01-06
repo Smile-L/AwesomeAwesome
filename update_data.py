@@ -26,7 +26,8 @@ SEARCH_REPOS_URL = f"{GITHUB_API_URL}/search/repositories"
 
 # 从环境变量获取搜索参数
 query = os.getenv('SEARCH_QUERY')
-params = eval(os.getenv('SEARCH_PARAMS', '{"q": "awesome in:name stars:>100", "sort": "stars", "order": "desc", "per_page": 100}'))
+min_stars = 1000
+params = eval(os.getenv('SEARCH_PARAMS', '{"q": "awesome in:name stars:>min_stars", "sort": "stars", "order": "desc", "per_page": 100}'.replace('min_stars', str(min_stars))))
 
 print('search parameters:', params)
 # 获取多页结果
@@ -54,15 +55,15 @@ while True:
             'description': (repo['description'] or 'No description').replace('\n', ' ').replace('|', '\\|').replace('\r', ''),
             'stars': repo['stargazers_count'],
             'updated_at': repo['updated_at'].split('T')[0],
-            'language': repo['language'] or 'Unknown',
-            'topics': repo.get('topics', [])
+            # 'language': repo['language'] or 'Unknown',
+            'topics': repo.get('topics', []) + [repo['language']] if repo['language'] else []
         }
         repositories.append(repo_info)
     
     # GitHub API有速率限制，添加延时
     time.sleep(2)
     
-    if repos[-1]['stargazers_count']<100 or page >= 50:
+    if repos[-1]['stargazers_count']<min_stars or page >= 100:
         break
     
     page += 1
@@ -83,12 +84,12 @@ csv_file = f'data/{today}.csv'
 with open(csv_file, 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     # 写入表头
-    writer.writerow(['Repository', 'Language', 'Stars', 'Last Updated', 'Description'])
+    writer.writerow(['Repository', 'Topics', 'Stars', 'Last Updated', 'Description'])
     # 写入数据
     for repo in repositories:
         writer.writerow([
             repo['full_name'],
-            repo['language'],
+            repo['topics'],
             repo['stars'],
             repo['updated_at'],
             repo['description']
@@ -110,6 +111,6 @@ print("JavaScript data file saved: data.js")
 # 自动提交和推送
 subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'])
 subprocess.run(['git', 'config', 'user.email', 'github-actions[bot]@users.noreply.github.com'])
-subprocess.run(['git', 'add', csv_file, 'data.js'])
+subprocess.run(['git', 'add', 'data.js'])
 subprocess.run(['git', 'commit', '-m', f'Auto update data for {today}'])
 subprocess.run(['git', 'push'])
