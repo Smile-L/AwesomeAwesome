@@ -2,12 +2,12 @@
 
 A curated list of awesome repositories on GitHub, sorted by stars.
 
-https://smile-l.github.io/AwesomeTracker/
+📊 [View Interactive Table](https://smile-l.github.io/AwesomeTracker/) - Sort and filter repositories with ease!
+
+## Static Table (Basic View)
+
+| Repository | Language | ⭐Stars | Last Updated | Description |
+|------------|----------|-------|--------------|-------------|
+
 
 > Note: This list is automatically updated weekly. Last update time can be found in the debug info below.
-
-## todo
-- add sort and rank
-- extract topic using LLM
-- find new info in each awsome project
-- prettify website
