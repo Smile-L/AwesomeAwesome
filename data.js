@@ -5,7 +5,7 @@ const repoData = [
     "full_name": "sindresorhus/awesome",
     "html_url": "https://github.com/sindresorhus/awesome",
     "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
-    "stars": 340535,
+    "stars": 340541,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -21,7 +21,7 @@ const repoData = [
     "full_name": "vinta/awesome-python",
     "html_url": "https://github.com/vinta/awesome-python",
     "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
-    "stars": 229651,
+    "stars": 229657,
     "updated_at": "2025-01-06",
     "language": "Python",
     "topics": [
@@ -38,7 +38,7 @@ const repoData = [
     "full_name": "awesome-selfhosted/awesome-selfhosted",
     "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-    "stars": 210566,
+    "stars": 210569,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -57,7 +57,7 @@ const repoData = [
     "full_name": "avelino/awesome-go",
     "html_url": "https://github.com/avelino/awesome-go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
-    "stars": 135639,
+    "stars": 135642,
     "updated_at": "2025-01-06",
     "language": "Go",
     "topics": [
@@ -74,7 +74,7 @@ const repoData = [
     "full_name": "f/awesome-chatgpt-prompts",
     "html_url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
-    "stars": 115915,
+    "stars": 115921,
     "updated_at": "2025-01-06",
     "language": "HTML",
     "topics": [
@@ -110,7 +110,7 @@ const repoData = [
     "full_name": "jaywcjlove/awesome-mac",
     "html_url": "https://github.com/jaywcjlove/awesome-mac",
     "description": "\uf8ff Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-    "stars": 78583,
+    "stars": 78586,
     "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
@@ -132,8 +132,8 @@ const repoData = [
     "full_name": "FortAwesome/Font-Awesome",
     "html_url": "https://github.com/FortAwesome/Font-Awesome",
     "description": "The iconic SVG, font, and CSS toolkit",
-    "stars": 74500,
-    "updated_at": "2025-01-05",
+    "stars": 74501,
+    "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
       "css",
@@ -160,7 +160,7 @@ const repoData = [
     "full_name": "DopplerHQ/awesome-interview-questions",
     "html_url": "https://github.com/DopplerHQ/awesome-interview-questions",
     "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
-    "stars": 72324,
+    "stars": 72325,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -185,7 +185,7 @@ const repoData = [
     "full_name": "MunGell/awesome-for-beginners",
     "html_url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
-    "stars": 70454,
+    "stars": 70455,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -211,7 +211,7 @@ const repoData = [
     "full_name": "enaqx/awesome-react",
     "html_url": "https://github.com/enaqx/awesome-react",
     "description": "A collection of awesome things regarding React ecosystem",
-    "stars": 66260,
+    "stars": 66261,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -280,7 +280,7 @@ const repoData = [
     "full_name": "binhnguyennus/awesome-scalability",
     "html_url": "https://github.com/binhnguyennus/awesome-scalability",
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
-    "stars": 59785,
+    "stars": 59784,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -311,7 +311,7 @@ const repoData = [
     "full_name": "sindresorhus/awesome-nodejs",
     "html_url": "https://github.com/sindresorhus/awesome-nodejs",
     "description": ":zap: Delightful Node.js packages and resources",
-    "stars": 59117,
+    "stars": 59116,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -328,7 +328,7 @@ const repoData = [
     "full_name": "prakhar1989/awesome-courses",
     "html_url": "https://github.com/prakhar1989/awesome-courses",
     "description": ":books: List of awesome university courses for learning Computer Science!",
-    "stars": 58334,
+    "stars": 58335,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -372,7 +372,7 @@ const repoData = [
     "full_name": "PlexPt/awesome-chatgpt-prompts-zh",
     "html_url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT \u4e2d\u6587\u8c03\u6559\u6307\u5357\u3002\u5404\u79cd\u573a\u666f\u4f7f\u7528\u6307\u5357\u3002\u5b66\u4e60\u600e\u4e48\u8ba9\u5b83\u542c\u4f60\u7684\u8bdd\u3002",
-    "stars": 53596,
+    "stars": 53597,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -402,7 +402,7 @@ const repoData = [
     "full_name": "rust-unofficial/awesome-rust",
     "html_url": "https://github.com/rust-unofficial/awesome-rust",
     "description": "A curated list of Rust code and resources.",
-    "stars": 48014,
+    "stars": 48016,
     "updated_at": "2025-01-06",
     "language": "Rust",
     "topics": [
@@ -459,7 +459,7 @@ const repoData = [
     "full_name": "brillout/awesome-react-components",
     "html_url": "https://github.com/brillout/awesome-react-components",
     "description": "Curated List of React Components & Libraries.",
-    "stars": 43127,
+    "stars": 43128,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -475,7 +475,7 @@ const repoData = [
     "full_name": "akullpp/awesome-java",
     "html_url": "https://github.com/akullpp/awesome-java",
     "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
-    "stars": 42415,
+    "stars": 42416,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -488,7 +488,7 @@ const repoData = [
     "full_name": "LeCoupa/awesome-cheatsheets",
     "html_url": "https://github.com/LeCoupa/awesome-cheatsheets",
     "description": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
-    "stars": 40987,
+    "stars": 40988,
     "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
@@ -553,7 +553,7 @@ const repoData = [
     "full_name": "lukasz-madon/awesome-remote-job",
     "html_url": "https://github.com/lukasz-madon/awesome-remote-job",
     "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
-    "stars": 35971,
+    "stars": 35970,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -784,8 +784,8 @@ const repoData = [
     "full_name": "sindresorhus/awesome-electron",
     "html_url": "https://github.com/sindresorhus/awesome-electron",
     "description": "Useful resources for creating apps with Electron",
-    "stars": 26020,
-    "updated_at": "2025-01-05",
+    "stars": 26019,
+    "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
       "awesome",
@@ -813,7 +813,7 @@ const repoData = [
     "full_name": "viatsko/awesome-vscode",
     "html_url": "https://github.com/viatsko/awesome-vscode",
     "description": "\ud83c\udfa8 A curated list of delightful VS Code packages and resources.",
-    "stars": 25484,
+    "stars": 25490,
     "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
@@ -947,7 +947,7 @@ const repoData = [
     "full_name": "ChristosChristofidis/awesome-deep-learning",
     "html_url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
     "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
-    "stars": 24537,
+    "stars": 24538,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1064,7 +1064,7 @@ const repoData = [
     "full_name": "enaqx/awesome-pentest",
     "html_url": "https://github.com/enaqx/awesome-pentest",
     "description": "A collection of awesome penetration testing resources, tools and other shiny things",
-    "stars": 22232,
+    "stars": 22233,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1087,7 +1087,7 @@ const repoData = [
     "full_name": "jbhuang0604/awesome-computer-vision",
     "html_url": "https://github.com/jbhuang0604/awesome-computer-vision",
     "description": "A curated list of awesome computer vision resources",
-    "stars": 21193,
+    "stars": 21194,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": []
@@ -1097,7 +1097,7 @@ const repoData = [
     "full_name": "Hannibal046/Awesome-LLM",
     "html_url": "https://github.com/Hannibal046/Awesome-LLM",
     "description": "Awesome-LLM: a curated list of Large Language Model",
-    "stars": 20348,
+    "stars": 20349,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": []
@@ -1155,7 +1155,7 @@ const repoData = [
     "full_name": "djsime1/awesome-flipperzero",
     "html_url": "https://github.com/djsime1/awesome-flipperzero",
     "description": "\ud83d\udc2c A collection of awesome resources for the Flipper Zero device.",
-    "stars": 19476,
+    "stars": 19478,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1190,7 +1190,7 @@ const repoData = [
     "full_name": "ashishps1/awesome-system-design-resources",
     "html_url": "https://github.com/ashishps1/awesome-system-design-resources",
     "description": "Learn System Design concepts and prepare for interviews using free resources.",
-    "stars": 19441,
+    "stars": 19442,
     "updated_at": "2025-01-06",
     "language": "Java",
     "topics": [
@@ -1228,7 +1228,7 @@ const repoData = [
     "full_name": "wilsonfreitas/awesome-quant",
     "html_url": "https://github.com/wilsonfreitas/awesome-quant",
     "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
-    "stars": 18733,
+    "stars": 18734,
     "updated_at": "2025-01-06",
     "language": "Python",
     "topics": [
@@ -1347,7 +1347,7 @@ const repoData = [
     "full_name": "HqWu-HITCS/Awesome-Chinese-LLM",
     "html_url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM",
     "description": "\u6574\u7406\u5f00\u6e90\u7684\u4e2d\u6587\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u4ee5\u89c4\u6a21\u8f83\u5c0f\u3001\u53ef\u79c1\u6709\u5316\u90e8\u7f72\u3001\u8bad\u7ec3\u6210\u672c\u8f83\u4f4e\u7684\u6a21\u578b\u4e3a\u4e3b\uff0c\u5305\u62ec\u5e95\u5ea7\u6a21\u578b\uff0c\u5782\u76f4\u9886\u57df\u5fae\u8c03\u53ca\u5e94\u7528\uff0c\u6570\u636e\u96c6\u4e0e\u6559\u7a0b\u7b49\u3002",
-    "stars": 17279,
+    "stars": 17283,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1469,7 +1469,7 @@ const repoData = [
     "full_name": "anderspitman/awesome-tunneling",
     "html_url": "https://github.com/anderspitman/awesome-tunneling",
     "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
-    "stars": 16149,
+    "stars": 16152,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1722,7 +1722,7 @@ const repoData = [
     "full_name": "taowen/awesome-lowcode",
     "html_url": "https://github.com/taowen/awesome-lowcode",
     "description": "\u56fd\u5185\u4f4e\u4ee3\u7801\u5e73\u53f0\u4ece\u4e1a\u8005\u4ea4\u6d41",
-    "stars": 14035,
+    "stars": 14036,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1738,7 +1738,7 @@ const repoData = [
     "full_name": "pluja/awesome-privacy",
     "html_url": "https://github.com/pluja/awesome-privacy",
     "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
-    "stars": 13891,
+    "stars": 13892,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -1891,7 +1891,7 @@ const repoData = [
     "full_name": "neutraltone/awesome-stock-resources",
     "html_url": "https://github.com/neutraltone/awesome-stock-resources",
     "description": ":city_sunrise: A collection of links for free stock photography, video and Illustration websites",
-    "stars": 13129,
+    "stars": 13130,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2024,7 +2024,7 @@ const repoData = [
     "full_name": "e2b-dev/awesome-ai-agents",
     "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
     "description": "A list of AI autonomous agents",
-    "stars": 12692,
+    "stars": 12695,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2365,7 +2365,7 @@ const repoData = [
     "full_name": "nestjs/awesome-nestjs",
     "html_url": "https://github.com/nestjs/awesome-nestjs",
     "description": "A curated list of awesome things related to NestJS \ud83d\ude0e",
-    "stars": 11255,
+    "stars": 11257,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2390,7 +2390,7 @@ const repoData = [
     "full_name": "owainlewis/awesome-artificial-intelligence",
     "html_url": "https://github.com/owainlewis/awesome-artificial-intelligence",
     "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-    "stars": 11114,
+    "stars": 11115,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2412,7 +2412,7 @@ const repoData = [
     "full_name": "Shubhamsaboo/awesome-llm-apps",
     "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
-    "stars": 11092,
+    "stars": 11093,
     "updated_at": "2025-01-06",
     "language": "Python",
     "topics": [
@@ -2511,7 +2511,7 @@ const repoData = [
     "full_name": "birobirobiro/awesome-shadcn-ui",
     "html_url": "https://github.com/birobirobiro/awesome-shadcn-ui",
     "description": "A curated list of awesome things related to shadcn/ui.",
-    "stars": 10840,
+    "stars": 10841,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2626,7 +2626,7 @@ const repoData = [
     "full_name": "aishwaryanr/awesome-generative-ai-guide",
     "html_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
     "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-    "stars": 10057,
+    "stars": 10059,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2665,7 +2665,7 @@ const repoData = [
     "full_name": "ashishps1/awesome-low-level-design",
     "html_url": "https://github.com/ashishps1/awesome-low-level-design",
     "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-    "stars": 9977,
+    "stars": 9978,
     "updated_at": "2025-01-06",
     "language": "Java",
     "topics": [
@@ -2688,7 +2688,7 @@ const repoData = [
     "full_name": "apsdehal/awesome-ctf",
     "html_url": "https://github.com/apsdehal/awesome-ctf",
     "description": "A curated list of CTF frameworks, libraries, resources and softwares",
-    "stars": 9974,
+    "stars": 9975,
     "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
@@ -2759,7 +2759,7 @@ const repoData = [
     "full_name": "zhuima/awesome-cloudflare",
     "html_url": "https://github.com/zhuima/awesome-cloudflare",
     "description": "\u26c5\ufe0f \u7cbe\u9009\u7684 Cloudflare \u5de5\u5177\u3001\u5f00\u6e90\u9879\u76ee\u3001\u6307\u5357\u3001\u535a\u5ba2\u548c\u5176\u4ed6\u8d44\u6e90\u5217\u8868\u3002/ \u26c5\ufe0f A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
-    "stars": 9772,
+    "stars": 9777,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": []
@@ -2848,7 +2848,7 @@ const repoData = [
     "full_name": "webpro/awesome-dotfiles",
     "html_url": "https://github.com/webpro/awesome-dotfiles",
     "description": "A curated list of dotfiles resources.",
-    "stars": 9389,
+    "stars": 9390,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -2869,7 +2869,7 @@ const repoData = [
     "full_name": "rossant/awesome-math",
     "html_url": "https://github.com/rossant/awesome-math",
     "description": "A curated list of awesome mathematics resources",
-    "stars": 9182,
+    "stars": 9183,
     "updated_at": "2025-01-06",
     "language": "Python",
     "topics": [
@@ -3070,7 +3070,7 @@ const repoData = [
     "full_name": "mehdihadeli/awesome-software-architecture",
     "html_url": "https://github.com/mehdihadeli/awesome-software-architecture",
     "description": "\ud83d\ude80 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
-    "stars": 8700,
+    "stars": 8703,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -3124,7 +3124,7 @@ const repoData = [
     "full_name": "davidsonfellipe/awesome-wpo",
     "html_url": "https://github.com/davidsonfellipe/awesome-wpo",
     "description": ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!",
-    "stars": 8411,
+    "stars": 8410,
     "updated_at": "2025-01-06",
     "language": "JavaScript",
     "topics": [
@@ -3206,7 +3206,7 @@ const repoData = [
     "full_name": "awesome-lists/awesome-bash",
     "html_url": "https://github.com/awesome-lists/awesome-bash",
     "description": "A curated list of delightful Bash scripts and resources.",
-    "stars": 8077,
+    "stars": 8076,
     "updated_at": "2025-01-06",
     "language": "Shell",
     "topics": [
@@ -3251,7 +3251,7 @@ const repoData = [
     "full_name": "NirantK/awesome-project-ideas",
     "html_url": "https://github.com/NirantK/awesome-project-ideas",
     "description": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
-    "stars": 8005,
+    "stars": 8006,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -3315,7 +3315,7 @@ const repoData = [
     "full_name": "kyrolabs/awesome-langchain",
     "html_url": "https://github.com/kyrolabs/awesome-langchain",
     "description": "\ud83d\ude0e Awesome list of tools and projects with the awesome LangChain framework",
-    "stars": 7793,
+    "stars": 7792,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -3485,7 +3485,7 @@ const repoData = [
     "full_name": "greatfrontend/awesome-front-end-system-design",
     "html_url": "https://github.com/greatfrontend/awesome-front-end-system-design",
     "description": "Curated front end system design resources for interviews and learning",
-    "stars": 7214,
+    "stars": 7216,
     "updated_at": "2025-01-06",
     "language": "Unknown",
     "topics": [
@@ -3566,13 +3566,13888 @@ const repoData = [
     "full_name": "kmaasrud/awesome-obsidian",
     "html_url": "https://github.com/kmaasrud/awesome-obsidian",
     "description": "\ud83d\udd76\ufe0f Awesome stuff for Obsidian",
-    "stars": 6960,
+    "stars": 6959,
     "updated_at": "2025-01-06",
     "language": "CSS",
     "topics": [
       "awesome",
       "awesome-list",
       "obsidian"
+    ]
+  },
+  {
+    "name": "awesome-data-engineering",
+    "full_name": "igorbarinov/awesome-data-engineering",
+    "html_url": "https://github.com/igorbarinov/awesome-data-engineering",
+    "description": "A curated list of data engineering tools for software developers",
+    "stars": 6947,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-prometheus-alerts",
+    "full_name": "samber/awesome-prometheus-alerts",
+    "html_url": "https://github.com/samber/awesome-prometheus-alerts",
+    "description": "\ud83d\udea8 Collection of Prometheus alerting rules",
+    "stars": 6824,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "alert",
+      "alerting",
+      "alerting-rules",
+      "alertmanager",
+      "awesome",
+      "collection",
+      "exporter",
+      "grafana",
+      "monitoring",
+      "prometheus",
+      "prometheus-alerting-rules",
+      "promql",
+      "query",
+      "rule",
+      "supervision"
+    ]
+  },
+  {
+    "name": "awesome-web-scraping",
+    "full_name": "lorien/awesome-web-scraping",
+    "html_url": "https://github.com/lorien/awesome-web-scraping",
+    "description": "List of libraries, tools and APIs for web scraping and data processing.",
+    "stars": 6810,
+    "updated_at": "2025-01-06",
+    "language": "Makefile",
+    "topics": [
+      "captcha-bypass",
+      "captcha-recaptcha",
+      "crawler",
+      "crawling",
+      "crawling-framework",
+      "crawling-python",
+      "crawling-tool",
+      "scraping",
+      "scraping-framework",
+      "scraping-python",
+      "scraping-tool",
+      "spider",
+      "web-scraping",
+      "webscraping"
+    ]
+  },
+  {
+    "name": "awesome-resume",
+    "full_name": "resumejob/awesome-resume",
+    "html_url": "https://github.com/resumejob/awesome-resume",
+    "description": "Resume\uff0cResume Templates\uff0c\u7a0b\u5e8f\u5458\u7b80\u5386\u4f8b\u53e5\uff0c\u7b80\u5386\u6a21\u7248\uff0c",
+    "stars": 6789,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "resume",
+      "resume-template",
+      "resume-website"
+    ]
+  },
+  {
+    "name": "awesome-leetcode-resources",
+    "full_name": "ashishps1/awesome-leetcode-resources",
+    "html_url": "https://github.com/ashishps1/awesome-leetcode-resources",
+    "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+    "stars": 6732,
+    "updated_at": "2025-01-06",
+    "language": "Java",
+    "topics": [
+      "algorithms",
+      "coding",
+      "data-structures",
+      "leetcode",
+      "leetcode-patterns"
+    ]
+  },
+  {
+    "name": "awesome-unity",
+    "full_name": "RyanNielson/awesome-unity",
+    "html_url": "https://github.com/RyanNielson/awesome-unity",
+    "description": "A curated list of awesome Unity assets, resources, and more.",
+    "stars": 6726,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "game-development",
+      "unity"
+    ]
+  },
+  {
+    "name": "awesome-solidity",
+    "full_name": "bkrem/awesome-solidity",
+    "html_url": "https://github.com/bkrem/awesome-solidity",
+    "description": "\u27e0 A curated list of awesome Solidity resources, libraries, tools and more",
+    "stars": 6635,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "contract-solidity",
+      "dapps",
+      "ethereum",
+      "linter-solidity",
+      "lists",
+      "resources",
+      "solidity",
+      "solidity-compiler",
+      "solidity-contracts",
+      "solidity-coverage",
+      "solidity-dapps",
+      "solidity-language",
+      "solidity-parser",
+      "solidity-security",
+      "solidity-web",
+      "web3",
+      "web3-dapp",
+      "web3-solidity"
+    ]
+  },
+  {
+    "name": "awesome-java-books",
+    "full_name": "sorenduan/awesome-java-books",
+    "html_url": "https://github.com/sorenduan/awesome-java-books",
+    "description": "Java\u5f00\u53d1\u8005\u6280\u672f\u4e66\u7c4d\u5927\u5168 - Java\u5165\u95e8\u4e66\u7c4d\uff0cJava\u57fa\u7840\u53ca\u8fdb\u9636\u4e66\u7c4d\uff0c\u6846\u67b6\u4e0e\u4e2d\u95f4\u4ef6\uff0c\u67b6\u6784\u8bbe\u8ba1\uff0c\u8bbe\u8ba1\u6a21\u5f0f\uff0c\u6570\u5b66\u4e0e\u7b97\u6cd5\uff0cJVM\u5468\u8fb9\u8bed\u8a00\uff0c\u9879\u76ee\u7ba1\u7406&\u9886\u5bfc\u529b&\u6d41\u7a0b\uff0c\u804c\u4e1a\u7d20\u517b\u4e0e\u4e2a\u4eba\u6210\u957f\uff0c\u683c\u5c40\u4e0e\u89c6\u91ce\uff0c\u9762\u8bd5\u53c2\u8003\u4e66\u7b49\u3002",
+    "stars": 6612,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-workflow-engines",
+    "full_name": "meirwah/awesome-workflow-engines",
+    "html_url": "https://github.com/meirwah/awesome-workflow-engines",
+    "description": "A curated list of awesome open source workflow engines",
+    "stars": 6572,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-crawler",
+    "full_name": "BruceDone/awesome-crawler",
+    "html_url": "https://github.com/BruceDone/awesome-crawler",
+    "description": "A collection of awesome web crawler,spider in different languages",
+    "stars": 6561,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "crawler",
+      "node-crawler",
+      "scraper",
+      "spider",
+      "web-crawler",
+      "web-scraper"
+    ]
+  },
+  {
+    "name": "awesome-NeRF",
+    "full_name": "awesome-NeRF/awesome-NeRF",
+    "html_url": "https://github.com/awesome-NeRF/awesome-NeRF",
+    "description": "A curated list of awesome neural radiance fields papers",
+    "stars": 6556,
+    "updated_at": "2025-01-05",
+    "language": "TeX",
+    "topics": [
+      "nerf"
+    ]
+  },
+  {
+    "name": "awesome-3D-gaussian-splatting",
+    "full_name": "MrNeRF/awesome-3D-gaussian-splatting",
+    "html_url": "https://github.com/MrNeRF/awesome-3D-gaussian-splatting",
+    "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+    "stars": 6556,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "3d-gaussian-splatting",
+      "3dgs",
+      "gaussian-splatting",
+      "nerf",
+      "neural-rendering"
+    ]
+  },
+  {
+    "name": "Awesome-CoreML-Models",
+    "full_name": "likedan/Awesome-CoreML-Models",
+    "html_url": "https://github.com/likedan/Awesome-CoreML-Models",
+    "description": "Largest list of models for Core ML (for iOS 11+)",
+    "stars": 6538,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "apple",
+      "awesome",
+      "awesome-list",
+      "caffe",
+      "caffemodel",
+      "core-ml",
+      "coreml",
+      "coreml-framework",
+      "coreml-model",
+      "coreml-models",
+      "coremltools",
+      "curated-list",
+      "download",
+      "ios",
+      "ios11",
+      "machine-learning",
+      "ml",
+      "model",
+      "models",
+      "tensorflow-models"
+    ]
+  },
+  {
+    "name": "awesome-test-automation",
+    "full_name": "atinfo/awesome-test-automation",
+    "html_url": "https://github.com/atinfo/awesome-test-automation",
+    "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
+    "stars": 6474,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "awesome-list",
+      "build-automation",
+      "c-sharp",
+      "framework",
+      "ios",
+      "java",
+      "javascript",
+      "kotlin",
+      "load-testing",
+      "mobile",
+      "performance-testing",
+      "php",
+      "python",
+      "ruby",
+      "software-quality",
+      "software-testing",
+      "test-automation",
+      "testing-tools"
+    ]
+  },
+  {
+    "name": "awesome-c-cn",
+    "full_name": "jobbole/awesome-c-cn",
+    "html_url": "https://github.com/jobbole/awesome-c-cn",
+    "description": "C \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\u4e86\uff1a\u6784\u5efa\u7cfb\u7edf\u3001\u7f16\u8bd1\u5668\u3001\u6570\u636e\u5e93\u3001\u52a0\u5bc6\u3001\u521d\u4e2d\u9ad8\u7684\u6559\u7a0b/\u6307\u5357\u3001\u4e66\u7c4d\u3001\u5e93\u7b49\u3002",
+    "stars": 6472,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-embedded-rust",
+    "full_name": "rust-embedded/awesome-embedded-rust",
+    "html_url": "https://github.com/rust-embedded/awesome-embedded-rust",
+    "description": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+    "stars": 6471,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "embedded",
+      "embedded-systems",
+      "libraries",
+      "rust"
+    ]
+  },
+  {
+    "name": "awesome",
+    "full_name": "awesomeWM/awesome",
+    "html_url": "https://github.com/awesomeWM/awesome",
+    "description": "awesome window manager",
+    "stars": 6443,
+    "updated_at": "2025-01-06",
+    "language": "Lua",
+    "topics": [
+      "awesomewm",
+      "c",
+      "hacktoberfest",
+      "lua",
+      "window-manager",
+      "xorg"
+    ]
+  },
+  {
+    "name": "Awesome-WAF",
+    "full_name": "0xInfection/Awesome-WAF",
+    "html_url": "https://github.com/0xInfection/Awesome-WAF",
+    "description": "\ud83d\udd25 Web-application firewalls (WAFs) from security standpoint.",
+    "stars": 6417,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bypass-waf",
+      "firewall",
+      "infosec",
+      "security",
+      "waf",
+      "waf-bypass",
+      "waf-detection",
+      "waf-fingerprints",
+      "waf-test",
+      "waf-testing",
+      "web-application-firewall"
+    ]
+  },
+  {
+    "name": "awesome-reMarkable",
+    "full_name": "reHackable/awesome-reMarkable",
+    "html_url": "https://github.com/reHackable/awesome-reMarkable",
+    "description": "A curated list of projects related to the reMarkable tablet",
+    "stars": 6412,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "remarkable-tablet"
+    ]
+  },
+  {
+    "name": "awesome-appsec",
+    "full_name": "paragonie/awesome-appsec",
+    "html_url": "https://github.com/paragonie/awesome-appsec",
+    "description": "A curated list of resources for learning about application security",
+    "stars": 6395,
+    "updated_at": "2025-01-04",
+    "language": "PHP",
+    "topics": [
+      "application-security",
+      "curated",
+      "owasp",
+      "reading-list",
+      "security",
+      "security-experts"
+    ]
+  },
+  {
+    "name": "awesome-home-assistant",
+    "full_name": "frenck/awesome-home-assistant",
+    "html_url": "https://github.com/frenck/awesome-home-assistant",
+    "description": "A curated list of amazingly awesome Home Assistant resources.",
+    "stars": 6328,
+    "updated_at": "2025-01-06",
+    "language": "Shell",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "diy",
+      "hacktoberfest",
+      "hassio",
+      "hassio-addons",
+      "hassio-repository",
+      "home-assistant",
+      "home-assistant-config",
+      "home-automation",
+      "homeassistant",
+      "homeassistant-config",
+      "homeautomation",
+      "internet-of-things",
+      "iot",
+      "mqtt",
+      "smarthome"
+    ]
+  },
+  {
+    "name": "awesome-machine-learning-on-source-code",
+    "full_name": "src-d/awesome-machine-learning-on-source-code",
+    "html_url": "https://github.com/src-d/awesome-machine-learning-on-source-code",
+    "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
+    "stars": 6283,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "machine-learning",
+      "machine-learning-on-source-code"
+    ]
+  },
+  {
+    "name": "Awesome-Embedded",
+    "full_name": "nhivp/Awesome-Embedded",
+    "html_url": "https://github.com/nhivp/Awesome-Embedded",
+    "description": "A curated list of awesome embedded programming.",
+    "stars": 6272,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "autosar",
+      "awesome",
+      "beaglebone",
+      "bootloader",
+      "embedded",
+      "embedded-ai",
+      "embedded-gui",
+      "freertos",
+      "linux-programming",
+      "machine-learning",
+      "microcontroller",
+      "msp430",
+      "operating-systems",
+      "raspberry-pi",
+      "rtos",
+      "stm32",
+      "tiva-c-series",
+      "tm4c123"
+    ]
+  },
+  {
+    "name": "awesome-pipeline",
+    "full_name": "pditommaso/awesome-pipeline",
+    "html_url": "https://github.com/pditommaso/awesome-pipeline",
+    "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+    "stars": 6236,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "workflow"
+    ]
+  },
+  {
+    "name": "awesome-self-supervised-learning",
+    "full_name": "jason718/awesome-self-supervised-learning",
+    "html_url": "https://github.com/jason718/awesome-self-supervised-learning",
+    "description": "A curated list of awesome self-supervised methods",
+    "stars": 6197,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "reinforcement-learning",
+      "robotics",
+      "self-supervised"
+    ]
+  },
+  {
+    "name": "awesome-chrome-devtools",
+    "full_name": "ChromeDevTools/awesome-chrome-devtools",
+    "html_url": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
+    "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
+    "stars": 6192,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-multimodal-ml",
+    "full_name": "pliang279/awesome-multimodal-ml",
+    "html_url": "https://github.com/pliang279/awesome-multimodal-ml",
+    "description": "Reading list for research topics in multimodal machine learning",
+    "stars": 6188,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "healthcare",
+      "machine-learning",
+      "multimodal-learning",
+      "natural-language-processing",
+      "reading-list",
+      "reinforcement-learning",
+      "representation-learning",
+      "robotics",
+      "speech-processing"
+    ]
+  },
+  {
+    "name": "awesome-talks",
+    "full_name": "JanVanRyswyck/awesome-talks",
+    "html_url": "https://github.com/JanVanRyswyck/awesome-talks",
+    "description": "Awesome online talks and screencasts",
+    "stars": 6106,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-electronics",
+    "full_name": "kitspace/awesome-electronics",
+    "html_url": "https://github.com/kitspace/awesome-electronics",
+    "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+    "stars": 6105,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "altium",
+      "awesome",
+      "eagle",
+      "electronics",
+      "gerber",
+      "hardware",
+      "kicad",
+      "pcb"
+    ]
+  },
+  {
+    "name": "awesome-rnn",
+    "full_name": "kjw0612/awesome-rnn",
+    "html_url": "https://github.com/kjw0612/awesome-rnn",
+    "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+    "stars": 6100,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-youtubers",
+    "full_name": "JoseDeFreitas/awesome-youtubers",
+    "html_url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "description": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
+    "stars": 6098,
+    "updated_at": "2025-01-06",
+    "language": "Markdown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "youtube",
+      "youtubers"
+    ]
+  },
+  {
+    "name": "Awesome-LLM-Strawberry",
+    "full_name": "hijkzzz/Awesome-LLM-Strawberry",
+    "html_url": "https://github.com/hijkzzz/Awesome-LLM-Strawberry",
+    "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 \ud83c\udf53 and reasoning techniques.",
+    "stars": 6072,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "chain-of-thought",
+      "coding",
+      "llm",
+      "mathematics",
+      "mcts",
+      "openai-o1",
+      "reinforcement-learning",
+      "strawberry"
+    ]
+  },
+  {
+    "name": "awesome-generative-ai",
+    "full_name": "steven2358/awesome-generative-ai",
+    "html_url": "https://github.com/steven2358/awesome-generative-ai",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "stars": 6066,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "generative-art",
+      "large-language-models",
+      "llm"
+    ]
+  },
+  {
+    "name": "awesome-R",
+    "full_name": "qinwf/awesome-R",
+    "html_url": "https://github.com/qinwf/awesome-R",
+    "description": "A curated list of awesome R packages, frameworks and software.",
+    "stars": 6060,
+    "updated_at": "2025-01-05",
+    "language": "R",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-analysis",
+      "data-science",
+      "list",
+      "r",
+      "rstats"
+    ]
+  },
+  {
+    "name": "awesome-chaos-engineering",
+    "full_name": "dastergon/awesome-chaos-engineering",
+    "html_url": "https://github.com/dastergon/awesome-chaos-engineering",
+    "description": "A curated list of Chaos Engineering resources.",
+    "stars": 6049,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chaos",
+      "chaos-community",
+      "chaos-engineering",
+      "chaos-monkey",
+      "chaos-testing",
+      "netflix-chaos-monkey",
+      "resilience",
+      "simian-army",
+      "site-reliability-engineering"
+    ]
+  },
+  {
+    "name": "awesome-chatgpt-api",
+    "full_name": "reorx/awesome-chatgpt-api",
+    "html_url": "https://github.com/reorx/awesome-chatgpt-api",
+    "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
+    "stars": 6037,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-api"
+    ]
+  },
+  {
+    "name": "awesome-cryptography",
+    "full_name": "sobolevn/awesome-cryptography",
+    "html_url": "https://github.com/sobolevn/awesome-cryptography",
+    "description": "A curated list of cryptography resources and links.",
+    "stars": 6007,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "crypto",
+      "cryptography",
+      "encryption",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-shodan-queries",
+    "full_name": "jakejarvis/awesome-shodan-queries",
+    "html_url": "https://github.com/jakejarvis/awesome-shodan-queries",
+    "description": "\ud83d\udd0d A collection of interesting, funny, and depressing search queries to plug into shodan.io \ud83d\udc69\u200d\ud83d\udcbb",
+    "stars": 6001,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cloud",
+      "dorks",
+      "hacking",
+      "infosec",
+      "internet-of-things",
+      "iot",
+      "network-infrastructure",
+      "penetration-testing",
+      "pentesting",
+      "security",
+      "security-scanner",
+      "security-tools",
+      "shodan",
+      "shodan-dorks"
+    ]
+  },
+  {
+    "name": "Awesome-Black-Friday-Cyber-Monday",
+    "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "html_url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "description": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+    "stars": 5994,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-fp-js",
+    "full_name": "stoeffel/awesome-fp-js",
+    "html_url": "https://github.com/stoeffel/awesome-fp-js",
+    "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
+    "stars": 5994,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-web-hacking",
+    "full_name": "infoslack/awesome-web-hacking",
+    "html_url": "https://github.com/infoslack/awesome-web-hacking",
+    "description": "A list of web application security",
+    "stars": 5957,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "appsec",
+      "hacking",
+      "hacking-tools",
+      "metasploit",
+      "owasp",
+      "penetration-testing",
+      "pentesting",
+      "scanner",
+      "security",
+      "vulnerabilities",
+      "vulnerability",
+      "web-hacking",
+      "web-security"
+    ]
+  },
+  {
+    "name": "awesome-roadmaps",
+    "full_name": "liuchong/awesome-roadmaps",
+    "html_url": "https://github.com/liuchong/awesome-roadmaps",
+    "description": "A curated list of roadmaps.",
+    "stars": 5912,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "resources",
+      "roadmap"
+    ]
+  },
+  {
+    "name": "awesome-android",
+    "full_name": "snowdream/awesome-android",
+    "html_url": "https://github.com/snowdream/awesome-android",
+    "description": "android libs from github or other websites",
+    "stars": 5910,
+    "updated_at": "2025-01-03",
+    "language": "Shell",
+    "topics": [
+      "android",
+      "android-libs"
+    ]
+  },
+  {
+    "name": "Awesome-MaterialDesign",
+    "full_name": "lightSky/Awesome-MaterialDesign",
+    "html_url": "https://github.com/lightSky/Awesome-MaterialDesign",
+    "description": "Collection of material design libs and res.",
+    "stars": 5897,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-GPT-Agents",
+    "full_name": "fr0gger/Awesome-GPT-Agents",
+    "html_url": "https://github.com/fr0gger/Awesome-GPT-Agents",
+    "description": "A curated list of GPT agents for cybersecurity",
+    "stars": 5771,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "agents",
+      "cybersecurity",
+      "infosec",
+      "llm"
+    ]
+  },
+  {
+    "name": "awesome-LLMs-In-China",
+    "full_name": "wgwang/awesome-LLMs-In-China",
+    "html_url": "https://github.com/wgwang/awesome-LLMs-In-China",
+    "description": "\u4e2d\u56fd\u5927\u6a21\u578b",
+    "stars": 5716,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Swift-Education",
+    "full_name": "hsavit1/Awesome-Swift-Education",
+    "html_url": "https://github.com/hsavit1/Awesome-Swift-Education",
+    "description": ":fire: Learn some Swift",
+    "stars": 5704,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "swift",
+      "swift-education"
+    ]
+  },
+  {
+    "name": "maximum-awesome",
+    "full_name": "square/maximum-awesome",
+    "html_url": "https://github.com/square/maximum-awesome",
+    "description": "Config files for vim and tmux.",
+    "stars": 5699,
+    "updated_at": "2024-12-20",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "name": "awesome-open-gpt",
+    "full_name": "EwingYangs/awesome-open-gpt",
+    "html_url": "https://github.com/EwingYangs/awesome-open-gpt",
+    "description": "Collection of Open Source Projects Related to GPT\uff0cGPT\u76f8\u5173\u5f00\u6e90\u9879\u76ee\u5408\u96c6\ud83d\ude80\u3001\u7cbe\u9009\ud83d\udd25\ud83d\udd25",
+    "stars": 5674,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "agentgpt",
+      "ai",
+      "aigc",
+      "autogpt",
+      "awesome",
+      "awesome-list",
+      "chatbox",
+      "chatgpt",
+      "chatgpt-api",
+      "chatgpt-sdk",
+      "gpt",
+      "gpt4",
+      "gpt4free",
+      "gpt4o",
+      "gpts",
+      "gptstore",
+      "machinelearning",
+      "minigpt",
+      "moss",
+      "open-source"
+    ]
+  },
+  {
+    "name": "go-awesome",
+    "full_name": "shockerli/go-awesome",
+    "html_url": "https://github.com/shockerli/go-awesome",
+    "description": "Go \u8bed\u8a00\u4f18\u79c0\u8d44\u6e90\u6574\u7406\uff0c\u4e3a\u9879\u76ee\u843d\u5730\u52a0\u901f\ud83c\udfc3",
+    "stars": 5651,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-go",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "name": "awesome-swift",
+    "full_name": "Wolg/awesome-swift",
+    "html_url": "https://github.com/Wolg/awesome-swift",
+    "description": "A curated list of awesome Swift frameworks, libraries and software.",
+    "stars": 5643,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "objective-c",
+      "swift",
+      "swift-framework",
+      "swift-language",
+      "swift-library"
+    ]
+  },
+  {
+    "name": "awesome-wsl",
+    "full_name": "sirredbeard/awesome-wsl",
+    "html_url": "https://github.com/sirredbeard/awesome-wsl",
+    "description": "Awesome list dedicated to Windows Subsystem for Linux",
+    "stars": 5619,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest-accepted",
+      "microsoft",
+      "windows-10",
+      "windows-subsystem",
+      "windows-subsystem-for-linux",
+      "windows-subsystem-linux",
+      "wsl"
+    ]
+  },
+  {
+    "name": "awesome-tf",
+    "full_name": "shuaibiyy/awesome-tf",
+    "html_url": "https://github.com/shuaibiyy/awesome-tf",
+    "description": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
+    "stars": 5593,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "devops",
+      "hashicorp-terraform",
+      "infrastructure-as-code",
+      "opentofu",
+      "terraform",
+      "terraform-modules"
+    ]
+  },
+  {
+    "name": "awesome-security-hardening",
+    "full_name": "decalage2/awesome-security-hardening",
+    "html_url": "https://github.com/decalage2/awesome-security-hardening",
+    "description": "A collection of awesome security hardening guides, tools and other resources",
+    "stars": 5580,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "best-practices",
+      "blue-team",
+      "blueteam",
+      "cis-benchmarks",
+      "computer-security",
+      "cyber-security",
+      "cybersecurity",
+      "infosec",
+      "linux-hardening",
+      "security",
+      "security-hardening",
+      "security-tools",
+      "windows-hardening"
+    ]
+  },
+  {
+    "name": "awesome-console-services",
+    "full_name": "chubin/awesome-console-services",
+    "html_url": "https://github.com/chubin/awesome-console-services",
+    "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
+    "stars": 5563,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "curl",
+      "resources",
+      "terminal"
+    ]
+  },
+  {
+    "name": "awesome-github-android-ui",
+    "full_name": "opendigg/awesome-github-android-ui",
+    "html_url": "https://github.com/opendigg/awesome-github-android-ui",
+    "description": "\u5b89\u5353UI\u76f8\u5173\u5f00\u6e90\u9879\u76ee\u5e93\u6c47\u603b ",
+    "stars": 5542,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "android-library",
+      "android-ui",
+      "awesome"
+    ]
+  },
+  {
+    "name": "awesome-prompts",
+    "full_name": "ai-boost/awesome-prompts",
+    "html_url": "https://github.com/ai-boost/awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+    "stars": 5529,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt4",
+      "gpts",
+      "gptstore",
+      "papers",
+      "prompt",
+      "prompt-engineering"
+    ]
+  },
+  {
+    "name": "awesome-android-libraries",
+    "full_name": "wasabeef/awesome-android-libraries",
+    "html_url": "https://github.com/wasabeef/awesome-android-libraries",
+    "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
+    "stars": 5528,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-learning-resources",
+    "full_name": "lauragift21/awesome-learning-resources",
+    "html_url": "https://github.com/lauragift21/awesome-learning-resources",
+    "description": "\ud83d\udd25 Awesome list of resources on Web Development.",
+    "stars": 5468,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome-list",
+      "css",
+      "developer-stories",
+      "javascript",
+      "machine-learning",
+      "open-source",
+      "podcast",
+      "pwa",
+      "serverless",
+      "vue"
+    ]
+  },
+  {
+    "name": "awesome-nodejs-projects",
+    "full_name": "sqreen/awesome-nodejs-projects",
+    "html_url": "https://github.com/sqreen/awesome-nodejs-projects",
+    "description": "Curated list of awesome open-source applications made with Node.js",
+    "stars": 5460,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Fuzzing",
+    "full_name": "secfigo/Awesome-Fuzzing",
+    "html_url": "https://github.com/secfigo/Awesome-Fuzzing",
+    "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
+    "stars": 5408,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "fuzzing",
+      "fuzzing-framework",
+      "secfigo"
+    ]
+  },
+  {
+    "name": "awesome-app-ideas",
+    "full_name": "tastejs/awesome-app-ideas",
+    "html_url": "https://github.com/tastejs/awesome-app-ideas",
+    "description": "List of awesome app ideas",
+    "stars": 5392,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-monorepo",
+    "full_name": "korfuri/awesome-monorepo",
+    "html_url": "https://github.com/korfuri/awesome-monorepo",
+    "description": "A curated list of awesome Monorepo tools, software and architectures.",
+    "stars": 5389,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "monorepo"
+    ]
+  },
+  {
+    "name": "awesome-javascript-learning",
+    "full_name": "micromata/awesome-javascript-learning",
+    "html_url": "https://github.com/micromata/awesome-javascript-learning",
+    "description": "A tiny list limited to the best JavaScript Learning Resources",
+    "stars": 5387,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "javascript",
+      "javascript-learning",
+      "learning",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-ios-animation",
+    "full_name": "onmyway133/awesome-ios-animation",
+    "html_url": "https://github.com/onmyway133/awesome-ios-animation",
+    "description": ":umbrella: A collection of iOS animation repos",
+    "stars": 5377,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "animation",
+      "ios",
+      "swift"
+    ]
+  },
+  {
+    "name": "awesome-zero-knowledge-proofs",
+    "full_name": "matter-labs/awesome-zero-knowledge-proofs",
+    "html_url": "https://github.com/matter-labs/awesome-zero-knowledge-proofs",
+    "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+    "stars": 5355,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "explaining-snarks",
+      "knowledge-proofs",
+      "snark",
+      "team-crypto",
+      "zk-snarks"
+    ]
+  },
+  {
+    "name": "awesome-ios-animation",
+    "full_name": "v5tech/awesome-ios-animation",
+    "html_url": "https://github.com/v5tech/awesome-ios-animation",
+    "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
+    "stars": 5286,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "animations",
+      "ios-animation",
+      "swift-animation"
+    ]
+  },
+  {
+    "name": "awesome-chatgpt",
+    "full_name": "sindresorhus/awesome-chatgpt",
+    "html_url": "https://github.com/sindresorhus/awesome-chatgpt",
+    "description": "\ud83e\udd16 Awesome list for ChatGPT \u2014 an artificial intelligence chatbot developed by OpenAI",
+    "stars": 5284,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt",
+      "gpt-3",
+      "gpt-4",
+      "openai"
+    ]
+  },
+  {
+    "name": "awesome",
+    "full_name": "nuxt/awesome",
+    "html_url": "https://github.com/nuxt/awesome",
+    "description": "A curated list of awesome things related to Nuxt.js",
+    "stars": 5245,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "nuxt",
+      "nuxtjs",
+      "tutorial",
+      "vue",
+      "welcome-pr"
+    ]
+  },
+  {
+    "name": "awesome-infosec",
+    "full_name": "onlurking/awesome-infosec",
+    "html_url": "https://github.com/onlurking/awesome-infosec",
+    "description": " A curated list of awesome infosec courses and training resources.",
+    "stars": 5233,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "courses",
+      "infosec",
+      "lab",
+      "penetration-testing",
+      "pentest",
+      "security",
+      "security-professionals"
+    ]
+  },
+  {
+    "name": "awesome-d3",
+    "full_name": "wbkd/awesome-d3",
+    "html_url": "https://github.com/wbkd/awesome-d3",
+    "description": "A list of D3 libraries, plugins and utilities",
+    "stars": 5213,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "charts",
+      "d3js",
+      "datavisualization",
+      "javascript",
+      "maps"
+    ]
+  },
+  {
+    "name": "awesome-domain-adaptation",
+    "full_name": "zhaoxin94/awesome-domain-adaptation",
+    "html_url": "https://github.com/zhaoxin94/awesome-domain-adaptation",
+    "description": "A collection of AWESOME things about domian adaptation",
+    "stars": 5162,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "adversarial-learning",
+      "awesome-list",
+      "domain-adaptation",
+      "few-shot-learning",
+      "image-translation",
+      "optimal-transport",
+      "paper",
+      "transfer-learning",
+      "zero-shot-learning"
+    ]
+  },
+  {
+    "name": "awesome-ios-architecture",
+    "full_name": "onmyway133/awesome-ios-architecture",
+    "html_url": "https://github.com/onmyway133/awesome-ios-architecture",
+    "description": ":japanese_castle: Better ways to structure iOS apps",
+    "stars": 5136,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "architecture",
+      "ios",
+      "mvvm",
+      "react"
+    ]
+  },
+  {
+    "name": "awesome-tauri",
+    "full_name": "tauri-apps/awesome-tauri",
+    "html_url": "https://github.com/tauri-apps/awesome-tauri",
+    "description": "\ud83d\ude80 Awesome Tauri Apps, Plugins and Resources",
+    "stars": 5130,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "tauri"
+    ]
+  },
+  {
+    "name": "awesome-css",
+    "full_name": "awesome-css-group/awesome-css",
+    "html_url": "https://github.com/awesome-css-group/awesome-css",
+    "description": ":art: A curated contents of amazing CSS :)",
+    "stars": 5120,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "css",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-cmake",
+    "full_name": "onqtam/awesome-cmake",
+    "html_url": "https://github.com/onqtam/awesome-cmake",
+    "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
+    "stars": 5113,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cmake",
+      "cmake-examples",
+      "cmake-modules",
+      "cmake-resources",
+      "cmake-scripts",
+      "cmake-toolchains",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-cursorrules",
+    "full_name": "PatrickJS/awesome-cursorrules",
+    "html_url": "https://github.com/PatrickJS/awesome-cursorrules",
+    "description": "\ud83d\udcc4 A curated list of awesome .cursorrules files",
+    "stars": 5108,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cursor",
+      "cursor-ai-editor",
+      "cursorrules"
+    ]
+  },
+  {
+    "name": "awesome-behavioral-interviews",
+    "full_name": "ashishps1/awesome-behavioral-interviews",
+    "html_url": "https://github.com/ashishps1/awesome-behavioral-interviews",
+    "description": "Tips and resources to prepare for Behavioral interviews.",
+    "stars": 5090,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "behavioral-interviews",
+      "interview-preparation",
+      "interviews",
+      "software-engineering"
+    ]
+  },
+  {
+    "name": "awesome-pretrained-chinese-nlp-models",
+    "full_name": "lonePatient/awesome-pretrained-chinese-nlp-models",
+    "html_url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+    "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+    "stars": 5018,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "bert",
+      "chinese",
+      "dataset",
+      "ernie",
+      "gpt",
+      "gpt-2",
+      "large-language-models",
+      "llm",
+      "multimodel",
+      "nezha",
+      "nlp",
+      "nlu-nlg",
+      "pangu",
+      "pretrained-models",
+      "roberta",
+      "simbert",
+      "xlnet"
+    ]
+  },
+  {
+    "name": "awesome-blender",
+    "full_name": "agmmnn/awesome-blender",
+    "html_url": "https://github.com/agmmnn/awesome-blender",
+    "description": "\ud83e\ude90 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
+    "stars": 5016,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "3d",
+      "3d-models",
+      "awesome",
+      "awesome-list",
+      "blender",
+      "blender-addon",
+      "list"
+    ]
+  },
+  {
+    "name": "gans-awesome-applications",
+    "full_name": "nashory/gans-awesome-applications",
+    "html_url": "https://github.com/nashory/gans-awesome-applications",
+    "description": "Curated list of awesome GAN applications and demo",
+    "stars": 5012,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "applications",
+      "curated-list",
+      "demonstration",
+      "generative-adversarial-network",
+      "github",
+      "papers"
+    ]
+  },
+  {
+    "name": "awesome-split-keyboards",
+    "full_name": "diimdeep/awesome-split-keyboards",
+    "html_url": "https://github.com/diimdeep/awesome-split-keyboards",
+    "description": "A collection of ergonomic split keyboards \u2328",
+    "stars": 4996,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ergonomic-keyboard",
+      "hardware",
+      "keyboards",
+      "mechanical-keyboard",
+      "split-keyboard"
+    ]
+  },
+  {
+    "name": "AwesomeMenu",
+    "full_name": "levey/AwesomeMenu",
+    "html_url": "https://github.com/levey/AwesomeMenu",
+    "description": "Path 2.0 menu using CoreAnimation :)",
+    "stars": 4994,
+    "updated_at": "2025-01-03",
+    "language": "Objective-C",
+    "topics": []
+  },
+  {
+    "name": "awesome-go-cn",
+    "full_name": "yinggaozhen/awesome-go-cn",
+    "html_url": "https://github.com/yinggaozhen/awesome-go-cn",
+    "description": "\u4e00\u4e2a\u5f88\u68d2\u7684Go\u6846\u67b6\u3001\u5e93\u548c\u8f6f\u4ef6\u7684\u4e2d\u6587\u6536\u5f55\u5927\u5168\u3002:alarm_clock:\u811a\u672c\u5b9a\u671f\u4e0e\u82f1\u6587\u6587\u6863\u540c\u6b65\uff0c\u5305\u542b\u4e86\u5404\u5de5\u7a0bstar\u6570/\u6700\u8fd1\u66f4\u65b0\u65f6\u95f4\uff0c\u52a9\u60a8\u5feb\u901f\u53d1\u73b0\u4f18\u8d28\u9879\u76ee\u3002Awesome Go~",
+    "stars": 4976,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cn-doc",
+      "go",
+      "golang",
+      "golang-library"
+    ]
+  },
+  {
+    "name": "awesome-powershell",
+    "full_name": "janikvonrotz/awesome-powershell",
+    "html_url": "https://github.com/janikvonrotz/awesome-powershell",
+    "description": "A curated list of delightful PowerShell modules and resources",
+    "stars": 4921,
+    "updated_at": "2025-01-06",
+    "language": "PowerShell",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "guides",
+      "linux-powershell",
+      "list",
+      "powershell",
+      "powershell-cmdlets",
+      "powershell-ise",
+      "tutorial",
+      "windows-powershell"
+    ]
+  },
+  {
+    "name": "awesome-elasticsearch",
+    "full_name": "dzharii/awesome-elasticsearch",
+    "html_url": "https://github.com/dzharii/awesome-elasticsearch",
+    "description": "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!",
+    "stars": 4911,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "database",
+      "elastalert",
+      "elasticsearch",
+      "elasticsearch-cluster",
+      "elasticsearch-configuration",
+      "kibana",
+      "logstash",
+      "lucene",
+      "nosql",
+      "query-elasticsearch",
+      "search"
+    ]
+  },
+  {
+    "name": "Awesome-RxJava",
+    "full_name": "uknownothingsnow/Awesome-RxJava",
+    "html_url": "https://github.com/uknownothingsnow/Awesome-RxJava",
+    "description": "RxJava resources",
+    "stars": 4833,
+    "updated_at": "2024-12-30",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "AwesomeXSS",
+    "full_name": "s0md3v/AwesomeXSS",
+    "html_url": "https://github.com/s0md3v/AwesomeXSS",
+    "description": "Awesome XSS stuff",
+    "stars": 4826,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "payload",
+      "payload-list",
+      "xss",
+      "xss-cheatsheet",
+      "xss-detection",
+      "xss-payloads"
+    ]
+  },
+  {
+    "name": "awesome-resume-for-chinese",
+    "full_name": "dyweb/awesome-resume-for-chinese",
+    "html_url": "https://github.com/dyweb/awesome-resume-for-chinese",
+    "description": ":page_facing_up: \u9002\u5408\u4e2d\u6587\u7684\u7b80\u5386\u6a21\u677f\u6536\u96c6\uff08LaTeX\uff0cHTML/JS and so on\uff09\u7531 @hoochanlon \u7ef4\u62a4",
+    "stars": 4825,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "engineer",
+      "html",
+      "json",
+      "latex",
+      "resume"
+    ]
+  },
+  {
+    "name": "Awesome-Bugbounty-Writeups",
+    "full_name": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "html_url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "stars": 4786,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "bugbounty",
+      "bugbounty-blogs",
+      "bugbounty-facebook",
+      "bugbounty-writeups",
+      "bugbounty-yahoo",
+      "bugbountytips",
+      "bughunting",
+      "bughunting-methodology",
+      "bughunting-writeups",
+      "security-writeups"
+    ]
+  },
+  {
+    "name": "awesome-graph-classification",
+    "full_name": "benedekrozemberczki/awesome-graph-classification",
+    "html_url": "https://github.com/benedekrozemberczki/awesome-graph-classification",
+    "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+    "stars": 4771,
+    "updated_at": "2025-01-02",
+    "language": "Python",
+    "topics": [
+      "attention-mechanism",
+      "classification-algorithm",
+      "deep-graph-kernels",
+      "deepwalk",
+      "graph-attention-model",
+      "graph-attention-networks",
+      "graph-classification",
+      "graph-convolutional-networks",
+      "graph-embedding",
+      "graph-kernel",
+      "graph-kernels",
+      "graph-representation-learning",
+      "graph2vec",
+      "kernel-methods",
+      "netlsd",
+      "network-embedding",
+      "node-embedding",
+      "node2vec",
+      "structural-attention",
+      "weisfeiler-lehman"
+    ]
+  },
+  {
+    "name": "awesome-bug-bounty",
+    "full_name": "djadmin/awesome-bug-bounty",
+    "html_url": "https://github.com/djadmin/awesome-bug-bounty",
+    "description": "A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.",
+    "stars": 4723,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-knowledge-graph",
+    "full_name": "husthuke/awesome-knowledge-graph",
+    "html_url": "https://github.com/husthuke/awesome-knowledge-graph",
+    "description": "\u6574\u7406\u77e5\u8bc6\u56fe\u8c31\u76f8\u5173\u5b66\u4e60\u8d44\u6599",
+    "stars": 4711,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Transformer-Attention",
+    "full_name": "cmhungsteve/Awesome-Transformer-Attention",
+    "html_url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+    "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+    "stars": 4702,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "attention-mechanism",
+      "attention-mechanisms",
+      "awesome-list",
+      "computer-vision",
+      "deep-learning",
+      "detr",
+      "papers",
+      "self-attention",
+      "transformer",
+      "transformer-architecture",
+      "transformer-awesome",
+      "transformer-cv",
+      "transformer-models",
+      "transformer-with-cv",
+      "transformers",
+      "vision-transformer",
+      "visual-transformer",
+      "vit"
+    ]
+  },
+  {
+    "name": "awesome-asyncio",
+    "full_name": "timofurrer/awesome-asyncio",
+    "html_url": "https://github.com/timofurrer/awesome-asyncio",
+    "description": "A curated list of awesome Python asyncio frameworks, libraries, software and resources",
+    "stars": 4683,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "asyncio",
+      "awesome",
+      "awesome-list",
+      "closember",
+      "coroutines",
+      "python",
+      "python-asyncio"
+    ]
+  },
+  {
+    "name": "awesome-devsecops",
+    "full_name": "devsecops/awesome-devsecops",
+    "html_url": "https://github.com/devsecops/awesome-devsecops",
+    "description": "An authoritative list of awesome devsecops tools with the help from community experiments and contributions.",
+    "stars": 4681,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "devops",
+      "devsecops",
+      "podcast",
+      "threat-intelligence"
+    ]
+  },
+  {
+    "name": "awesome-typescript",
+    "full_name": "dzharii/awesome-typescript",
+    "html_url": "https://github.com/dzharii/awesome-typescript",
+    "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+    "stars": 4670,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-audio-visualization",
+    "full_name": "willianjusten/awesome-audio-visualization",
+    "html_url": "https://github.com/willianjusten/awesome-audio-visualization",
+    "description": "A curated list about Audio Visualization.",
+    "stars": 4664,
+    "updated_at": "2025-01-05",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "name": "awesome-webpack",
+    "full_name": "webpack-contrib/awesome-webpack",
+    "html_url": "https://github.com/webpack-contrib/awesome-webpack",
+    "description": "A curated list of awesome Webpack resources, libraries and tools",
+    "stars": 4605,
+    "updated_at": "2025-01-01",
+    "language": "HTML",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "documentation",
+      "list",
+      "webpack"
+    ]
+  },
+  {
+    "name": "awesome-micro-npm-packages",
+    "full_name": "parro-it/awesome-micro-npm-packages",
+    "html_url": "https://github.com/parro-it/awesome-micro-npm-packages",
+    "description": "A curated list of small, focused npm packages.",
+    "stars": 4605,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-gis",
+    "full_name": "sshuair/awesome-gis",
+    "html_url": "https://github.com/sshuair/awesome-gis",
+    "description": "\ud83d\ude0eAwesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.",
+    "stars": 4596,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "geo",
+      "geospatial",
+      "geospatial-library",
+      "geotools",
+      "gis",
+      "map",
+      "spatial-analysis"
+    ]
+  },
+  {
+    "name": "awesome-uses",
+    "full_name": "wesbos/awesome-uses",
+    "html_url": "https://github.com/wesbos/awesome-uses",
+    "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "stars": 4589,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "awesome-gpt3",
+    "full_name": "elyase/awesome-gpt3",
+    "html_url": "https://github.com/elyase/awesome-gpt3",
+    "description": "No description",
+    "stars": 4587,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-pwa",
+    "full_name": "hemanth/awesome-pwa",
+    "html_url": "https://github.com/hemanth/awesome-pwa",
+    "description": "Awesome list of progressive web apps!",
+    "stars": 4577,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "modern-web",
+      "pwa",
+      "service-worker"
+    ]
+  },
+  {
+    "name": "awesome-shizuku",
+    "full_name": "timschneeb/awesome-shizuku",
+    "html_url": "https://github.com/timschneeb/awesome-shizuku",
+    "description": "Curated list of awesome Android apps making use of Shizuku",
+    "stars": 4568,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "adb",
+      "android",
+      "android-mods",
+      "awesome",
+      "awesome-list",
+      "no-root",
+      "rootless",
+      "shizuku"
+    ]
+  },
+  {
+    "name": "awesome-totally-open-chatgpt",
+    "full_name": "nichtdax/awesome-totally-open-chatgpt",
+    "html_url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
+    "description": "A list of totally open alternatives to ChatGPT",
+    "stars": 4564,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "alternative",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "chatgpt",
+      "open-source"
+    ]
+  },
+  {
+    "name": "awesome-Face_Recognition",
+    "full_name": "ChanChiChoi/awesome-Face_Recognition",
+    "html_url": "https://github.com/ChanChiChoi/awesome-Face_Recognition",
+    "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
+    "stars": 4555,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "face-alignment",
+      "face-detection",
+      "face-generation",
+      "face-recognition",
+      "face-reconstruction",
+      "face-retrieval",
+      "face-superresolution",
+      "face-tracking",
+      "face-transfer"
+    ]
+  },
+  {
+    "name": "Awesome-AITools",
+    "full_name": "ikaijua/Awesome-AITools",
+    "html_url": "https://github.com/ikaijua/Awesome-AITools",
+    "description": "Collection of AI-related utilities. Welcome to submit issues and pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4issues \u6216\u8005pull requests",
+    "stars": 4555,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chat-gpt",
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "gpt4",
+      "gpt4free",
+      "gpts",
+      "llm",
+      "llms",
+      "machinelearning",
+      "open-source",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-svg",
+    "full_name": "willianjusten/awesome-svg",
+    "html_url": "https://github.com/willianjusten/awesome-svg",
+    "description": "A curated list of SVG. ",
+    "stars": 4552,
+    "updated_at": "2025-01-03",
+    "language": "Shell",
+    "topics": [
+      "awesome-list",
+      "svg"
+    ]
+  },
+  {
+    "name": "awesome-programming-books",
+    "full_name": "royeo/awesome-programming-books",
+    "html_url": "https://github.com/royeo/awesome-programming-books",
+    "description": "\ud83d\udcda \u7ecf\u5178\u6280\u672f\u4e66\u7c4d\u63a8\u8350\uff0c\u6301\u7eed\u66f4\u65b0...",
+    "stars": 4543,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "algorithm",
+      "c",
+      "clean-code",
+      "cpp",
+      "design-pattern",
+      "docker",
+      "git",
+      "golang",
+      "http",
+      "javascript",
+      "linux",
+      "mongodb",
+      "mysql",
+      "nginx",
+      "nodejs",
+      "os",
+      "python",
+      "redis",
+      "system",
+      "tcp"
+    ]
+  },
+  {
+    "name": "awesome-reverse-engineering",
+    "full_name": "alphaSeclab/awesome-reverse-engineering",
+    "html_url": "https://github.com/alphaSeclab/awesome-reverse-engineering",
+    "description": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)",
+    "stars": 4535,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android-security",
+      "angr",
+      "apk-analysis",
+      "binaryninja",
+      "binnavi",
+      "cuckoo",
+      "dynamorio",
+      "frida",
+      "gdb",
+      "ghidra",
+      "ida-plugin",
+      "idapro",
+      "idapython",
+      "intelpt",
+      "radare2",
+      "reverse-engineering",
+      "windbg",
+      "x64dbg"
+    ]
+  },
+  {
+    "name": "awesome-npm",
+    "full_name": "sindresorhus/awesome-npm",
+    "html_url": "https://github.com/sindresorhus/awesome-npm",
+    "description": "Awesome npm resources and tips",
+    "stars": 4521,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "node",
+      "nodejs",
+      "npm",
+      "package-manager",
+      "yarn"
+    ]
+  },
+  {
+    "name": "Awesome-Android-Interview",
+    "full_name": "JsonChao/Awesome-Android-Interview",
+    "html_url": "https://github.com/JsonChao/Awesome-Android-Interview",
+    "description": ":fire: A awesome  android expert interview questions and answers\uff08continuous updating ...\uff09",
+    "stars": 4507,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "android-interview",
+      "android-interview-practice",
+      "cheatsheet",
+      "cheatsheets",
+      "interview",
+      "interview-practice",
+      "interview-prep",
+      "interview-preparation",
+      "interview-questions",
+      "java"
+    ]
+  },
+  {
+    "name": "awesome-github-profile-readme-templates",
+    "full_name": "durgeshsamariya/awesome-github-profile-readme-templates",
+    "html_url": "https://github.com/durgeshsamariya/awesome-github-profile-readme-templates",
+    "description": "This repository contains best profile readme's for your reference. ",
+    "stars": 4492,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "github-profile",
+      "readme",
+      "readme-template"
+    ]
+  },
+  {
+    "name": "awesome-go-storage",
+    "full_name": "gostor/awesome-go-storage",
+    "html_url": "https://github.com/gostor/awesome-go-storage",
+    "description": "A curated list of awesome Go storage projects and libraries",
+    "stars": 4490,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "golang",
+      "hacktoberfest",
+      "storage"
+    ]
+  },
+  {
+    "name": "awesome-robotics",
+    "full_name": "kiloreux/awesome-robotics",
+    "html_url": "https://github.com/kiloreux/awesome-robotics",
+    "description": "A list of awesome Robotics resources",
+    "stars": 4485,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "robotics"
+    ]
+  },
+  {
+    "name": "awesome-cybersecurity-blueteam",
+    "full_name": "fabacab/awesome-cybersecurity-blueteam",
+    "html_url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+    "description": ":computer:\ud83d\udee1\ufe0f A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+    "stars": 4466,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "blue-team",
+      "computer-security",
+      "cybersecurity",
+      "defensive-security",
+      "infosec",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-bugbounty-tools",
+    "full_name": "vavkamil/awesome-bugbounty-tools",
+    "html_url": "https://github.com/vavkamil/awesome-bugbounty-tools",
+    "description": "A curated list of various bug bounty tools",
+    "stars": 4460,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bugbounty",
+      "security-tools",
+      "tools",
+      "web-security"
+    ]
+  },
+  {
+    "name": "awesome-code-review",
+    "full_name": "joho/awesome-code-review",
+    "html_url": "https://github.com/joho/awesome-code-review",
+    "description": "An \"Awesome\" list of code review resources - articles, papers, tools, etc",
+    "stars": 4444,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "code-review",
+      "code-reviews"
+    ]
+  },
+  {
+    "name": "awesome-spring-boot",
+    "full_name": "ityouknow/awesome-spring-boot",
+    "html_url": "https://github.com/ityouknow/awesome-spring-boot",
+    "description": "Spring Boot Resources",
+    "stars": 4433,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "spring",
+      "spring-boot",
+      "springboot",
+      "springboot-learning",
+      "vue-springboot"
+    ]
+  },
+  {
+    "name": "awesome-systematic-trading",
+    "full_name": "paperswithbacktest/awesome-systematic-trading",
+    "html_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "stars": 4422,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "alpha",
+      "arbitrage-bot",
+      "awesome",
+      "awesome-list",
+      "book",
+      "finance",
+      "futures",
+      "futures-historical-data",
+      "futures-market",
+      "futuresmarkets",
+      "paper",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies"
+    ]
+  },
+  {
+    "name": "awesome-eslint",
+    "full_name": "dustinspecker/awesome-eslint",
+    "html_url": "https://github.com/dustinspecker/awesome-eslint",
+    "description": "A list of awesome ESLint plugins, configs, etc.",
+    "stars": 4418,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "eslint",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-iot",
+    "full_name": "phodal/awesome-iot",
+    "html_url": "https://github.com/phodal/awesome-iot",
+    "description": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
+    "stars": 4384,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "awesome-iot",
+      "awesome-list",
+      "azure-iot",
+      "iot",
+      "iot-application",
+      "iot-cloud",
+      "iot-device",
+      "iot-platform"
+    ]
+  },
+  {
+    "name": "awesome-linux",
+    "full_name": "inputsh/awesome-linux",
+    "html_url": "https://github.com/inputsh/awesome-linux",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
+    "stars": 4378,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "desktop-environment",
+      "linux",
+      "linux-distribution",
+      "list",
+      "x-window-manager"
+    ]
+  },
+  {
+    "name": "awesome-ebpf",
+    "full_name": "zoidyzoidzoid/awesome-ebpf",
+    "html_url": "https://github.com/zoidyzoidzoid/awesome-ebpf",
+    "description": "A curated list of awesome projects related to eBPF.",
+    "stars": 4378,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bcc",
+      "bpf",
+      "ebpf",
+      "hacktoberfest",
+      "io-visor",
+      "linux-bpf-superpowers",
+      "xdp"
+    ]
+  },
+  {
+    "name": "awesome-wepy",
+    "full_name": "aben1188/awesome-wepy",
+    "html_url": "https://github.com/aben1188/awesome-wepy",
+    "description": "Awesome for wepy ! \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u7ec4\u4ef6\u5316\u5f00\u53d1\u6846\u67b6wepy\u5f00\u53d1\u8d44\u6e90\u6c47\u603b",
+    "stars": 4355,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-scifi",
+    "full_name": "sindresorhus/awesome-scifi",
+    "html_url": "https://github.com/sindresorhus/awesome-scifi",
+    "description": "Sci-Fi worth consuming",
+    "stars": 4345,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "books",
+      "list",
+      "movies",
+      "novels",
+      "recommendations",
+      "science-fiction",
+      "scifi"
+    ]
+  },
+  {
+    "name": "awesome-ipfs",
+    "full_name": "ipfs/awesome-ipfs",
+    "html_url": "https://github.com/ipfs/awesome-ipfs",
+    "description": "Community list of awesome projects, apps, tools, pinning services and more related to IPFS.",
+    "stars": 4337,
+    "updated_at": "2025-01-04",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "awesome-ipfs",
+      "awesome-list",
+      "ipfs"
+    ]
+  },
+  {
+    "name": "kmp-awesome",
+    "full_name": "terrakok/kmp-awesome",
+    "html_url": "https://github.com/terrakok/kmp-awesome",
+    "description": "An awesome list that curates the best Kotlin Multiplatform libraries, tools and more. ",
+    "stars": 4313,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "compose",
+      "compose-multiplatform",
+      "ios",
+      "jetbrains",
+      "kmm",
+      "kmp",
+      "kotlin",
+      "kotlin-multiplatform",
+      "libraries",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-ios-cn",
+    "full_name": "jobbole/awesome-ios-cn",
+    "html_url": "https://github.com/jobbole/awesome-ios-cn",
+    "description": "iOS \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1a\u6846\u67b6\u3001\u7ec4\u4ef6\u3001\u6d4b\u8bd5\u3001Apple Store\u3001SDK\u3001XCode\u3001\u7f51\u7ad9\u3001\u4e66\u7c4d\u7b49",
+    "stars": 4295,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-PyTorch-Chinese",
+    "full_name": "INTERMT/Awesome-PyTorch-Chinese",
+    "html_url": "https://github.com/INTERMT/Awesome-PyTorch-Chinese",
+    "description": "\u3010\u5e72\u8d27\u3011\u53f2\u4e0a\u6700\u5168\u7684PyTorch\u5b66\u4e60\u8d44\u6e90\u6c47\u603b",
+    "stars": 4292,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "deep-learning",
+      "neural-network",
+      "pytroch"
+    ]
+  },
+  {
+    "name": "awesome-db-tools",
+    "full_name": "mgramin/awesome-db-tools",
+    "html_url": "https://github.com/mgramin/awesome-db-tools",
+    "description": "Everything that makes working with databases easier",
+    "stars": 4292,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cross-database",
+      "database",
+      "database-management",
+      "ide",
+      "monitoring",
+      "sql-client",
+      "visualization"
+    ]
+  },
+  {
+    "name": "awesome-quant",
+    "full_name": "thuquant/awesome-quant",
+    "html_url": "https://github.com/thuquant/awesome-quant",
+    "description": "\u4e2d\u56fd\u7684Quant\u76f8\u5173\u8d44\u6e90\u7d22\u5f15",
+    "stars": 4287,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "china",
+      "cpp",
+      "finance",
+      "machine-learning",
+      "python",
+      "quant",
+      "r",
+      "statistics",
+      "trading"
+    ]
+  },
+  {
+    "name": "awesome-deno",
+    "full_name": "denolib/awesome-deno",
+    "html_url": "https://github.com/denolib/awesome-deno",
+    "description": "Curated list of awesome things related to Deno",
+    "stars": 4280,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deno"
+    ]
+  },
+  {
+    "name": "Awesome-Geospatial",
+    "full_name": "sacridini/Awesome-Geospatial",
+    "html_url": "https://github.com/sacridini/Awesome-Geospatial",
+    "description": "Long list of geospatial tools and resources",
+    "stars": 4246,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-analysis",
+      "deep-learning",
+      "earth-observation",
+      "geoprocessing",
+      "geospatial",
+      "geospatial-analysis",
+      "geotools",
+      "gis",
+      "machine-learning",
+      "map",
+      "remote-sensing",
+      "spatial-analysis",
+      "spatial-data"
+    ]
+  },
+  {
+    "name": "Awesome-Swift-Playgrounds",
+    "full_name": "uraimo/Awesome-Swift-Playgrounds",
+    "html_url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
+    "description": "A List of Awesome Swift Playgrounds",
+    "stars": 4232,
+    "updated_at": "2025-01-03",
+    "language": "Swift",
+    "topics": [
+      "apple",
+      "apple-playground",
+      "awesome",
+      "awesome-list",
+      "learning-swift",
+      "playground",
+      "swift",
+      "swift-language",
+      "swift-playgrounds",
+      "swift3",
+      "swift4"
+    ]
+  },
+  {
+    "name": "awesome-machine-learning-cn",
+    "full_name": "jobbole/awesome-machine-learning-cn",
+    "html_url": "https://github.com/jobbole/awesome-machine-learning-cn",
+    "description": "\u673a\u5668\u5b66\u4e60\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\u673a\u5668\u5b66\u4e60\u9886\u57df\u7684\u6846\u67b6\u3001\u5e93\u4ee5\u53ca\u8f6f\u4ef6",
+    "stars": 4230,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-mlops",
+    "full_name": "kelvins/awesome-mlops",
+    "html_url": "https://github.com/kelvins/awesome-mlops",
+    "description": ":sunglasses: A curated list of awesome MLOps tools",
+    "stars": 4212,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "awesome",
+      "data-science",
+      "machine-learning",
+      "machine-learning-engineering",
+      "ml",
+      "mle",
+      "mlops"
+    ]
+  },
+  {
+    "name": "Awesome-LLMOps",
+    "full_name": "tensorchord/Awesome-LLMOps",
+    "html_url": "https://github.com/tensorchord/Awesome-LLMOps",
+    "description": "An awesome & curated list of best LLMOps tools for developers",
+    "stars": 4202,
+    "updated_at": "2025-01-06",
+    "language": "Shell",
+    "topics": [
+      "ai-development-tools",
+      "awesome-list",
+      "llmops",
+      "mlops"
+    ]
+  },
+  {
+    "name": "awesome-wasm-langs",
+    "full_name": "appcypher/awesome-wasm-langs",
+    "html_url": "https://github.com/appcypher/awesome-wasm-langs",
+    "description": "\ud83d\ude0e A curated list of languages that compile directly to or have their VMs in WebAssembly",
+    "stars": 4198,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "asmjs",
+      "astro",
+      "c",
+      "cpp",
+      "csharp",
+      "java",
+      "javascript",
+      "language",
+      "programming-language",
+      "typescript",
+      "wasm",
+      "web",
+      "webassembly"
+    ]
+  },
+  {
+    "name": "awesome_3DReconstruction_list",
+    "full_name": "openMVG/awesome_3DReconstruction_list",
+    "html_url": "https://github.com/openMVG/awesome_3DReconstruction_list",
+    "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
+    "stars": 4192,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "3d-reconstruction",
+      "awesome-list",
+      "computer-vision",
+      "motion-estimation",
+      "multiple-view-geometry",
+      "opensource",
+      "stereo-vision"
+    ]
+  },
+  {
+    "name": "awesome-books",
+    "full_name": "guanpengchn/awesome-books",
+    "html_url": "https://github.com/guanpengchn/awesome-books",
+    "description": ":books: \u5f00\u53d1\u8005\u63a8\u8350\u9605\u8bfb\u7684\u4e66\u7c4d",
+    "stars": 4155,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "books",
+      "chinese",
+      "pdf"
+    ]
+  },
+  {
+    "name": "awesome-reversing",
+    "full_name": "tylerha97/awesome-reversing",
+    "html_url": "https://github.com/tylerha97/awesome-reversing",
+    "description": "A curated list of awesome reversing resources",
+    "stars": 4124,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-ChatGPT",
+    "full_name": "dalinvip/Awesome-ChatGPT",
+    "html_url": "https://github.com/dalinvip/Awesome-ChatGPT",
+    "description": "ChatGPT\u8d44\u6599\u6c47\u603b\u5b66\u4e60\uff0c\u6301\u7eed\u66f4\u65b0......",
+    "stars": 4109,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "chatgpt",
+      "deep-learning",
+      "gpt",
+      "gpt-3",
+      "nlp",
+      "openai",
+      "reinforcement-learning"
+    ]
+  },
+  {
+    "name": "awesome-jupyter",
+    "full_name": "markusschanta/awesome-jupyter",
+    "html_url": "https://github.com/markusschanta/awesome-jupyter",
+    "description": "A curated list of awesome Jupyter projects, libraries and resources",
+    "stars": 4105,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-science",
+      "data-visualization",
+      "frontend",
+      "ipython",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyterhub",
+      "jupyterlab",
+      "jupyterlab-extension",
+      "python",
+      "visualization"
+    ]
+  },
+  {
+    "name": "awesome-point-cloud-analysis",
+    "full_name": "Yochengliu/awesome-point-cloud-analysis",
+    "html_url": "https://github.com/Yochengliu/awesome-point-cloud-analysis",
+    "description": "A list of papers and datasets about point cloud analysis (processing)",
+    "stars": 4086,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "3d-graphics",
+      "3d-reconstruction",
+      "3d-registration",
+      "3d-representation",
+      "point-cloud-classification",
+      "point-cloud-dataset",
+      "point-cloud-detection",
+      "point-cloud-processing",
+      "point-cloud-recognition",
+      "point-cloud-registration",
+      "point-cloud-segmentation",
+      "point-clouds",
+      "point-set-registration"
+    ]
+  },
+  {
+    "name": "awesome_print",
+    "full_name": "awesome-print/awesome_print",
+    "html_url": "https://github.com/awesome-print/awesome_print",
+    "description": "Pretty print your Ruby objects with style -- in full color and with proper indentation",
+    "stars": 4075,
+    "updated_at": "2025-01-02",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "name": "awesome-gcp-certifications",
+    "full_name": "sathishvj/awesome-gcp-certifications",
+    "html_url": "https://github.com/sathishvj/awesome-gcp-certifications",
+    "description": "Google Cloud Platform Certification resources.",
+    "stars": 4072,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "certification",
+      "cloud",
+      "gcp",
+      "google-cloud-platform"
+    ]
+  },
+  {
+    "name": "awesome-sec-talks",
+    "full_name": "PaulSec/awesome-sec-talks",
+    "html_url": "https://github.com/PaulSec/awesome-sec-talks",
+    "description": "A collected list of awesome security talks",
+    "stars": 4068,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "conferences",
+      "hacking",
+      "infosec",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-gbdev",
+    "full_name": "gbdev/awesome-gbdev",
+    "html_url": "https://github.com/gbdev/awesome-gbdev",
+    "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+    "stars": 4059,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "assembler",
+      "awesome",
+      "awesome-list",
+      "cartridge",
+      "dmg",
+      "documentation",
+      "game-boy-development",
+      "game-development",
+      "gameboy",
+      "gameboy-color",
+      "gameboy-color-emulator",
+      "gameboy-emulator",
+      "gamedev",
+      "gbdk",
+      "list",
+      "nintendo",
+      "resources",
+      "retrogaming",
+      "tools"
+    ]
+  },
+  {
+    "name": "Awesome-Prompt-Engineering",
+    "full_name": "promptslab/Awesome-Prompt-Engineering",
+    "html_url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+    "stars": 4055,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "chatgpt",
+      "chatgpt-api",
+      "deep-learning",
+      "few-shot-learning",
+      "gpt",
+      "gpt-3",
+      "machine-learning",
+      "openai",
+      "prompt",
+      "prompt-based-learning",
+      "prompt-engineering",
+      "prompt-generator",
+      "prompt-learning",
+      "prompt-toolkit",
+      "prompt-tuning",
+      "promptengineering",
+      "text-to-image",
+      "text-to-speech",
+      "text-to-video"
+    ]
+  },
+  {
+    "name": "awesome-forensics",
+    "full_name": "cugu/awesome-forensics",
+    "html_url": "https://github.com/cugu/awesome-forensics",
+    "description": "\u2b50\ufe0f A curated list of awesome forensic analysis tools and resources",
+    "stars": 4054,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "computer-forensics",
+      "dfir",
+      "digital-forensics",
+      "forensic-analysis",
+      "free",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Awesome-CobaltStrike",
+    "full_name": "zer0yu/Awesome-CobaltStrike",
+    "html_url": "https://github.com/zer0yu/Awesome-CobaltStrike",
+    "description": "List of Awesome CobaltStrike Resources",
+    "stars": 4046,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "cobalt-strike",
+      "redteam",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-automl-papers",
+    "full_name": "hibayesian/awesome-automl-papers",
+    "html_url": "https://github.com/hibayesian/awesome-automl-papers",
+    "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+    "stars": 4045,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "automated-feature-engineering",
+      "automl",
+      "hyperparameter-optimization",
+      "neural-architecture-search"
+    ]
+  },
+  {
+    "name": "awesome-lua",
+    "full_name": "LewisJEllis/awesome-lua",
+    "html_url": "https://github.com/LewisJEllis/awesome-lua",
+    "description": "A curated list of quality Lua packages and resources.",
+    "stars": 4040,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-vpn",
+    "full_name": "awesome-vpn/awesome-vpn",
+    "html_url": "https://github.com/awesome-vpn/awesome-vpn",
+    "description": "Free proxy,VPN,\u514d\u8d39\u4ee3\u7406,\u7f51\u7edc\u52a0\u901f,\u79d1\u5b66\u4e0a\u7f51,\u673a\u573a\u8ba2\u9605,\u7ffb\u5899,\u68af\u5b50 \u7121\u6599\u30d7\u30ed\u30ad\u30b7 \ubb34\ub8cc \ud504\ub85d\uc2dc Gratis gratuit \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u043a\u0441\u0438 gratuito Gratis  Darmowe  \u00dccretsiz  \u0628\u0631\u0648\u0643\u0633\u064a \u0645\u062c\u0627\u0646\u064a \u092e\u0941\u092b\u094d\u0924 \u092a\u094d\u0930\u0949\u0915\u094d\u0938\u0940 \u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e1f\u0e23\u0e35 mi\u1ec5n ph\u00ed",
+    "stars": 4032,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "clash",
+      "fanqiang",
+      "free",
+      "geopolitics",
+      "gfw",
+      "great-firewall",
+      "shadowsocks",
+      "shadowsocksr",
+      "ss",
+      "trojan",
+      "v2ray",
+      "vless",
+      "vmess",
+      "vpn-server",
+      "xray"
+    ]
+  },
+  {
+    "name": "awesome-macos-screensavers",
+    "full_name": "agarrharr/awesome-macos-screensavers",
+    "html_url": "https://github.com/agarrharr/awesome-macos-screensavers",
+    "description": "\ud83c\udf4e \ud83d\udda5 \ud83c\udf86 A curated list of screensavers for Mac OS X",
+    "stars": 4015,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "screensavers"
+    ]
+  },
+  {
+    "name": "awesome-python-books",
+    "full_name": "junnplus/awesome-python-books",
+    "html_url": "https://github.com/junnplus/awesome-python-books",
+    "description": ":books: Directory of Python books",
+    "stars": 3998,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "book",
+      "learning-python",
+      "python-book",
+      "python-cookbook",
+      "python-programming"
+    ]
+  },
+  {
+    "name": "Awesome-Unity-Shader",
+    "full_name": "QianMo/Awesome-Unity-Shader",
+    "html_url": "https://github.com/QianMo/Awesome-Unity-Shader",
+    "description": ":boat: \u5173\u4e8e\u70ab\u9177\u7684Unity3D Shader \\| About Cool Unity3D Shaders ",
+    "stars": 3983,
+    "updated_at": "2025-01-06",
+    "language": "ShaderLab",
+    "topics": [
+      "awesome",
+      "graphics-programming",
+      "posteffect",
+      "shader",
+      "shaderlab",
+      "unity",
+      "unity-shader",
+      "unity3d-shader"
+    ]
+  },
+  {
+    "name": "Awesome-AIGC-Tutorials",
+    "full_name": "luban-agi/Awesome-AIGC-Tutorials",
+    "html_url": "https://github.com/luban-agi/Awesome-AIGC-Tutorials",
+    "description": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
+    "stars": 3983,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "aigc",
+      "awesome",
+      "chatgpt",
+      "courses-resource",
+      "deep-learning",
+      "llm",
+      "midjourney",
+      "multimodal",
+      "nlp",
+      "prompt-engineering",
+      "stable-diffusion",
+      "tutorials"
+    ]
+  },
+  {
+    "name": "awesome-command-line-apps",
+    "full_name": "herrbischoff/awesome-command-line-apps",
+    "html_url": "https://github.com/herrbischoff/awesome-command-line-apps",
+    "description": ":shell: Use your terminal shell to do awesome things.",
+    "stars": 3977,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "apps",
+      "awesome",
+      "awesome-list",
+      "list",
+      "shell",
+      "software",
+      "unix"
+    ]
+  },
+  {
+    "name": "awesome-analytics",
+    "full_name": "oxnr/awesome-analytics",
+    "html_url": "https://github.com/oxnr/awesome-analytics",
+    "description": "A curated list of analytics frameworks, software and other tools.",
+    "stars": 3962,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-newsletters",
+    "full_name": "zudochkin/awesome-newsletters",
+    "html_url": "https://github.com/zudochkin/awesome-newsletters",
+    "description": "A list of amazing Newsletters",
+    "stars": 3962,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "email",
+      "email-newsletter",
+      "emails",
+      "newsletter"
+    ]
+  },
+  {
+    "name": "awesome-typescript",
+    "full_name": "semlinker/awesome-typescript",
+    "html_url": "https://github.com/semlinker/awesome-typescript",
+    "description": "A collection of awesome TypeScript resources for client-side and server-side development",
+    "stars": 3955,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "react-typescripts",
+      "typescript",
+      "vue-typescript"
+    ]
+  },
+  {
+    "name": "awesome-threat-detection",
+    "full_name": "0x4D31/awesome-threat-detection",
+    "html_url": "https://github.com/0x4D31/awesome-threat-detection",
+    "description": "\u2728 A curated list of awesome threat detection and hunting resources \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+    "stars": 3952,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "detection",
+      "incident-response",
+      "security",
+      "threat-detection",
+      "threat-hunting"
+    ]
+  },
+  {
+    "name": "awesome-pentest-cheat-sheets",
+    "full_name": "coreb1t/awesome-pentest-cheat-sheets",
+    "html_url": "https://github.com/coreb1t/awesome-pentest-cheat-sheets",
+    "description": "Collection of the cheat sheets useful for pentesting",
+    "stars": 3928,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "cheatsheet",
+      "penetration-testing",
+      "pentest",
+      "pentest-cheat-sheets",
+      "security",
+      "security-cheat-sheets"
+    ]
+  },
+  {
+    "name": "awesome-coins",
+    "full_name": "Zheaoli/awesome-coins",
+    "html_url": "https://github.com/Zheaoli/awesome-coins",
+    "description": "\u20bf A guide (for humans!) to cryto-currencies and their algos.",
+    "stars": 3912,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "algo",
+      "algorithms",
+      "awesome",
+      "awesome-list",
+      "bitcoin",
+      "btc",
+      "coin",
+      "cryptocurrency",
+      "documentation",
+      "ethereum",
+      "guide",
+      "kennethreitz",
+      "nicehash",
+      "wallet"
+    ]
+  },
+  {
+    "name": "Awesome-Incremental-Learning",
+    "full_name": "xialeiliu/Awesome-Incremental-Learning",
+    "html_url": "https://github.com/xialeiliu/Awesome-Incremental-Learning",
+    "description": "Awesome Incremental Learning",
+    "stars": 3887,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-testflight-link",
+    "full_name": "pluwen/awesome-testflight-link",
+    "html_url": "https://github.com/pluwen/awesome-testflight-link",
+    "description": "Collection of Testflight public app link\uff08iOS/iPad OS/macOS\uff09\u3002",
+    "stars": 3862,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "app",
+      "collection",
+      "ios",
+      "ipad",
+      "iphone",
+      "macos",
+      "testflight"
+    ]
+  },
+  {
+    "name": "awesome-api-devtools",
+    "full_name": "yosriady/awesome-api-devtools",
+    "html_url": "https://github.com/yosriady/awesome-api-devtools",
+    "description": ":books: A collection of useful resources for building RESTful HTTP+JSON APIs.",
+    "stars": 3856,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "api",
+      "api-client",
+      "api-documentation",
+      "api-gateways",
+      "api-management",
+      "json-schema",
+      "swagger"
+    ]
+  },
+  {
+    "name": "awesome-bots",
+    "full_name": "DopplerHQ/awesome-bots",
+    "html_url": "https://github.com/DopplerHQ/awesome-bots",
+    "description": "The most awesome list about bots \u2b50\ufe0f\ud83e\udd16",
+    "stars": 3854,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "alexa",
+      "alexa-sdk",
+      "alexa-skills-kit",
+      "awesome",
+      "awesome-list",
+      "bot-framework",
+      "bots",
+      "chatbot",
+      "chatbots",
+      "cortana",
+      "facebook-bot",
+      "facebook-messenger",
+      "facebook-messenger-platform",
+      "messenger-bot",
+      "siri",
+      "slack",
+      "slack-bot",
+      "slackbot",
+      "telegram-bot",
+      "voice-assistant"
+    ]
+  },
+  {
+    "name": "awesome-dataviz",
+    "full_name": "hal9ai/awesome-dataviz",
+    "html_url": "https://github.com/hal9ai/awesome-dataviz",
+    "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+    "stars": 3852,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "chart",
+      "data-visualization",
+      "dataviz",
+      "visualization",
+      "visualize-data"
+    ]
+  },
+  {
+    "name": "awesome-data-labeling",
+    "full_name": "HumanSignal/awesome-data-labeling",
+    "html_url": "https://github.com/HumanSignal/awesome-data-labeling",
+    "description": "A curated list of awesome data labeling tools",
+    "stars": 3850,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "3d-annotation",
+      "annotation",
+      "annotation-tool",
+      "audio-annotation",
+      "audio-annotation-tool",
+      "awesome",
+      "awesome-list",
+      "bounding-box",
+      "data-labeling",
+      "deep-learning",
+      "image-annotation",
+      "image-labeling",
+      "image-labeling-tool",
+      "label-images",
+      "label-videos",
+      "labeling",
+      "labeling-tool",
+      "lidar",
+      "semantic-segmentation",
+      "video-annotation"
+    ]
+  },
+  {
+    "name": "awesome-libra",
+    "full_name": "reed-hong/awesome-libra",
+    "html_url": "https://github.com/reed-hong/awesome-libra",
+    "description": "A Curated List of Awesome Facebook Libra Resources",
+    "stars": 3843,
+    "updated_at": "2024-11-30",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-action-recognition",
+    "full_name": "jinwchoi/awesome-action-recognition",
+    "html_url": "https://github.com/jinwchoi/awesome-action-recognition",
+    "description": "A curated list of action recognition and related area resources",
+    "stars": 3839,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "action-classification",
+      "action-detection",
+      "action-recognition",
+      "activity-recognition",
+      "activity-understanding",
+      "awesome",
+      "awesome-list",
+      "object-recognition",
+      "pose-estimation",
+      "video-processing",
+      "video-recognition",
+      "video-understanding"
+    ]
+  },
+  {
+    "name": "awesome-webpack-cn",
+    "full_name": "webpack-china/awesome-webpack-cn",
+    "html_url": "https://github.com/webpack-china/awesome-webpack-cn",
+    "description": "[\u5370\u8bb0\u4e2d\u6587](https://docschina.org/) - webpack \u4f18\u79c0\u4e2d\u6587\u6587\u7ae0",
+    "stars": 3818,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "angular",
+      "react",
+      "vue",
+      "webpack",
+      "webpack2",
+      "webpack3"
+    ]
+  },
+  {
+    "name": "awesome-alternatives-in-rust",
+    "full_name": "TaKO8Ki/awesome-alternatives-in-rust",
+    "html_url": "https://github.com/TaKO8Ki/awesome-alternatives-in-rust",
+    "description": "A curated list of replacements for existing software written in Rust",
+    "stars": 3812,
+    "updated_at": "2025-01-05",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "awesome-unity-open-source-on-github",
+    "full_name": "baba-s/awesome-unity-open-source-on-github",
+    "html_url": "https://github.com/baba-s/awesome-unity-open-source-on-github",
+    "description": "A categorized collection of awesome Unity open source on GitHub (800+)",
+    "stars": 3800,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "unity",
+      "unity-asset",
+      "unity-assets",
+      "unity-editor",
+      "unity-extension",
+      "unity-mobile",
+      "unity-native",
+      "unity-plugin",
+      "unity-sample",
+      "unity-script",
+      "unity-scripts",
+      "unity-shader",
+      "unity-ui",
+      "unity3d",
+      "unity3d-plugin"
+    ]
+  },
+  {
+    "name": "Awesome-POC",
+    "full_name": "Threekiii/Awesome-POC",
+    "html_url": "https://github.com/Threekiii/Awesome-POC",
+    "description": "\u4e00\u4e2a\u6f0f\u6d1ePOC\u77e5\u8bc6\u5e93 \u76ee\u524d\u6570\u91cf 1000+",
+    "stars": 3786,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "poc"
+    ]
+  },
+  {
+    "name": "awesome-blockchains",
+    "full_name": "openblockchains/awesome-blockchains",
+    "html_url": "https://github.com/openblockchains/awesome-blockchains",
+    "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
+    "stars": 3740,
+    "updated_at": "2025-01-04",
+    "language": "Ruby",
+    "topics": [
+      "blockchain",
+      "content-addressable-storage",
+      "cryptohash",
+      "distributed-database",
+      "ethereum",
+      "git",
+      "merkletree",
+      "proof-of-waste",
+      "proof-of-work",
+      "sha256",
+      "transactions",
+      "tulipmania",
+      "tx",
+      "universum"
+    ]
+  },
+  {
+    "name": "awesome-ci",
+    "full_name": "ligurio/awesome-ci",
+    "html_url": "https://github.com/ligurio/awesome-ci",
+    "description": "The list of continuous integration services and tools",
+    "stars": 3739,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "ci",
+      "comparison",
+      "continuous-integration",
+      "developer-tools",
+      "development",
+      "devops"
+    ]
+  },
+  {
+    "name": "awesome-cyber-skills",
+    "full_name": "joe-shenouda/awesome-cyber-skills",
+    "html_url": "https://github.com/joe-shenouda/awesome-cyber-skills",
+    "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
+    "stars": 3736,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Video-Diffusion",
+    "full_name": "showlab/Awesome-Video-Diffusion",
+    "html_url": "https://github.com/showlab/Awesome-Video-Diffusion",
+    "description": "A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.",
+    "stars": 3734,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "diffusion-models",
+      "text-to-motion",
+      "text-to-video",
+      "video-editing",
+      "video-generation",
+      "video-restoration",
+      "video-understanding"
+    ]
+  },
+  {
+    "name": "really-awesome-gan",
+    "full_name": "nightrome/really-awesome-gan",
+    "html_url": "https://github.com/nightrome/really-awesome-gan",
+    "description": "A list of papers on Generative Adversarial (Neural) Networks",
+    "stars": 3732,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-computer-science-opportunities",
+    "full_name": "anu0012/awesome-computer-science-opportunities",
+    "html_url": "https://github.com/anu0012/awesome-computer-science-opportunities",
+    "description": "An awesome list of events and fellowship opportunities for Computer Science students",
+    "stars": 3731,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "awesome-list",
+      "computer-science-students",
+      "data-science",
+      "devops",
+      "education",
+      "fellowship",
+      "learning",
+      "mooc",
+      "scholarship",
+      "students",
+      "web"
+    ]
+  },
+  {
+    "name": "awesome-rails",
+    "full_name": "gramantin/awesome-rails",
+    "html_url": "https://github.com/gramantin/awesome-rails",
+    "description": "A curated list of awesome things related to Ruby on Rails",
+    "stars": 3727,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "opensource-apps",
+      "rails"
+    ]
+  },
+  {
+    "name": "awesome-apache-airflow",
+    "full_name": "jghoman/awesome-apache-airflow",
+    "html_url": "https://github.com/jghoman/awesome-apache-airflow",
+    "description": "Curated list of resources about Apache Airflow",
+    "stars": 3718,
+    "updated_at": "2025-01-03",
+    "language": "Shell",
+    "topics": [
+      "airflow",
+      "apache-airflow",
+      "awesome",
+      "awesome-list",
+      "workflow-management"
+    ]
+  },
+  {
+    "name": "Awesome-Redteam",
+    "full_name": "Threekiii/Awesome-Redteam",
+    "html_url": "https://github.com/Threekiii/Awesome-Redteam",
+    "description": "\u4e00\u4e2a\u653b\u9632\u77e5\u8bc6\u4ed3\u5e93 Red Teaming and Offensive Security",
+    "stars": 3714,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "command-and-control",
+      "execution",
+      "exploit",
+      "initial-access",
+      "lateral-movement",
+      "privilege-escalation",
+      "reconnaissance",
+      "red-teaming"
+    ]
+  },
+  {
+    "name": "awesome-machine-learning-interpretability",
+    "full_name": "jphall663/awesome-machine-learning-interpretability",
+    "html_url": "https://github.com/jphall663/awesome-machine-learning-interpretability",
+    "description": "A curated list of awesome responsible machine learning resources.",
+    "stars": 3699,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai-safety",
+      "awesome",
+      "awesome-list",
+      "data-science",
+      "explainable-ml",
+      "fairness",
+      "interpretability",
+      "interpretable-ai",
+      "interpretable-machine-learning",
+      "interpretable-ml",
+      "machine-learning",
+      "machine-learning-interpretability",
+      "privacy-enhancing-technologies",
+      "privacy-preserving-machine-learning",
+      "python",
+      "r",
+      "reliable-ai",
+      "secure-ml",
+      "transparency",
+      "xai"
+    ]
+  },
+  {
+    "name": "awesome-satellite-imagery-datasets",
+    "full_name": "chrieke/awesome-satellite-imagery-datasets",
+    "html_url": "https://github.com/chrieke/awesome-satellite-imagery-datasets",
+    "description": "\ud83d\udef0\ufe0f List of satellite image training datasets with annotations for computer vision and deep learning",
+    "stars": 3686,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "earth-observation",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "remote-sensing",
+      "satellite-imagery"
+    ]
+  },
+  {
+    "name": "awesome-ai-in-finance",
+    "full_name": "georgezouq/awesome-ai-in-finance",
+    "html_url": "https://github.com/georgezouq/awesome-ai-in-finance",
+    "description": "\ud83d\udd2c A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
+    "stars": 3682,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "analysis",
+      "awesome",
+      "awesome-list",
+      "cryptocurrency",
+      "deep-learning",
+      "financial",
+      "neural-network",
+      "quant",
+      "quantitative-finance",
+      "reinforcement-learning",
+      "stock-market",
+      "technology-analysis"
+    ]
+  },
+  {
+    "name": "awesome-rest",
+    "full_name": "marmelab/awesome-rest",
+    "html_url": "https://github.com/marmelab/awesome-rest",
+    "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+    "stars": 3671,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "rest"
+    ]
+  },
+  {
+    "name": "Awesome-Networking",
+    "full_name": "clowwindy/Awesome-Networking",
+    "html_url": "https://github.com/clowwindy/Awesome-Networking",
+    "description": "A curated list of awesome networking libraries, resources and shiny things",
+    "stars": 3632,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-yara",
+    "full_name": "InQuest/awesome-yara",
+    "html_url": "https://github.com/InQuest/awesome-yara",
+    "description": "A curated list of awesome YARA rules, tools, and people.",
+    "stars": 3629,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-yara",
+      "ioc",
+      "malware-analysis",
+      "malware-detection",
+      "malware-research",
+      "malware-rules",
+      "threat-hunting",
+      "yara",
+      "yara-manager",
+      "yara-rules",
+      "yara-scanner",
+      "yara-signatures"
+    ]
+  },
+  {
+    "name": "awesome-elm",
+    "full_name": "sporto/awesome-elm",
+    "html_url": "https://github.com/sporto/awesome-elm",
+    "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
+    "stars": 3616,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "elm",
+      "elm-apps",
+      "elm-language",
+      "elm-news",
+      "elm-tutorial",
+      "elm-videos"
+    ]
+  },
+  {
+    "name": "awesome-network-analysis",
+    "full_name": "briatte/awesome-network-analysis",
+    "html_url": "https://github.com/briatte/awesome-network-analysis",
+    "description": "A curated list of awesome network analysis resources.",
+    "stars": 3610,
+    "updated_at": "2025-01-06",
+    "language": "R",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "complex-networks",
+      "disease-networks",
+      "graph-theory",
+      "historical-networks",
+      "list",
+      "network-analysis",
+      "network-science",
+      "network-visualization",
+      "political-networks",
+      "semantic-networks",
+      "sna",
+      "social-network-analysis",
+      "social-networks"
+    ]
+  },
+  {
+    "name": "awesome-landing-page",
+    "full_name": "nordicgiant2/awesome-landing-page",
+    "html_url": "https://github.com/nordicgiant2/awesome-landing-page",
+    "description": "A series of beautiful and practical landing page templates",
+    "stars": 3603,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-RLHF",
+    "full_name": "opendilab/awesome-RLHF",
+    "html_url": "https://github.com/opendilab/awesome-RLHF",
+    "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
+    "stars": 3599,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "human-feedback",
+      "large-language-models",
+      "reinforcement-learning",
+      "rlhf"
+    ]
+  },
+  {
+    "name": "awesome-hpp",
+    "full_name": "p-ranav/awesome-hpp",
+    "html_url": "https://github.com/p-ranav/awesome-hpp",
+    "description": "A curated list of awesome header-only C++ libraries",
+    "stars": 3586,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "c-plus-plus",
+      "cplusplus",
+      "cpp-library",
+      "cpp03",
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "cpp20",
+      "cpp98",
+      "cross-platform",
+      "header-library",
+      "header-only",
+      "libraries",
+      "list",
+      "lists",
+      "modern-cpp",
+      "resources",
+      "single-header",
+      "single-header-lib"
+    ]
+  },
+  {
+    "name": "awesome-minimalist",
+    "full_name": "neiesc/awesome-minimalist",
+    "html_url": "https://github.com/neiesc/awesome-minimalist",
+    "description": "A curated list of awesome minimalist frameworks (simple and lightweight).",
+    "stars": 3550,
+    "updated_at": "2025-01-06",
+    "language": "Astro",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "lists",
+      "micro-framework",
+      "minimalist",
+      "minimalist-framework",
+      "minimalist-frameworks"
+    ]
+  },
+  {
+    "name": "awesome-termux-hacking",
+    "full_name": "may215/awesome-termux-hacking",
+    "html_url": "https://github.com/may215/awesome-termux-hacking",
+    "description": "\u26a1\ufe0fAn awesome list of the best Termux hacking tools ",
+    "stars": 3549,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome-list",
+      "hacking-tools",
+      "osint",
+      "penetration-testing",
+      "termux-hacking",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "awesome-css-learning",
+    "full_name": "micromata/awesome-css-learning",
+    "html_url": "https://github.com/micromata/awesome-css-learning",
+    "description": "A tiny list limited to the best CSS Learning Resources",
+    "stars": 3538,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "css",
+      "css-learning",
+      "learning",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-tips",
+    "full_name": "jbhuang0604/awesome-tips",
+    "html_url": "https://github.com/jbhuang0604/awesome-tips",
+    "description": "No description",
+    "stars": 3533,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-nix",
+    "full_name": "nix-community/awesome-nix",
+    "html_url": "https://github.com/nix-community/awesome-nix",
+    "description": "\ud83d\ude0e A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
+    "stars": 3532,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "nix",
+      "nixos"
+    ]
+  },
+  {
+    "name": "awesome-operators",
+    "full_name": "operator-framework/awesome-operators",
+    "html_url": "https://github.com/operator-framework/awesome-operators",
+    "description": "A resource tracking a number of Operators out in the wild.",
+    "stars": 3526,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "kubernetes",
+      "operator"
+    ]
+  },
+  {
+    "name": "awesome-knowledge-distillation",
+    "full_name": "dkozlov/awesome-knowledge-distillation",
+    "html_url": "https://github.com/dkozlov/awesome-knowledge-distillation",
+    "description": "Awesome Knowledge Distillation",
+    "stars": 3525,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "co-training",
+      "deep-learning",
+      "distillation",
+      "distillation-model",
+      "kd",
+      "knowldge-distillation",
+      "knowledge-distillation",
+      "knowledge-transfer",
+      "model-compression",
+      "model-distillation",
+      "teacher-student"
+    ]
+  },
+  {
+    "name": "awesome-stacks",
+    "full_name": "stackshareio/awesome-stacks",
+    "html_url": "https://github.com/stackshareio/awesome-stacks",
+    "description": "A curated list of tech stacks for building different applications & features",
+    "stars": 3521,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "full-stack",
+      "mobile",
+      "stacks",
+      "tech-stacks",
+      "web"
+    ]
+  },
+  {
+    "name": "awesome-c",
+    "full_name": "inputsh/awesome-c",
+    "html_url": "https://github.com/inputsh/awesome-c",
+    "description": "Continuing the development of awesome-c list on GitHub",
+    "stars": 3517,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "c",
+      "list"
+    ]
+  },
+  {
+    "name": "Awesome-JavaScript-Interviews",
+    "full_name": "rohan-paul/Awesome-JavaScript-Interviews",
+    "html_url": "https://github.com/rohan-paul/Awesome-JavaScript-Interviews",
+    "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
+    "stars": 3504,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "challenges",
+      "css",
+      "expressjs",
+      "github",
+      "html5",
+      "interview",
+      "interview-prep",
+      "interview-preparation",
+      "interview-questions",
+      "javascript",
+      "mongodb",
+      "nodejs",
+      "reactjs",
+      "redux",
+      "system-design",
+      "webpack"
+    ]
+  },
+  {
+    "name": "awesome-devblog",
+    "full_name": "awesome-devblog/awesome-devblog",
+    "html_url": "https://github.com/awesome-devblog/awesome-devblog",
+    "description": "\uc5b4\uc378\ub370\ube0c\ube14\ub85c\uadf8. \uad6d\ub0b4 \uac1c\ubc1c/\uae30\uc220 \ube14\ub85c\uadf8 \ubaa8\uc74c(only \uc2e4\uba85\uc73c\ub85c).",
+    "stars": 3492,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "blogs",
+      "devblog",
+      "developer",
+      "korean",
+      "tech-blog"
+    ]
+  },
+  {
+    "name": "awesome-golang-algorithm",
+    "full_name": "6boris/awesome-golang-algorithm",
+    "html_url": "https://github.com/6boris/awesome-golang-algorithm",
+    "description": ":memo: LeetCode of algorithms with golang solution(updating).",
+    "stars": 3490,
+    "updated_at": "2025-01-06",
+    "language": "Go",
+    "topics": [
+      "algorithm",
+      "algorithms",
+      "go",
+      "golang",
+      "golang-leetcode",
+      "golang-solution",
+      "leetcode",
+      "leetcode-solutions"
+    ]
+  },
+  {
+    "name": "awesome-functional-programming",
+    "full_name": "xgrommx/awesome-functional-programming",
+    "html_url": "https://github.com/xgrommx/awesome-functional-programming",
+    "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",
+    "stars": 3468,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-functional-programming",
+      "awesome-list",
+      "awsome",
+      "f-algebras",
+      "functional-languages",
+      "recursion",
+      "recursion-schemes"
+    ]
+  },
+  {
+    "name": "awesome-k8s-resources",
+    "full_name": "tomhuang12/awesome-k8s-resources",
+    "html_url": "https://github.com/tomhuang12/awesome-k8s-resources",
+    "description": "A curated list of awesome Kubernetes tools and resources.",
+    "stars": 3467,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "kubernetes",
+      "kubernetes-clusters",
+      "kubernetes-networking",
+      "kubernetes-operational",
+      "kubernetes-resources",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-http-benchmark",
+    "full_name": "denji/awesome-http-benchmark",
+    "html_url": "https://github.com/denji/awesome-http-benchmark",
+    "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
+    "stars": 3454,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "benchmark",
+      "canary",
+      "development",
+      "http",
+      "http-benchmarking",
+      "http-pipelining",
+      "http2",
+      "http3",
+      "https",
+      "modern-dev",
+      "modern-web",
+      "rest-api",
+      "restful",
+      "restful-api",
+      "testing",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-flutter-cn",
+    "full_name": "crazycodeboy/awesome-flutter-cn",
+    "html_url": "https://github.com/crazycodeboy/awesome-flutter-cn",
+    "description": "\u4e00\u4e2a\u5f88\u68d2\u7684Flutter\u5b66\u4e60\u8d44\u6e90\uff0c\u5b98\u65b9\u6559\u7a0b\uff0c\u63d2\u4ef6\uff0c\u5de5\u5177\uff0c\u6587\u7ae0\uff0cApp\uff0c\u89c6\u9891\u6559\u7a0b\u7b49\u7684\u8d44\u6e90\u5217\u8868",
+    "stars": 3441,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "flutter",
+      "flutter-app",
+      "flutter-articles",
+      "flutter-components",
+      "flutter-navigation",
+      "flutter-plugins",
+      "flutter-tutorial",
+      "flutter-videos",
+      "ios"
+    ]
+  },
+  {
+    "name": "awesome-love2d",
+    "full_name": "love2d-community/awesome-love2d",
+    "html_url": "https://github.com/love2d-community/awesome-love2d",
+    "description": "A curated list of amazingly awesome L\u00d6VE libraries, resources and shiny things.",
+    "stars": 3431,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "game-development",
+      "love2d",
+      "lua"
+    ]
+  },
+  {
+    "name": "awesome-reactnative-ui",
+    "full_name": "madhavanmalolan/awesome-reactnative-ui",
+    "html_url": "https://github.com/madhavanmalolan/awesome-reactnative-ui",
+    "description": "Awesome React Native UI components updated weekly",
+    "stars": 3422,
+    "updated_at": "2024-12-24",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Visual-Transformer",
+    "full_name": "dk-liang/Awesome-Visual-Transformer",
+    "html_url": "https://github.com/dk-liang/Awesome-Visual-Transformer",
+    "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
+    "stars": 3413,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "detr",
+      "transformer",
+      "transformer-awesome",
+      "transformer-cv",
+      "transformer-with-cv",
+      "visual-transformer"
+    ]
+  },
+  {
+    "name": "awesome-crystal",
+    "full_name": "veelenga/awesome-crystal",
+    "html_url": "https://github.com/veelenga/awesome-crystal",
+    "description": ":gem: A collection of awesome Crystal libraries, tools, frameworks and software",
+    "stars": 3394,
+    "updated_at": "2025-01-05",
+    "language": "Crystal",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "crystal",
+      "list",
+      "shards"
+    ]
+  },
+  {
+    "name": "awesome-devteam",
+    "full_name": "leehosung/awesome-devteam",
+    "html_url": "https://github.com/leehosung/awesome-devteam",
+    "description": "\uc88b\uc740 \uac1c\ubc1c\ud300\uc744 \ub9cc\ub4dc\ub294\ub370 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc790\ub8cc ",
+    "stars": 3389,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "cto",
+      "devteam",
+      "pair-programming"
+    ]
+  },
+  {
+    "name": "Awesome-Android-Notebook",
+    "full_name": "JsonChao/Awesome-Android-Notebook",
+    "html_url": "https://github.com/JsonChao/Awesome-Android-Notebook",
+    "description": ":computer: A complete plan for better android developers.\uff08continuous updating ...\uff09",
+    "stars": 3369,
+    "updated_at": "2024-12-19",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "interview",
+      "java",
+      "study-guide"
+    ]
+  },
+  {
+    "name": "awesome-vulkan",
+    "full_name": "vinjn/awesome-vulkan",
+    "html_url": "https://github.com/vinjn/awesome-vulkan",
+    "description": "Awesome Vulkan ecosystem",
+    "stars": 3366,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "amd",
+      "arm",
+      "khronos",
+      "nvidia",
+      "opengl",
+      "qualcomm",
+      "vulkan",
+      "vulkan-api",
+      "vulkan-libraries"
+    ]
+  },
+  {
+    "name": "awesome-styled-components",
+    "full_name": "styled-components/awesome-styled-components",
+    "html_url": "https://github.com/styled-components/awesome-styled-components",
+    "description": "A curated list of awesome styled-components resources \ud83d\udc85 ",
+    "stars": 3359,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "css",
+      "css-in-js",
+      "react",
+      "styled-components"
+    ]
+  },
+  {
+    "name": "awesome-cve-poc",
+    "full_name": "qazbnm456/awesome-cve-poc",
+    "html_url": "https://github.com/qazbnm456/awesome-cve-poc",
+    "description": "\u270d\ufe0f A curated list of CVE PoCs.",
+    "stars": 3349,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "cve",
+      "poc"
+    ]
+  },
+  {
+    "name": "awesome-json-datasets",
+    "full_name": "jdorfman/awesome-json-datasets",
+    "html_url": "https://github.com/jdorfman/awesome-json-datasets",
+    "description": "A curated list of awesome JSON datasets that don't require authentication.",
+    "stars": 3345,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data",
+      "dataset",
+      "datasets",
+      "json",
+      "json-dataset",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-opensource-apps",
+    "full_name": "unicodeveloper/awesome-opensource-apps",
+    "html_url": "https://github.com/unicodeveloper/awesome-opensource-apps",
+    "description": ":house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!",
+    "stars": 3344,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "awesome-list",
+      "django",
+      "firebase",
+      "ios",
+      "laravel",
+      "meteor",
+      "opensource-apps",
+      "rails",
+      "react",
+      "react-native",
+      "reactjs"
+    ]
+  },
+  {
+    "name": "awesome-robotic-tooling",
+    "full_name": "Ly0n/awesome-robotic-tooling",
+    "html_url": "https://github.com/Ly0n/awesome-robotic-tooling",
+    "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+    "stars": 3334,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "aerospace",
+      "artificial-intelligence",
+      "automotive",
+      "autonomous-driving",
+      "awesome",
+      "awesome-list",
+      "cplusplus",
+      "cpp",
+      "lidar",
+      "machine-learning",
+      "mapping",
+      "point-cloud",
+      "python",
+      "robot",
+      "robotic",
+      "robotics",
+      "ros",
+      "ros2",
+      "self-driving-car",
+      "slam"
+    ]
+  },
+  {
+    "name": "awesome-blockchain",
+    "full_name": "yjjnls/awesome-blockchain",
+    "html_url": "https://github.com/yjjnls/awesome-blockchain",
+    "description": "\u26a1\ufe0fCurated list of resources for the development and applications of blockchain.",
+    "stars": 3327,
+    "updated_at": "2025-01-06",
+    "language": "Go",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bitcoin",
+      "blockchain",
+      "bulletproofs",
+      "digital-currency",
+      "dpos",
+      "eos",
+      "eosio",
+      "ethereum",
+      "fabric",
+      "iota",
+      "ipfs",
+      "mastering-bitcoin",
+      "mastering-ethereum",
+      "monero",
+      "pbft",
+      "pos",
+      "pow",
+      "white-paper"
+    ]
+  },
+  {
+    "name": "awesome-iot",
+    "full_name": "HQarroum/awesome-iot",
+    "html_url": "https://github.com/HQarroum/awesome-iot",
+    "description": "\ud83e\udd16 A curated list of awesome Internet of Things projects and resources.",
+    "stars": 3325,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "embedded-systems",
+      "hacktoberfest",
+      "hardware",
+      "internet-of-things",
+      "iot"
+    ]
+  },
+  {
+    "name": "awesome-etl",
+    "full_name": "pawl/awesome-etl",
+    "html_url": "https://github.com/pawl/awesome-etl",
+    "description": "A curated list of awesome ETL frameworks, libraries, and software.",
+    "stars": 3315,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-wysiwyg-editors",
+    "full_name": "JefMari/awesome-wysiwyg-editors",
+    "html_url": "https://github.com/JefMari/awesome-wysiwyg-editors",
+    "description": "A curated list of awesome WYSIWYG Editors.",
+    "stars": 3310,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "rich-text-editor",
+      "wysiwyg",
+      "wysiwyg-editor"
+    ]
+  },
+  {
+    "name": "iOS-Tips",
+    "full_name": "awesome-tips/iOS-Tips",
+    "html_url": "https://github.com/awesome-tips/iOS-Tips",
+    "description": "iOS\u77e5\u8bc6\u5c0f\u96c6",
+    "stars": 3292,
+    "updated_at": "2024-12-26",
+    "language": "CSS",
+    "topics": []
+  },
+  {
+    "name": "awesome-single-cell",
+    "full_name": "seandavi/awesome-single-cell",
+    "html_url": "https://github.com/seandavi/awesome-single-cell",
+    "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+    "stars": 3260,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "analysis",
+      "analysis-pipeline",
+      "atac-seq",
+      "awesome-list",
+      "bioinformatics",
+      "cell-clusters",
+      "cell-cycle",
+      "cell-differentiation",
+      "cell-populations",
+      "clustering",
+      "data-integration",
+      "data-visualization",
+      "dimensionality-reduction",
+      "gene-expression",
+      "gene-expression-profiles",
+      "python",
+      "rna-seq-data",
+      "rna-seq-experiments",
+      "scrna-seq-data",
+      "single-cell"
+    ]
+  },
+  {
+    "name": "awesome-coding-js",
+    "full_name": "ConardLi/awesome-coding-js",
+    "html_url": "https://github.com/ConardLi/awesome-coding-js",
+    "description": "\u7528JavaScript\u5b9e\u73b0\u7684\u7b97\u6cd5\u548c\u6570\u636e\u7ed3\u6784\uff0c\u9644\u8be6\u7ec6\u89e3\u91ca\u548c\u5237\u9898\u6307\u5357",
+    "stars": 3259,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-online-ide",
+    "full_name": "styfle/awesome-online-ide",
+    "html_url": "https://github.com/styfle/awesome-online-ide",
+    "description": "\ud83c\udf29\ufe0f A list of awesome online development environments",
+    "stars": 3257,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "ide",
+      "list",
+      "lists"
+    ]
+  },
+  {
+    "name": "Awesome-Bioinformatics",
+    "full_name": "danielecook/Awesome-Bioinformatics",
+    "html_url": "https://github.com/danielecook/Awesome-Bioinformatics",
+    "description": "A curated list of awesome Bioinformatics libraries and software.",
+    "stars": 3250,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bioinformatics"
+    ]
+  },
+  {
+    "name": "awesome-vehicle-security",
+    "full_name": "jaredthecoder/awesome-vehicle-security",
+    "html_url": "https://github.com/jaredthecoder/awesome-vehicle-security",
+    "description": "\ud83d\ude97  A curated list of resources for learning about vehicle security and car hacking.",
+    "stars": 3235,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "automotive",
+      "awesome",
+      "awesome-list",
+      "car-hacking",
+      "cars",
+      "cybersecurity",
+      "hacking",
+      "hacking-vehicles",
+      "hardware",
+      "learning",
+      "security",
+      "vehicle-security"
+    ]
+  },
+  {
+    "name": "awesome-angular-components",
+    "full_name": "brillout/awesome-angular-components",
+    "html_url": "https://github.com/brillout/awesome-angular-components",
+    "description": "Catalog of Angular 2+ Components & Libraries",
+    "stars": 3228,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "angular-component",
+      "angular-components",
+      "angular-library",
+      "angular2-component",
+      "angular2-components",
+      "angular2-directive",
+      "angular2-library",
+      "angular2-modal",
+      "angular2-toaster",
+      "devarchy",
+      "ng2"
+    ]
+  },
+  {
+    "name": "Font-Awesome-SVG-PNG",
+    "full_name": "Rush/Font-Awesome-SVG-PNG",
+    "html_url": "https://github.com/Rush/Font-Awesome-SVG-PNG",
+    "description": "Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator",
+    "stars": 3216,
+    "updated_at": "2025-01-03",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "awesome-IntelliJ-IDEA",
+    "full_name": "xiaoxiunique/awesome-IntelliJ-IDEA",
+    "html_url": "https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA",
+    "description": "\u6536\u96c6\u4e00\u4e9b Intellij IDEA \u7684\u4e00\u4e9b\u6280\u5de7",
+    "stars": 3216,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "gsonformat",
+      "idea",
+      "intellij",
+      "java",
+      "jclasslib-bytecode-viewer",
+      "keyboard",
+      "keymap",
+      "plugins",
+      "quicklist",
+      "theme"
+    ]
+  },
+  {
+    "name": "Awesome-LLM-Robotics",
+    "full_name": "GT-RIPL/Awesome-LLM-Robotics",
+    "html_url": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
+    "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+    "stars": 3209,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-DeepLearning",
+    "full_name": "PaddlePaddle/awesome-DeepLearning",
+    "html_url": "https://github.com/PaddlePaddle/awesome-DeepLearning",
+    "description": "\u6df1\u5ea6\u5b66\u4e60\u5165\u95e8\u8bfe\u3001\u8d44\u6df1\u8bfe\u3001\u7279\u8272\u8bfe\u3001\u5b66\u672f\u6848\u4f8b\u3001\u4ea7\u4e1a\u5b9e\u8df5\u6848\u4f8b\u3001\u6df1\u5ea6\u5b66\u4e60\u77e5\u8bc6\u767e\u79d1\u53ca\u9762\u8bd5\u9898\u5e93The course, case and knowledge of Deep Learning and AI",
+    "stars": 3182,
+    "updated_at": "2025-01-06",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "bert",
+      "classification",
+      "cnn",
+      "detection",
+      "dqn",
+      "dssm",
+      "dynabert",
+      "gan",
+      "nlp",
+      "pose",
+      "recommender-system",
+      "reinforcement-learning",
+      "rnn",
+      "sarsa",
+      "segmentation",
+      "tinybert",
+      "transformer",
+      "video"
+    ]
+  },
+  {
+    "name": "awesome-dot-net-performance",
+    "full_name": "adamsitnik/awesome-dot-net-performance",
+    "html_url": "https://github.com/adamsitnik/awesome-dot-net-performance",
+    "description": "A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
+    "stars": 3176,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-ant-design",
+    "full_name": "websemantics/awesome-ant-design",
+    "html_url": "https://github.com/websemantics/awesome-ant-design",
+    "description": "A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date",
+    "stars": 3170,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "AwesomeJavaFX",
+    "full_name": "mhrimaz/AwesomeJavaFX",
+    "html_url": "https://github.com/mhrimaz/AwesomeJavaFX",
+    "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
+    "stars": 3166,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "graphics",
+      "java",
+      "java-8",
+      "javafx",
+      "javafx-frameworks",
+      "javafx-library"
+    ]
+  },
+  {
+    "name": "awesome-pcaptools",
+    "full_name": "caesar0301/awesome-pcaptools",
+    "html_url": "https://github.com/caesar0301/awesome-pcaptools",
+    "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+    "stars": 3156,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-GPTs",
+    "full_name": "ai-boost/Awesome-GPTs",
+    "html_url": "https://github.com/ai-boost/Awesome-GPTs",
+    "description": "Curated list of awesome GPTs \ud83d\udc4d.",
+    "stars": 3148,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "curated-list",
+      "gpts"
+    ]
+  },
+  {
+    "name": "awesome-hand-pose-estimation",
+    "full_name": "xinghaochen/awesome-hand-pose-estimation",
+    "html_url": "https://github.com/xinghaochen/awesome-hand-pose-estimation",
+    "description": "Awesome work on hand pose estimation/tracking",
+    "stars": 3147,
+    "updated_at": "2025-01-04",
+    "language": "Python",
+    "topics": [
+      "3d-hand",
+      "computer-vision",
+      "deep-learning",
+      "hand-articulations",
+      "hand-keypoints",
+      "hand-mesh",
+      "hand-pose",
+      "hand-pose-estimation",
+      "hand-pose-regression",
+      "hand-shape",
+      "hand-tracking",
+      "human-computer-interaction",
+      "keypoints"
+    ]
+  },
+  {
+    "name": "awesome-mental-health",
+    "full_name": "dreamingechoes/awesome-mental-health",
+    "html_url": "https://github.com/dreamingechoes/awesome-mental-health",
+    "description": "A curated list of awesome articles, websites and resources about mental health in the software industry.",
+    "stars": 3141,
+    "updated_at": "2025-01-05",
+    "language": "HTML",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "mental-health",
+      "mental-health-awareness",
+      "self-care"
+    ]
+  },
+  {
+    "name": "awesome-frida",
+    "full_name": "dweinstein/awesome-frida",
+    "html_url": "https://github.com/dweinstein/awesome-frida",
+    "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
+    "stars": 3128,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "dynamic-analysis",
+      "frida",
+      "hooking",
+      "ios",
+      "r2frida"
+    ]
+  },
+  {
+    "name": "awesome-xcode-extensions",
+    "full_name": "theswiftdev/awesome-xcode-extensions",
+    "html_url": "https://github.com/theswiftdev/awesome-xcode-extensions",
+    "description": "Awesome native Xcode extensions.",
+    "stars": 3127,
+    "updated_at": "2025-01-06",
+    "language": "Ruby",
+    "topics": [
+      "awesome",
+      "extension",
+      "plugin",
+      "source-editor-extension",
+      "xcode",
+      "xcode-extension",
+      "xcode-plugin"
+    ]
+  },
+  {
+    "name": "awesome-api-security",
+    "full_name": "arainho/awesome-api-security",
+    "html_url": "https://github.com/arainho/awesome-api-security",
+    "description": "A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.",
+    "stars": 3124,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "api-hacking",
+      "api-hacks",
+      "api-hardening",
+      "api-hunting",
+      "api-pentest",
+      "api-sec",
+      "api-security",
+      "apisec",
+      "awesome-list",
+      "fuzzing",
+      "infosec",
+      "pentest",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-ai-residency",
+    "full_name": "dangkhoasdc/awesome-ai-residency",
+    "html_url": "https://github.com/dangkhoasdc/awesome-ai-residency",
+    "description": "List of AI Residency Programs",
+    "stars": 3122,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "artificial-intelligence",
+      "awesome-list",
+      "internships",
+      "jobs",
+      "machine-learning"
+    ]
+  },
+  {
+    "name": "awesome-haskell",
+    "full_name": "krispo/awesome-haskell",
+    "html_url": "https://github.com/krispo/awesome-haskell",
+    "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+    "stars": 3120,
+    "updated_at": "2025-01-03",
+    "language": "Haskell",
+    "topics": []
+  },
+  {
+    "name": "Awesome-LLM-Inference",
+    "full_name": "DefTruth/Awesome-LLM-Inference",
+    "html_url": "https://github.com/DefTruth/Awesome-LLM-Inference",
+    "description": "\ud83d\udcd6A curated list of Awesome LLM/VLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism, etc. \ud83c\udf89\ud83c\udf89",
+    "stars": 3115,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-llm",
+      "deepseek",
+      "deepseek-v3",
+      "flash-attention",
+      "flash-attention-2",
+      "flash-attention-3",
+      "llm",
+      "llm-inference",
+      "llms",
+      "paged-attention",
+      "sora",
+      "tensorrt-llm",
+      "vllm"
+    ]
+  },
+  {
+    "name": "awesome-alfred-workflows",
+    "full_name": "alfred-workflows/awesome-alfred-workflows",
+    "html_url": "https://github.com/alfred-workflows/awesome-alfred-workflows",
+    "description": "A curated list of awesome alfred workflows",
+    "stars": 3109,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "alfred",
+      "alfred-workflow",
+      "awesome",
+      "awesome-list",
+      "text-manipulation"
+    ]
+  },
+  {
+    "name": "awesome-hacking",
+    "full_name": "jekil/awesome-hacking",
+    "html_url": "https://github.com/jekil/awesome-hacking",
+    "description": "Awesome hacking is an awesome collection of hacking tools.",
+    "stars": 3106,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "curated-list",
+      "forensics",
+      "hacking",
+      "hacking-tools",
+      "malware",
+      "penetration-testing",
+      "security",
+      "security-tools"
+    ]
+  },
+  {
+    "name": "awesome-copycats",
+    "full_name": "lcpz/awesome-copycats",
+    "html_url": "https://github.com/lcpz/awesome-copycats",
+    "description": "Awesome WM themes",
+    "stars": 3092,
+    "updated_at": "2025-01-05",
+    "language": "Lua",
+    "topics": [
+      "awesomewm",
+      "lua",
+      "themes"
+    ]
+  },
+  {
+    "name": "awesome-advent-of-code",
+    "full_name": "Bogdanp/awesome-advent-of-code",
+    "html_url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "stars": 3092,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "advent-of-code",
+      "advent-of-code-2018",
+      "advent-of-code-2019",
+      "advent-of-code-2020",
+      "advent-of-code-2021",
+      "advent-of-code-2022",
+      "advent-of-code-2023",
+      "adventofcode",
+      "awesome"
+    ]
+  },
+  {
+    "name": "awesome-mobile-security",
+    "full_name": "vaib25vicky/awesome-mobile-security",
+    "html_url": "https://github.com/vaib25vicky/awesome-mobile-security",
+    "description": "An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.",
+    "stars": 3091,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "android-security",
+      "awesome",
+      "awesome-list",
+      "bugbounty",
+      "hacking",
+      "hacking-tools",
+      "ios",
+      "ios-security",
+      "mobile",
+      "mobile-security",
+      "pentesting",
+      "redteam",
+      "resources",
+      "reverse-engineering",
+      "security-tools"
+    ]
+  },
+  {
+    "name": "comments-for-awesome-courses",
+    "full_name": "conanhujinming/comments-for-awesome-courses",
+    "html_url": "https://github.com/conanhujinming/comments-for-awesome-courses",
+    "description": "\u540d\u6821\u516c\u5f00\u8bfe\u7a0b\u8bc4\u4ef7\u7f51",
+    "stars": 3080,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "awesome-causality-algorithms",
+    "full_name": "rguo12/awesome-causality-algorithms",
+    "html_url": "https://github.com/rguo12/awesome-causality-algorithms",
+    "description": "An index of algorithms for learning causality with data",
+    "stars": 3076,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "baselines",
+      "causal-inference",
+      "causality",
+      "causality-algorithms",
+      "causality-analysis",
+      "learning-to-rank",
+      "multilabel-classification",
+      "recommender-system",
+      "unconfoundedness-assumption"
+    ]
+  },
+  {
+    "name": "awesome-project",
+    "full_name": "gdcmarinho/awesome-project",
+    "html_url": "https://github.com/gdcmarinho/awesome-project",
+    "description": "A curated list of awesome project development links",
+    "stars": 3071,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "collection",
+      "curated",
+      "curated-list",
+      "design",
+      "links",
+      "list",
+      "programming",
+      "project",
+      "project-management",
+      "projects"
+    ]
+  },
+  {
+    "name": "awesome-bits",
+    "full_name": "keon/awesome-bits",
+    "html_url": "https://github.com/keon/awesome-bits",
+    "description": ":computer: A curated list of awesome bitwise operations and tricks",
+    "stars": 3066,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "bit-manipulation"
+    ]
+  },
+  {
+    "name": "awesome-static-generators",
+    "full_name": "myles/awesome-static-generators",
+    "html_url": "https://github.com/myles/awesome-static-generators",
+    "description": "A curated list of static web site generators.",
+    "stars": 3038,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "website"
+    ]
+  },
+  {
+    "name": "awesome-browser-extensions-for-github",
+    "full_name": "stefanbuck/awesome-browser-extensions-for-github",
+    "html_url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+    "description": "A collection of awesome browser extensions for GitHub.",
+    "stars": 3037,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "browser-extension",
+      "chrome-extension",
+      "github",
+      "github-extension",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-burp-extensions",
+    "full_name": "snoopysecurity/awesome-burp-extensions",
+    "html_url": "https://github.com/snoopysecurity/awesome-burp-extensions",
+    "description": "A curated list of amazingly awesome Burp Extensions",
+    "stars": 3029,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-humane-tech",
+    "full_name": "humanetech-community/awesome-humane-tech",
+    "html_url": "https://github.com/humanetech-community/awesome-humane-tech",
+    "description": "Promoting Solutions that Improve Wellbeing, Freedom and Society",
+    "stars": 3029,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "decentralization",
+      "democracy",
+      "ergonomics",
+      "ethics",
+      "fediverse",
+      "freedom-of-information",
+      "freedom-of-speech",
+      "giveupgithub",
+      "health",
+      "humane",
+      "humane-tech",
+      "mindfulness",
+      "privacy",
+      "privacy-protection",
+      "social",
+      "social-media",
+      "social-networks",
+      "society",
+      "transparency"
+    ]
+  },
+  {
+    "name": "awesome-design-cn",
+    "full_name": "jobbole/awesome-design-cn",
+    "html_url": "https://github.com/jobbole/awesome-design-cn",
+    "description": "\u8bbe\u8ba1\u5e08\u8d44\u6e90\u5927\u5168\uff0c\u5305\u542b\uff1aICON\u56fe\u6807\u3001Logo\u8bbe\u8ba1\u3001PhotoShop\u63d2\u4ef6\u3001\u4ea4\u4e92\u8bbe\u8ba1\u5de5\u5177\u3001\u6d41\u7a0b\u56fe\u3001\u7ebf\u6846\u56fe/\u539f\u578b\u56fe\u3001\u8bbe\u8ba1\u535a\u5ba2\u7b49",
+    "stars": 3019,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-personal-blogs",
+    "full_name": "jkup/awesome-personal-blogs",
+    "html_url": "https://github.com/jkup/awesome-personal-blogs",
+    "description": "A delightful list of personal tech blogs",
+    "stars": 3018,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-speech-recognition-speech-synthesis-papers",
+    "full_name": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+    "html_url": "https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+    "description": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
+    "stars": 3006,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "acoustic-model",
+      "attention-mechanism",
+      "automatic-speech-recognition",
+      "cnn",
+      "diffusion-models",
+      "dnn",
+      "language-model",
+      "neural-network",
+      "papers",
+      "recognition-synthesis",
+      "rnn",
+      "roadmap",
+      "seq2seq",
+      "singing-voice-synthesis",
+      "speaker-verification",
+      "speech-recognition",
+      "speech-synthesis",
+      "timit-dataset",
+      "tts",
+      "voice-conversion"
+    ]
+  },
+  {
+    "name": "awesome-TS-anomaly-detection",
+    "full_name": "rob-med/awesome-TS-anomaly-detection",
+    "html_url": "https://github.com/rob-med/awesome-TS-anomaly-detection",
+    "description": "List of tools & datasets for anomaly detection on time-series data.",
+    "stars": 2995,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "anomaly-detection",
+      "awesome-list",
+      "data-analysis",
+      "data-mining",
+      "machine-learning",
+      "outlier-detection",
+      "temporal-data",
+      "time-series"
+    ]
+  },
+  {
+    "name": "awesome-web-components",
+    "full_name": "web-padawan/awesome-web-components",
+    "html_url": "https://github.com/web-padawan/awesome-web-components",
+    "description": "A curated list of awesome Web Components resources.",
+    "stars": 2987,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "custom-elements",
+      "shadow-dom",
+      "web-components",
+      "webcomponents"
+    ]
+  },
+  {
+    "name": "Awesome-Cellular-Hacking",
+    "full_name": "W00t3k/Awesome-Cellular-Hacking",
+    "html_url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+    "description": "Awesome-Cellular-Hacking",
+    "stars": 2979,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "eviltwin",
+      "gsm",
+      "gsm-network",
+      "hacking",
+      "lte",
+      "lte-evil-twin",
+      "rogue-bts",
+      "sdr"
+    ]
+  },
+  {
+    "name": "awesome-status-pages",
+    "full_name": "ivbeg/awesome-status-pages",
+    "html_url": "https://github.com/ivbeg/awesome-status-pages",
+    "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
+    "stars": 2976,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "monitoring",
+      "opensource",
+      "status",
+      "statuspage"
+    ]
+  },
+  {
+    "name": "awesome-mechanical-keyboard",
+    "full_name": "Keycapsss/awesome-mechanical-keyboard",
+    "html_url": "https://github.com/Keycapsss/awesome-mechanical-keyboard",
+    "description": "\u2328\ufe0f A curated list of Open Source Mechanical Keyboard resources.",
+    "stars": 2976,
+    "updated_at": "2025-01-06",
+    "language": "Astro",
+    "topics": [
+      "3d-printing",
+      "awesome",
+      "awesome-list",
+      "gridsome-website",
+      "hacktoberfest",
+      "keyboard",
+      "keyboard-layout",
+      "list",
+      "mechanical-keyboard",
+      "mechanical-keyboards",
+      "pcb",
+      "qmk",
+      "qmk-firmware"
+    ]
+  },
+  {
+    "name": "awesome-ricing",
+    "full_name": "fosslife/awesome-ricing",
+    "html_url": "https://github.com/fosslife/awesome-ricing",
+    "description": "A curated list of awesome tools and technology to help you out with ricing on linux",
+    "stars": 2974,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "arch-linux",
+      "awesome",
+      "awesome-list",
+      "cli-tool",
+      "linux",
+      "panel",
+      "rice",
+      "ricing",
+      "terminal-emulators",
+      "tiling",
+      "window-manager"
+    ]
+  },
+  {
+    "name": "awesome-wechat-weapp",
+    "full_name": "Aufree/awesome-wechat-weapp",
+    "html_url": "https://github.com/Aufree/awesome-wechat-weapp",
+    "description": "No description",
+    "stars": 2961,
+    "updated_at": "2024-11-26",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "awesome-lane-detection",
+    "full_name": "amusi/awesome-lane-detection",
+    "html_url": "https://github.com/amusi/awesome-lane-detection",
+    "description": "A paper list of lane detection.",
+    "stars": 2952,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "lane-detection",
+      "lane-lines-detection"
+    ]
+  },
+  {
+    "name": "awesome-cms",
+    "full_name": "postlight/awesome-cms",
+    "html_url": "https://github.com/postlight/awesome-cms",
+    "description": "\ud83d\udcda A collection of open and closed source Content Management Systems (CMS) for your perusal.",
+    "stars": 2951,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "cms",
+      "labs",
+      "toml"
+    ]
+  },
+  {
+    "name": "awesome-diagramming",
+    "full_name": "shubhamgrg04/awesome-diagramming",
+    "html_url": "https://github.com/shubhamgrg04/awesome-diagramming",
+    "description": "A curated collection of diagramming tools used by leading software engineering teams",
+    "stars": 2946,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "diagram",
+      "uml"
+    ]
+  },
+  {
+    "name": "react-awesome-slider",
+    "full_name": "rcaferati/react-awesome-slider",
+    "html_url": "https://github.com/rcaferati/react-awesome-slider",
+    "description": "React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. \ud83d\udda5\ufe0f \ud83d\udcf1 ",
+    "stars": 2944,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "carousel",
+      "carousel-component",
+      "fullpage-navigation-hoc",
+      "gallery",
+      "gallery-component",
+      "gatsbyjs",
+      "image-gallery",
+      "image-slider",
+      "media-gallery",
+      "media-slider",
+      "next",
+      "next-page-transitions",
+      "nextjs",
+      "react",
+      "react-carousel",
+      "react-component",
+      "react-gallery",
+      "react-slider",
+      "reactjs",
+      "ui-components"
+    ]
+  },
+  {
+    "name": "awesomefluttertips",
+    "full_name": "erluxman/awesomefluttertips",
+    "html_url": "https://github.com/erluxman/awesomefluttertips",
+    "description": "\u2764\ufe0f Awesome Flutter Tips and Tricks  \u2764\ufe0f",
+    "stars": 2938,
+    "updated_at": "2024-12-31",
+    "language": "Dart",
+    "topics": []
+  },
+  {
+    "name": "awesome-semantic-segmentation-pytorch",
+    "full_name": "Tramac/awesome-semantic-segmentation-pytorch",
+    "html_url": "https://github.com/Tramac/awesome-semantic-segmentation-pytorch",
+    "description": "Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)",
+    "stars": 2904,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "semantic-segmentation"
+    ]
+  },
+  {
+    "name": "awesome-web-effect",
+    "full_name": "lindelof/awesome-web-effect",
+    "html_url": "https://github.com/lindelof/awesome-web-effect",
+    "description": "A series of exquisite and compact web page cool effects",
+    "stars": 2904,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "web-effect"
+    ]
+  },
+  {
+    "name": "awesome-hyprland",
+    "full_name": "hyprland-community/awesome-hyprland",
+    "html_url": "https://github.com/hyprland-community/awesome-hyprland",
+    "description": "Awesome list for Hyprland [maintainer=@yavko]",
+    "stars": 2901,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-readme",
+      "awesome-resources",
+      "hyprland",
+      "hyprland-ipc",
+      "list",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-discord-communities",
+    "full_name": "mhxion/awesome-discord-communities",
+    "html_url": "https://github.com/mhxion/awesome-discord-communities",
+    "description": "A curated list of awesome Discord communities for programmers",
+    "stars": 2899,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "beginner",
+      "community",
+      "discord",
+      "discord-server",
+      "game-development",
+      "web"
+    ]
+  },
+  {
+    "name": "awesome-image-classification",
+    "full_name": "weiaicunzai/awesome-image-classification",
+    "html_url": "https://github.com/weiaicunzai/awesome-image-classification",
+    "description": "A curated list of deep learning image classification papers and codes",
+    "stars": 2883,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computer-vision",
+      "deep-learning",
+      "image-classification",
+      "papers"
+    ]
+  },
+  {
+    "name": "awesome-deeplearning-resources",
+    "full_name": "endymecy/awesome-deeplearning-resources",
+    "html_url": "https://github.com/endymecy/awesome-deeplearning-resources",
+    "description": "Deep Learning and deep reinforcement learning research papers and some codes",
+    "stars": 2881,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "code",
+      "corpus",
+      "deep-learning",
+      "modelzoo",
+      "neural-network",
+      "nlp",
+      "paper",
+      "reinforcement-learning",
+      "video"
+    ]
+  },
+  {
+    "name": "awesome-ecs",
+    "full_name": "nathanpeck/awesome-ecs",
+    "html_url": "https://github.com/nathanpeck/awesome-ecs",
+    "description": "A curated list of awesome ECS guides, development tools, and resources",
+    "stars": 2873,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "aws",
+      "aws-ecs",
+      "aws-fargate",
+      "containers"
+    ]
+  },
+  {
+    "name": "awesome-devenv",
+    "full_name": "jondot/awesome-devenv",
+    "html_url": "https://github.com/jondot/awesome-devenv",
+    "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
+    "stars": 2868,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-sqlalchemy",
+    "full_name": "dahlia/awesome-sqlalchemy",
+    "html_url": "https://github.com/dahlia/awesome-sqlalchemy",
+    "description": "A curated list of awesome tools for SQLAlchemy",
+    "stars": 2866,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "databases",
+      "list",
+      "orm",
+      "python",
+      "rdbms",
+      "sqlalchemy"
+    ]
+  },
+  {
+    "name": "awesome-LLM-resourses",
+    "full_name": "WangRongsheng/awesome-LLM-resourses",
+    "html_url": "https://github.com/WangRongsheng/awesome-LLM-resourses",
+    "description": "\ud83e\uddd1\u200d\ud83d\ude80 \u5168\u4e16\u754c\u6700\u597d\u7684LLM\u8d44\u6599\u603b\u7ed3 \\| Summary of the world's best LLM resources.",
+    "stars": 2862,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "book",
+      "course",
+      "large-language-models",
+      "llama",
+      "llm",
+      "mistral",
+      "openai",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "webui"
+    ]
+  },
+  {
+    "name": "awesome-awesome",
+    "full_name": "emijrp/awesome-awesome",
+    "html_url": "https://github.com/emijrp/awesome-awesome",
+    "description": "A curated list of awesome curated lists of many topics.",
+    "stars": 2861,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-katas",
+    "full_name": "gamontal/awesome-katas",
+    "html_url": "https://github.com/gamontal/awesome-katas",
+    "description": "A curated list of code katas",
+    "stars": 2860,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "code-katas",
+      "coding",
+      "coding-exercises",
+      "coding-katas",
+      "dojo",
+      "katas",
+      "learning",
+      "list",
+      "practice",
+      "training"
+    ]
+  },
+  {
+    "name": "awesome-android-performance",
+    "full_name": "Juude/awesome-android-performance",
+    "html_url": "https://github.com/Juude/awesome-android-performance",
+    "description": "Android performance optimization  tutorials, videos and tools list(Android\u6027\u80fd\u4f18\u5316\u89c6\u9891\uff0c\u6587\u6863\u4ee5\u53ca\u5de5\u5177) ",
+    "stars": 2857,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "android-performance",
+      "memory-leak",
+      "performance-optimization"
+    ]
+  },
+  {
+    "name": "awesome-ocr",
+    "full_name": "kba/awesome-ocr",
+    "html_url": "https://github.com/kba/awesome-ocr",
+    "description": "Links to awesome OCR projects",
+    "stars": 2855,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-deep-learning-music",
+    "full_name": "ybayle/awesome-deep-learning-music",
+    "html_url": "https://github.com/ybayle/awesome-deep-learning-music",
+    "description": "List of articles related to deep learning applied to music",
+    "stars": 2842,
+    "updated_at": "2025-01-05",
+    "language": "TeX",
+    "topics": [
+      "article",
+      "audio",
+      "audio-processing",
+      "awesome",
+      "awesome-list",
+      "bib",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "list",
+      "lists",
+      "machine-learning",
+      "music",
+      "music-genre-classification",
+      "music-information-retrieval",
+      "neural-network",
+      "neural-networks",
+      "research",
+      "resources",
+      "unicorns"
+    ]
+  },
+  {
+    "name": "awesome-android-complete-reference",
+    "full_name": "amitshekhariitbhu/awesome-android-complete-reference",
+    "html_url": "https://github.com/amitshekhariitbhu/awesome-android-complete-reference",
+    "description": "Here I list down all of the high-quality blogs that I publish on my website.",
+    "stars": 2837,
+    "updated_at": "2025-01-03",
+    "language": "Java",
+    "topics": [
+      "android",
+      "android-optimization",
+      "best-practices",
+      "blogs",
+      "kotlin",
+      "performance",
+      "tutorial",
+      "tutorials"
+    ]
+  },
+  {
+    "name": "awesome-ocaml",
+    "full_name": "ocaml-community/awesome-ocaml",
+    "html_url": "https://github.com/ocaml-community/awesome-ocaml",
+    "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
+    "stars": 2836,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "ocaml",
+      "programming-language",
+      "resources"
+    ]
+  },
+  {
+    "name": "Awesome-Microservices-DotNet",
+    "full_name": "mjebrahimi/Awesome-Microservices-DotNet",
+    "html_url": "https://github.com/mjebrahimi/Awesome-Microservices-DotNet",
+    "description": "\ud83d\udc8e A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
+    "stars": 2833,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "asp-net",
+      "asp-net-core",
+      "aspnet",
+      "aspnet-core",
+      "aspnet-mvc",
+      "aspnetcore",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "distributed",
+      "distributed-systems",
+      "dotnet",
+      "dotnet-core",
+      "dotnetcore",
+      "microservice",
+      "microservice-architecture",
+      "microservices",
+      "microservices-architecture"
+    ]
+  },
+  {
+    "name": "awesome-bun",
+    "full_name": "oven-sh/awesome-bun",
+    "html_url": "https://github.com/oven-sh/awesome-bun",
+    "description": "\u26a1\ufe0f A curated list of awesome things related to Bun",
+    "stars": 2827,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-bun",
+      "awesome-list",
+      "bun",
+      "bunjs"
+    ]
+  },
+  {
+    "name": "awesome-taro",
+    "full_name": "jd-opensource/awesome-taro",
+    "html_url": "https://github.com/jd-opensource/awesome-taro",
+    "description": "\u591a\u7aef\u7edf\u4e00\u5f00\u53d1\u6846\u67b6 Taro \u4f18\u79c0\u5b66\u4e60\u8d44\u6e90\u6c47\u603b",
+    "stars": 2811,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "FontAwesomeKit",
+    "full_name": "PrideChung/FontAwesomeKit",
+    "html_url": "https://github.com/PrideChung/FontAwesomeKit",
+    "description": "Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.",
+    "stars": 2809,
+    "updated_at": "2024-11-29",
+    "language": "Objective-C",
+    "topics": []
+  },
+  {
+    "name": "awesome-rails-gem",
+    "full_name": "hothero/awesome-rails-gem",
+    "html_url": "https://github.com/hothero/awesome-rails-gem",
+    "description": "A collection of awesome Ruby Gems for Rails development.",
+    "stars": 2807,
+    "updated_at": "2025-01-02",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "name": "Awesome-ChatGPT-prompts-ZH_CN",
+    "full_name": "L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN",
+    "html_url": "https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN",
+    "description": "\u5982\u4f55\u5c06ChatGPT\u8c03\u6559\u6210\u4e00\u53ea\u732b\u5a18",
+    "stars": 2801,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "bing-chat",
+      "catgirl",
+      "chatgpt",
+      "claude",
+      "claude-slack",
+      "neko",
+      "newbing",
+      "prompt-engineering"
+    ]
+  },
+  {
+    "name": "awesome-healthcare",
+    "full_name": "kakoni/awesome-healthcare",
+    "html_url": "https://github.com/kakoni/awesome-healthcare",
+    "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+    "stars": 2795,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "health",
+      "list"
+    ]
+  },
+  {
+    "name": "Awesome-Vision-Attentions",
+    "full_name": "MenghaoGuo/Awesome-Vision-Attentions",
+    "html_url": "https://github.com/MenghaoGuo/Awesome-Vision-Attentions",
+    "description": "Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    ",
+    "stars": 2793,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "awesome-mysql-cn",
+    "full_name": "jobbole/awesome-mysql-cn",
+    "html_url": "https://github.com/jobbole/awesome-mysql-cn",
+    "description": "MySQL \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5206\u6790\u5de5\u5177\u3001\u5907\u4efd\u3001\u6027\u80fd\u6d4b\u8bd5\u3001\u914d\u7f6e\u3001\u90e8\u7f72\u3001GUI \u7b49",
+    "stars": 2789,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-social-engineering",
+    "full_name": "giuliacassara/awesome-social-engineering",
+    "html_url": "https://github.com/giuliacassara/awesome-social-engineering",
+    "description": "A curated list of awesome social engineering resources.",
+    "stars": 2781,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "infosec",
+      "osint",
+      "psychology",
+      "social-engineering"
+    ]
+  },
+  {
+    "name": "Awesome-Quant-Machine-Learning-Trading",
+    "full_name": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+    "html_url": "https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading",
+    "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+    "stars": 2779,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deep-learning",
+      "financial-machine-learning",
+      "machine-learning",
+      "machine-learning-trading",
+      "stock-trading",
+      "trading-strategies"
+    ]
+  },
+  {
+    "name": "awesome-quantum-machine-learning",
+    "full_name": "krishnakumarsekar/awesome-quantum-machine-learning",
+    "html_url": "https://github.com/krishnakumarsekar/awesome-quantum-machine-learning",
+    "description": "Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web",
+    "stars": 2776,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "ai",
+      "ant-colony-optimization",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "awesome",
+      "awesome-list",
+      "fcm",
+      "hmm-model",
+      "kmeans",
+      "knn-classification",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "qml",
+      "quantum",
+      "quantum-ai",
+      "quantum-computing",
+      "quantum-programming-language",
+      "qubits",
+      "tensorflow"
+    ]
+  },
+  {
+    "name": "awesome-vim-colorschemes",
+    "full_name": "rafi/awesome-vim-colorschemes",
+    "html_url": "https://github.com/rafi/awesome-vim-colorschemes",
+    "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
+    "stars": 2772,
+    "updated_at": "2025-01-05",
+    "language": "Vim Script",
+    "topics": [
+      "collection",
+      "color-scheme",
+      "colors",
+      "gvim",
+      "macvim",
+      "neovim",
+      "nvim",
+      "plugins",
+      "themes",
+      "vim"
+    ]
+  },
+  {
+    "name": "awesome-learn-gamedev",
+    "full_name": "notpresident35/awesome-learn-gamedev",
+    "html_url": "https://github.com/notpresident35/awesome-learn-gamedev",
+    "description": "A curated collection of game development learning resources",
+    "stars": 2769,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "education",
+      "game-development",
+      "gamedev",
+      "learn",
+      "learning",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-anomaly-detection",
+    "full_name": "hoya012/awesome-anomaly-detection",
+    "html_url": "https://github.com/hoya012/awesome-anomaly-detection",
+    "description": "A curated list of awesome anomaly detection resources",
+    "stars": 2767,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "anomaly",
+      "anomaly-detection",
+      "anomalydetection",
+      "awesome",
+      "awesome-anomaly-detection",
+      "awesomeanomalydetection",
+      "deep-learning",
+      "machine-learning",
+      "machinelearning"
+    ]
+  },
+  {
+    "name": "awesome-ml-courses",
+    "full_name": "luspr/awesome-ml-courses",
+    "html_url": "https://github.com/luspr/awesome-ml-courses",
+    "description": "Awesome free machine learning and AI courses with video lectures.",
+    "stars": 2756,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "ai-courses",
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "reinforcement-learning"
+    ]
+  },
+  {
+    "name": "awesome-nodejs-security",
+    "full_name": "lirantal/awesome-nodejs-security",
+    "html_url": "https://github.com/lirantal/awesome-nodejs-security",
+    "description": "Awesome Node.js Security resources",
+    "stars": 2753,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "cybersecurity",
+      "hacktoberfest",
+      "infosec",
+      "nodejs",
+      "owasp",
+      "pentest",
+      "security",
+      "vulnerabilities",
+      "web-security"
+    ]
+  },
+  {
+    "name": "awesome-oscp",
+    "full_name": "0x4D31/awesome-oscp",
+    "html_url": "https://github.com/0x4D31/awesome-oscp",
+    "description": "A curated list of awesome OSCP resources",
+    "stars": 2752,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "offensive-security",
+      "oscp",
+      "oscp-prep",
+      "oscp-tools",
+      "penetration-testing",
+      "pentest",
+      "pentesting"
+    ]
+  },
+  {
+    "name": "awesome-oneliner-bugbounty",
+    "full_name": "dwisiswant0/awesome-oneliner-bugbounty",
+    "html_url": "https://github.com/dwisiswant0/awesome-oneliner-bugbounty",
+    "description": "A collection of awesome one-liner scripts especially for bug bounty tips.",
+    "stars": 2742,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "bash",
+      "bug-bounty",
+      "bugbounty",
+      "bugbountytips",
+      "hacktoberfest",
+      "liner-scripts",
+      "one-liners",
+      "recon"
+    ]
+  },
+  {
+    "name": "awesome-computer-history",
+    "full_name": "watson/awesome-computer-history",
+    "html_url": "https://github.com/watson/awesome-computer-history",
+    "description": "An Awesome List of computer history videos, documentaries and related folklore",
+    "stars": 2742,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computer-history",
+      "documentary",
+      "hackers",
+      "history",
+      "list",
+      "video"
+    ]
+  },
+  {
+    "name": "awesome-notebooks",
+    "full_name": "jupyter-naas/awesome-notebooks",
+    "html_url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "description": "Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..",
+    "stars": 2741,
+    "updated_at": "2025-01-06",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "hacktoberfest2023",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyterlab",
+      "naas",
+      "notebooks-templates",
+      "opensource",
+      "python",
+      "templates"
+    ]
+  },
+  {
+    "name": "Awesome-AI",
+    "full_name": "runningcheese/Awesome-AI",
+    "html_url": "https://github.com/runningcheese/Awesome-AI",
+    "description": "Awesome AI\uff0c\u4f60\u7684\u300a\u4eba\u5de5\u667a\u80fd\u6307\u5357\u300b\uff01",
+    "stars": 2738,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Love-Code",
+    "full_name": "sun0225SUN/Awesome-Love-Code",
+    "html_url": "https://github.com/sun0225SUN/Awesome-Love-Code",
+    "description": "\u8868\u767d\u4ee3\u7801\u6536\u85cf\u9986~\u8c01\u8bf4\u7a0b\u5e8f\u733f\u4e0d\u61c2\u6d6a\u6f2b\u2764\ufe0f",
+    "stars": 2734,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "Awesome-WanAndroid",
+    "full_name": "JsonChao/Awesome-WanAndroid",
+    "html_url": "https://github.com/JsonChao/Awesome-WanAndroid",
+    "description": ":zap:\u81f4\u529b\u4e8e\u6253\u9020\u4e00\u6b3e\u6781\u81f4\u4f53\u9a8c\u7684 http://www.wanandroid.com/ \u5ba2\u6237\u7aef\uff0c\u77e5\u8bc6\u548c\u7f8e\u662f\u53ef\u4ee5\u5e76\u5b58\u7684\u54e6QAQn(*\u2267\u25bd\u2266*)n",
+    "stars": 2733,
+    "updated_at": "2025-01-01",
+    "language": "Java",
+    "topics": [
+      "android",
+      "app",
+      "bugly",
+      "butterknife",
+      "dagger2",
+      "glide",
+      "greendao",
+      "java",
+      "junit4",
+      "leakcanary",
+      "logger",
+      "material-design",
+      "mvp-architecture",
+      "okhttp3",
+      "retrofit2",
+      "rxbus",
+      "rxjava2",
+      "wanandroid"
+    ]
+  },
+  {
+    "name": "awesome-streaming",
+    "full_name": "manuzhang/awesome-streaming",
+    "html_url": "https://github.com/manuzhang/awesome-streaming",
+    "description": "a curated list of awesome streaming frameworks, applications, etc",
+    "stars": 2731,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "stream-processing"
+    ]
+  },
+  {
+    "name": "awesome-clojure",
+    "full_name": "razum2um/awesome-clojure",
+    "html_url": "https://github.com/razum2um/awesome-clojure",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
+    "stars": 2715,
+    "updated_at": "2025-01-06",
+    "language": "Clojure",
+    "topics": [
+      "awesome-list",
+      "clojure",
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "awesome-productivity-cn",
+    "full_name": "eastlakeside/awesome-productivity-cn",
+    "html_url": "https://github.com/eastlakeside/awesome-productivity-cn",
+    "description": "\u7edd\u5999\u7684\u4e2a\u4eba\u751f\u4ea7\u529b\uff08Awesome Productivity - Chinese version\uff09",
+    "stars": 2711,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "productivity",
+      "productivity-booster"
+    ]
+  },
+  {
+    "name": "awesome-kotlin",
+    "full_name": "mcxiaoke/awesome-kotlin",
+    "html_url": "https://github.com/mcxiaoke/awesome-kotlin",
+    "description": "A curated list of awesome Kotlin frameworks, libraries, documents and other resources",
+    "stars": 2705,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "android-development",
+      "java",
+      "kotlin",
+      "kotlin-android",
+      "kotlin-language",
+      "kotlin-plugin"
+    ]
+  },
+  {
+    "name": "awesome-AutoHotkey",
+    "full_name": "ahkscript/awesome-AutoHotkey",
+    "html_url": "https://github.com/ahkscript/awesome-AutoHotkey",
+    "description": "A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.",
+    "stars": 2696,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-no-login-web-apps",
+    "full_name": "aviaryan/awesome-no-login-web-apps",
+    "html_url": "https://github.com/aviaryan/awesome-no-login-web-apps",
+    "description": "\ud83d\ude80 Awesome (free) web apps that work without login",
+    "stars": 2690,
+    "updated_at": "2025-01-06",
+    "language": "Shell",
+    "topics": [
+      "application",
+      "applications",
+      "awesome",
+      "awesome-list",
+      "awesomeness",
+      "list",
+      "no-login",
+      "no-login-web-apps",
+      "portableapps",
+      "web-app"
+    ]
+  },
+  {
+    "name": "awesome-kan",
+    "full_name": "mintisan/awesome-kan",
+    "html_url": "https://github.com/mintisan/awesome-kan",
+    "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
+    "stars": 2681,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-backend",
+    "full_name": "zhashkevych/awesome-backend",
+    "html_url": "https://github.com/zhashkevych/awesome-backend",
+    "description": "\ud83d\ude80 A curated and opinionated list of resources (English & Russian) for Backend developers \\| \u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f Backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
+    "stars": 2679,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "architecture",
+      "backend",
+      "backend-developers",
+      "backend-engineers",
+      "computer-science",
+      "curated-list",
+      "databases",
+      "for-beginners",
+      "guide",
+      "guides",
+      "list",
+      "roadmap",
+      "software-engineering",
+      "topics",
+      "web"
+    ]
+  },
+  {
+    "name": "awesome-mlss",
+    "full_name": "awesome-mlss/awesome-mlss",
+    "html_url": "https://github.com/awesome-mlss/awesome-mlss",
+    "description": "\ud83e\udd16 Machine Learning Summer School deadlines",
+    "stars": 2670,
+    "updated_at": "2025-01-05",
+    "language": "HTML",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "reinforcement-learning",
+      "summer-school",
+      "summer-schools"
+    ]
+  },
+  {
+    "name": "Awesome-algorithm-interview",
+    "full_name": "lcylmhlcy/Awesome-algorithm-interview",
+    "html_url": "https://github.com/lcylmhlcy/Awesome-algorithm-interview",
+    "description": "\u7b97\u6cd5\u5de5\u7a0b\u5e08(\u4eba\u5de5\u667a\u80fdCV\u65b9\u5411)\u9762\u8bd5\u95ee\u9898\u53ca\u76f8\u5173\u8d44\u6599",
+    "stars": 2669,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-api",
+    "full_name": "Kikobeats/awesome-api",
+    "html_url": "https://github.com/Kikobeats/awesome-api",
+    "description": "A curated list of awesome resources for design and implement RESTful API's.",
+    "stars": 2668,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-PICO-8",
+    "full_name": "pico-8/awesome-PICO-8",
+    "html_url": "https://github.com/pico-8/awesome-PICO-8",
+    "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
+    "stars": 2664,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "8-bit-computer",
+      "8bit",
+      "awesome",
+      "awesome-list",
+      "cartridge",
+      "fantasy-console",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "list",
+      "lua",
+      "pico-8",
+      "pico8"
+    ]
+  },
+  {
+    "name": "awesome-python-data-science",
+    "full_name": "krzjoa/awesome-python-data-science",
+    "html_url": "https://github.com/krzjoa/awesome-python-data-science",
+    "description": "Probably the best curated list of data science software in Python.",
+    "stars": 2654,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-python",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "scikit-learn",
+      "statistics"
+    ]
+  },
+  {
+    "name": "Awesome-Learning-with-Label-Noise",
+    "full_name": "subeeshvasu/Awesome-Learning-with-Label-Noise",
+    "html_url": "https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise",
+    "description": "A curated list of resources for Learning with Noisy Labels",
+    "stars": 2650,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "deep-neural-networks",
+      "label-noise",
+      "noisy-data",
+      "noisy-labels",
+      "robust-learning",
+      "unreliable-labels"
+    ]
+  },
+  {
+    "name": "awesome-productivity",
+    "full_name": "jyguyomarch/awesome-productivity",
+    "html_url": "https://github.com/jyguyomarch/awesome-productivity",
+    "description": "A curated list of delightful productivity resources.",
+    "stars": 2646,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "productivity"
+    ]
+  },
+  {
+    "name": "awesome-generative-ai",
+    "full_name": "filipecalegario/awesome-generative-ai",
+    "html_url": "https://github.com/filipecalegario/awesome-generative-ai",
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "stars": 2635,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai-art",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "dall-e",
+      "dalle2",
+      "embeddings",
+      "generative-ai",
+      "gpt-4",
+      "llm",
+      "llm-agent",
+      "midjourney",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "stable-diffusion",
+      "text-to-image",
+      "txt2img"
+    ]
+  },
+  {
+    "name": "awesome-quantum-computing",
+    "full_name": "desireevl/awesome-quantum-computing",
+    "html_url": "https://github.com/desireevl/awesome-quantum-computing",
+    "description": "A curated list of awesome quantum computing learning and developing resources.",
+    "stars": 2633,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "quantum",
+      "quantum-computing"
+    ]
+  },
+  {
+    "name": "awesome-cl",
+    "full_name": "CodyReichert/awesome-cl",
+    "html_url": "https://github.com/CodyReichert/awesome-cl",
+    "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
+    "stars": 2633,
+    "updated_at": "2025-01-04",
+    "language": "Makefile",
+    "topics": [
+      "awesome",
+      "common-lisp",
+      "common-lisp-tools",
+      "libraries",
+      "lisp",
+      "quicklisp"
+    ]
+  },
+  {
+    "name": "awesome-nostr",
+    "full_name": "aljazceru/awesome-nostr",
+    "html_url": "https://github.com/aljazceru/awesome-nostr",
+    "description": "nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things ",
+    "stars": 2631,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "nostr"
+    ]
+  },
+  {
+    "name": "awesome-node-based-uis",
+    "full_name": "xyflow/awesome-node-based-uis",
+    "html_url": "https://github.com/xyflow/awesome-node-based-uis",
+    "description": "A curated list with resources about node-based UIs",
+    "stars": 2622,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "etl",
+      "node-based-ui",
+      "visual-programming",
+      "workflow-editor"
+    ]
+  },
+  {
+    "name": "awesome-bilibili-extra",
+    "full_name": "HCLonely/awesome-bilibili-extra",
+    "html_url": "https://github.com/HCLonely/awesome-bilibili-extra",
+    "description": "\u6536\u96c6\u4e00\u4e9b\u8ba9\u6211\u4eec\u5728\u4f7f\u7528B\u7ad9\u65f6\u66f4\u52a0\u65b9\u4fbf\u7684\u6d4f\u89c8\u5668\u6269\u5c55/\u811a\u672c/\u7a0b\u5e8f\u3010\u6708\u5e95\u66f4\u65b0\u3011",
+    "stars": 2621,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bilibili"
+    ]
+  },
+  {
+    "name": "awesome-livecoding",
+    "full_name": "toplap/awesome-livecoding",
+    "html_url": "https://github.com/toplap/awesome-livecoding",
+    "description": "All things livecoding",
+    "stars": 2616,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "coding",
+      "graphics",
+      "live",
+      "livecoding",
+      "music",
+      "synthesis"
+    ]
+  },
+  {
+    "name": "awesome-musicdsp",
+    "full_name": "olilarkin/awesome-musicdsp",
+    "html_url": "https://github.com/olilarkin/awesome-musicdsp",
+    "description": "A curated list of my favourite music DSP and audio programming resources",
+    "stars": 2612,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "audio",
+      "audiounit",
+      "dsp",
+      "plugin",
+      "vst",
+      "vst2",
+      "vst3"
+    ]
+  },
+  {
+    "name": "Awesome-Super-Resolution",
+    "full_name": "ChaofWang/Awesome-Super-Resolution",
+    "html_url": "https://github.com/ChaofWang/Awesome-Super-Resolution",
+    "description": "Collect super-resolution related papers, data, repositories",
+    "stars": 2609,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-network-embedding",
+    "full_name": "chihming/awesome-network-embedding",
+    "html_url": "https://github.com/chihming/awesome-network-embedding",
+    "description": "A curated list of network embedding techniques.",
+    "stars": 2597,
+    "updated_at": "2024-12-23",
+    "language": "Unknown",
+    "topics": [
+      "graph-embeddings",
+      "knowledge-graph",
+      "network-embedding",
+      "representation-learning"
+    ]
+  },
+  {
+    "name": "awesome",
+    "full_name": "rollup/awesome",
+    "html_url": "https://github.com/rollup/awesome",
+    "description": "\u26a1\ufe0f Delightful Rollup Plugins, Packages, and Resources",
+    "stars": 2594,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-ethical-hacking-resources",
+    "full_name": "husnainfareed/awesome-ethical-hacking-resources",
+    "html_url": "https://github.com/husnainfareed/awesome-ethical-hacking-resources",
+    "description": "\ud83d\ude0e \ud83d\udd17 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.",
+    "stars": 2594,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "ctf",
+      "ethical-hacking",
+      "hacking",
+      "hacking-resources",
+      "hacktoberfest",
+      "learning-hacking",
+      "owasp",
+      "penetration-testing",
+      "resources",
+      "vulnerable-applications",
+      "web-hacking"
+    ]
+  },
+  {
+    "name": "awesome-html5",
+    "full_name": "diegocard/awesome-html5",
+    "html_url": "https://github.com/diegocard/awesome-html5",
+    "description": ":memo: A curated list of awesome HTML5 resources",
+    "stars": 2580,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-startup-credits",
+    "full_name": "dakshshah96/awesome-startup-credits",
+    "html_url": "https://github.com/dakshshah96/awesome-startup-credits",
+    "description": "\u2728 A collection of awesome companies offering free/discounted plans for eligible startups",
+    "stars": 2577,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "startup-credits",
+      "startups"
+    ]
+  },
+  {
+    "name": "awesome-saas-boilerplates",
+    "full_name": "smirnov-am/awesome-saas-boilerplates",
+    "html_url": "https://github.com/smirnov-am/awesome-saas-boilerplates",
+    "description": "No description",
+    "stars": 2573,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-casestudy",
+    "full_name": "luruke/awesome-casestudy",
+    "html_url": "https://github.com/luruke/awesome-casestudy",
+    "description": "\ud83d\udcd5  Curated list of technical case studies on WebGL and creative development",
+    "stars": 2572,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "case-studies",
+      "development",
+      "frontend",
+      "performance",
+      "reading",
+      "webgl"
+    ]
+  },
+  {
+    "name": "awesome-android-kotlin-apps",
+    "full_name": "androiddevnotes/awesome-android-kotlin-apps",
+    "html_url": "https://github.com/androiddevnotes/awesome-android-kotlin-apps",
+    "description": "\ud83d\udc53 A curated list of awesome android kotlin apps by open-source contributors.",
+    "stars": 2565,
+    "updated_at": "2025-01-06",
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "awesome",
+      "beginner-friendly",
+      "coroutines",
+      "dagger",
+      "dagger-hilt",
+      "firebase",
+      "first-issue",
+      "hacktoberfest",
+      "hacktoberfest2020",
+      "jetpack-android",
+      "koin",
+      "kotlin",
+      "mvvm",
+      "mvvm-android",
+      "retrofit",
+      "rxjava",
+      "unit-testing",
+      "viewmodel",
+      "workmanager"
+    ]
+  },
+  {
+    "name": "awesome-android-tips",
+    "full_name": "jiang111/awesome-android-tips",
+    "html_url": "https://github.com/jiang111/awesome-android-tips",
+    "description": "some code tips for android \ud83d\udcaf",
+    "stars": 2555,
+    "updated_at": "2024-12-21",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "awesome",
+      "tips"
+    ]
+  },
+  {
+    "name": "awesome-game-security",
+    "full_name": "gmh5225/awesome-game-security",
+    "html_url": "https://github.com/gmh5225/awesome-game-security",
+    "description": "awesome game security [Welcome to PR]",
+    "stars": 2540,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "android",
+      "anti",
+      "anticheat",
+      "antidebug",
+      "awesome",
+      "blockchain",
+      "cheat",
+      "debug",
+      "driver",
+      "engine",
+      "ethereum",
+      "game",
+      "game-development",
+      "gamehack",
+      "hack",
+      "kernel",
+      "security",
+      "system",
+      "web3",
+      "windows"
+    ]
+  },
+  {
+    "name": "awesome-jupyterlab",
+    "full_name": "mauhai/awesome-jupyterlab",
+    "html_url": "https://github.com/mauhai/awesome-jupyterlab",
+    "description": " A curated list of awesome JupyterLab extensions and resources",
+    "stars": 2539,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "collections",
+      "jupyterlab",
+      "jupyterlab-extension"
+    ]
+  },
+  {
+    "name": "Awesome-Knowledge-Distillation",
+    "full_name": "FLHonker/Awesome-Knowledge-Distillation",
+    "html_url": "https://github.com/FLHonker/Awesome-Knowledge-Distillation",
+    "description": "Awesome Knowledge-Distillation. \u5206\u7c7b\u6574\u7406\u7684\u77e5\u8bc6\u84b8\u998fpaper(2014-2021)\u3002",
+    "stars": 2532,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "deep-learning",
+      "distillation",
+      "kd",
+      "knowldge-distillation",
+      "model-compression",
+      "transfer-learning"
+    ]
+  },
+  {
+    "name": "awesome-deep-text-detection-recognition",
+    "full_name": "hwalsuklee/awesome-deep-text-detection-recognition",
+    "html_url": "https://github.com/hwalsuklee/awesome-deep-text-detection-recognition",
+    "description": "A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.",
+    "stars": 2517,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "awesome-lists",
+      "deep-learning",
+      "ocr",
+      "ocr-detection",
+      "ocr-paper",
+      "ocr-paper-list",
+      "ocr-papers",
+      "ocr-recognition",
+      "text-detection",
+      "text-detection-recognition",
+      "text-recognition"
+    ]
+  },
+  {
+    "name": "awesome-ssh",
+    "full_name": "moul/awesome-ssh",
+    "html_url": "https://github.com/moul/awesome-ssh",
+    "description": ":computer: A curated list of SSH resources.",
+    "stars": 2514,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "devops",
+      "list",
+      "mosh",
+      "openssh",
+      "ssh",
+      "ssh-agent",
+      "ssh-key",
+      "ssh-keys",
+      "ssh-keyscan"
+    ]
+  },
+  {
+    "name": "awesome-git",
+    "full_name": "dictcp/awesome-git",
+    "html_url": "https://github.com/dictcp/awesome-git",
+    "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+    "stars": 2503,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "git"
+    ]
+  },
+  {
+    "name": "awesome-mongodb",
+    "full_name": "ramnes/awesome-mongodb",
+    "html_url": "https://github.com/ramnes/awesome-mongodb",
+    "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
+    "stars": 2502,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "mongodb",
+      "mongodb-resources"
+    ]
+  },
+  {
+    "name": "awesome-draft-js",
+    "full_name": "nikgraf/awesome-draft-js",
+    "html_url": "https://github.com/nikgraf/awesome-draft-js",
+    "description": "Awesome list of Draft.js resources",
+    "stars": 2497,
+    "updated_at": "2024-12-21",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "draft-js",
+      "list"
+    ]
+  },
+  {
+    "name": "Awesome-Deblurring",
+    "full_name": "subeeshvasu/Awesome-Deblurring",
+    "html_url": "https://github.com/subeeshvasu/Awesome-Deblurring",
+    "description": "A curated list of resources for Image and Video Deblurring",
+    "stars": 2495,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "burst-deblurring",
+      "camera-shake",
+      "deblurring",
+      "deep-learning",
+      "defocus-blur",
+      "defocus-deblurring",
+      "image-deblurring",
+      "image-deconvolution",
+      "kernel-estimation",
+      "motion-blur",
+      "motion-deblurring",
+      "restoration",
+      "stereo-deblurring",
+      "video-deblurring"
+    ]
+  },
+  {
+    "name": "awesome-programmers",
+    "full_name": "rekihattori/awesome-programmers",
+    "html_url": "https://github.com/rekihattori/awesome-programmers",
+    "description": "A list of history's greatest software engineers and tech pioneers",
+    "stars": 2489,
+    "updated_at": "2025-01-04",
+    "language": "CSS",
+    "topics": [
+      "awesome",
+      "best-software-engineers",
+      "software-engineers"
+    ]
+  },
+  {
+    "name": "awesome-implicit-representations",
+    "full_name": "vsitzmann/awesome-implicit-representations",
+    "html_url": "https://github.com/vsitzmann/awesome-implicit-representations",
+    "description": "A curated list of resources on implicit neural representations.",
+    "stars": 2485,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-gamedev",
+    "full_name": "Calinou/awesome-gamedev",
+    "html_url": "https://github.com/Calinou/awesome-gamedev",
+    "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+    "stars": 2483,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "game",
+      "game-development",
+      "game-programming"
+    ]
+  },
+  {
+    "name": "awesome-portfolio-websites",
+    "full_name": "smaranjitghose/awesome-portfolio-websites",
+    "html_url": "https://github.com/smaranjitghose/awesome-portfolio-websites",
+    "description": "A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.",
+    "stars": 2472,
+    "updated_at": "2025-01-04",
+    "language": "HTML",
+    "topics": [
+      "ch-20",
+      "css",
+      "dwoc",
+      "dwoc2020",
+      "gsso21",
+      "hacktoberfest-accepted",
+      "html",
+      "javascript",
+      "lgmsoc21",
+      "nwoc",
+      "portfolio",
+      "psoc21",
+      "sci",
+      "sci20",
+      "slop",
+      "slop20",
+      "swoc2021"
+    ]
+  },
+  {
+    "name": "awesome-web-design",
+    "full_name": "nicolesaidy/awesome-web-design",
+    "html_url": "https://github.com/nicolesaidy/awesome-web-design",
+    "description": "\ud83c\udfa8 A curated list of awesome resources for digital designers.",
+    "stars": 2471,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "design",
+      "ui-design",
+      "ux-design",
+      "webdesign"
+    ]
+  },
+  {
+    "name": "awesome-sushi",
+    "full_name": "738/awesome-sushi",
+    "html_url": "https://github.com/738/awesome-sushi",
+    "description": "\ud83c\udf63 \uad6d\ub0b4 \uc2a4\uc2dc \uc624\ub9c8\uce74\uc138 \ub9db\uc9d1 \ub9ac\uc2a4\ud2b8",
+    "stars": 2468,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "japan",
+      "korea",
+      "korean",
+      "seoul",
+      "sushi",
+      "sushi-ware"
+    ]
+  },
+  {
+    "name": "awesome-terminal-fonts",
+    "full_name": "gabrielelana/awesome-terminal-fonts",
+    "html_url": "https://github.com/gabrielelana/awesome-terminal-fonts",
+    "description": "Tools and instructions on how to have awesome symbols in a terminal with a monospace font",
+    "stars": 2463,
+    "updated_at": "2025-01-02",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "name": "awesome-nest-boilerplate",
+    "full_name": "NarHakobyan/awesome-nest-boilerplate",
+    "html_url": "https://github.com/NarHakobyan/awesome-nest-boilerplate",
+    "description": "Awesome NestJS Boilerplate \ud83d\ude0d, Typescript \ud83d\udcaa, Postgres \ud83c\udf89, TypeORM \ud83e\udd73",
+    "stars": 2461,
+    "updated_at": "2025-01-06",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "awesome-cs",
+    "full_name": "CodingDocs/awesome-cs",
+    "html_url": "https://github.com/CodingDocs/awesome-cs",
+    "description": "\u8ba1\u7b97\u673a\u4f18\u8d28\u4e66\u7c4d\u641c\u7f57+\u5b66\u4e60\u8def\u7ebf\u63a8\u8350\uff01",
+    "stars": 2460,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "algorithms",
+      "computer-science",
+      "data-structures",
+      "system"
+    ]
+  },
+  {
+    "name": "awesome-tensor-compilers",
+    "full_name": "merrymercy/awesome-tensor-compilers",
+    "html_url": "https://github.com/merrymercy/awesome-tensor-compilers",
+    "description": "A list of awesome compiler projects and papers for tensor computation and deep learning.",
+    "stars": 2455,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "code-generation",
+      "compiler",
+      "deep-learning",
+      "high-performance-computing",
+      "machine-learning",
+      "programming-language",
+      "tensor"
+    ]
+  },
+  {
+    "name": "awesome-emails",
+    "full_name": "jonathandion/awesome-emails",
+    "html_url": "https://github.com/jonathandion/awesome-emails",
+    "description": "\u2709\ufe0f An awesome list of resources to build better emails.",
+    "stars": 2454,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "email",
+      "email-campaigns",
+      "email-marketing",
+      "email-template",
+      "emails",
+      "html",
+      "html-emails",
+      "jdion",
+      "responsive-email"
+    ]
+  },
+  {
+    "name": "awesome-human-pose-estimation",
+    "full_name": "cbsudux/awesome-human-pose-estimation",
+    "html_url": "https://github.com/cbsudux/awesome-human-pose-estimation",
+    "description": "A collection of awesome resources in Human Pose estimation.",
+    "stars": 2453,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "2d-human-pose",
+      "3d-human-pose",
+      "awesome-list",
+      "computer-vision",
+      "deep-learning",
+      "deep-learning-papers",
+      "human-pose-estimation",
+      "pose-estimation"
+    ]
+  },
+  {
+    "name": "awesome-images",
+    "full_name": "heyalexej/awesome-images",
+    "html_url": "https://github.com/heyalexej/awesome-images",
+    "description": "A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.",
+    "stars": 2450,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-TTRSS",
+    "full_name": "HenryQW/Awesome-TTRSS",
+    "html_url": "https://github.com/HenryQW/Awesome-TTRSS",
+    "description": "\ud83d\udc0b Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.",
+    "stars": 2447,
+    "updated_at": "2025-01-05",
+    "language": "PHP",
+    "topics": [
+      "docker",
+      "feedly",
+      "fever",
+      "mercury-parser",
+      "rss-feed",
+      "rss-reader",
+      "tt-rss",
+      "ttrss"
+    ]
+  },
+  {
+    "name": "awesome-python3-webapp",
+    "full_name": "michaelliao/awesome-python3-webapp",
+    "html_url": "https://github.com/michaelliao/awesome-python3-webapp",
+    "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7",
+    "stars": 2441,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Crowd-Counting",
+    "full_name": "gjy3035/Awesome-Crowd-Counting",
+    "html_url": "https://github.com/gjy3035/Awesome-Crowd-Counting",
+    "description": "Awesome Crowd Counting",
+    "stars": 2436,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "crowd-analysis",
+      "crowd-counting"
+    ]
+  },
+  {
+    "name": "awesome-angularjs",
+    "full_name": "gianarb/awesome-angularjs",
+    "html_url": "https://github.com/gianarb/awesome-angularjs",
+    "description": ":cyclone: A list of awesome AngularJs services, directives, utilities and resources.",
+    "stars": 2433,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-blockchain-rust",
+    "full_name": "rust-in-blockchain/awesome-blockchain-rust",
+    "html_url": "https://github.com/rust-in-blockchain/awesome-blockchain-rust",
+    "description": "Collect libraries and packages about blockchain/cryptography in Rust",
+    "stars": 2433,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "blockchain",
+      "consensus",
+      "cryptography",
+      "p2p",
+      "rust"
+    ]
+  },
+  {
+    "name": "vue-awesome",
+    "full_name": "Justineo/vue-awesome",
+    "html_url": "https://github.com/Justineo/vue-awesome",
+    "description": "Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.",
+    "stars": 2430,
+    "updated_at": "2024-12-27",
+    "language": "JavaScript",
+    "topics": [
+      "font-awesome",
+      "icon",
+      "svg",
+      "vue"
+    ]
+  },
+  {
+    "name": "awesome-resty",
+    "full_name": "bungle/awesome-resty",
+    "html_url": "https://github.com/bungle/awesome-resty",
+    "description": "A List of Quality OpenResty Libraries, and Resources.",
+    "stars": 2423,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-puppeteer",
+    "full_name": "transitive-bullshit/awesome-puppeteer",
+    "html_url": "https://github.com/transitive-bullshit/awesome-puppeteer",
+    "description": "A curated list of awesome puppeteer resources.",
+    "stars": 2422,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "automation",
+      "awesome",
+      "awesome-list",
+      "crawling",
+      "headless-chrome",
+      "puppeteer",
+      "scraping"
+    ]
+  },
+  {
+    "name": "awesome-cordova-plugins",
+    "full_name": "danielsogl/awesome-cordova-plugins",
+    "html_url": "https://github.com/danielsogl/awesome-cordova-plugins",
+    "description": "Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. ",
+    "stars": 2416,
+    "updated_at": "2025-01-01",
+    "language": "TypeScript",
+    "topics": [
+      "angular",
+      "cordova",
+      "cordova-plugin",
+      "ionic",
+      "ionic-framework"
+    ]
+  },
+  {
+    "name": "awesome-typst",
+    "full_name": "qjcg/awesome-typst",
+    "html_url": "https://github.com/qjcg/awesome-typst",
+    "description": "Awesome Typst Links",
+    "stars": 2409,
+    "updated_at": "2025-01-06",
+    "language": "Emacs Lisp",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "typst"
+    ]
+  },
+  {
+    "name": "awesome-comment",
+    "full_name": "Blankj/awesome-comment",
+    "html_url": "https://github.com/Blankj/awesome-comment",
+    "description": ":boom: Funny comments",
+    "stars": 2408,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "comment",
+      "comments"
+    ]
+  },
+  {
+    "name": "awesome-peer-to-peer",
+    "full_name": "kgryte/awesome-peer-to-peer",
+    "html_url": "https://github.com/kgryte/awesome-peer-to-peer",
+    "description": "A list of peer-to-peer resources.",
+    "stars": 2404,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "p2p",
+      "peer-to-peer",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome_nested_set",
+    "full_name": "collectiveidea/awesome_nested_set",
+    "html_url": "https://github.com/collectiveidea/awesome_nested_set",
+    "description": "An awesome replacement for acts_as_nested_set and better_nested_set.",
+    "stars": 2401,
+    "updated_at": "2025-01-02",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "name": "awesome-italia-remote",
+    "full_name": "italiaremote/awesome-italia-remote",
+    "html_url": "https://github.com/italiaremote/awesome-italia-remote",
+    "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "stars": 2400,
+    "updated_at": "2025-01-02",
+    "language": "Go",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "italy",
+      "jobs",
+      "list",
+      "remote",
+      "remote-jobs"
+    ]
+  },
+  {
+    "name": "awesome-virtual-try-on",
+    "full_name": "minar09/awesome-virtual-try-on",
+    "html_url": "https://github.com/minar09/awesome-virtual-try-on",
+    "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
+    "stars": 2399,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "2d-virtual-try-on",
+      "3d-virtual-try-on",
+      "awesome-list",
+      "awesome-lists",
+      "cloth",
+      "collection",
+      "curated",
+      "curated-list",
+      "fashion",
+      "fashion-tech",
+      "garment",
+      "image",
+      "image-based",
+      "multi-pose",
+      "multi-pose-guided",
+      "try-on",
+      "video",
+      "video-virtual-try-on",
+      "virtual-try-on",
+      "vton"
+    ]
+  },
+  {
+    "name": "Awesome-Cybersecurity-Handbooks",
+    "full_name": "0xsyr0/Awesome-Cybersecurity-Handbooks",
+    "html_url": "https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks",
+    "description": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
+    "stars": 2397,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "capture-the-flag",
+      "ctf",
+      "cybersecurity",
+      "handbooks",
+      "infosec",
+      "offensive",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting",
+      "red-teaming",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-software-architecture",
+    "full_name": "simskij/awesome-software-architecture",
+    "html_url": "https://github.com/simskij/awesome-software-architecture",
+    "description": "A curated list of resources on software architecture",
+    "stars": 2396,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "software-architecture"
+    ]
+  },
+  {
+    "name": "awesome-vector-tiles",
+    "full_name": "mapbox/awesome-vector-tiles",
+    "html_url": "https://github.com/mapbox/awesome-vector-tiles",
+    "description": "Awesome implementations of the Mapbox Vector Tile specification",
+    "stars": 2394,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "AwesomePerfCpp",
+    "full_name": "fenbf/AwesomePerfCpp",
+    "html_url": "https://github.com/fenbf/AwesomePerfCpp",
+    "description": "A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.",
+    "stars": 2390,
+    "updated_at": "2024-12-27",
+    "language": "CSS",
+    "topics": []
+  },
+  {
+    "name": "awesome-jellyfin",
+    "full_name": "awesome-jellyfin/awesome-jellyfin",
+    "html_url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+    "description": "A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)",
+    "stars": 2387,
+    "updated_at": "2025-01-06",
+    "language": "Shell",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "jellyfin"
+    ]
+  },
+  {
+    "name": "awesome-decision-tree-papers",
+    "full_name": "benedekrozemberczki/awesome-decision-tree-papers",
+    "html_url": "https://github.com/benedekrozemberczki/awesome-decision-tree-papers",
+    "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+    "stars": 2386,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": [
+      "cart",
+      "catboost",
+      "classification-model",
+      "classification-trees",
+      "classifier",
+      "decision-tree",
+      "decision-tree-classifier",
+      "decision-tree-learning",
+      "decision-tree-model",
+      "ensemble-learning",
+      "gradient-boosting",
+      "gradient-boosting-machine",
+      "lightgbm",
+      "machine-learning",
+      "machine-learning-research",
+      "random-forest",
+      "regression-tree",
+      "statistical-learning",
+      "tree-ensemble",
+      "xgboost"
+    ]
+  },
+  {
+    "name": "Awesome-Pruning",
+    "full_name": "he-y/Awesome-Pruning",
+    "html_url": "https://github.com/he-y/Awesome-Pruning",
+    "description": "A curated list of neural network pruning resources.",
+    "stars": 2385,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "model-acceleration",
+      "model-compression",
+      "pruning"
+    ]
+  },
+  {
+    "name": "awesome-mysql",
+    "full_name": "shlomi-noach/awesome-mysql",
+    "html_url": "https://github.com/shlomi-noach/awesome-mysql",
+    "description": "A curated list of awesome MySQL software, libraries, tools and resources",
+    "stars": 2382,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-quantified-self",
+    "full_name": "woop/awesome-quantified-self",
+    "html_url": "https://github.com/woop/awesome-quantified-self",
+    "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
+    "stars": 2381,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "lists",
+      "quantified",
+      "quantified-self",
+      "self",
+      "tracking",
+      "wearables"
+    ]
+  },
+  {
+    "name": "awesome-dart",
+    "full_name": "yissachar/awesome-dart",
+    "html_url": "https://github.com/yissachar/awesome-dart",
+    "description": "A curated list of awesome Dart frameworks, libraries, and software",
+    "stars": 2378,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "dart",
+      "dart-frameworks",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-english",
+    "full_name": "yvoronoy/awesome-english",
+    "html_url": "https://github.com/yvoronoy/awesome-english",
+    "description": "A collection of awesome study resources for learners of English.",
+    "stars": 2366,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "english",
+      "english-resources",
+      "esl",
+      "learn-english"
+    ]
+  },
+  {
+    "name": "awesome-robotics-libraries",
+    "full_name": "jslee02/awesome-robotics-libraries",
+    "html_url": "https://github.com/jslee02/awesome-robotics-libraries",
+    "description": ":sunglasses: A curated list of robotics libraries and software",
+    "stars": 2362,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "machine-learning",
+      "motion-planning",
+      "multibody-dynamics",
+      "optimization",
+      "robotics",
+      "robotics-libraries",
+      "simulation",
+      "slam"
+    ]
+  },
+  {
+    "name": "awesome-repos",
+    "full_name": "pawelborkar/awesome-repos",
+    "html_url": "https://github.com/pawelborkar/awesome-repos",
+    "description": "A curated list of GitHub Repositories full of FREE Resources.",
+    "stars": 2361,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-repos",
+      "awesome-repositories",
+      "free",
+      "github",
+      "github-repos",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "hacktorberfest",
+      "repos",
+      "repositories",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-logseq",
+    "full_name": "logseq/awesome-logseq",
+    "html_url": "https://github.com/logseq/awesome-logseq",
+    "description": "Awesome Logseq resources created by the community <3",
+    "stars": 2361,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-network-automation",
+    "full_name": "networktocode/awesome-network-automation",
+    "html_url": "https://github.com/networktocode/awesome-network-automation",
+    "description": "Curated Awesome list about Network Automation",
+    "stars": 2360,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-avalonia",
+    "full_name": "AvaloniaCommunity/awesome-avalonia",
+    "html_url": "https://github.com/AvaloniaCommunity/awesome-avalonia",
+    "description": "A collection of interesting libraries and tools for Avalonia project.",
+    "stars": 2358,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "avalonia",
+      "avaloniaui",
+      "awsome",
+      "awsome-list",
+      "csharp",
+      "dotnet"
+    ]
+  },
+  {
+    "name": "awesome-seo",
+    "full_name": "bmpi-dev/awesome-seo",
+    "html_url": "https://github.com/bmpi-dev/awesome-seo",
+    "description": "Google SEO Research and Web Traffic Monetization",
+    "stars": 2355,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ahrefs-seo",
+      "awesome",
+      "awesome-list",
+      "best-practices",
+      "collections",
+      "google",
+      "google-seo",
+      "marketing",
+      "moz-seo",
+      "optimization",
+      "search-engine",
+      "search-engine-optimization",
+      "semrush",
+      "seo",
+      "seo-twitter",
+      "tips"
+    ]
+  },
+  {
+    "name": "awesome-raspberry-pi-zh",
+    "full_name": "wwj718/awesome-raspberry-pi-zh",
+    "html_url": "https://github.com/wwj718/awesome-raspberry-pi-zh",
+    "description": "\u6811\u8393\u6d3e(Raspberry Pi )\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248 , \u5305\u62ec\u5de5\u5177\u3001\u9879\u76ee\u3001\u955c\u50cf\u3001\u8d44\u6e90\u7b49",
+    "stars": 2353,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "raspberry-pi"
+    ]
+  },
+  {
+    "name": "awesome-docsify",
+    "full_name": "docsifyjs/awesome-docsify",
+    "html_url": "https://github.com/docsifyjs/awesome-docsify",
+    "description": "\ud83d\udc96 A curated list of awesome things related to docsify",
+    "stars": 2351,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "docsify",
+      "docsify-plugin"
+    ]
+  },
+  {
+    "name": "awesome-interview",
+    "full_name": "HZFE/awesome-interview",
+    "html_url": "https://github.com/HZFE/awesome-interview",
+    "description": "\u5251\u6307\u524d\u7aef Offer",
+    "stars": 2351,
+    "updated_at": "2025-01-03",
+    "language": "HTML",
+    "topics": [
+      "algorithms",
+      "front-end",
+      "interview-questions",
+      "programming",
+      "web"
+    ]
+  },
+  {
+    "name": "awesome-typescript-loader",
+    "full_name": "s-panferov/awesome-typescript-loader",
+    "html_url": "https://github.com/s-panferov/awesome-typescript-loader",
+    "description": "Awesome TypeScript loader for webpack",
+    "stars": 2350,
+    "updated_at": "2024-12-14",
+    "language": "TypeScript",
+    "topics": [
+      "loader",
+      "typescript",
+      "webpack"
+    ]
+  },
+  {
+    "name": "awesome-community-detection",
+    "full_name": "benedekrozemberczki/awesome-community-detection",
+    "html_url": "https://github.com/benedekrozemberczki/awesome-community-detection",
+    "description": "A curated list of community detection research papers with implementations. ",
+    "stars": 2343,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": [
+      "bigclam",
+      "clustering",
+      "community-detection",
+      "data-science",
+      "deep-learning",
+      "deepwalk",
+      "dimensionality-reduction",
+      "embedding",
+      "factorization",
+      "graph-clustering",
+      "igraph",
+      "machine-learning",
+      "matrix-factorization",
+      "network-analysis",
+      "network-clustering",
+      "network-science",
+      "networkx",
+      "node2vec",
+      "social-network",
+      "unsupervised-learning"
+    ]
+  },
+  {
+    "name": "awesome-functional-python",
+    "full_name": "sfermigier/awesome-functional-python",
+    "html_url": "https://github.com/sfermigier/awesome-functional-python",
+    "description": "A curated list of awesome things related to functional programming in Python.",
+    "stars": 2341,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "functional-programming",
+      "python"
+    ]
+  },
+  {
+    "name": "awesome-product-design",
+    "full_name": "ttt30ga/awesome-product-design",
+    "html_url": "https://github.com/ttt30ga/awesome-product-design",
+    "description": "A collection of bookmarks, resources, articles for product designers.",
+    "stars": 2336,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "article",
+      "awesome",
+      "awesome-list",
+      "bookmark",
+      "design",
+      "design-resource",
+      "font",
+      "iot",
+      "list",
+      "product-design",
+      "stock",
+      "tools",
+      "ui",
+      "ux"
+    ]
+  },
+  {
+    "name": "awesome-unity3d",
+    "full_name": "insthync/awesome-unity3d",
+    "html_url": "https://github.com/insthync/awesome-unity3d",
+    "description": "A categorized collection of awesome opensource unity3d repos",
+    "stars": 2335,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Domain-LLM",
+    "full_name": "luban-agi/Awesome-Domain-LLM",
+    "html_url": "https://github.com/luban-agi/Awesome-Domain-LLM",
+    "description": "\u6536\u96c6\u548c\u68b3\u7406\u5782\u76f4\u9886\u57df\u7684\u5f00\u6e90\u6a21\u578b\u3001\u6570\u636e\u96c6\u53ca\u8bc4\u6d4b\u57fa\u51c6\u3002",
+    "stars": 2329,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "dataset",
+      "llm",
+      "nlp",
+      "paper-list"
+    ]
+  },
+  {
+    "name": "awesome-ai-devtools",
+    "full_name": "jamesmurdza/awesome-ai-devtools",
+    "html_url": "https://github.com/jamesmurdza/awesome-ai-devtools",
+    "description": "Curated list of AI-powered developer tools.",
+    "stars": 2324,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-canbus",
+    "full_name": "iDoka/awesome-canbus",
+    "html_url": "https://github.com/iDoka/awesome-canbus",
+    "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+    "stars": 2321,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "automotive",
+      "automotive-security",
+      "awesome",
+      "awesome-list",
+      "bus-monitoring",
+      "can",
+      "can-bus",
+      "can-fd",
+      "canbus",
+      "canutils",
+      "car-hacking",
+      "elm327",
+      "embedded",
+      "j2534",
+      "lawicel",
+      "logger",
+      "obd2",
+      "slcan",
+      "sniffer",
+      "socketcan"
+    ]
+  },
+  {
+    "name": "awesome-editorjs",
+    "full_name": "editor-js/awesome-editorjs",
+    "html_url": "https://github.com/editor-js/awesome-editorjs",
+    "description": "\ud83e\udd29 A curated list of awesome Editor.js tools, libraries and resources.",
+    "stars": 2312,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "editorjs",
+      "libraries",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-neural-rendering",
+    "full_name": "weihaox/awesome-neural-rendering",
+    "html_url": "https://github.com/weihaox/awesome-neural-rendering",
+    "description": "Resources of Neural Rendering",
+    "stars": 2309,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "computer-graphics",
+      "computer-vision",
+      "neural-rendering",
+      "neural-representations"
+    ]
+  },
+  {
+    "name": "awesome-gan-for-medical-imaging",
+    "full_name": "xinario/awesome-gan-for-medical-imaging",
+    "html_url": "https://github.com/xinario/awesome-gan-for-medical-imaging",
+    "description": "Awesome GAN for Medical Imaging",
+    "stars": 2306,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "ct-denoising",
+      "deeplearning",
+      "detection",
+      "gan",
+      "generative-adversarial-network",
+      "medical-image-synthesis",
+      "medical-imaging",
+      "reconstruction",
+      "registration",
+      "segmentation",
+      "super-resolution"
+    ]
+  },
+  {
+    "name": "windows11",
+    "full_name": "awesome-windows11/windows11",
+    "html_url": "https://github.com/awesome-windows11/windows11",
+    "description": "\ud83c\udf0e Windows 11 Settings, Tweaks, Scripts",
+    "stars": 2302,
+    "updated_at": "2025-01-06",
+    "language": "Batchfile",
+    "topics": [
+      "flighthub",
+      "powershell",
+      "scripts",
+      "tweaks",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "windows10",
+      "windows11"
+    ]
+  },
+  {
+    "name": "awesome-visual-slam",
+    "full_name": "tzutalin/awesome-visual-slam",
+    "html_url": "https://github.com/tzutalin/awesome-visual-slam",
+    "description": ":books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers",
+    "stars": 2286,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "books",
+      "computervision",
+      "learning",
+      "point-cloud",
+      "reconstruction",
+      "ros",
+      "slam"
+    ]
+  },
+  {
+    "name": "awesome-geojson",
+    "full_name": "tmcw/awesome-geojson",
+    "html_url": "https://github.com/tmcw/awesome-geojson",
+    "description": "GeoJSON utilities that will make your life easier.",
+    "stars": 2278,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "geojson",
+      "list"
+    ]
+  },
+  {
+    "name": "jetpack-compose-awesome",
+    "full_name": "jetpack-compose/jetpack-compose-awesome",
+    "html_url": "https://github.com/jetpack-compose/jetpack-compose-awesome",
+    "description": "\ud83d\udcdd A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
+    "stars": 2263,
+    "updated_at": "2025-01-05",
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "android-jetpack",
+      "awesome",
+      "jetpack-compose",
+      "kotlin"
+    ]
+  },
+  {
+    "name": "awesome-ChatGPT-repositories",
+    "full_name": "taishi-i/awesome-ChatGPT-repositories",
+    "html_url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+    "description": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT",
+    "stars": 2263,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-api",
+      "gpt-3",
+      "gpt-4",
+      "gpt-o1",
+      "llm",
+      "nlp",
+      "openai"
+    ]
+  },
+  {
+    "name": "Awesome-AutoDL",
+    "full_name": "D-X-Y/Awesome-AutoDL",
+    "html_url": "https://github.com/D-X-Y/Awesome-AutoDL",
+    "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis)",
+    "stars": 2260,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "autodl",
+      "automl",
+      "awesome",
+      "deep-learning",
+      "hyper-parameter-optimization",
+      "nas",
+      "neural-architecture-search"
+    ]
+  },
+  {
+    "name": "awesome-qt-qml",
+    "full_name": "mikalv/awesome-qt-qml",
+    "html_url": "https://github.com/mikalv/awesome-qt-qml",
+    "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
+    "stars": 2258,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cpp",
+      "javascript",
+      "qml",
+      "qml-bindings",
+      "qpm",
+      "qt",
+      "qt-quick",
+      "qt4",
+      "qt5",
+      "qtcreator",
+      "qtquick",
+      "qtquick-controls"
+    ]
+  },
+  {
+    "name": "awesome-chatgpt",
+    "full_name": "eon01/awesome-chatgpt",
+    "html_url": "https://github.com/eon01/awesome-chatgpt",
+    "description": "\ud83e\udde0 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. \ud83c\udf1f Please consider supporting this project by giving it a star.",
+    "stars": 2255,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatbot",
+      "chatgpt",
+      "chatgpt-api",
+      "chatgpt-api-wrapper",
+      "chatgpt-browser-extension",
+      "chatgpt-chrome-extension",
+      "chatgpt-firefox-extension",
+      "chatgpt-go",
+      "chatgpt-sdk",
+      "chatgpt3",
+      "machine-learning",
+      "machinelearning",
+      "nlp",
+      "openai",
+      "openai-api",
+      "python"
+    ]
+  },
+  {
+    "name": "awesome-systematic-trading",
+    "full_name": "wangzhe3224/awesome-systematic-trading",
+    "html_url": "https://github.com/wangzhe3224/awesome-systematic-trading",
+    "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more \\| \u91cf\u5316\u4ea4\u6613 \\| \u91cf\u5316\u6295\u8d44",
+    "stars": 2249,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "algorithmic-trading",
+      "alpha",
+      "awesome-list",
+      "backtesting",
+      "bitcoin",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "finance",
+      "finances",
+      "golang",
+      "python",
+      "quant",
+      "quantitative-trading",
+      "rust",
+      "systematic-trading",
+      "systematic-trading-strategies",
+      "trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies"
+    ]
+  },
+  {
+    "name": "awesome-sentence-embedding",
+    "full_name": "Separius/awesome-sentence-embedding",
+    "html_url": "https://github.com/Separius/awesome-sentence-embedding",
+    "description": " A curated list of pretrained sentence and word embedding models",
+    "stars": 2237,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bert",
+      "contextualized-representation",
+      "cross-lingual",
+      "embedding-models",
+      "language-model",
+      "natural-language",
+      "nlp",
+      "pretrained-embedding",
+      "pretrained-language-model",
+      "pretrained-models",
+      "sentence-embeddings",
+      "sentence-representations",
+      "subword-models",
+      "unsupervised-learning",
+      "word-embeddings",
+      "wordembedding"
+    ]
+  },
+  {
+    "name": "awesome_Chinese_medical_NLP",
+    "full_name": "GanjinZero/awesome_Chinese_medical_NLP",
+    "html_url": "https://github.com/GanjinZero/awesome_Chinese_medical_NLP",
+    "description": "\u4e2d\u6587\u533b\u5b66NLP\u516c\u5f00\u8d44\u6e90\u6574\u7406\uff1a\u672f\u8bed\u96c6/\u8bed\u6599\u5e93/\u8bcd\u5411\u91cf/\u9884\u8bad\u7ec3\u6a21\u578b/\u77e5\u8bc6\u56fe\u8c31/\u547d\u540d\u5b9e\u4f53\u8bc6\u522b/QA/\u4fe1\u606f\u62bd\u53d6/\u6a21\u578b/\u8bba\u6587/etc",
+    "stars": 2236,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "dataset",
+      "dictionary",
+      "knowledge-graph",
+      "medical",
+      "model",
+      "nlp",
+      "resource"
+    ]
+  },
+  {
+    "name": "Awesome-Text-to-Image",
+    "full_name": "Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "html_url": "https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "description": "(\u0dc6`\ua4b3\u00b4\u0dc6) A Survey on Text-to-Image Generation/Synthesis.",
+    "stars": 2236,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awseome-list",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "image-synthesis",
+      "multimodal",
+      "multimodal-deep-learning",
+      "survey",
+      "text-to-face",
+      "text-to-image"
+    ]
+  },
+  {
+    "name": "awesome-eventstorming",
+    "full_name": "mariuszgil/awesome-eventstorming",
+    "html_url": "https://github.com/mariuszgil/awesome-eventstorming",
+    "description": "Awesome EventStorming",
+    "stars": 2234,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "articles",
+      "eventstorming",
+      "knowledge",
+      "links",
+      "videos",
+      "workshop-materials"
+    ]
+  },
+  {
+    "name": "Awesome-Graph-Neural-Networks",
+    "full_name": "TrustAGI-Lab/Awesome-Graph-Neural-Networks",
+    "html_url": "https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks",
+    "description": "Paper Lists for Graph Neural Networks",
+    "stars": 2230,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "convolutional-networks",
+      "deep-learning",
+      "generated-graphs",
+      "graph-attention",
+      "graph-auto-encoder",
+      "graph-network"
+    ]
+  },
+  {
+    "name": "awesome-dotnet-maui",
+    "full_name": "jsuarezruiz/awesome-dotnet-maui",
+    "html_url": "https://github.com/jsuarezruiz/awesome-dotnet-maui",
+    "description": "A curated list of awesome .NET MAUI libraries and resources.",
+    "stars": 2229,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "dotnet",
+      "dotnet-maui",
+      "maui"
+    ]
+  },
+  {
+    "name": "awesome-certificates",
+    "full_name": "PanXProject/awesome-certificates",
+    "html_url": "https://github.com/PanXProject/awesome-certificates",
+    "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
+    "stars": 2228,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "badges",
+      "career",
+      "certificate",
+      "courses",
+      "free",
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "awesome-regression-testing",
+    "full_name": "mojoaxel/awesome-regression-testing",
+    "html_url": "https://github.com/mojoaxel/awesome-regression-testing",
+    "description": "\ud83d\udd76\ufe0f A curated list of resources around the topic: visual regression testing",
+    "stars": 2219,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "test-automation",
+      "testing",
+      "testing-tools"
+    ]
+  },
+  {
+    "name": "Awesome-LLM-Reasoning",
+    "full_name": "atfortes/Awesome-LLM-Reasoning",
+    "html_url": "https://github.com/atfortes/Awesome-LLM-Reasoning",
+    "description": "Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 \ud83c\udf53",
+    "stars": 2214,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "chain-of-thought",
+      "chatgpt",
+      "cot",
+      "gpt",
+      "gpt-4o",
+      "in-context-learning",
+      "insight-v",
+      "language-models",
+      "marco-o1",
+      "mllm",
+      "multimodal",
+      "openai-o1",
+      "papers",
+      "prompt",
+      "prompt-engineering",
+      "reasoning",
+      "strawberry"
+    ]
+  },
+  {
+    "name": "awesome-autonomous-vehicles",
+    "full_name": "manfreddiaz/awesome-autonomous-vehicles",
+    "html_url": "https://github.com/manfreddiaz/awesome-autonomous-vehicles",
+    "description": "Curated List of Self-Driving Cars and Autonomous Vehicles Resources",
+    "stars": 2210,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "autonomous-cars",
+      "autonomous-vehicles",
+      "car-driving",
+      "computer-vision",
+      "deep-learning"
+    ]
+  },
+  {
+    "name": "awesome-python-webapp",
+    "full_name": "michaelliao/awesome-python-webapp",
+    "html_url": "https://github.com/michaelliao/awesome-python-webapp",
+    "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7\uff1a\u7f51\u7ad9+iOS App\u6e90\u7801",
+    "stars": 2203,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "python",
+      "python3"
+    ]
+  },
+  {
+    "name": "awesome",
+    "full_name": "chartjs/awesome",
+    "html_url": "https://github.com/chartjs/awesome",
+    "description": "A curated list of awesome Chart.js resources and libraries",
+    "stars": 2199,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "chartjs",
+      "charts",
+      "integrations",
+      "plugins",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-layers",
+    "full_name": "mthenw/awesome-layers",
+    "html_url": "https://github.com/mthenw/awesome-layers",
+    "description": "\u03bb A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev",
+    "stars": 2198,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "aws",
+      "aws-lambda",
+      "cloud",
+      "serverless",
+      "serverless-application-model",
+      "serverless-framework",
+      "serverless-functions"
+    ]
+  },
+  {
+    "name": "awesome-opengl",
+    "full_name": "eug/awesome-opengl",
+    "html_url": "https://github.com/eug/awesome-opengl",
+    "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+    "stars": 2194,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "computer-graphics",
+      "game-development",
+      "glsl-editors",
+      "graphics-pipeline",
+      "lists",
+      "opengl",
+      "opengl-library",
+      "opengl-tutorial",
+      "video-tutorial"
+    ]
+  },
+  {
+    "name": "awesome-opensource-data-engineering",
+    "full_name": "gunnarmorling/awesome-opensource-data-engineering",
+    "html_url": "https://github.com/gunnarmorling/awesome-opensource-data-engineering",
+    "description": "An Awesome List of Open-Source Data Engineering Projects",
+    "stars": 2194,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "data-engineering"
+    ]
+  },
+  {
+    "name": "awesome-engineering-management",
+    "full_name": "engineering-management/awesome-engineering-management",
+    "html_url": "https://github.com/engineering-management/awesome-engineering-management",
+    "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
+    "stars": 2193,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "engineering-management",
+      "leadership",
+      "productivity",
+      "project-management"
+    ]
+  },
+  {
+    "name": "awesome-mobx",
+    "full_name": "mobxjs/awesome-mobx",
+    "html_url": "https://github.com/mobxjs/awesome-mobx",
+    "description": "A collection of awesome things regarding MobX.",
+    "stars": 2188,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "vertx-awesome",
+    "full_name": "vert-x3/vertx-awesome",
+    "html_url": "https://github.com/vert-x3/vertx-awesome",
+    "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
+    "stars": 2185,
+    "updated_at": "2024-12-27",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-mqtt",
+    "full_name": "hobbyquaker/awesome-mqtt",
+    "html_url": "https://github.com/hobbyquaker/awesome-mqtt",
+    "description": "A curated list of MQTT related stuff. :sparkles:",
+    "stars": 2176,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "internet-of-things",
+      "list",
+      "mqtt",
+      "smarthome"
+    ]
+  },
+  {
+    "name": "awesome-iot-hacks",
+    "full_name": "nebgnahz/awesome-iot-hacks",
+    "html_url": "https://github.com/nebgnahz/awesome-iot-hacks",
+    "description": "A Collection of Hacks in IoT Space so that we can address them (hopefully).",
+    "stars": 2166,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "hack",
+      "iot",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-wm-widgets",
+    "full_name": "streetturtle/awesome-wm-widgets",
+    "html_url": "https://github.com/streetturtle/awesome-wm-widgets",
+    "description": "Widgets for Awesome Window Manager",
+    "stars": 2165,
+    "updated_at": "2025-01-04",
+    "language": "Lua",
+    "topics": [
+      "awesome-wm-widgets",
+      "awesomewm",
+      "battery-widget",
+      "bitbucket",
+      "gerrit",
+      "jira",
+      "spotify",
+      "widgets"
+    ]
+  },
+  {
+    "name": "awesome-gpt4",
+    "full_name": "radi-cho/awesome-gpt4",
+    "html_url": "https://github.com/radi-cho/awesome-gpt4",
+    "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+    "stars": 2157,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "gpt-4"
+    ]
+  },
+  {
+    "name": "awesome-serverless",
+    "full_name": "pmuens/awesome-serverless",
+    "html_url": "https://github.com/pmuens/awesome-serverless",
+    "description": "DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.",
+    "stars": 2147,
+    "updated_at": "2024-12-25",
+    "language": "Unknown",
+    "topics": [
+      "serverless",
+      "serverless-applications",
+      "serverless-architectures",
+      "serverless-framework",
+      "serverless-functions",
+      "serverless-plugin"
+    ]
+  },
+  {
+    "name": "Awesome-Python-Scripts",
+    "full_name": "hastagAB/Awesome-Python-Scripts",
+    "html_url": "https://github.com/hastagAB/Awesome-Python-Scripts",
+    "description": "A Curated list of Awesome Python Scripts that Automate Stuffs. ",
+    "stars": 2146,
+    "updated_at": "2025-01-04",
+    "language": "Python",
+    "topics": [
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "awesome-dash",
+    "full_name": "ucg8j/awesome-dash",
+    "html_url": "https://github.com/ucg8j/awesome-dash",
+    "description": "A curated list of awesome Dash (plotly) resources",
+    "stars": 2143,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "plotly",
+      "python"
+    ]
+  },
+  {
+    "name": "Awesome-LLM-KG",
+    "full_name": "RManLuo/Awesome-LLM-KG",
+    "html_url": "https://github.com/RManLuo/Awesome-LLM-KG",
+    "description": "Awesome papers about unifying LLMs and KGs",
+    "stars": 2141,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awsome",
+      "chatgpt",
+      "gpt-4",
+      "kg",
+      "knowledge-graph",
+      "language-model",
+      "large-language-model",
+      "llm",
+      "survey"
+    ]
+  },
+  {
+    "name": "awesome-github",
+    "full_name": "AntBranch/awesome-github",
+    "html_url": "https://github.com/AntBranch/awesome-github",
+    "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  \u6536\u96c6\u8fd9\u4e2a\u5217\u8868\uff0c\u53ea\u662f\u4e3a\u4e86\u66f4\u597d\u5730\u4f7f\u7528GitHub,\u6b22\u8fce\u63d0\u4ea4pr\u548cissue\u3002",
+    "stars": 2139,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome-github",
+      "awesome-list",
+      "git",
+      "gitbook",
+      "github",
+      "github-api",
+      "github-card",
+      "github-client",
+      "github-extension",
+      "github-pages",
+      "github-rank",
+      "github-stars",
+      "github-trending",
+      "travis-ci"
+    ]
+  },
+  {
+    "name": "awesome_time_series_in_python",
+    "full_name": "MaxBenChrist/awesome_time_series_in_python",
+    "html_url": "https://github.com/MaxBenChrist/awesome_time_series_in_python",
+    "description": "This curated list contains  python packages for time series analysis",
+    "stars": 2129,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "machine-learning",
+      "python",
+      "statistics",
+      "time-series"
+    ]
+  },
+  {
+    "name": "awesome-research",
+    "full_name": "emptymalei/awesome-research",
+    "html_url": "https://github.com/emptymalei/awesome-research",
+    "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
+    "stars": 2128,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesomeness",
+      "list",
+      "research",
+      "research-tool",
+      "research-tools",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-developer-experience",
+    "full_name": "workos/awesome-developer-experience",
+    "html_url": "https://github.com/workos/awesome-developer-experience",
+    "description": "\ud83e\udd18 A curated list of DX (Developer Experience) resources",
+    "stars": 2126,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-devops",
+    "full_name": "wmariuss/awesome-devops",
+    "html_url": "https://github.com/wmariuss/awesome-devops",
+    "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+    "stars": 2123,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "collections",
+      "development",
+      "devops",
+      "production",
+      "productivity",
+      "resources",
+      "sre",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-github-templates",
+    "full_name": "devspace/awesome-github-templates",
+    "html_url": "https://github.com/devspace/awesome-github-templates",
+    "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
+    "stars": 2122,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-business-intelligence",
+    "full_name": "thenaturalist/awesome-business-intelligence",
+    "html_url": "https://github.com/thenaturalist/awesome-business-intelligence",
+    "description": "Actively curated list of awesome BI tools. PRs welcome!",
+    "stars": 2109,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "business-intelligence",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "etl",
+      "sql"
+    ]
+  },
+  {
+    "name": "awesome-cloud-security",
+    "full_name": "4ndersonLin/awesome-cloud-security",
+    "html_url": "https://github.com/4ndersonLin/awesome-cloud-security",
+    "description": "\ud83d\udee1\ufe0f Awesome Cloud Security Resources \u2694\ufe0f",
+    "stars": 2107,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "aws",
+      "aws-security",
+      "azure",
+      "azure-security",
+      "cloud-computing",
+      "cloud-security",
+      "cybersecurity",
+      "gcp",
+      "gcp-security",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-cloud-native",
+    "full_name": "rootsongjc/awesome-cloud-native",
+    "html_url": "https://github.com/rootsongjc/awesome-cloud-native",
+    "description": "A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/",
+    "stars": 2105,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cloud-native",
+      "containers",
+      "devops",
+      "microservices"
+    ]
+  },
+  {
+    "name": "awesome-web-archiving",
+    "full_name": "iipc/awesome-web-archiving",
+    "html_url": "https://github.com/iipc/awesome-web-archiving",
+    "description": "An Awesome List for getting started with web archiving",
+    "stars": 2100,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "webarchiving"
+    ]
+  },
+  {
+    "name": "awesome-streamlit",
+    "full_name": "MarcSkovMadsen/awesome-streamlit",
+    "html_url": "https://github.com/MarcSkovMadsen/awesome-streamlit",
+    "description": "The purpose of this project is to share knowledge on how awesome Streamlit is and can be",
+    "stars": 2098,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "analytics",
+      "apps",
+      "awesome-list",
+      "data",
+      "data-science",
+      "exploration",
+      "finance",
+      "fun",
+      "innovation",
+      "machine-learning",
+      "mathematics",
+      "models",
+      "python",
+      "streamlit",
+      "trading"
+    ]
+  },
+  {
+    "name": "awesome-engineering-team-management",
+    "full_name": "kdeldycke/awesome-engineering-team-management",
+    "html_url": "https://github.com/kdeldycke/awesome-engineering-team-management",
+    "description": "\ud83d\udc54 How to transition from software development to engineering management",
+    "stars": 2097,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "career",
+      "compensation",
+      "cto",
+      "culture",
+      "engineering-team",
+      "executive-management",
+      "hiring",
+      "leadership",
+      "management",
+      "motivation",
+      "onboarding",
+      "politics",
+      "product-management",
+      "project-management",
+      "recruitment",
+      "systems",
+      "transition"
+    ]
+  },
+  {
+    "name": "awesome-jvm",
+    "full_name": "deephacks/awesome-jvm",
+    "html_url": "https://github.com/deephacks/awesome-jvm",
+    "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
+    "stars": 2092,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-browser-exploit",
+    "full_name": "Escapingbug/awesome-browser-exploit",
+    "html_url": "https://github.com/Escapingbug/awesome-browser-exploit",
+    "description": "awesome list of browser exploitation tutorials",
+    "stars": 2073,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "browser-exploitation"
+    ]
+  },
+  {
+    "name": "awesome-argo",
+    "full_name": "akuity/awesome-argo",
+    "html_url": "https://github.com/akuity/awesome-argo",
+    "description": "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)",
+    "stars": 2067,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "argo",
+      "argo-events",
+      "argo-rollouts",
+      "argo-workflows",
+      "argocd",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "cloud-native",
+      "cncf",
+      "continuous-delivery",
+      "devops",
+      "gitops",
+      "infrastructure-as-code",
+      "kubernetes",
+      "machine-learning",
+      "mlops",
+      "workflow-engine",
+      "workflow-management",
+      "workflow-orchestration"
+    ]
+  },
+  {
+    "name": "awesome-consensus",
+    "full_name": "dgryski/awesome-consensus",
+    "html_url": "https://github.com/dgryski/awesome-consensus",
+    "description": "Awesome list for Paxos and friends",
+    "stars": 2066,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "consensus-algorithm",
+      "paxos",
+      "raft"
+    ]
+  },
+  {
+    "name": "Awesome-Chatbot",
+    "full_name": "fendouai/Awesome-Chatbot",
+    "html_url": "https://github.com/fendouai/Awesome-Chatbot",
+    "description": "Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =>:",
+    "stars": 2062,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "chatbot",
+      "corpus",
+      "seq2seq",
+      "seq2seq-chatbot",
+      "seq2seq-model",
+      "tensorflow",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "awesome-CocosCreator",
+    "full_name": "Leo501/awesome-CocosCreator",
+    "html_url": "https://github.com/Leo501/awesome-CocosCreator",
+    "description": "Cocos Creator \u6e38\u620f\u8d44\u6e90\u5408\u96c6",
+    "stars": 2057,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-gptlike-shellsite",
+    "full_name": "bleedline/Awesome-gptlike-shellsite",
+    "html_url": "https://github.com/bleedline/Awesome-gptlike-shellsite",
+    "description": "\u6df1\u5165\u63a2\u7d22\u7cbe\u9009\u7684\u5957\u58f3\u7ad9\u548c\u5fc5\u5907API\u8d44\u6e90\u3002\u672c\u6587\u4e3a\u521d\u5b66\u8005\u548c\u7ecf\u9a8c\u4e30\u5bcc\u7684\u8fd0\u8425\u8005\u63d0\u4f9b\u4e00\u7ad9\u5f0f\u6307\u5357\uff0c\u6db5\u76d6\u5e38\u89c1\u95ee\u9898\u89e3\u7b54\u548c\u57fa\u7840\u653b\u7565\uff0c\u52a9\u60a8\u8fc8\u5411\u5957\u58f3\u7ad9\u526f\u4e1a\u6210\u529f\u4e4b\u8def\u3002Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.",
+    "stars": 2057,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-wayland",
+    "full_name": "natpen/awesome-wayland",
+    "html_url": "https://github.com/natpen/awesome-wayland",
+    "description": "A curated list of Wayland code and resources.",
+    "stars": 2054,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "sway",
+      "swaywm",
+      "wayland",
+      "wayland-compositor",
+      "window-manager",
+      "wm"
+    ]
+  },
+  {
+    "name": "awesome-wagtail",
+    "full_name": "springload/awesome-wagtail",
+    "html_url": "https://github.com/springload/awesome-wagtail",
+    "description": "A curated list of awesome packages, articles, and other cool resources from the Wagtail community.",
+    "stars": 2053,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "cms",
+      "django-cms",
+      "hacktoberfest",
+      "python",
+      "wagtail"
+    ]
+  },
+  {
+    "name": "Awesome-Text2SQL",
+    "full_name": "eosphoros-ai/Awesome-Text2SQL",
+    "html_url": "https://github.com/eosphoros-ai/Awesome-Text2SQL",
+    "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL\u3001Text2API\u3001Text2Vis and more.",
+    "stars": 2049,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "datset",
+      "deep-learning",
+      "finetuning",
+      "hacktoberfest",
+      "hacktoberfest2024",
+      "llm",
+      "nl-to-sql",
+      "nl2sql",
+      "nlp",
+      "survey",
+      "test",
+      "text-to-sql",
+      "text2api",
+      "text2dsl",
+      "text2sql"
+    ]
+  },
+  {
+    "name": "vim-awesome",
+    "full_name": "vim-awesome/vim-awesome",
+    "html_url": "https://github.com/vim-awesome/vim-awesome",
+    "description": "Awesome Vim plugins from across the universe",
+    "stars": 2044,
+    "updated_at": "2025-01-02",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "awesome-papers",
+    "full_name": "huggingface/awesome-papers",
+    "html_url": "https://github.com/huggingface/awesome-papers",
+    "description": "Papers & presentation materials from Hugging Face's internal science day",
+    "stars": 2042,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "react-awesome-query-builder",
+    "full_name": "ukrbublik/react-awesome-query-builder",
+    "html_url": "https://github.com/ukrbublik/react-awesome-query-builder",
+    "description": "User-friendly query builder for React",
+    "stars": 2038,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "ant-design",
+      "antd",
+      "antdesign",
+      "filter",
+      "hacktoberfest",
+      "hacktoberfest2021",
+      "material-ui",
+      "mongo",
+      "query",
+      "query-builder",
+      "react",
+      "react-component",
+      "react-components",
+      "reactjs",
+      "sql",
+      "typescript"
+    ]
+  },
+  {
+    "name": "awesome-userscripts",
+    "full_name": "awesome-scripts/awesome-userscripts",
+    "html_url": "https://github.com/awesome-scripts/awesome-userscripts",
+    "description": "\ud83d\udcd6  A curated list of Awesome Userscripts.",
+    "stars": 2032,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "greasemonkey",
+      "list",
+      "privacy",
+      "userscripts",
+      "youtube"
+    ]
+  },
+  {
+    "name": "awesome-ml",
+    "full_name": "underlines/awesome-ml",
+    "html_url": "https://github.com/underlines/awesome-ml",
+    "description": "Curated list of useful LLM / Analytics / Datascience resources",
+    "stars": 2031,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-bootstrap-checkbox",
+    "full_name": "flatlogic/awesome-bootstrap-checkbox",
+    "html_url": "https://github.com/flatlogic/awesome-bootstrap-checkbox",
+    "description": "\u2714\ufe0fFont Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier",
+    "stars": 2030,
+    "updated_at": "2024-12-26",
+    "language": "CSS",
+    "topics": [
+      "bootstrap",
+      "bootstrap4",
+      "checkbox",
+      "font-awesome",
+      "nojs"
+    ]
+  },
+  {
+    "name": "awesome-cdk",
+    "full_name": "kalaiser/awesome-cdk",
+    "html_url": "https://github.com/kalaiser/awesome-cdk",
+    "description": "A collection of awesome things related to the AWS Cloud Development Kit (CDK)",
+    "stars": 2017,
+    "updated_at": "2024-12-30",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "aws",
+      "aws-cdk",
+      "cdk"
+    ]
+  },
+  {
+    "name": "awesome-opensource-documents",
+    "full_name": "44bits/awesome-opensource-documents",
+    "html_url": "https://github.com/44bits/awesome-opensource-documents",
+    "description": ":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.",
+    "stars": 2016,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-llm-json",
+    "full_name": "imaurer/awesome-llm-json",
+    "html_url": "https://github.com/imaurer/awesome-llm-json",
+    "description": "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.",
+    "stars": 2015,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "function-calling",
+      "gpt-actions",
+      "large-language-models",
+      "llm",
+      "structured-generation"
+    ]
+  },
+  {
+    "name": "Awesome-Dify-Workflow",
+    "full_name": "svcvit/Awesome-Dify-Workflow",
+    "html_url": "https://github.com/svcvit/Awesome-Dify-Workflow",
+    "description": "\u5206\u4eab\u4e00\u4e9b\u597d\u7528\u7684 Dify DSL \u5de5\u4f5c\u6d41\u7a0b\uff0c\u81ea\u7528\u3001\u5b66\u4e60\u4e24\u76f8\u5b9c\u3002 Sharing some Dify workflows.",
+    "stars": 2013,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Rust-MachineLearning",
+    "full_name": "vaaaaanquish/Awesome-Rust-MachineLearning",
+    "html_url": "https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning",
+    "description": "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. \ud83e\udd80",
+    "stars": 2010,
+    "updated_at": "2025-01-04",
+    "language": "JavaScript",
+    "topics": [
+      "awasome",
+      "deep-learning",
+      "image-processing",
+      "machine-learning",
+      "machine-learning-library",
+      "natural-language-processing",
+      "rust",
+      "rust-library"
+    ]
+  },
+  {
+    "name": "awesome-charting",
+    "full_name": "zingchart/awesome-charting",
+    "html_url": "https://github.com/zingchart/awesome-charting",
+    "description": "A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries",
+    "stars": 2007,
+    "updated_at": "2024-12-19",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "charts",
+      "commercial",
+      "javascript",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Awesome-Asset-Discovery",
+    "full_name": "redhuntlabs/Awesome-Asset-Discovery",
+    "html_url": "https://github.com/redhuntlabs/Awesome-Asset-Discovery",
+    "description": "List of Awesome Asset Discovery Resources",
+    "stars": 2005,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "asset-discovery",
+      "awesome-list",
+      "infosec",
+      "osint",
+      "recon",
+      "reconnaissance"
+    ]
+  },
+  {
+    "name": "awesome-vim",
+    "full_name": "akrawchyk/awesome-vim",
+    "html_url": "https://github.com/akrawchyk/awesome-vim",
+    "description": "The Vim plugin shortlist",
+    "stars": 2001,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "vim"
+    ]
+  },
+  {
+    "name": "awesome-security-weixin-official-accounts",
+    "full_name": "DropsOfZut/awesome-security-weixin-official-accounts",
+    "html_url": "https://github.com/DropsOfZut/awesome-security-weixin-official-accounts",
+    "description": "\u7f51\u7edc\u5b89\u5168\u7c7b\u516c\u4f17\u53f7\u63a8\u8350\uff0c\u6b22\u8fce\u5927\u5bb6\u63a8\u8350",
+    "stars": 2001,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-gpt-store",
+    "full_name": "devisasari/awesome-gpt-store",
+    "html_url": "https://github.com/devisasari/awesome-gpt-store",
+    "description": "A curated list of awesome GPTs in the GPT Store",
+    "stars": 1999,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "gpt-store",
+      "gpts",
+      "gpts-list",
+      "gptstore",
+      "openai"
+    ]
+  },
+  {
+    "name": "awesome-vuepress",
+    "full_name": "vuepress/awesome-vuepress",
+    "html_url": "https://github.com/vuepress/awesome-vuepress",
+    "description": "\ud83c\udf89 A curated list of awesome things related to VuePress",
+    "stars": 1998,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-dotnet-core",
+    "full_name": "jasonhua95/awesome-dotnet-core",
+    "html_url": "https://github.com/jasonhua95/awesome-dotnet-core",
+    "description": ".NET Core\u5e93\u3001\u5de5\u5177\u3001\u6846\u67b6\u548c\u8f6f\u4ef6\u7684\u4e2d\u6587\u6536\u5f55\u5927\u5168\u3002 \u5185\u5bb9\u5305\u62ec\uff1a\u5e93\u3001\u5de5\u5177\u3001\u6846\u67b6\u3001\u6a21\u677f\u5f15\u64ce\u3001\u8eab\u4efd\u8ba4\u8bc1\u3001\u6570\u636e\u5e93\u3001ORM\u6846\u67b6\u3001\u56fe\u7247\u5904\u7406\u3001\u6587\u672c\u5904\u7406\u3001\u673a\u5668\u5b66\u4e60\u3001\u65e5\u5fd7\u3001\u4ee3\u7801\u5206\u6790\u3001\u6559\u7a0b\u7b49\u3002",
+    "stars": 1991,
+    "updated_at": "2025-01-06",
+    "language": "C#",
+    "topics": [
+      "awesome",
+      "csharp",
+      "dotnet",
+      "dotnet-core",
+      "netcore3"
+    ]
+  },
+  {
+    "name": "fucking-awesome-python",
+    "full_name": "trananhkma/fucking-awesome-python",
+    "html_url": "https://github.com/trananhkma/fucking-awesome-python",
+    "description": "awesome-python with :octocat: :star: and :fork_and_knife:",
+    "stars": 1986,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-macos",
+    "full_name": "phmullins/awesome-macos",
+    "html_url": "https://github.com/phmullins/awesome-macos",
+    "description": "A curated list of awesome software for Apple's macOS.",
+    "stars": 1979,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "apps",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "macos",
+      "oss",
+      "osx",
+      "software"
+    ]
+  },
+  {
+    "name": "awesome-git-addons",
+    "full_name": "stevemao/awesome-git-addons",
+    "html_url": "https://github.com/stevemao/awesome-git-addons",
+    "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
+    "stars": 1978,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "add-on",
+      "add-ons",
+      "addon",
+      "addons",
+      "awesome",
+      "awesome-list",
+      "cli",
+      "git",
+      "hacktoberfest",
+      "list",
+      "lists",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-programming-books",
+    "full_name": "zero-equals-false/awesome-programming-books",
+    "html_url": "https://github.com/zero-equals-false/awesome-programming-books",
+    "description": "\ud83d\udcda A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human\u2013computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)",
+    "stars": 1974,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "books",
+      "learning-resources",
+      "programming"
+    ]
+  },
+  {
+    "name": "awesome-windows-kernel-security-development",
+    "full_name": "ExpLife0011/awesome-windows-kernel-security-development",
+    "html_url": "https://github.com/ExpLife0011/awesome-windows-kernel-security-development",
+    "description": "windows kernel security development",
+    "stars": 1972,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "antirootkit",
+      "antivirus",
+      "bootkit",
+      "driver",
+      "framework",
+      "rootkit",
+      "shellcode"
+    ]
+  },
+  {
+    "name": "awesome-awesome-awesome",
+    "full_name": "t3chnoboy/awesome-awesome-awesome",
+    "html_url": "https://github.com/t3chnoboy/awesome-awesome-awesome",
+    "description": ":octocat: A a curated list of curated lists of awesome lists.",
+    "stars": 1971,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-pinned-gists",
+    "full_name": "matchai/awesome-pinned-gists",
+    "html_url": "https://github.com/matchai/awesome-pinned-gists",
+    "description": "\ud83d\udccc\u2728 A collection of awesome dynamic pinned gists for GitHub",
+    "stars": 1966,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "pinned-gist"
+    ]
+  },
+  {
+    "name": "awesome-reinforcement-learning-zh",
+    "full_name": "wwxFromTju/awesome-reinforcement-learning-zh",
+    "html_url": "https://github.com/wwxFromTju/awesome-reinforcement-learning-zh",
+    "description": "\u4e2d\u6587\u6574\u7406\u7684\u5f3a\u5316\u5b66\u4e60\u8d44\u6599\uff08Reinforcement Learning\uff09",
+    "stars": 1964,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-c",
+    "full_name": "uhub/awesome-c",
+    "html_url": "https://github.com/uhub/awesome-c",
+    "description": "A curated list of awesome C frameworks, libraries and software.",
+    "stars": 1963,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-htmx",
+    "full_name": "rajasegar/awesome-htmx",
+    "html_url": "https://github.com/rajasegar/awesome-htmx",
+    "description": "Awesome things about htmx",
+    "stars": 1958,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "htmx"
+    ]
+  },
+  {
+    "name": "awesome-investing",
+    "full_name": "mr-karan/awesome-investing",
+    "html_url": "https://github.com/mr-karan/awesome-investing",
+    "description": " \ud83d\udcb8\ud83d\udcb8 Curated list of investment & finance related resources ",
+    "stars": 1955,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "finance",
+      "investing",
+      "stock-market"
+    ]
+  },
+  {
+    "name": "awesome-bookmarks",
+    "full_name": "PanJiaChen/awesome-bookmarks",
+    "html_url": "https://github.com/PanJiaChen/awesome-bookmarks",
+    "description": ":sparkling_heart: A curated list of awesome things ",
+    "stars": 1954,
+    "updated_at": "2024-12-21",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "awesome-explainable-graph-reasoning",
+    "full_name": "AstraZeneca/awesome-explainable-graph-reasoning",
+    "html_url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
+    "description": "A collection of research papers and software related to explainability in graph machine learning.",
+    "stars": 1953,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "deep-learning",
+      "explainable-ai",
+      "explainable-ml",
+      "graph",
+      "graph-algorithms",
+      "graphml"
+    ]
+  },
+  {
+    "name": "Awesome-Books-Notes",
+    "full_name": "wx-chevalier/Awesome-Books-Notes",
+    "html_url": "https://github.com/wx-chevalier/Awesome-Books-Notes",
+    "description": ":books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: \u4f18\u79c0\u521b\u4e1a\u3001\u5546\u4e1a\u3001\u4ea7\u54c1\u3001\u4eba\u6587\u3001\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u9886\u57df\u76f8\u5173\u7684\u4e66\u7c4d\u5f52\u6863\uff0c\u4ee5\u53ca\u6211\u7684\u8bfb\u4e66\u7b14\u8bb0\u3002",
+    "stars": 1951,
+    "updated_at": "2025-01-02",
+    "language": "HTML",
+    "topics": [
+      "book"
+    ]
+  },
+  {
+    "name": "awesome-opensource-hardware",
+    "full_name": "aolofsson/awesome-opensource-hardware",
+    "html_url": "https://github.com/aolofsson/awesome-opensource-hardware",
+    "description": "List of awesome open source hardware tools, generators, and reusable designs",
+    "stars": 1951,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Image-Inpainting",
+    "full_name": "zengyh1900/Awesome-Image-Inpainting",
+    "html_url": "https://github.com/zengyh1900/Awesome-Image-Inpainting",
+    "description": "A curated list of image inpainting and video inpainting papers and resources",
+    "stars": 1950,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": [
+      "face-completion",
+      "image-inpainting",
+      "paper-list",
+      "video-inpainting"
+    ]
+  },
+  {
+    "name": "awesome-roadmaps",
+    "full_name": "orsanawwad/awesome-roadmaps",
+    "html_url": "https://github.com/orsanawwad/awesome-roadmaps",
+    "description": "View roadmaps about developer roles to help you learn",
+    "stars": 1947,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "app-developer",
+      "awesome",
+      "career-guide",
+      "devops",
+      "mobile-developer",
+      "roadmap",
+      "web-developer"
+    ]
+  },
+  {
+    "name": "Awesome-Model-Quantization",
+    "full_name": "Efficient-ML/Awesome-Model-Quantization",
+    "html_url": "https://github.com/Efficient-ML/Awesome-Model-Quantization",
+    "description": "A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.",
+    "stars": 1941,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "binarization",
+      "binarized-neural-networks",
+      "binary-network",
+      "deep-learning",
+      "efficient-deep-learning",
+      "lightweight-neural-network",
+      "model-acceleration",
+      "model-compression",
+      "model-quantization",
+      "quantization"
+    ]
+  },
+  {
+    "name": "awesome-react-renderer",
+    "full_name": "chentsulin/awesome-react-renderer",
+    "html_url": "https://github.com/chentsulin/awesome-react-renderer",
+    "description": "Awesome list of React Renderer",
+    "stars": 1941,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-golang-security",
+    "full_name": "guardrailsio/awesome-golang-security",
+    "html_url": "https://github.com/guardrailsio/awesome-golang-security",
+    "description": "Awesome Golang Security resources \ud83d\udd76\ud83d\udd10",
+    "stars": 1938,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "golang",
+      "security",
+      "security-tools",
+      "static-analysis"
+    ]
+  },
+  {
+    "name": "Awesome-Federated-Learning",
+    "full_name": "chaoyanghe/Awesome-Federated-Learning",
+    "html_url": "https://github.com/chaoyanghe/Awesome-Federated-Learning",
+    "description": "FedML - The Research and Production Integrated Federated Learning Library: https://fedml.ai",
+    "stars": 1937,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "adversarial-attack-and-defense",
+      "communication-efficiency",
+      "computation-efficiency",
+      "computer-vision",
+      "continual-learning",
+      "decentralized-federated-learning",
+      "distributed-optimization",
+      "federated-learning",
+      "hierarchical-federated-learning",
+      "incentive-mechanism",
+      "interpretability",
+      "machine-learning",
+      "neural-architecture-search",
+      "non-iid",
+      "privacy",
+      "semi-supervised-learning",
+      "straggler-problem",
+      "transfer-learning",
+      "vertical-federated-learning",
+      "wireless-communication"
+    ]
+  },
+  {
+    "name": "awesome-games-of-coding",
+    "full_name": "michelpereira/awesome-games-of-coding",
+    "html_url": "https://github.com/michelpereira/awesome-games-of-coding",
+    "description": "A curated list of games that can teach you how to learn a programming language.",
+    "stars": 1936,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "game",
+      "guido-van-robot",
+      "programming-language",
+      "robocode"
+    ]
+  },
+  {
+    "name": "knowledge",
+    "full_name": "f2e-awesome/knowledge",
+    "html_url": "https://github.com/f2e-awesome/knowledge",
+    "description": "\u6587\u6863\u7740\u91cd\u6784\u5efa\u4e00\u4e2a\u5b8c\u6574\u7684\u300c\u524d\u7aef\u6280\u672f\u67b6\u6784\u56fe\u8c31\u300d\uff0c\u65b9\u4fbf F2E(Front End Engineering\u53c8\u79f0FEE\u3001F2E) \u5b66\u4e60\u4e0e\u8fdb\u9636\u3002",
+    "stars": 1935,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesome",
+      "canvas",
+      "css",
+      "dns",
+      "dom",
+      "electron",
+      "f2e",
+      "graphql",
+      "html",
+      "javascript",
+      "js",
+      "nginx",
+      "pwa",
+      "react",
+      "react-native",
+      "server",
+      "vue",
+      "webgl",
+      "webpack",
+      "webpack4"
+    ]
+  },
+  {
+    "name": "awesome-exploit-development",
+    "full_name": "FabioBaroni/awesome-exploit-development",
+    "html_url": "https://github.com/FabioBaroni/awesome-exploit-development",
+    "description": "A curated list of resources (books, tutorials, courses, tools and vulnerable applications) for learning about Exploit Development",
+    "stars": 1923,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-k8s-security",
+    "full_name": "magnologan/awesome-k8s-security",
+    "html_url": "https://github.com/magnologan/awesome-k8s-security",
+    "description": "A curated list for Awesome Kubernetes Security resources",
+    "stars": 1921,
+    "updated_at": "2024-12-24",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-v",
+    "full_name": "vlang/awesome-v",
+    "html_url": "https://github.com/vlang/awesome-v",
+    "description": "A curated list of awesome V frameworks, libraries, software and resources.",
+    "stars": 1919,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "v"
+    ]
+  },
+  {
+    "name": "awesome-music",
+    "full_name": "noteflakes/awesome-music",
+    "html_url": "https://github.com/noteflakes/awesome-music",
+    "description": "Awesome Music Projects",
+    "stars": 1919,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "audio",
+      "awesome",
+      "awesome-list",
+      "free-music-scores",
+      "lilypond",
+      "list",
+      "midi",
+      "music-notation",
+      "music-programming",
+      "music-scores",
+      "sheet-music"
+    ]
+  },
+  {
+    "name": "awesome-crypto-trading-bots",
+    "full_name": "botcrypto-io/awesome-crypto-trading-bots",
+    "html_url": "https://github.com/botcrypto-io/awesome-crypto-trading-bots",
+    "description": "Awesome crypto trading bots",
+    "stars": 1918,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "crypto",
+      "list",
+      "trading"
+    ]
+  },
+  {
+    "name": "awesome-space",
+    "full_name": "orbitalindex/awesome-space",
+    "html_url": "https://github.com/orbitalindex/awesome-space",
+    "description": "\ud83d\udef0\ufe0f\ud83d\ude80A list of awesome space-related packages and resources maintained by The Orbital Index",
+    "stars": 1916,
+    "updated_at": "2025-01-06",
+    "language": "Ruby",
+    "topics": [
+      "astronomy-apis",
+      "awesome",
+      "awesome-list",
+      "space"
+    ]
+  },
+  {
+    "name": "Awesome-Telegram-OSINT",
+    "full_name": "ItIsMeCall911/Awesome-Telegram-OSINT",
+    "html_url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT",
+    "description": "\ud83d\udcda A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
+    "stars": 1912,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "osint",
+      "osint-resources",
+      "telegram",
+      "telethon"
+    ]
+  },
+  {
+    "name": "Awesome-Graph-LLM",
+    "full_name": "XiaoxinHe/Awesome-Graph-LLM",
+    "html_url": "https://github.com/XiaoxinHe/Awesome-Graph-LLM",
+    "description": "A collection of AWESOME things about Graph-Related LLMs.",
+    "stars": 1912,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-cpus",
+    "full_name": "larsbrinkhoff/awesome-cpus",
+    "html_url": "https://github.com/larsbrinkhoff/awesome-cpus",
+    "description": "All CPU and MCU documentation in one place",
+    "stars": 1908,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "arm",
+      "avr",
+      "cpu",
+      "datasheet",
+      "i860",
+      "i960",
+      "m68k",
+      "mcu",
+      "microblaze",
+      "openrisc",
+      "pdp-1",
+      "pdp-10",
+      "pdp-11",
+      "pdp-8",
+      "powerpc",
+      "risc-v",
+      "sparc",
+      "vax",
+      "xtensa",
+      "z80"
+    ]
+  },
+  {
+    "name": "awesome-workshopper",
+    "full_name": "therebelrobot/awesome-workshopper",
+    "html_url": "https://github.com/therebelrobot/awesome-workshopper",
+    "description": "A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.",
+    "stars": 1908,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Code-LLM",
+    "full_name": "codefuse-ai/Awesome-Code-LLM",
+    "html_url": "https://github.com/codefuse-ai/Awesome-Code-LLM",
+    "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
+    "stars": 1907,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "datasets",
+      "llm",
+      "nlp",
+      "papers",
+      "software-engineering",
+      "survey",
+      "tmlr"
+    ]
+  },
+  {
+    "name": "awesome-atom",
+    "full_name": "mehcode/awesome-atom",
+    "html_url": "https://github.com/mehcode/awesome-atom",
+    "description": "A curated list of delightful Atom packages and resources.",
+    "stars": 1905,
+    "updated_at": "2024-12-19",
+    "language": "Unknown",
+    "topics": [
+      "atom",
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-rat",
+    "full_name": "alphaSeclab/awesome-rat",
+    "html_url": "https://github.com/alphaSeclab/awesome-rat",
+    "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
+    "stars": 1904,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "c2",
+      "command-and-control",
+      "command-control",
+      "malware-analysis",
+      "rat",
+      "rat-analysis",
+      "rat-malware",
+      "remote-access-tool",
+      "remote-administration-tool"
+    ]
+  },
+  {
+    "name": "awesome-interactive-journalism",
+    "full_name": "wbkd/awesome-interactive-journalism",
+    "html_url": "https://github.com/wbkd/awesome-interactive-journalism",
+    "description": "A list of awesome interactive journalism projects.",
+    "stars": 1903,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": [
+      "datavisualization",
+      "ddj",
+      "journalism"
+    ]
+  },
+  {
+    "name": "awesome-testing",
+    "full_name": "TheJambo/awesome-testing",
+    "html_url": "https://github.com/TheJambo/awesome-testing",
+    "description": "A curated list of testing resources",
+    "stars": 1900,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "naughty-strings",
+      "tester",
+      "testing"
+    ]
+  },
+  {
+    "name": "AwesomeQRCode",
+    "full_name": "sumimakito/AwesomeQRCode",
+    "html_url": "https://github.com/sumimakito/AwesomeQRCode",
+    "description": "An awesome QR code generator for Android.",
+    "stars": 1896,
+    "updated_at": "2025-01-06",
+    "language": "Kotlin",
+    "topics": [
+      "qr-code",
+      "qr-generator",
+      "qrcode",
+      "qrcode-generator"
+    ]
+  },
+  {
+    "name": "awesome-ciandcd",
+    "full_name": "cicdops/awesome-ciandcd",
+    "html_url": "https://github.com/cicdops/awesome-ciandcd",
+    "description": "continuous integration and continuous delivery",
+    "stars": 1895,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-gog-galaxy",
+    "full_name": "Mixaill/awesome-gog-galaxy",
+    "html_url": "https://github.com/Mixaill/awesome-gog-galaxy",
+    "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
+    "stars": 1895,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "galaxy",
+      "gog"
+    ]
+  },
+  {
+    "name": "awesome-deepbio",
+    "full_name": "gokceneraslan/awesome-deepbio",
+    "html_url": "https://github.com/gokceneraslan/awesome-deepbio",
+    "description": "A curated list of awesome deep learning applications in the field of computational biology",
+    "stars": 1893,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-intelligence",
+    "full_name": "ARPSyndicate/awesome-intelligence",
+    "html_url": "https://github.com/ARPSyndicate/awesome-intelligence",
+    "description": "A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources",
+    "stars": 1891,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-intelligence",
+      "awesome-list",
+      "awesome-lists",
+      "crypto",
+      "cybersecurity",
+      "economics",
+      "geopolitics",
+      "hacktoberfest",
+      "hacktoberfest2024",
+      "malware",
+      "osint",
+      "stocks",
+      "terrorism",
+      "tor"
+    ]
+  },
+  {
+    "name": "Awesome-Video-Diffusion-Models",
+    "full_name": "ChenHsing/Awesome-Video-Diffusion-Models",
+    "html_url": "https://github.com/ChenHsing/Awesome-Video-Diffusion-Models",
+    "description": "[CSUR] A Survey on Video Diffusion Models",
+    "stars": 1889,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "diffusion",
+      "diffusion-models",
+      "survey",
+      "text-to-video",
+      "video",
+      "video-diffusion",
+      "video-diffusion-model",
+      "video-editing"
+    ]
+  },
+  {
+    "name": "awesome-sass",
+    "full_name": "Famolus/awesome-sass",
+    "html_url": "https://github.com/Famolus/awesome-sass",
+    "description": "\ud83c\udfa8 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
+    "stars": 1883,
+    "updated_at": "2024-12-19",
+    "language": "Unknown",
+    "topics": [
+      "css",
+      "sass",
+      "scss"
+    ]
+  },
+  {
+    "name": "DeepLearing-Interview-Awesome-2024",
+    "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
+    "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
+    "description": "AIGC-interview/CV-interview/LLMs-interview\u9762\u8bd5\u95ee\u9898\u4e0e\u7b54\u6848\u96c6\u5408\u4ed3\uff0c\u540c\u65f6\u5305\u542b\u5de5\u4f5c\u548c\u79d1\u7814\u8fc7\u7a0b\u4e2d\u7684\u65b0\u60f3\u6cd5\u3001\u65b0\u95ee\u9898\u3001\u65b0\u8d44\u6e90\u4e0e\u65b0\u9879\u76ee",
+    "stars": 1879,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "aigc",
+      "algorithms",
+      "awesome-cv",
+      "cnn",
+      "deep-learning",
+      "interview-questions",
+      "leetcode-python",
+      "machine-learning",
+      "medical-imaging",
+      "pytorch",
+      "self-driving-car"
+    ]
+  },
+  {
+    "name": "awesome-php",
+    "full_name": "JingwenTian/awesome-php",
+    "html_url": "https://github.com/JingwenTian/awesome-php",
+    "description": "\u6536\u96c6\u6574\u7406\u4e00\u4e9b\u5e38\u7528\u7684PHP\u7c7b\u5e93, \u8d44\u6e90\u4ee5\u53ca\u6280\u5de7. \u4ee5\u4fbf\u5728\u5de5\u4f5c\u4e2d\u8fc5\u901f\u7684\u67e5\u627e\u6240\u9700...",
+    "stars": 1874,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-embedded-and-iot-security",
+    "full_name": "fkie-cad/awesome-embedded-and-iot-security",
+    "html_url": "https://github.com/fkie-cad/awesome-embedded-and-iot-security",
+    "description": "A curated list of awesome embedded and IoT security resources.",
+    "stars": 1873,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "embedded",
+      "firmware",
+      "iot",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-static-website-services",
+    "full_name": "agarrharr/awesome-static-website-services",
+    "html_url": "https://github.com/agarrharr/awesome-static-website-services",
+    "description": "\ud83d\udcc4 \ud83d\udee0 A curated list of awesome static websites services",
+    "stars": 1872,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-xamarin",
+    "full_name": "XamSome/awesome-xamarin",
+    "html_url": "https://github.com/XamSome/awesome-xamarin",
+    "description": "A collection of interesting libraries/tools for Xamarin mobile projects ",
+    "stars": 1865,
+    "updated_at": "2024-12-21",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "xamarin",
+      "xamarin-binding",
+      "xamarin-library",
+      "xamarin-plugin"
+    ]
+  },
+  {
+    "name": "awesome-quality-assurance-roadmap",
+    "full_name": "fityanos/awesome-quality-assurance-roadmap",
+    "html_url": "https://github.com/fityanos/awesome-quality-assurance-roadmap",
+    "description": ":books: The starting point of your career as a Software Quality Assurance Engineer \\| Quality Automation Engineer :books:",
+    "stars": 1864,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "api-testing",
+      "automation-test",
+      "awesome",
+      "awesome-list",
+      "career",
+      "e2e-testing",
+      "qa",
+      "quality-engineering",
+      "roadmap",
+      "software-testing",
+      "testing"
+    ]
+  },
+  {
+    "name": "awesome-chatgpt",
+    "full_name": "OpenMindClub/awesome-chatgpt",
+    "html_url": "https://github.com/OpenMindClub/awesome-chatgpt",
+    "description": "\u26a1 Everything about ChatGPT",
+    "stars": 1861,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-api",
+      "chatgpt-app",
+      "openai",
+      "openminclub",
+      "prompt",
+      "prompt-engineering",
+      "resources"
+    ]
+  },
+  {
+    "name": "awesome-wpf",
+    "full_name": "Carlos487/awesome-wpf",
+    "html_url": "https://github.com/Carlos487/awesome-wpf",
+    "description": "A collection of awesome WPF resources, libraries and UI controls.",
+    "stars": 1860,
+    "updated_at": "2025-01-05",
+    "language": "C#",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "controls",
+      "dotnet",
+      "dotnet-core",
+      "net",
+      "ui-components",
+      "wpf"
+    ]
+  },
+  {
+    "name": "font-awesome-rails",
+    "full_name": "bokmann/font-awesome-rails",
+    "html_url": "https://github.com/bokmann/font-awesome-rails",
+    "description": "the font-awesome font bundled as an asset for the rails asset pipeline",
+    "stars": 1858,
+    "updated_at": "2025-01-03",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "name": "Awesome-RCE-techniques",
+    "full_name": "p0dalirius/Awesome-RCE-techniques",
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "stars": 1857,
+    "updated_at": "2025-01-06",
+    "language": "Dockerfile",
+    "topics": [
+      "awesome-list",
+      "bugbounty",
+      "cms",
+      "code",
+      "execution",
+      "exploit",
+      "framework",
+      "rce"
+    ]
+  },
+  {
+    "name": "awesome-pascal",
+    "full_name": "Fr0sT-Brutal/awesome-pascal",
+    "html_url": "https://github.com/Fr0sT-Brutal/awesome-pascal",
+    "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
+    "stars": 1854,
+    "updated_at": "2025-01-06",
+    "language": "Pascal",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "delphi",
+      "freepascal",
+      "lazarus",
+      "list",
+      "pascal-language"
+    ]
+  },
+  {
+    "name": "awesome-bert",
+    "full_name": "Jiakui/awesome-bert",
+    "html_url": "https://github.com/Jiakui/awesome-bert",
+    "description": "bert nlp papers, applications and  github resources, including the newst xlnet  \uff0c BERT\u3001XLNet \u76f8\u5173\u8bba\u6587\u548c github \u9879\u76ee",
+    "stars": 1849,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "bert",
+      "google-bert",
+      "nlp",
+      "xlnet"
+    ]
+  },
+  {
+    "name": "AwesomeCpp",
+    "full_name": "hengqiali/AwesomeCpp",
+    "html_url": "https://github.com/hengqiali/AwesomeCpp",
+    "description": "---AWESOME--- C++\u5b66\u4e60\u7b14\u8bb0\u548c\u5e38\u89c1\u9762\u8bd5\u77e5\u8bc6\u70b9\uff0cC++11\u7279\u6027\uff0c\u5305\u62ec\u667a\u80fd\u6307\u9488\u3001\u56db\u79cd\u5f3a\u5236\u8f6c\u6362\u3001function\u548cbind\u3001\u79fb\u52a8\u8bed\u4e49\u3001\u5b8c\u7f8e\u8f6c\u53d1\u3001tuple\u3001\u591a\u6001\u539f\u7406\u3001\u865a\u8868\u3001\u53cb\u5143\u51fd\u6570\u3001\u7b26\u53f7\u91cd\u8f7d\u3001\u51fd\u6570\u6307\u9488\u3001\u6df1\u6d45\u62f7\u8d1d\u3001struct\u5185\u5b58\u5bf9\u9f50\u3001volatile\u4ee5\u53caunion\\static\u7b49\u5404\u79cd\u5173\u952e\u5b57\u7684\u7528\u6cd5\u7b49\u7b49",
+    "stars": 1845,
+    "updated_at": "2025-01-06",
+    "language": "C++",
+    "topics": [
+      "awesome",
+      "cpp",
+      "cpp11",
+      "notes"
+    ]
+  },
+  {
+    "name": "awesome-cloud-security",
+    "full_name": "teamssix/awesome-cloud-security",
+    "html_url": "https://github.com/teamssix/awesome-cloud-security",
+    "description": "awesome cloud security \u6536\u96c6\u4e00\u4e9b\u56fd\u5185\u5916\u4e0d\u9519\u7684\u4e91\u5b89\u5168\u8d44\u6e90\uff0c\u8be5\u9879\u76ee\u4e3b\u8981\u9762\u5411\u56fd\u5185\u7684\u5b89\u5168\u4eba\u5458",
+    "stars": 1837,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-cloud-security",
+      "cloud-native",
+      "cloud-security",
+      "cloudnative",
+      "cloudsecurity",
+      "cybersecurity",
+      "docker",
+      "kubernetes",
+      "tools"
+    ]
+  },
+  {
+    "name": "awesome-swiftui",
+    "full_name": "vlondon/awesome-swiftui",
+    "html_url": "https://github.com/vlondon/awesome-swiftui",
+    "description": "A collaborative list of awesome articles, talks, books, videos and code examples about SwiftUI.",
+    "stars": 1837,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "combine",
+      "guide",
+      "ios",
+      "swift",
+      "swiftui",
+      "tutorial",
+      "video",
+      "xcode"
+    ]
+  },
+  {
+    "name": "awesome-yii2",
+    "full_name": "forecho/awesome-yii2",
+    "html_url": "https://github.com/forecho/awesome-yii2",
+    "description": "Yii2 \u5e72\u8d27\u96c6",
+    "stars": 1836,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "yii2"
+    ]
+  },
+  {
+    "name": "awesome-linux-containers",
+    "full_name": "Friz-zy/awesome-linux-containers",
+    "html_url": "https://github.com/Friz-zy/awesome-linux-containers",
+    "description": "A curated list of awesome Linux Containers frameworks, libraries and software",
+    "stars": 1836,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "best-practices",
+      "containers",
+      "linux-containers"
+    ]
+  },
+  {
+    "name": "Awesome-Federated-Machine-Learning",
+    "full_name": "innovation-cat/Awesome-Federated-Machine-Learning",
+    "html_url": "https://github.com/innovation-cat/Awesome-Federated-Machine-Learning",
+    "description": "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",
+    "stars": 1835,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "differential-privacy",
+      "distributed-computing",
+      "edge-computing",
+      "federated-learning",
+      "machine-learning",
+      "privacy-preserving-machine-learning",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-a11y",
+    "full_name": "brunopulis/awesome-a11y",
+    "html_url": "https://github.com/brunopulis/awesome-a11y",
+    "description": "A curate list about A11Y",
+    "stars": 1832,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "assistive-technology",
+      "awesome",
+      "awesome-list",
+      "wai-aria",
+      "wcag"
+    ]
+  },
+  {
+    "name": "awesome-crypto-papers",
+    "full_name": "pFarb/awesome-crypto-papers",
+    "html_url": "https://github.com/pFarb/awesome-crypto-papers",
+    "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+    "stars": 1828,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "applied-cryptography",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "cryptography",
+      "howto"
+    ]
+  },
+  {
+    "name": "awesome-lockfree",
+    "full_name": "rigtorp/awesome-lockfree",
+    "html_url": "https://github.com/rigtorp/awesome-lockfree",
+    "description": "A collection of resources on wait-free and lock-free programming",
+    "stars": 1826,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "assembly",
+      "concurrency",
+      "concurrent-programming",
+      "cpp",
+      "lock-free",
+      "wait-free"
+    ]
+  },
+  {
+    "name": "awesome-cyber-security-university",
+    "full_name": "brootware/awesome-cyber-security-university",
+    "html_url": "https://github.com/brootware/awesome-cyber-security-university",
+    "description": "\ud83c\udf93 Because Education should be free. Contributions welcome! \ud83d\udd75\ufe0f ",
+    "stars": 1826,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "courses",
+      "curriculum",
+      "cyber-security",
+      "cybersecurity",
+      "education",
+      "educational-project",
+      "free",
+      "hacking",
+      "learning-by-doing"
+    ]
+  },
+  {
+    "name": "awesome-iam",
+    "full_name": "kdeldycke/awesome-iam",
+    "html_url": "https://github.com/kdeldycke/awesome-iam",
+    "description": "\ud83d\udc64 Identity and Access Management knowledge for cloud platforms",
+    "stars": 1824,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "2fa",
+      "acl",
+      "anonymization",
+      "authentication",
+      "authorization",
+      "awesome",
+      "awesome-list",
+      "cloud",
+      "cryptography",
+      "gdpr",
+      "hardware-security-module",
+      "iam",
+      "jwt",
+      "oauth",
+      "openid",
+      "password",
+      "pki",
+      "privacy",
+      "secret-management",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-adversarial-machine-learning",
+    "full_name": "yenchenlin/awesome-adversarial-machine-learning",
+    "html_url": "https://github.com/yenchenlin/awesome-adversarial-machine-learning",
+    "description": "A curated list of awesome adversarial machine learning resources",
+    "stars": 1822,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-JavaScript-Projects",
+    "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
+    "html_url": "https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects",
+    "description": "This Repository contain awesome vanilla JavaScript projects. ",
+    "stars": 1820,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "bootstrap",
+      "css3",
+      "html5",
+      "javascript",
+      "vanila-js",
+      "vanilla-javascript"
+    ]
+  },
+  {
+    "name": "awesome-php-cn",
+    "full_name": "jobbole/awesome-php-cn",
+    "html_url": "https://github.com/jobbole/awesome-php-cn",
+    "description": "PHP\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5e93\u3001\u6846\u67b6\u3001\u6a21\u677f\u3001\u5b89\u5168\u3001\u4ee3\u7801\u5206\u6790\u3001\u65e5\u5fd7\u3001\u7b2c\u4e09\u65b9\u5e93\u3001\u914d\u7f6e\u5de5\u5177\u3001Web \u5de5\u5177\u7b49",
+    "stars": 1810,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-gameserver-cn",
+    "full_name": "hstcscolor/awesome-gameserver-cn",
+    "html_url": "https://github.com/hstcscolor/awesome-gameserver-cn",
+    "description": "\u4e2d\u6587\u6e38\u620f\u670d\u52a1\u5668\u8d44\u6e90\u5927\u5168",
+    "stars": 1810,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "chinese",
+      "gamesever"
+    ]
+  },
+  {
+    "name": "awesome-semi-supervised-learning",
+    "full_name": "yassouali/awesome-semi-supervised-learning",
+    "html_url": "https://github.com/yassouali/awesome-semi-supervised-learning",
+    "description": "\ud83d\ude0e An up-to-date & curated list of awesome semi-supervised learning papers, methods & resources.",
+    "stars": 1810,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "generative-model",
+      "graph-neural-networks",
+      "machine-learning",
+      "natural-language-processing",
+      "semi-supervised-learning"
+    ]
+  },
+  {
+    "name": "awesome-free-software",
+    "full_name": "johnjago/awesome-free-software",
+    "html_url": "https://github.com/johnjago/awesome-free-software",
+    "description": "Curated list of free as in freedom software",
+    "stars": 1797,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "free-software",
+      "gnu",
+      "gpl",
+      "libre",
+      "open-source",
+      "software-freedom"
+    ]
+  },
+  {
+    "name": "awesome-home-networking-cn",
+    "full_name": "blanboom/awesome-home-networking-cn",
+    "html_url": "https://github.com/blanboom/awesome-home-networking-cn",
+    "description": "\u5bb6\u5ead\u7f51\u7edc\u77e5\u8bc6\u6574\u7406",
+    "stars": 1796,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "quasar-awesome",
+    "full_name": "quasarframework/quasar-awesome",
+    "html_url": "https://github.com/quasarframework/quasar-awesome",
+    "description": "\ud83c\udf89 A list of awesome things related to Quasar",
+    "stars": 1792,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "cordova",
+      "electron",
+      "ios",
+      "material",
+      "material-design",
+      "quasar",
+      "quasar-framework",
+      "vue",
+      "vue2",
+      "vuejs"
+    ]
+  },
+  {
+    "name": "awesome-aws-amplify",
+    "full_name": "dabit3/awesome-aws-amplify",
+    "html_url": "https://github.com/dabit3/awesome-aws-amplify",
+    "description": "Curated list of AWS Amplify Resources",
+    "stars": 1788,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "amazon-s3",
+      "angular",
+      "aws",
+      "aws-amplify",
+      "aws-appsync",
+      "javascript",
+      "react",
+      "react-native"
+    ]
+  },
+  {
+    "name": "Awesome-Interview",
+    "full_name": "Awesome-Interview/Awesome-Interview",
+    "html_url": "https://github.com/Awesome-Interview/Awesome-Interview",
+    "description": "Collection of awesome interview references.",
+    "stars": 1787,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "android",
+      "backend",
+      "cpp",
+      "deep-learning",
+      "frontend",
+      "interview",
+      "interview-practice",
+      "interview-prep",
+      "interview-preparation",
+      "interviews",
+      "ios",
+      "java",
+      "machine-learning",
+      "python"
+    ]
+  },
+  {
+    "name": "react-native-awesome",
+    "full_name": "crazycodeboy/react-native-awesome",
+    "html_url": "https://github.com/crazycodeboy/react-native-awesome",
+    "description": "React Native \u5b66\u4e60\u8d44\u6e90\u7cbe\u9009\u4ed3\u5e93(\u6c47\u805a\u77e5\u8bc6\uff0c\u5206\u4eab\u7cbe\u534e)\u6c47\u96c6\u4e86\u5404\u7c7breact-native\u5b66\u4e60\u8d44\u6599\u3001\u5de5\u5177\u3001\u7ec4\u4ef6\u3001\u5f00\u6e90App\u3001\u8d44\u6e90\u4e0b\u8f7d\u3001\u4ee5\u53ca\u76f8\u5173\u65b0\u95fb\u7b49\uff0c\u53ea\u6c42\u7cbe\u4e0d\u6c42\u5168\u3002",
+    "stars": 1787,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": [
+      "react-native",
+      "react-native-lesson",
+      "react-native-resources",
+      "react-native-study",
+      "react-native-tutorial"
+    ]
+  },
+  {
+    "name": "awesome-mpc",
+    "full_name": "rdragos/awesome-mpc",
+    "html_url": "https://github.com/rdragos/awesome-mpc",
+    "description": " A curated list of multi party computation resources and links.",
+    "stars": 1783,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "crypto",
+      "multiparty-computation",
+      "secure-computation"
+    ]
+  },
+  {
+    "name": "awesome-quarto",
+    "full_name": "mcanouil/awesome-quarto",
+    "html_url": "https://github.com/mcanouil/awesome-quarto",
+    "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+    "stars": 1780,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "quarto",
+      "quarto-extension",
+      "quarto-pub",
+      "quarto-template",
+      "quartopub"
+    ]
+  },
+  {
+    "name": "awesome-virtualization",
+    "full_name": "Wenzel/awesome-virtualization",
+    "html_url": "https://github.com/Wenzel/awesome-virtualization",
+    "description": "Collection of resources about Virtualization",
+    "stars": 1779,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "hypervisor",
+      "virtual-machine",
+      "virtualization"
+    ]
+  },
+  {
+    "name": "Awesome-LLMs-for-Video-Understanding",
+    "full_name": "yunlong10/Awesome-LLMs-for-Video-Understanding",
+    "html_url": "https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding",
+    "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25Latest Papers, Codes and Datasets on Vid-LLMs.",
+    "stars": 1775,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome_Resume_Portfolio",
+    "full_name": "codingmonster-tv/Awesome_Resume_Portfolio",
+    "html_url": "https://github.com/codingmonster-tv/Awesome_Resume_Portfolio",
+    "description": "\uac1c\ubc1c\uc790\ub97c \uc704\ud55c \uc774\ub825\uc11c \uc791\uc131 \uac00\uc774\ub4dc, \ud3ec\ub9f7 \uadf8\ub9ac\uace0 \ub2e4\uc591\ud55c \uc608\uc2dc\ub4e4",
+    "stars": 1769,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "coverletter",
+      "cv",
+      "portfolio",
+      "resume"
+    ]
+  },
+  {
+    "name": "awesome-embedding-models",
+    "full_name": "Hironsan/awesome-embedding-models",
+    "html_url": "https://github.com/Hironsan/awesome-embedding-models",
+    "description": "A curated list of awesome embedding models tutorials, projects and communities.",
+    "stars": 1767,
+    "updated_at": "2024-12-27",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "awesome",
+      "embedding-models",
+      "embeddings",
+      "machine-learning",
+      "natural-language-processing",
+      "papers",
+      "word2vec"
+    ]
+  },
+  {
+    "name": "awesome-keycloak",
+    "full_name": "thomasdarimont/awesome-keycloak",
+    "html_url": "https://github.com/thomasdarimont/awesome-keycloak",
+    "description": "A curated list of resources for learning about http://www.keycloak.org",
+    "stars": 1762,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-industrial-anomaly-detection",
+    "full_name": "M-3LAB/awesome-industrial-anomaly-detection",
+    "html_url": "https://github.com/M-3LAB/awesome-industrial-anomaly-detection",
+    "description": "Paper list and datasets for industrial image anomaly/defect detection (updating). \u5de5\u4e1a\u5f02\u5e38/\u7455\u75b5\u68c0\u6d4b\u8bba\u6587\u53ca\u6570\u636e\u96c6\u68c0\u7d22\u5e93(\u6301\u7eed\u66f4\u65b0)\u3002",
+    "stars": 1761,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "anomaly-detection",
+      "anomaly-segmentation",
+      "computer-vision",
+      "dataset",
+      "deep-learning",
+      "defect-detection",
+      "industrial-image"
+    ]
+  },
+  {
+    "name": "awesome-technical-writing",
+    "full_name": "BolajiAyodeji/awesome-technical-writing",
+    "html_url": "https://github.com/BolajiAyodeji/awesome-technical-writing",
+    "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
+    "stars": 1760,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "content",
+      "documentation",
+      "open-source",
+      "resources",
+      "technical-writing",
+      "writing"
+    ]
+  },
+  {
+    "name": "awesome-cloudnative-trainings",
+    "full_name": "joseadanof/awesome-cloudnative-trainings",
+    "html_url": "https://github.com/joseadanof/awesome-cloudnative-trainings",
+    "description": "Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software",
+    "stars": 1758,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "containers",
+      "continuous-learning",
+      "devops",
+      "devsecops",
+      "istio",
+      "k8s",
+      "kubernetes",
+      "linux-foundation",
+      "service-mesh"
+    ]
+  },
+  {
+    "name": "awesome-claude-prompts",
+    "full_name": "langgptai/awesome-claude-prompts",
+    "html_url": "https://github.com/langgptai/awesome-claude-prompts",
+    "description": "This repo includes Claude prompt curation to use Claude better.",
+    "stars": 1757,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "awesome-claude",
+      "awesome-claude-prompts",
+      "awesome-prompts",
+      "chatgpt",
+      "chatgpt-4",
+      "chatgpt3",
+      "claude",
+      "claude-ai",
+      "openai",
+      "openai-chatgpt",
+      "prompt",
+      "prompt-learning",
+      "prompt-toolkit",
+      "prompts"
+    ]
+  },
+  {
+    "name": "awesome-windows-domain-hardening",
+    "full_name": "PaulSec/awesome-windows-domain-hardening",
+    "html_url": "https://github.com/PaulSec/awesome-windows-domain-hardening",
+    "description": "A curated list of awesome Security Hardening techniques for Windows.",
+    "stars": 1755,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "hardening",
+      "security",
+      "windows"
+    ]
+  },
+  {
+    "name": "awesome-ml4co",
+    "full_name": "Thinklab-SJTU/awesome-ml4co",
+    "html_url": "https://github.com/Thinklab-SJTU/awesome-ml4co",
+    "description": "Awesome machine learning for combinatorial optimization papers.",
+    "stars": 1755,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "combinatorial-optimization",
+      "machine-learning",
+      "operations-research",
+      "paper-list"
+    ]
+  },
+  {
+    "name": "awesome-dotnet-cn",
+    "full_name": "jobbole/awesome-dotnet-cn",
+    "html_url": "https://github.com/jobbole/awesome-dotnet-cn",
+    "description": "DotNet \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1a\u7f16\u8bd1\u5668\u3001\u538b\u7f29\u3001\u5e94\u7528\u6846\u67b6\u3001\u5e94\u7528\u6a21\u677f\u3001\u52a0\u5bc6\u3001\u6570\u636e\u5e93\u3001\u53cd\u7f16\u8bd1\u3001IDE\u3001\u65e5\u5fd7\u3001\u98ce\u683c\u6307\u5357\u7b49\u3002",
+    "stars": 1752,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-readme-template",
+    "full_name": "Louis3797/awesome-readme-template",
+    "html_url": "https://github.com/Louis3797/awesome-readme-template",
+    "description": "An awesome README template for your projects!",
+    "stars": 1752,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "boilerplate",
+      "readme",
+      "readme-boilerplate",
+      "readme-bolierplate",
+      "readme-template",
+      "template",
+      "template-repository"
+    ]
+  },
+  {
+    "name": "google-apps-script-awesome-list",
+    "full_name": "oshliaer/google-apps-script-awesome-list",
+    "html_url": "https://github.com/oshliaer/google-apps-script-awesome-list",
+    "description": "The usual list of links to interesting resources for Google Apps Script",
+    "stars": 1750,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "awesome-lists",
+      "gas",
+      "google-apps-script",
+      "google-appsscript",
+      "lists",
+      "snippets"
+    ]
+  },
+  {
+    "name": "awesome-python-typing",
+    "full_name": "typeddjango/awesome-python-typing",
+    "html_url": "https://github.com/typeddjango/awesome-python-typing",
+    "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+    "stars": 1747,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "mypy",
+      "mypy-plugins",
+      "mypy-stubs",
+      "pep484",
+      "pyi",
+      "python",
+      "python-stubs",
+      "python-types"
+    ]
+  },
+  {
+    "name": "Awesome-Anything",
+    "full_name": "VainF/Awesome-Anything",
+    "html_url": "https://github.com/VainF/Awesome-Anything",
+    "description": "General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX",
+    "stars": 1744,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "anything",
+      "anything-ai",
+      "awesome",
+      "awesome-segment-anything",
+      "general-ai",
+      "segment-anything"
+    ]
+  },
+  {
+    "name": "AwesomeCppGameDev",
+    "full_name": "Caerind/AwesomeCppGameDev",
+    "html_url": "https://github.com/Caerind/AwesomeCppGameDev",
+    "description": "A curated list of awesome C++ (mainly) things for Game Development. Inspired by awesome-... stuff. ",
+    "stars": 1743,
+    "updated_at": "2025-01-05",
+    "language": "Markdown",
+    "topics": []
+  },
+  {
+    "name": "awesome-slam-datasets",
+    "full_name": "youngguncho/awesome-slam-datasets",
+    "html_url": "https://github.com/youngguncho/awesome-slam-datasets",
+    "description": "A curated list of awesome datasets for SLAM",
+    "stars": 1743,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-cbir-papers",
+    "full_name": "willard-yuan/awesome-cbir-papers",
+    "html_url": "https://github.com/willard-yuan/awesome-cbir-papers",
+    "description": "\ud83d\udcddAwesome and classical image retrieval papers",
+    "stars": 1743,
+    "updated_at": "2024-12-22",
+    "language": "Unknown",
+    "topics": [
+      "cbir",
+      "image-retrieval",
+      "image-retrieval-papers",
+      "instance-retrieval",
+      "local-features",
+      "nearest-neighbor-search",
+      "visual-search"
+    ]
+  },
+  {
+    "name": "awesome-android-learning-resources",
+    "full_name": "androiddevnotes/awesome-android-learning-resources",
+    "html_url": "https://github.com/androiddevnotes/awesome-android-learning-resources",
+    "description": "\ud83d\udc53 A curated list of awesome android learning resources for android app developers. ",
+    "stars": 1743,
+    "updated_at": "2025-01-05",
+    "language": "Kotlin",
+    "topics": [
+      "android",
+      "android-kotlin",
+      "awesome",
+      "awesome-list",
+      "beginner-friendly",
+      "coroutines-android",
+      "dagger",
+      "first-issue",
+      "hacktoberfest",
+      "hacktoberfest2020",
+      "jetpack-android",
+      "jetpack-compose",
+      "kotlin",
+      "learn-android",
+      "learning-resources",
+      "lists",
+      "mvvm",
+      "mvvm-android",
+      "resources",
+      "study-guide"
+    ]
+  },
+  {
+    "name": "awesome-django-cn",
+    "full_name": "haiiiiiyun/awesome-django-cn",
+    "html_url": "https://github.com/haiiiiiyun/awesome-django-cn",
+    "description": "Django \u4f18\u79c0\u8d44\u6e90\u5927\u5168\u3002",
+    "stars": 1742,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "django",
+      "django-admin",
+      "django-application",
+      "django-framework",
+      "django-models",
+      "django-orm",
+      "django-rest"
+    ]
+  },
+  {
+    "name": "awesome-linux-rootkits",
+    "full_name": "milabs/awesome-linux-rootkits",
+    "html_url": "https://github.com/milabs/awesome-linux-rootkits",
+    "description": "awesome-linux-rootkits",
+    "stars": 1742,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "linux",
+      "linux-kernel",
+      "lkm-rootkit",
+      "rootkit"
+    ]
+  },
+  {
+    "name": "Awesome-pytorch-list-CNVersion",
+    "full_name": "xavier-zy/Awesome-pytorch-list-CNVersion",
+    "html_url": "https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion",
+    "description": "Awesome-pytorch-list \u7ffb\u8bd1\u5de5\u4f5c\u8fdb\u884c\u4e2d......",
+    "stars": 1741,
+    "updated_at": "2025-01-06",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "awsome-pytorch-list",
+      "cnversion",
+      "computer-vision",
+      "cv",
+      "data-sicence",
+      "deep-learning",
+      "facebook",
+      "machine-learning",
+      "neural-network",
+      "nlp",
+      "nlp-library",
+      "papers",
+      "probabilistic-programming",
+      "python",
+      "pytorch",
+      "pytorch-models",
+      "pytorch-tutorials",
+      "tutorials",
+      "utility-library"
+    ]
+  },
+  {
+    "name": "awesome-spark",
+    "full_name": "awesome-spark/awesome-spark",
+    "html_url": "https://github.com/awesome-spark/awesome-spark",
+    "description": "A curated list of awesome Apache Spark packages and resources.",
+    "stars": 1739,
+    "updated_at": "2025-01-05",
+    "language": "Shell",
+    "topics": [
+      "apache-spark",
+      "awesome",
+      "pyspark",
+      "sparkr"
+    ]
+  },
+  {
+    "name": "awesome-ai-art-image-synthesis",
+    "full_name": "altryne/awesome-ai-art-image-synthesis",
+    "html_url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
+    "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
+    "stars": 1739,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "ai"
+    ]
+  },
+  {
+    "name": "awesome-llm-powered-agent",
+    "full_name": "hyp1231/awesome-llm-powered-agent",
+    "html_url": "https://github.com/hyp1231/awesome-llm-powered-agent",
+    "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+    "stars": 1731,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "chatgpt",
+      "embodied-agent",
+      "embodied-ai",
+      "foundation-model",
+      "foundation-models",
+      "generative-agents",
+      "generative-ai",
+      "generative-model",
+      "generative-models",
+      "gpt-4",
+      "large-language-model",
+      "large-language-models",
+      "llm",
+      "llm-powered-agents",
+      "llms"
+    ]
+  },
+  {
+    "name": "awesome-transfer-learning",
+    "full_name": "artix41/awesome-transfer-learning",
+    "html_url": "https://github.com/artix41/awesome-transfer-learning",
+    "description": "Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)",
+    "stars": 1730,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "domain-adaptation",
+      "paper",
+      "transfer-learning",
+      "unsupervised-learning"
+    ]
+  },
+  {
+    "name": "awesome-ros2",
+    "full_name": "fkromer/awesome-ros2",
+    "html_url": "https://github.com/fkromer/awesome-ros2",
+    "description": "The Robot Operating System Version 2.0 is awesome!",
+    "stars": 1728,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "ros2"
+    ]
+  },
+  {
+    "name": "nuxt3-awesome-starter",
+    "full_name": "viandwi24/nuxt3-awesome-starter",
+    "html_url": "https://github.com/viandwi24/nuxt3-awesome-starter",
+    "description": "a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss + Nuxt Layer",
+    "stars": 1728,
+    "updated_at": "2025-01-06",
+    "language": "Vue",
+    "topics": [
+      "nuxt3",
+      "nuxt3-template",
+      "tailwindcss",
+      "vue"
+    ]
+  },
+  {
+    "name": "awesome-generative-art",
+    "full_name": "kosmos/awesome-generative-art",
+    "html_url": "https://github.com/kosmos/awesome-generative-art",
+    "description": "Awesome generative art",
+    "stars": 1727,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "artists",
+      "awesome",
+      "awesome-list",
+      "generative-art",
+      "openframeworks",
+      "processing",
+      "vjing",
+      "vvvv"
+    ]
+  },
+  {
+    "name": "awesome-remote-sensing-change-detection",
+    "full_name": "wenhwu/awesome-remote-sensing-change-detection",
+    "html_url": "https://github.com/wenhwu/awesome-remote-sensing-change-detection",
+    "description": "List of datasets, codes, and contests related to remote sensing change detection",
+    "stars": 1721,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "change-detection",
+      "dataset",
+      "remote-sensing"
+    ]
+  },
+  {
+    "name": "awesome-open-source-games",
+    "full_name": "michelpereira/awesome-open-source-games",
+    "html_url": "https://github.com/michelpereira/awesome-open-source-games",
+    "description": "Collection of Games that have the source code available on GitHub",
+    "stars": 1720,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "games",
+      "opensource"
+    ]
+  },
+  {
+    "name": "awesome-electron-alternatives",
+    "full_name": "sudhakar3697/awesome-electron-alternatives",
+    "html_url": "https://github.com/sudhakar3697/awesome-electron-alternatives",
+    "description": "A curated list of awesome Electron alternatives.",
+    "stars": 1718,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "cross-platform-desktop-app-dev",
+      "electron",
+      "electron-alternatives",
+      "pwa"
+    ]
+  },
+  {
+    "name": "awesome-cryptoeconomics",
+    "full_name": "jpantunes/awesome-cryptoeconomics",
+    "html_url": "https://github.com/jpantunes/awesome-cryptoeconomics",
+    "description": "An awesome curated list of Cryptoeconomic research and learning materials",
+    "stars": 1716,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "casper",
+      "consensus",
+      "cryptoeconomics",
+      "ethereum",
+      "game-theory",
+      "pos"
+    ]
+  },
+  {
+    "name": "awesome-baremetal",
+    "full_name": "alexellis/awesome-baremetal",
+    "html_url": "https://github.com/alexellis/awesome-baremetal",
+    "description": "Bare-metal is awesome. Let's share our favourite tools. ",
+    "stars": 1716,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-prometheus",
+    "full_name": "warpnet/awesome-prometheus",
+    "html_url": "https://github.com/warpnet/awesome-prometheus",
+    "description": "A curated list of awesome Prometheus resources, projects and tools.",
+    "stars": 1714,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "prometheus"
+    ]
+  },
+  {
+    "name": "awesome-os",
+    "full_name": "jubalh/awesome-os",
+    "html_url": "https://github.com/jubalh/awesome-os",
+    "description": "A list of operating systems and stuff",
+    "stars": 1704,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "kernel",
+      "linux",
+      "linux-kernel",
+      "operating-system",
+      "os",
+      "os-dev",
+      "osdev"
+    ]
+  },
+  {
+    "name": "awesome-django",
+    "full_name": "shahraizali/awesome-django",
+    "html_url": "https://github.com/shahraizali/awesome-django",
+    "description": "The Best Django Resource, Awesome Django for mature packages.",
+    "stars": 1701,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-django",
+      "awesome-list",
+      "django",
+      "django-admin",
+      "django-blog",
+      "django-blog-templates",
+      "django-channels",
+      "django-cms",
+      "django-packages",
+      "django-project",
+      "django-rest-framework"
+    ]
+  },
+  {
+    "name": "awesome-startup",
+    "full_name": "KrishMunot/awesome-startup",
+    "html_url": "https://github.com/KrishMunot/awesome-startup",
+    "description": ":sunglasses: All the required resources to build your own startup",
+    "stars": 1693,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "advice",
+      "awesome",
+      "awesome-list",
+      "code",
+      "course-materials",
+      "engineering",
+      "entrepreneurs",
+      "free",
+      "free-software",
+      "hacktober",
+      "hacktoberfest",
+      "hacktoberfest2020",
+      "startup",
+      "startup-services",
+      "startups",
+      "venture-capital"
+    ]
+  },
+  {
+    "name": "awesome-animation",
+    "full_name": "Animatious/awesome-animation",
+    "html_url": "https://github.com/Animatious/awesome-animation",
+    "description": ":octocat: A great list of open sourced UI Motion Library produced by Animatious Group.",
+    "stars": 1689,
+    "updated_at": "2024-12-01",
+    "language": "Unknown",
+    "topics": [
+      "animation",
+      "ios-animation"
+    ]
+  },
+  {
+    "name": "awesome-css-cn",
+    "full_name": "jobbole/awesome-css-cn",
+    "html_url": "https://github.com/jobbole/awesome-css-cn",
+    "description": "CSS \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1aCSS\u9884\u5904\u7406\u5668\u3001\u6846\u67b6\u3001CSS\u7ed3\u6784\u3001\u4ee3\u7801\u98ce\u683c\u6307\u5357\u3001\u547d\u540d\u4e60\u60ef\u7b49\u7b49",
+    "stars": 1683,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Japanese",
+    "full_name": "yudataguy/Awesome-Japanese",
+    "html_url": "https://github.com/yudataguy/Awesome-Japanese",
+    "description": "Awesome Japanese Learning Resources",
+    "stars": 1683,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "hiragana",
+      "japan",
+      "japanese-language",
+      "kanji",
+      "katakana"
+    ]
+  },
+  {
+    "name": "AwesomeBump",
+    "full_name": "kmkolasinski/AwesomeBump",
+    "html_url": "https://github.com/kmkolasinski/AwesomeBump",
+    "description": "AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump. ",
+    "stars": 1677,
+    "updated_at": "2025-01-04",
+    "language": "C++",
+    "topics": []
+  },
+  {
+    "name": "awesome-resources",
+    "full_name": "lyfeyaj/awesome-resources",
+    "html_url": "https://github.com/lyfeyaj/awesome-resources",
+    "description": "Awesome resources for coding and learning: open source projects, websites, books e.g.",
+    "stars": 1677,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "algorithm",
+      "android",
+      "awesome",
+      "books",
+      "ios",
+      "javascript",
+      "learning",
+      "nodejs",
+      "ruby"
+    ]
+  },
+  {
+    "name": "Awesome-qr.js",
+    "full_name": "sumimakito/Awesome-qr.js",
+    "html_url": "https://github.com/sumimakito/Awesome-qr.js",
+    "description": "An awesome QR code generator written in JavaScript.",
+    "stars": 1677,
+    "updated_at": "2025-01-01",
+    "language": "JavaScript",
+    "topics": [
+      "qr",
+      "qr-code",
+      "qr-generator",
+      "qrcode",
+      "qrcode-generator",
+      "qrcode-image"
+    ]
+  },
+  {
+    "name": "awesome-phd-advice",
+    "full_name": "pliang279/awesome-phd-advice",
+    "html_url": "https://github.com/pliang279/awesome-phd-advice",
+    "description": "Collection of advice for prospective and current PhD students",
+    "stars": 1677,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "computer-science",
+      "machine-learning",
+      "phd-application",
+      "phd-students",
+      "research"
+    ]
+  },
+  {
+    "name": "Awesome-Deep-Learning-Resources",
+    "full_name": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
+    "html_url": "https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources",
+    "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
+    "stars": 1676,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cnn",
+      "deep-learning",
+      "lstm",
+      "machine-learning",
+      "tensorflow"
+    ]
+  },
+  {
+    "name": "Awesome-Scene-Text-Recognition",
+    "full_name": "chongyangtao/Awesome-Scene-Text-Recognition",
+    "html_url": "https://github.com/chongyangtao/Awesome-Scene-Text-Recognition",
+    "description": "A curated list of resources dedicated to scene text localization and recognition",
+    "stars": 1674,
+    "updated_at": "2024-12-26",
+    "language": "Unknown",
+    "topics": [
+      "natural-images",
+      "scene-texts",
+      "text-detection",
+      "text-recognition"
+    ]
+  },
+  {
+    "name": "awesome",
+    "full_name": "vuetifyjs/awesome",
+    "html_url": "https://github.com/vuetifyjs/awesome",
+    "description": "\ud83c\udf89 The best resources related to Vuetify",
+    "stars": 1673,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "applications",
+      "awesome",
+      "awesome-list",
+      "guide",
+      "plugins",
+      "projects",
+      "showcases",
+      "utilities",
+      "vuetify"
+    ]
+  },
+  {
+    "name": "awesome-mcp-servers",
+    "full_name": "punkpeye/awesome-mcp-servers",
+    "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 1673,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "mcp"
+    ]
+  },
+  {
+    "name": "awesome-cli-apps-in-a-csv",
+    "full_name": "toolleeo/awesome-cli-apps-in-a-csv",
+    "html_url": "https://github.com/toolleeo/awesome-cli-apps-in-a-csv",
+    "description": "The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files",
+    "stars": 1673,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cli",
+      "cli-apps",
+      "command-line",
+      "command-line-tool",
+      "linux",
+      "linux-command",
+      "resources",
+      "terminal-based",
+      "tui"
+    ]
+  },
+  {
+    "name": "awesome-ocr",
+    "full_name": "wanghaisheng/awesome-ocr",
+    "html_url": "https://github.com/wanghaisheng/awesome-ocr",
+    "description": " A curated list of promising OCR resources",
+    "stars": 1666,
+    "updated_at": "2024-12-09",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-industrial-control-system-security",
+    "full_name": "hslatman/awesome-industrial-control-system-security",
+    "html_url": "https://github.com/hslatman/awesome-industrial-control-system-security",
+    "description": "A curated list of resources related to Industrial Control System (ICS) security.",
+    "stars": 1666,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "ics",
+      "iiot",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-terminals",
+    "full_name": "cdleon/awesome-terminals",
+    "html_url": "https://github.com/cdleon/awesome-terminals",
+    "description": "Terminal Emulators",
+    "stars": 1665,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "bash",
+      "c",
+      "command-line",
+      "cpp",
+      "golang",
+      "haskell",
+      "node",
+      "powershell",
+      "python",
+      "ruby",
+      "rust",
+      "shell",
+      "swift",
+      "terminal",
+      "terminal-emulators",
+      "tty"
+    ]
+  },
+  {
+    "name": "awesome-anki",
+    "full_name": "tianshanghong/awesome-anki",
+    "html_url": "https://github.com/tianshanghong/awesome-anki",
+    "description": "A curated list of awesome Anki add-ons, decks and resources",
+    "stars": 1665,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "anki",
+      "anki-addon",
+      "anki-cards",
+      "anki-deck",
+      "anki-flashcards",
+      "anki-template",
+      "anki-theme",
+      "awesome",
+      "awesome-list",
+      "deck",
+      "flashcards",
+      "list"
+    ]
+  },
+  {
+    "name": "awesome-openai-vision-api-experiments",
+    "full_name": "roboflow/awesome-openai-vision-api-experiments",
+    "html_url": "https://github.com/roboflow/awesome-openai-vision-api-experiments",
+    "description": "Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API \ud83d\udd25",
+    "stars": 1661,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "chatgpt",
+      "classification",
+      "clip",
+      "computer-vision",
+      "grounding-dino",
+      "open-vocabulary-detection",
+      "open-vocabulary-segmentation",
+      "openai",
+      "segment-anything",
+      "zero-shot"
+    ]
+  },
+  {
+    "name": "awesome-diarization",
+    "full_name": "wq2012/awesome-diarization",
+    "html_url": "https://github.com/wq2012/awesome-diarization",
+    "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
+    "stars": 1659,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "deep-learning",
+      "machine-learning",
+      "speaker-diarization",
+      "speech-processing",
+      "speech-recognition"
+    ]
+  },
+  {
+    "name": "awesome-android-security",
+    "full_name": "saeidshirazi/awesome-android-security",
+    "html_url": "https://github.com/saeidshirazi/awesome-android-security",
+    "description": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
+    "stars": 1658,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "android-awesome",
+      "android-cookbook",
+      "android-malware",
+      "android-pentest",
+      "android-pentesting",
+      "android-security"
+    ]
+  },
+  {
+    "name": "awesome-cn",
+    "full_name": "icopy-site/awesome-cn",
+    "html_url": "https://github.com/icopy-site/awesome-cn",
+    "description": "\u8d85\u8d5e\u5217\u8868\u5408\u96c6",
+    "stars": 1657,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "awesome",
+      "awesome-go",
+      "awesome-java",
+      "awesome-javascript",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-php",
+      "awesome-python",
+      "awesome-reactjs",
+      "awesome-swift",
+      "awesome-vue",
+      "awesomeness",
+      "learn-to-code",
+      "learning",
+      "learning-java",
+      "learning-js",
+      "learning-python"
+    ]
+  },
+  {
+    "name": "awesome-service-workers",
+    "full_name": "TalAter/awesome-service-workers",
+    "html_url": "https://github.com/TalAter/awesome-service-workers",
+    "description": ":nut_and_bolt: A collection of awesome resources for learning Service Workers",
+    "stars": 1657,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-metaverse",
+    "full_name": "M3-org/awesome-metaverse",
+    "html_url": "https://github.com/M3-org/awesome-metaverse",
+    "description": "Awesome metaverse projects",
+    "stars": 1656,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-regex",
+    "full_name": "aloisdg/awesome-regex",
+    "html_url": "https://github.com/aloisdg/awesome-regex",
+    "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
+    "stars": 1656,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-dynamodb",
+    "full_name": "alexdebrie/awesome-dynamodb",
+    "html_url": "https://github.com/alexdebrie/awesome-dynamodb",
+    "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
+    "stars": 1656,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-fraud-detection-papers",
+    "full_name": "benedekrozemberczki/awesome-fraud-detection-papers",
+    "html_url": "https://github.com/benedekrozemberczki/awesome-fraud-detection-papers",
+    "description": "A curated list of data mining papers about fraud detection.",
+    "stars": 1646,
+    "updated_at": "2025-01-03",
+    "language": "Python",
+    "topics": [
+      "churn",
+      "classification",
+      "classifier",
+      "credit-card-fraud",
+      "credit-card-fraud-detection",
+      "credit-card-validation",
+      "credit-scoring",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "fraud-checker",
+      "fraud-detection",
+      "fraud-explorer",
+      "fraud-management",
+      "fraud-prevention",
+      "gradient-boosting",
+      "graph-classification",
+      "link-prediction",
+      "logistic-regression",
+      "random-forest"
+    ]
+  },
+  {
+    "name": "awesome-erlang",
+    "full_name": "drobakowski/awesome-erlang",
+    "html_url": "https://github.com/drobakowski/awesome-erlang",
+    "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
+    "stars": 1645,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "erlang",
+      "erlang-library",
+      "lists"
+    ]
+  },
+  {
+    "name": "awesome-okr",
+    "full_name": "domenicosolazzo/awesome-okr",
+    "html_url": "https://github.com/domenicosolazzo/awesome-okr",
+    "description": "A curated list about OKR (Objective - Key Results)",
+    "stars": 1644,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "Awesome-Zlibrary",
+    "full_name": "runningcheese/Awesome-Zlibrary",
+    "html_url": "https://github.com/runningcheese/Awesome-Zlibrary",
+    "description": "No description",
+    "stars": 1644,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-canvas",
+    "full_name": "raphamorim/awesome-canvas",
+    "html_url": "https://github.com/raphamorim/awesome-canvas",
+    "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+    "stars": 1643,
+    "updated_at": "2025-01-03",
+    "language": "Markdown",
+    "topics": [
+      "awesome",
+      "awesome-canvas",
+      "awesome-list",
+      "canvas-element",
+      "canvas2d",
+      "draw-graphics",
+      "html5-canvas",
+      "javascript",
+      "particles"
+    ]
+  },
+  {
+    "name": "awesome-jax",
+    "full_name": "n2cholas/awesome-jax",
+    "html_url": "https://github.com/n2cholas/awesome-jax",
+    "description": "JAX - A curated list of resources https://github.com/google/jax",
+    "stars": 1639,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "autograd",
+      "awesome",
+      "awesome-list",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "xla"
+    ]
+  },
+  {
+    "name": "awesome-frontend",
+    "full_name": "JingwenTian/awesome-frontend",
+    "html_url": "https://github.com/JingwenTian/awesome-frontend",
+    "description": "A curated list of amazingly awesome frontend libraries, resources and shiny things.",
+    "stars": 1637,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome"
+    ]
+  },
+  {
+    "name": "awesome-geek-podcasts",
+    "full_name": "guipdutra/awesome-geek-podcasts",
+    "html_url": "https://github.com/guipdutra/awesome-geek-podcasts",
+    "description": "A curated list of podcasts we like to listen to. ",
+    "stars": 1637,
+    "updated_at": "2024-12-14",
+    "language": "Ruby",
+    "topics": []
+  },
+  {
+    "name": "awesome-websockets",
+    "full_name": "facundofarias/awesome-websockets",
+    "html_url": "https://github.com/facundofarias/awesome-websockets",
+    "description": "A curated list of Websocket libraries and resources.",
+    "stars": 1635,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "html5-websockets",
+      "node-websocket",
+      "php-websocket",
+      "websocket",
+      "websocket-api",
+      "websocket-chat",
+      "websocket-client",
+      "websocket-library",
+      "websocket-node",
+      "websocket-protocol",
+      "websocket-rails",
+      "websocket-server",
+      "websocketd",
+      "websockets"
+    ]
+  },
+  {
+    "name": "awesome-self-supervised-gnn",
+    "full_name": "ChandlerBang/awesome-self-supervised-gnn",
+    "html_url": "https://github.com/ChandlerBang/awesome-self-supervised-gnn",
+    "description": "Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).",
+    "stars": 1628,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "deep-learning",
+      "graph-mining",
+      "graph-neural-networks",
+      "graph-self-supervised-learning",
+      "machine-learning",
+      "pre-training",
+      "pretraining",
+      "self-supervised-learning"
+    ]
+  },
+  {
+    "name": "awesome-flipperzero-withModules",
+    "full_name": "RogueMaster/awesome-flipperzero-withModules",
+    "html_url": "https://github.com/RogueMaster/awesome-flipperzero-withModules",
+    "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
+    "stars": 1623,
+    "updated_at": "2025-01-06",
+    "language": "C",
+    "topics": [
+      "flipper",
+      "flipper-zero",
+      "flipperzero",
+      "pentesting",
+      "roguemaster",
+      "security-tools"
+    ]
+  },
+  {
+    "name": "Awesome-Diffusion-Models-in-Medical-Imaging",
+    "full_name": "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
+    "html_url": "https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
+    "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
+    "stars": 1623,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ddpm",
+      "deep-learning",
+      "denoising",
+      "diffusion",
+      "diffusion-models",
+      "generation",
+      "generative-models",
+      "machine-learning",
+      "medical-imaging",
+      "ncsn",
+      "reconstruction",
+      "score-based",
+      "score-matching",
+      "sde",
+      "segmentation",
+      "vae"
+    ]
+  },
+  {
+    "name": "awesome-promises",
+    "full_name": "wbinnssmith/awesome-promises",
+    "html_url": "https://github.com/wbinnssmith/awesome-promises",
+    "description": "A curated list of useful resources for JavaScript Promises",
+    "stars": 1622,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-resources",
+    "full_name": "shahednasser/awesome-resources",
+    "html_url": "https://github.com/shahednasser/awesome-resources",
+    "description": ":sunglasses: List of helpful resources added by the community for the community!",
+    "stars": 1621,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "hacktoberfest",
+      "jekyll",
+      "ruby",
+      "sass"
+    ]
+  },
+  {
+    "name": "Awesome-offer",
+    "full_name": "lietoumai/Awesome-offer",
+    "html_url": "https://github.com/lietoumai/Awesome-offer",
+    "description": "\u5173\u4e8e\u9762\u8bd5/\u8c08Offer/\u7a0b\u5e8f\u5458\u804c\u573a\u751f\u6daf\u7b49",
+    "stars": 1621,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "tips-and-tricks"
+    ]
+  },
+  {
+    "name": "awesome-fonts",
+    "full_name": "brabadu/awesome-fonts",
+    "html_url": "https://github.com/brabadu/awesome-fonts",
+    "description": "Curated list of fonts and everything",
+    "stars": 1619,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "fonts",
+      "free-fonts",
+      "google-fonts",
+      "icon-font",
+      "list",
+      "programming-fonts"
+    ]
+  },
+  {
+    "name": "AwesomeSites",
+    "full_name": "ezshine/AwesomeSites",
+    "html_url": "https://github.com/ezshine/AwesomeSites",
+    "description": "every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.",
+    "stars": 1618,
+    "updated_at": "2025-01-06",
+    "language": "JavaScript",
+    "topics": [
+      "awesomesite",
+      "awesomesites",
+      "frontend",
+      "html",
+      "javascript",
+      "website"
+    ]
+  },
+  {
+    "name": "awesome-decentralized-web",
+    "full_name": "gdamdam/awesome-decentralized-web",
+    "html_url": "https://github.com/gdamdam/awesome-decentralized-web",
+    "description": "an awesome list of decentralized services and technologies",
+    "stars": 1618,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": [
+      "decentralized",
+      "decentralized-applications",
+      "decentralized-protocols",
+      "decentralized-web"
+    ]
+  },
+  {
+    "name": "awesome-speaking",
+    "full_name": "matteofigus/awesome-speaking",
+    "html_url": "https://github.com/matteofigus/awesome-speaking",
+    "description": "Resources about public speaking",
+    "stars": 1613,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "conference",
+      "list",
+      "speaking",
+      "speaking-resources"
+    ]
+  },
+  {
+    "name": "Awesome-Backbones",
+    "full_name": "Fafa-DL/Awesome-Backbones",
+    "html_url": "https://github.com/Fafa-DL/Awesome-Backbones",
+    "description": "Integrate deep learning models for image classification \\| Backbone learning/comparison/magic modification project",
+    "stars": 1612,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "cnn",
+      "deep-learning",
+      "image-classification",
+      "pytorch",
+      "pytorch-classification",
+      "resnet",
+      "swin-transformer",
+      "transformer"
+    ]
+  },
+  {
+    "name": "awesome-techleads",
+    "full_name": "gabiduarte/awesome-techleads",
+    "html_url": "https://github.com/gabiduarte/awesome-techleads",
+    "description": "Uma lista selecionada de conte\u00fados sobre lideran\u00e7a t\u00e9cnica, com prefer\u00eancia em conte\u00fados em portugu\u00eas",
+    "stars": 1608,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-asgi",
+    "full_name": "florimondmanca/awesome-asgi",
+    "html_url": "https://github.com/florimondmanca/awesome-asgi",
+    "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
+    "stars": 1606,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "asgi",
+      "awesome",
+      "awesome-list",
+      "python"
+    ]
+  },
+  {
+    "name": "awesome-ai-tools",
+    "full_name": "mahseema/awesome-ai-tools",
+    "html_url": "https://github.com/mahseema/awesome-ai-tools",
+    "description": "A curated list of Artificial Intelligence Top Tools",
+    "stars": 1605,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "ai-top-tools",
+      "awesome",
+      "awesome-ai",
+      "awesome-ai-tools",
+      "awesome-list",
+      "bestofai",
+      "easywithai",
+      "futurepedia",
+      "futuretools",
+      "machine-learning",
+      "ml",
+      "mlops",
+      "theresanaiforthat",
+      "top-ai-tools"
+    ]
+  },
+  {
+    "name": "awesome-ggplot2",
+    "full_name": "erikgahner/awesome-ggplot2",
+    "html_url": "https://github.com/erikgahner/awesome-ggplot2",
+    "description": "A curated list of awesome ggplot2 tutorials, packages etc.",
+    "stars": 1605,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "data-visualization",
+      "geoms",
+      "ggplot2",
+      "ggplot2-themes",
+      "scales"
+    ]
+  },
+  {
+    "name": "awesome-flutter-plugins",
+    "full_name": "jahnli/awesome-flutter-plugins",
+    "html_url": "https://github.com/jahnli/awesome-flutter-plugins",
+    "description": "\ud83d\udd25\ud83d\udd25 \u6536\u96c6\u597d\u7528\u7684Flutter\u63d2\u4ef6\u4ee5\u4fbf\u66f4\u6548\u7387\u7684\u5f00\u53d1",
+    "stars": 1604,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-engineering-games",
+    "full_name": "arcataroger/awesome-engineering-games",
+    "html_url": "https://github.com/arcataroger/awesome-engineering-games",
+    "description": "A curated list of engineering-related video games rated Very Positive or higher on Steam",
+    "stars": 1604,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome"
+    ]
+  },
+  {
+    "name": "awesome-video",
+    "full_name": "krzemienski/awesome-video",
+    "html_url": "https://github.com/krzemienski/awesome-video",
+    "description": " A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.",
+    "stars": 1599,
+    "updated_at": "2025-01-03",
+    "language": "HTML",
+    "topics": [
+      "audio",
+      "awesome",
+      "awesome-list",
+      "captions",
+      "dash",
+      "digital-video",
+      "drm",
+      "encoding",
+      "ffmpeg",
+      "hevc",
+      "hls",
+      "mp4",
+      "mpeg-dash",
+      "ott",
+      "player",
+      "roku",
+      "streaming",
+      "video",
+      "video-streaming",
+      "vmaf"
+    ]
+  },
+  {
+    "name": "awesome-laravel",
+    "full_name": "TimothyDJones/awesome-laravel",
+    "html_url": "https://github.com/TimothyDJones/awesome-laravel",
+    "description": "A curated list of delightful Laravel PHP framework packages and resources",
+    "stars": 1598,
+    "updated_at": "2024-12-19",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "laravel",
+      "php"
+    ]
+  },
+  {
+    "name": "awesome-svelte",
+    "full_name": "TheComputerM/awesome-svelte",
+    "html_url": "https://github.com/TheComputerM/awesome-svelte",
+    "description": "\u26a1 A curated list of awesome Svelte resources",
+    "stars": 1598,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "sapper",
+      "svelte",
+      "sveltejs"
+    ]
+  },
+  {
+    "name": "awesome-libgen",
+    "full_name": "freereadorg/awesome-libgen",
+    "html_url": "https://github.com/freereadorg/awesome-libgen",
+    "description": "\ud83d\ude0e Awesome list of Library Genesis, the world's largest free library.",
+    "stars": 1597,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-AIOps",
+    "full_name": "linjinjin123/awesome-AIOps",
+    "html_url": "https://github.com/linjinjin123/awesome-AIOps",
+    "description": "AIOps\u5b66\u4e60\u8d44\u6599\u6c47\u603b\uff0c\u6b22\u8fce\u4e00\u8d77\u8865\u5168\u8fd9\u4e2a\u4ed3\u5e93\uff0c\u6b22\u8fcestar",
+    "stars": 1587,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "aiops",
+      "alarm-reduction",
+      "anomaly-detection",
+      "deep-learning",
+      "machine-learning",
+      "root-cause-analysis",
+      "time-series-analysis"
+    ]
+  },
+  {
+    "name": "awesome-distributed-systems",
+    "full_name": "rShetty/awesome-distributed-systems",
+    "html_url": "https://github.com/rShetty/awesome-distributed-systems",
+    "description": "Awesome list of distributed systems resources",
+    "stars": 1584,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "distributed-systems"
+    ]
+  },
+  {
+    "name": "awesome-python-scientific-audio",
+    "full_name": "faroit/awesome-python-scientific-audio",
+    "html_url": "https://github.com/faroit/awesome-python-scientific-audio",
+    "description": " Curated list of python software and packages related to scientific research in audio",
+    "stars": 1584,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "audio",
+      "awesome-list",
+      "python"
+    ]
+  },
+  {
+    "name": "awesome-go",
+    "full_name": "uhub/awesome-go",
+    "html_url": "https://github.com/uhub/awesome-go",
+    "description": "A curated list of awesome Go frameworks, libraries and software.",
+    "stars": 1581,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-flutter-desktop",
+    "full_name": "leanflutter/awesome-flutter-desktop",
+    "html_url": "https://github.com/leanflutter/awesome-flutter-desktop",
+    "description": "A curated list of awesome things related to Flutter desktop.",
+    "stars": 1581,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "flutter-demo",
+      "flutter-desktop",
+      "flutter-desktop-app",
+      "flutter-desktop-template",
+      "flutter-examples"
+    ]
+  },
+  {
+    "name": "awesome-awesome-nodejs",
+    "full_name": "bnb/awesome-awesome-nodejs",
+    "html_url": "https://github.com/bnb/awesome-awesome-nodejs",
+    "description": "\ud83d\udc22\ud83d\ude80 An Awesome list of Awesome lists related to Node.js.",
+    "stars": 1580,
+    "updated_at": "2024-12-30",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "developer-tools",
+      "javascript",
+      "lists",
+      "modules",
+      "node",
+      "nodejs",
+      "npm",
+      "resources",
+      "turtle-rocket"
+    ]
+  },
+  {
+    "name": "Awesome-FL",
+    "full_name": "youngfish42/Awesome-FL",
+    "html_url": "https://github.com/youngfish42/Awesome-FL",
+    "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
+    "stars": 1580,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "awesome",
+      "computer-vision",
+      "data-mining",
+      "database",
+      "deep-learning",
+      "efficiency",
+      "federated-learning",
+      "federated-learning-framework",
+      "graph",
+      "graph-neural-networks",
+      "information-retrieval",
+      "knowledge-graph",
+      "machine-learning",
+      "natural-language-processing",
+      "paper",
+      "privacy",
+      "security",
+      "system",
+      "tabular-data"
+    ]
+  },
+  {
+    "name": "awesome-webauthn",
+    "full_name": "yackermann/awesome-webauthn",
+    "html_url": "https://github.com/yackermann/awesome-webauthn",
+    "description": "\ud83d\udd10 A curated list of awesome WebAuthn and Passkey resources",
+    "stars": 1579,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "authentication",
+      "awesome",
+      "awesome-list",
+      "fido2",
+      "passkey",
+      "passkeys",
+      "passkeys-demo",
+      "webauthn"
+    ]
+  },
+  {
+    "name": "awesome-deepfakes",
+    "full_name": "aerophile/awesome-deepfakes",
+    "html_url": "https://github.com/aerophile/awesome-deepfakes",
+    "description": "Everything Deepfakes",
+    "stars": 1577,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "computer-vision",
+      "deepfakes",
+      "faceswap"
+    ]
+  },
+  {
+    "name": "awesome-slam",
+    "full_name": "kanster/awesome-slam",
+    "html_url": "https://github.com/kanster/awesome-slam",
+    "description": "A curated list of awesome SLAM tutorials, projects and communities.",
+    "stars": 1576,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-vue-3",
+    "full_name": "sonicoder86/awesome-vue-3",
+    "html_url": "https://github.com/sonicoder86/awesome-vue-3",
+    "description": "A curated list of awesome things related to Vue 3",
+    "stars": 1576,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "vue",
+      "vue3",
+      "vuejs"
+    ]
+  },
+  {
+    "name": "awesome-loginless",
+    "full_name": "fiatjaf/awesome-loginless",
+    "html_url": "https://github.com/fiatjaf/awesome-loginless",
+    "description": "an awesome list of internet services that don't require logins or registrations",
+    "stars": 1575,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "account",
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-web-dev-books",
+    "full_name": "jobbole/awesome-web-dev-books",
+    "html_url": "https://github.com/jobbole/awesome-web-dev-books",
+    "description": "\u5982\u679c\u6709\u4eba\u8ba9\u4f60\u63a8\u8350\u524d\u7aef\u6280\u672f\u4e66\uff0c\u8bf7\u8ba9\u4ed6\u770b\u8fd9\u4e2a\u5217\u8868",
+    "stars": 1574,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-ios",
+    "full_name": "ivanvorobei/awesome-ios",
+    "html_url": "https://github.com/ivanvorobei/awesome-ios",
+    "description": "A collaborative list of awesome for iOS developers. Include quick preview.",
+    "stars": 1571,
+    "updated_at": "2025-01-06",
+    "language": "PHP",
+    "topics": [
+      "animation",
+      "awesome",
+      "awesome-ios-ui",
+      "awesome-list",
+      "cocoapods",
+      "frameworks",
+      "ios",
+      "spm",
+      "swift",
+      "swift5",
+      "ui",
+      "ui-components",
+      "uikit",
+      "xcode"
+    ]
+  },
+  {
+    "name": "FontAwesome.swift",
+    "full_name": "thii/FontAwesome.swift",
+    "html_url": "https://github.com/thii/FontAwesome.swift",
+    "description": "Use FontAwesome in your Swift projects",
+    "stars": 1570,
+    "updated_at": "2024-12-16",
+    "language": "Swift",
+    "topics": [
+      "carthage",
+      "cocoapods",
+      "font-awesome",
+      "font-awesome-5",
+      "ios",
+      "macos",
+      "swift",
+      "tvos"
+    ]
+  },
+  {
+    "name": "awesome-oss",
+    "full_name": "sereneblue/awesome-oss",
+    "html_url": "https://github.com/sereneblue/awesome-oss",
+    "description": "A list of open source projects with links to contribute or donate.",
+    "stars": 1567,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "open-source",
+      "opensource"
+    ]
+  },
+  {
+    "name": "awesome-segment-anything",
+    "full_name": "Hedlen/awesome-segment-anything",
+    "html_url": "https://github.com/Hedlen/awesome-segment-anything",
+    "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
+    "stars": 1567,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "application",
+      "awesome-list",
+      "chatgpt",
+      "image-generation",
+      "inpainting",
+      "object-detection",
+      "segment-anything",
+      "segmentation",
+      "stable-diffusion",
+      "suvey"
+    ]
+  },
+  {
+    "name": "awesome-f2e-libs",
+    "full_name": "sorrycc/awesome-f2e-libs",
+    "html_url": "https://github.com/sorrycc/awesome-f2e-libs",
+    "description": "\ud83c\udf89 \u6574\u7406\u6211\u5e73\u65f6\u5173\u6ce8\u7684\u524d\u7aef\u5e93\u3002",
+    "stars": 1567,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-sysadmin-cn",
+    "full_name": "jobbole/awesome-sysadmin-cn",
+    "html_url": "https://github.com/jobbole/awesome-sysadmin-cn",
+    "description": "\u7cfb\u7edf\u7ba1\u7406\u5458\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5907\u4efd/\u514b\u9686\u8f6f\u4ef6\u3001\u4e91\u8ba1\u7b97/\u4e91\u5b58\u50a8\u3001\u534f\u4f5c\u8f6f\u4ef6\u3001\u914d\u7f6e\u7ba1\u7406\u3001\u65e5\u5fd7\u7ba1\u7406\u3001\u76d1\u63a7\u3001\u9879\u76ee\u7ba1\u7406\u7b49",
+    "stars": 1566,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-job-list",
+    "full_name": "randallkanna/awesome-job-list",
+    "html_url": "https://github.com/randallkanna/awesome-job-list",
+    "description": "A list of the best places to job hunt. I've been curating this for the past 7 years.",
+    "stars": 1566,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-french-devops",
+    "full_name": "stephrobert/awesome-french-devops",
+    "html_url": "https://github.com/stephrobert/awesome-french-devops",
+    "description": "Une liste de liens permettant de se former aux outils utilis\u00e9s dans le domaine du Devops",
+    "stars": 1564,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "ansible",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "devops",
+      "devops-tools",
+      "docker",
+      "french",
+      "github",
+      "gitlab",
+      "good-first-issue",
+      "hacktoberfest",
+      "kubernetes",
+      "nginx",
+      "podman",
+      "prometheus",
+      "puppet",
+      "salt",
+      "terraform"
+    ]
+  },
+  {
+    "name": "awesome-coronavirus",
+    "full_name": "soroushchehresa/awesome-coronavirus",
+    "html_url": "https://github.com/soroushchehresa/awesome-coronavirus",
+    "description": "\ud83e\udda0  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)",
+    "stars": 1563,
+    "updated_at": "2025-01-06",
+    "language": "TypeScript",
+    "topics": [
+      "2019-ncov",
+      "2019ncov",
+      "awesome",
+      "awesome-corona",
+      "awesome-coronavirus",
+      "awesome-list",
+      "corona",
+      "coronavirus",
+      "coronavirus-info",
+      "covid-19",
+      "covid19",
+      "covid19-data",
+      "epidemiology",
+      "sars-cov-2"
+    ]
+  },
+  {
+    "name": "awesome-list",
+    "full_name": "0xor0ne/awesome-list",
+    "html_url": "https://github.com/0xor0ne/awesome-list",
+    "description": "Cybersecurity oriented awesome list",
+    "stars": 1562,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cybersecurity",
+      "exploitation",
+      "reverse-engineering"
+    ]
+  },
+  {
+    "name": "awesome-unix",
+    "full_name": "sirredbeard/awesome-unix",
+    "html_url": "https://github.com/sirredbeard/awesome-unix",
+    "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
+    "stars": 1561,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bsd",
+      "devuan",
+      "freebsd",
+      "illumos",
+      "kernel",
+      "linux",
+      "linux-distribution",
+      "macos",
+      "minix",
+      "netbsd",
+      "openbsd",
+      "plan9",
+      "posix",
+      "slackware",
+      "solaris",
+      "unix",
+      "unix-philosophy"
+    ]
+  },
+  {
+    "name": "awesome-talking-head-generation",
+    "full_name": "harlanhong/awesome-talking-head-generation",
+    "html_url": "https://github.com/harlanhong/awesome-talking-head-generation",
+    "description": "No description",
+    "stars": 1560,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "face-reenactment",
+      "image-animation",
+      "motion-transfer",
+      "talking-head"
+    ]
+  },
+  {
+    "name": "awesome-gitops",
+    "full_name": "weaveworks/awesome-gitops",
+    "html_url": "https://github.com/weaveworks/awesome-gitops",
+    "description": "A curated list for awesome GitOps resources",
+    "stars": 1550,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-progressive-web-apps",
+    "full_name": "TalAter/awesome-progressive-web-apps",
+    "html_url": "https://github.com/TalAter/awesome-progressive-web-apps",
+    "description": ":sunrise: A collection of awesome resources for building progressive web apps",
+    "stars": 1550,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-markdown",
+    "full_name": "mundimark/awesome-markdown",
+    "html_url": "https://github.com/mundimark/awesome-markdown",
+    "description": "A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)",
+    "stars": 1549,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-digital-human",
+    "full_name": "weihaox/awesome-digital-human",
+    "html_url": "https://github.com/weihaox/awesome-digital-human",
+    "description": "Digital Human Resource Collection: 2D/3D/4D human modeling, avatar generation & animation, clothed people digitalization, virtual try-on, and others.",
+    "stars": 1548,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "avatar",
+      "clothed-people-digitalization",
+      "digital-human",
+      "virtual-try-on"
+    ]
+  },
+  {
+    "name": "awesome-symfony",
+    "full_name": "sitepoint-editors/awesome-symfony",
+    "html_url": "https://github.com/sitepoint-editors/awesome-symfony",
+    "description": "A list of awesome Symfony bundles, utilities and resources.",
+    "stars": 1547,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-weex",
+    "full_name": "joggerplus/awesome-weex",
+    "html_url": "https://github.com/joggerplus/awesome-weex",
+    "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
+    "stars": 1547,
+    "updated_at": "2024-12-20",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cross-platform",
+      "react-native",
+      "vue",
+      "weex",
+      "weex-android",
+      "weex-demo",
+      "weex-html5",
+      "weex-ios",
+      "weex-plugin"
+    ]
+  },
+  {
+    "name": "CS-Awesome-Courses",
+    "full_name": "jackwener/CS-Awesome-Courses",
+    "html_url": "https://github.com/jackwener/CS-Awesome-Courses",
+    "description": "\u8ba1\u7b97\u673a\u7684\u4f18\u79c0\u8bfe\u7a0b",
+    "stars": 1547,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "courses",
+      "learning"
+    ]
+  },
+  {
+    "name": "awesome-tikz",
+    "full_name": "xiaohanyu/awesome-tikz",
+    "html_url": "https://github.com/xiaohanyu/awesome-tikz",
+    "description": "A curated list of awesome TikZ documentations, libraries and resources",
+    "stars": 1547,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "latex",
+      "tex",
+      "tikz"
+    ]
+  },
+  {
+    "name": "awesome-webgpu",
+    "full_name": "mikbry/awesome-webgpu",
+    "html_url": "https://github.com/mikbry/awesome-webgpu",
+    "description": "\ud83d\ude0e Curated list of awesome things around WebGPU ecosystem. ",
+    "stars": 1544,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "3d",
+      "awesome",
+      "awesome-list",
+      "gpu-computing",
+      "javascript",
+      "w3c",
+      "webgl",
+      "webgpu"
+    ]
+  },
+  {
+    "name": "awesome-android-cn",
+    "full_name": "jobbole/awesome-android-cn",
+    "html_url": "https://github.com/jobbole/awesome-android-cn",
+    "description": "Android \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\uff1a\u56fe\u8868\u3001\u6e38\u620f\u5f00\u53d1\u3001GUI\u3001\u5d29\u6e83\u68c0\u6d4b\u3001\u8c03\u8bd5\u5de5\u5177\u7b49\uff0c\u7531\u4f2f\u4e50\u5728\u7ebf\u6301\u7eed\u66f4\u65b0\u3002",
+    "stars": 1542,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "bolei_awesome_posters",
+    "full_name": "zhoubolei/bolei_awesome_posters",
+    "html_url": "https://github.com/zhoubolei/bolei_awesome_posters",
+    "description": "CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon! ",
+    "stars": 1540,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-safety-critical",
+    "full_name": "stanislaw/awesome-safety-critical",
+    "html_url": "https://github.com/stanislaw/awesome-safety-critical",
+    "description": "List of resources about programming practices for writing safety-critical software.",
+    "stars": 1539,
+    "updated_at": "2024-12-21",
+    "language": "Python",
+    "topics": [
+      "awesome-list",
+      "awesome-lists",
+      "safety",
+      "safety-critical",
+      "safety-standards"
+    ]
+  },
+  {
+    "name": "awesome-deep-trading",
+    "full_name": "cbailes/awesome-deep-trading",
+    "html_url": "https://github.com/cbailes/awesome-deep-trading",
+    "description": "List of awesome resources for machine learning-based algorithmic trading",
+    "stars": 1535,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "cryptocurrency",
+      "deep-learning",
+      "deep-neural-networks",
+      "deep-reinforcement-learning",
+      "deep-trading",
+      "fintech",
+      "frequency-trading",
+      "machine-learning",
+      "quantitative-trading",
+      "stock-trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-bots"
+    ]
+  },
+  {
+    "name": "awesome-lit",
+    "full_name": "web-padawan/awesome-lit",
+    "html_url": "https://github.com/web-padawan/awesome-lit",
+    "description": "A curated list of awesome Lit resources.",
+    "stars": 1534,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "lit-html"
+    ]
+  },
+  {
+    "name": "awesome-made-by-brazilians",
+    "full_name": "felipefialho/awesome-made-by-brazilians",
+    "html_url": "https://github.com/felipefialho/awesome-made-by-brazilians",
+    "description": "\ud83c\udde7\ud83c\uddf7 A collection of amazing open source projects built by brazilian developers",
+    "stars": 1531,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-brazil",
+      "awesome-opensource",
+      "awesomebrazil",
+      "css",
+      "javascript",
+      "made-by-brazilians",
+      "programming-language",
+      "stars"
+    ]
+  },
+  {
+    "name": "Awesome-Android-Architecture",
+    "full_name": "Juude/Awesome-Android-Architecture",
+    "html_url": "https://github.com/Juude/Awesome-Android-Architecture",
+    "description": "Android\u67b6\u6784\u5408\u96c6",
+    "stars": 1529,
+    "updated_at": "2024-12-25",
+    "language": "Unknown",
+    "topics": [
+      "android-architecture"
+    ]
+  },
+  {
+    "name": "awesome-uikit",
+    "full_name": "jaywcjlove/awesome-uikit",
+    "html_url": "https://github.com/jaywcjlove/awesome-uikit",
+    "description": "Collect JS Frameworks, Web components library and Admin Template.",
+    "stars": 1529,
+    "updated_at": "2024-12-29",
+    "language": "Dockerfile",
+    "topics": [
+      "angular",
+      "angular-components",
+      "ant-design",
+      "antd",
+      "awesome",
+      "awesome-list",
+      "bootstrap",
+      "bootstrap-admin-theme",
+      "bootstrap4",
+      "framework",
+      "ng-admin",
+      "react",
+      "react-admin",
+      "react-components",
+      "ui-component",
+      "uikit",
+      "uiw",
+      "vue",
+      "vue-admin",
+      "vue-components"
+    ]
+  },
+  {
+    "name": "awesome-quantum-software",
+    "full_name": "qosf/awesome-quantum-software",
+    "html_url": "https://github.com/qosf/awesome-quantum-software",
+    "description": "Curated list of open-source quantum software projects.",
+    "stars": 1525,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "compilers",
+      "quantum-algorithms",
+      "quantum-annealing",
+      "quantum-assembly",
+      "quantum-chemistry",
+      "quantum-circuit-simulator",
+      "quantum-circuits",
+      "quantum-compiler",
+      "quantum-computer",
+      "quantum-computer-simulator",
+      "quantum-computing",
+      "quantum-programming-language",
+      "quantum-programs",
+      "quantum-simulators"
+    ]
+  },
+  {
+    "name": "awesome-tiny-object-detection",
+    "full_name": "kuanhungchen/awesome-tiny-object-detection",
+    "html_url": "https://github.com/kuanhungchen/awesome-tiny-object-detection",
+    "description": "\ud83d\udd76 A curated list of Tiny Object Detection papers and related resources.",
+    "stars": 1525,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "face-detection",
+      "object-detection",
+      "pedestrian-detection",
+      "small-object-detection"
+    ]
+  },
+  {
+    "name": "awesome-flask",
+    "full_name": "mjhea0/awesome-flask",
+    "html_url": "https://github.com/mjhea0/awesome-flask",
+    "description": "A curated list of awesome things related to Flask",
+    "stars": 1521,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "flask",
+      "flask-resources"
+    ]
+  },
+  {
+    "name": "awesome-ios-chart",
+    "full_name": "v5tech/awesome-ios-chart",
+    "html_url": "https://github.com/v5tech/awesome-ios-chart",
+    "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift",
+    "stars": 1519,
+    "updated_at": "2024-12-14",
+    "language": "Unknown",
+    "topics": [
+      "chart",
+      "ios-charts",
+      "swift-charts"
+    ]
+  },
+  {
+    "name": "awesome-stable-diffusion",
+    "full_name": "awesome-stable-diffusion/awesome-stable-diffusion",
+    "html_url": "https://github.com/awesome-stable-diffusion/awesome-stable-diffusion",
+    "description": "Curated list of awesome resources for the Stable Diffusion AI Model.",
+    "stars": 1519,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "diffusion",
+      "esrgan",
+      "stable-diffusion"
+    ]
+  },
+  {
+    "name": "awesome-shiny-extensions",
+    "full_name": "nanxstats/awesome-shiny-extensions",
+    "html_url": "https://github.com/nanxstats/awesome-shiny-extensions",
+    "description": "\ud83d\udc1d Awesome R and Python packages offering extended UI or server components for the web framework Shiny",
+    "stars": 1518,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "rshiny",
+      "shiny",
+      "shiny-apps",
+      "shiny-for-python",
+      "shiny-inputs",
+      "shiny-themes"
+    ]
+  },
+  {
+    "name": "Awesome-Meta-Learning",
+    "full_name": "sudharsan13296/Awesome-Meta-Learning",
+    "html_url": "https://github.com/sudharsan13296/Awesome-Meta-Learning",
+    "description": " A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.",
+    "stars": 1516,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "deep-meta-learning",
+      "few-shot-learning",
+      "meta-reinforcement",
+      "metalearning",
+      "one-shot-learning",
+      "zero-shot-learning"
+    ]
+  },
+  {
+    "name": "awesome-starknet",
+    "full_name": "keep-starknet-strange/awesome-starknet",
+    "html_url": "https://github.com/keep-starknet-strange/awesome-starknet",
+    "description": "A curated list of awesome StarkNet resources, libraries, tools and more",
+    "stars": 1515,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "cairo",
+      "cairo-lang",
+      "layer2",
+      "rollups",
+      "scaling",
+      "starknet",
+      "starks",
+      "starkware",
+      "zkrollup",
+      "zkstarks"
+    ]
+  },
+  {
+    "name": "Awesome-CloudSec-Labs",
+    "full_name": "iknowjason/Awesome-CloudSec-Labs",
+    "html_url": "https://github.com/iknowjason/Awesome-CloudSec-Labs",
+    "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
+    "stars": 1515,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-yew",
+    "full_name": "jetli/awesome-yew",
+    "html_url": "https://github.com/jetli/awesome-yew",
+    "description": "\ud83d\ude0e A curated list of awesome things related to Yew / WebAssembly.",
+    "stars": 1515,
+    "updated_at": "2025-01-02",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "rust",
+      "wasm",
+      "webassembly",
+      "yew",
+      "yew-framework"
+    ]
+  },
+  {
+    "name": "awesome-low-light-image-enhancement",
+    "full_name": "zhihongz/awesome-low-light-image-enhancement",
+    "html_url": "https://github.com/zhihongz/awesome-low-light-image-enhancement",
+    "description": "This is a resouce list for low light image enhancement",
+    "stars": 1514,
+    "updated_at": "2025-01-06",
+    "language": "MATLAB",
+    "topics": [
+      "computer-vision",
+      "contrast-enhancement",
+      "deep-learning",
+      "histogram-equalization",
+      "image-enhancement",
+      "image-enhancment",
+      "image-processing",
+      "low-light",
+      "low-light-image-enhancement",
+      "retinex"
+    ]
+  },
+  {
+    "name": "awesome-strapi",
+    "full_name": "strapi-community/awesome-strapi",
+    "html_url": "https://github.com/strapi-community/awesome-strapi",
+    "description": "A curated list of awesome things related to Strapi",
+    "stars": 1511,
+    "updated_at": "2025-01-05",
+    "language": "JavaScript",
+    "topics": [
+      "awesome-list",
+      "strapi"
+    ]
+  },
+  {
+    "name": "LLM4Rec-Awesome-Papers",
+    "full_name": "WLiK/LLM4Rec-Awesome-Papers",
+    "html_url": "https://github.com/WLiK/LLM4Rec-Awesome-Papers",
+    "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
+    "stars": 1511,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "datasets",
+      "large-language-models",
+      "llm4rec",
+      "recommender-system",
+      "survey"
+    ]
+  },
+  {
+    "name": "awesome-RemoteWork",
+    "full_name": "hugo53/awesome-RemoteWork",
+    "html_url": "https://github.com/hugo53/awesome-RemoteWork",
+    "description": "Resources for remote workers: approaches, hiring page, remote life and more.",
+    "stars": 1509,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "hiring",
+      "hiring-sites",
+      "job-board",
+      "jobs",
+      "remote",
+      "remote-job",
+      "remote-work",
+      "remote-workers",
+      "telecom"
+    ]
+  },
+  {
+    "name": "Awesome-Interaction-Aware-Trajectory-Prediction",
+    "full_name": "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction",
+    "html_url": "https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction",
+    "description": "A selection of state-of-the-art research materials on trajectory prediction",
+    "stars": 1508,
+    "updated_at": "2025-01-03",
+    "language": "TeX",
+    "topics": [
+      "artificial-intelligence",
+      "autonomous-driving",
+      "autonomous-vehicles",
+      "behavior-analysis",
+      "behavior-prediction",
+      "computer-vision",
+      "deep-learning",
+      "human-trajectory-prediction",
+      "machine-learning",
+      "motion-prediction",
+      "multiagent-learning",
+      "multiagent-systems",
+      "paper",
+      "path-predictions",
+      "pedestrian-trajectories",
+      "social-interactions",
+      "traffic",
+      "trajectory-generation",
+      "trajectory-prediction",
+      "vehicle-trajectory"
+    ]
+  },
+  {
+    "name": "awesome-ai-ml-dl",
+    "full_name": "neomatrix369/awesome-ai-ml-dl",
+    "html_url": "https://github.com/neomatrix369/awesome-ai-ml-dl",
+    "description": "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.",
+    "stars": 1507,
+    "updated_at": "2025-01-06",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "algorithms",
+      "artificial-intelligence",
+      "cloud-devops",
+      "data",
+      "data-generation",
+      "deep-learning",
+      "dl",
+      "docker",
+      "graal",
+      "graalvm",
+      "intelligent-systems",
+      "machine-intelligence",
+      "machine-learning",
+      "mathematica",
+      "ml",
+      "natural-language-processing",
+      "neural-networks",
+      "nlp",
+      "time-series"
+    ]
+  },
+  {
+    "name": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+    "full_name": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+    "html_url": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+    "description": "Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR/CVR prediction), Post Ranking, Large Model (Generative Recommendation, LLM), Transfer learning, Reinforcement Learning and so on.",
+    "stars": 1507,
+    "updated_at": "2025-01-05",
+    "language": "Python",
+    "topics": [
+      "advertising",
+      "ctr",
+      "cvr",
+      "deep-learning",
+      "recommender-system",
+      "reinforcement-learning",
+      "search",
+      "search-engine"
+    ]
+  },
+  {
+    "name": "awesome-zk",
+    "full_name": "ventali/awesome-zk",
+    "html_url": "https://github.com/ventali/awesome-zk",
+    "description": "A curated list of awesome ZK resources, libraries, tools and more.  ",
+    "stars": 1504,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-open-geoscience",
+    "full_name": "softwareunderground/awesome-open-geoscience",
+    "html_url": "https://github.com/softwareunderground/awesome-open-geoscience",
+    "description": "Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome",
+    "stars": 1503,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cheatsheet",
+      "geochemistry",
+      "geology",
+      "geophysics",
+      "geoscience",
+      "geosciences",
+      "geospatial",
+      "geostatistics",
+      "groundwater",
+      "modflow",
+      "open-data",
+      "open-science",
+      "open-source",
+      "python",
+      "reservoir-modeling",
+      "seismic",
+      "simulation",
+      "subsurface"
+    ]
+  },
+  {
+    "name": "awesome-broadcasting",
+    "full_name": "ebu/awesome-broadcasting",
+    "html_url": "https://github.com/ebu/awesome-broadcasting",
+    "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
+    "stars": 1500,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "broadcast",
+      "broadcasting"
+    ]
+  },
+  {
+    "name": "awesome-grid",
+    "full_name": "FancyGrid/awesome-grid",
+    "html_url": "https://github.com/FancyGrid/awesome-grid",
+    "description": "A curated list of grid(table) libraries and resources that developers may find useful.",
+    "stars": 1498,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "angular",
+      "awesome",
+      "awesome-list",
+      "datagrid",
+      "ember",
+      "grid",
+      "javascript",
+      "jquery",
+      "react",
+      "spreadsheet"
+    ]
+  },
+  {
+    "name": "wheel-awesome",
+    "full_name": "su37josephxia/wheel-awesome",
+    "html_url": "https://github.com/su37josephxia/wheel-awesome",
+    "description": "\u5929\u5929\u9020\u8f6e\u5b50\uff0c\u624b\u5199\u9762\u8bd5\u5e38\u89c1\u6e90\u7801\u3002",
+    "stars": 1495,
+    "updated_at": "2024-12-26",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "awesome-knowledge-graph",
+    "full_name": "totogo/awesome-knowledge-graph",
+    "html_url": "https://github.com/totogo/awesome-knowledge-graph",
+    "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
+    "stars": 1494,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "graph",
+      "graph-database",
+      "knowledge-graph",
+      "nlp"
+    ]
+  },
+  {
+    "name": "awesome-sdn",
+    "full_name": "sdnds-tw/awesome-sdn",
+    "html_url": "https://github.com/sdnds-tw/awesome-sdn",
+    "description": "A awesome list about Software Defined Network (SDN)",
+    "stars": 1493,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "hacktoberfest",
+      "network-virtualization",
+      "open-network",
+      "openflow",
+      "openflow-controller",
+      "openflow-protocol",
+      "overlay-network",
+      "sdn",
+      "switch"
+    ]
+  },
+  {
+    "name": "awesome-jest",
+    "full_name": "jest-community/awesome-jest",
+    "html_url": "https://github.com/jest-community/awesome-jest",
+    "description": "\ud83d\udd76Awesome Jest packages and resources ",
+    "stars": 1493,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "javascript",
+      "jest"
+    ]
+  },
+  {
+    "name": "awesome-cyber-security",
+    "full_name": "fabionoth/awesome-cyber-security",
+    "html_url": "https://github.com/fabionoth/awesome-cyber-security",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+    "stars": 1491,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "certification",
+      "cyber-security",
+      "hacking",
+      "operation-systens",
+      "papers-published"
+    ]
+  },
+  {
+    "name": "awesome-go-China",
+    "full_name": "hyper0x/awesome-go-China",
+    "html_url": "https://github.com/hyper0x/awesome-go-China",
+    "description": "A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.",
+    "stars": 1490,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "name": "awesome_lists",
+    "full_name": "JunweiLiang/awesome_lists",
+    "html_url": "https://github.com/JunweiLiang/awesome_lists",
+    "description": "Awesome Lists for Tenure-Track Assistant Professors and PhD students. (\u52a9\u7406\u6559\u6388/\u535a\u58eb\u751f\u751f\u5b58\u6307\u5357)",
+    "stars": 1486,
+    "updated_at": "2025-01-06",
+    "language": "Python",
+    "topics": [
+      "advice",
+      "ai",
+      "assistant-professor",
+      "awesome-list",
+      "gpu",
+      "grants-search"
+    ]
+  },
+  {
+    "name": "awesome-machine-learning-in-compilers",
+    "full_name": "zwang4/awesome-machine-learning-in-compilers",
+    "html_url": "https://github.com/zwang4/awesome-machine-learning-in-compilers",
+    "description": "Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation",
+    "stars": 1482,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "artificial-intelligence",
+      "auto-tuning",
+      "compiler",
+      "machine-learning",
+      "multi-cores",
+      "operating-systems",
+      "optimisation",
+      "parallel-computing",
+      "parallel-programming",
+      "parallelisation",
+      "parallelism"
+    ]
+  },
+  {
+    "name": "awesome-lockpicking",
+    "full_name": "fabacab/awesome-lockpicking",
+    "html_url": "https://github.com/fabacab/awesome-lockpicking",
+    "description": ":unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.",
+    "stars": 1480,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "keypicking",
+      "lockpicking",
+      "locksmith",
+      "locksmithing",
+      "locksport",
+      "physec",
+      "physical-security",
+      "picking-locks"
+    ]
+  },
+  {
+    "name": "Awesome-Dataset-Distillation",
+    "full_name": "Guang000/Awesome-Dataset-Distillation",
+    "html_url": "https://github.com/Guang000/Awesome-Dataset-Distillation",
+    "description": "A curated list of awesome papers on dataset distillation and related applications.",
+    "stars": 1480,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": [
+      "awesome-list",
+      "deep-learning"
+    ]
+  },
+  {
+    "name": "awesome-github-profiles",
+    "full_name": "EddieHubCommunity/awesome-github-profiles",
+    "html_url": "https://github.com/EddieHubCommunity/awesome-github-profiles",
+    "description": "List of GitHub profiles that have awesome customisation, that you can use for inspiration",
+    "stars": 1479,
+    "updated_at": "2025-01-06",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "name": "awesome-decentralized-finance",
+    "full_name": "ong/awesome-decentralized-finance",
+    "html_url": "https://github.com/ong/awesome-decentralized-finance",
+    "description": "A curated list of awesome decentralized finance projects",
+    "stars": 1475,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "blockchain",
+      "decentralized",
+      "decentralized-finance",
+      "defi",
+      "ethereum",
+      "open-finance"
+    ]
+  },
+  {
+    "name": "awesome-product-management",
+    "full_name": "dend/awesome-product-management",
+    "html_url": "https://github.com/dend/awesome-product-management",
+    "description": "\ud83d\ude80 A curated list of awesome resources for product/program managers to learn and grow.",
+    "stars": 1472,
+    "updated_at": "2025-01-06",
+    "language": "CSS",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "pm",
+      "product",
+      "product-management"
+    ]
+  },
+  {
+    "name": "awesome-reasonml",
+    "full_name": "vramana/awesome-reasonml",
+    "html_url": "https://github.com/vramana/awesome-reasonml",
+    "description": "A collection of awesome things regarding Reason/OCaml ecosystem.",
+    "stars": 1472,
+    "updated_at": "2024-12-28",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "bucklescript",
+      "reasonml"
+    ]
+  },
+  {
+    "name": "awesome-normalizing-flows",
+    "full_name": "janosh/awesome-normalizing-flows",
+    "html_url": "https://github.com/janosh/awesome-normalizing-flows",
+    "description": "Awesome resources on normalizing flows.",
+    "stars": 1471,
+    "updated_at": "2025-01-02",
+    "language": "Python",
+    "topics": [
+      "autoregressive",
+      "awesome-list",
+      "bayesian-inference",
+      "bayesian-neural-networks",
+      "density-estimation",
+      "generative-modeling",
+      "machine-learning",
+      "normalizing-flows",
+      "variational-inference"
+    ]
+  },
+  {
+    "name": "awesome-duckdb",
+    "full_name": "davidgasquez/awesome-duckdb",
+    "html_url": "https://github.com/davidgasquez/awesome-duckdb",
+    "description": "\ud83e\udd86 A curated list of awesome DuckDB resources",
+    "stars": 1470,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-micropython",
+    "full_name": "mcauser/awesome-micropython",
+    "html_url": "https://github.com/mcauser/awesome-micropython",
+    "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
+    "stars": 1468,
+    "updated_at": "2025-01-05",
+    "language": "HTML",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "collection",
+      "micropython"
+    ]
+  },
+  {
+    "name": "Awesome-Advanced-Windows-Exploitation-References",
+    "full_name": "yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References",
+    "html_url": "https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References",
+    "description": "List of Awesome Advanced Windows Exploitation References",
+    "stars": 1467,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-spring-cloud",
+    "full_name": "ityouknow/awesome-spring-cloud",
+    "html_url": "https://github.com/ityouknow/awesome-spring-cloud",
+    "description": "Spring Cloud \u8d44\u6e90\u5927\u5168",
+    "stars": 1464,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "spring-cloud",
+      "springcloud"
+    ]
+  },
+  {
+    "name": "awesome-malware-development",
+    "full_name": "rootkit-io/awesome-malware-development",
+    "html_url": "https://github.com/rootkit-io/awesome-malware-development",
+    "description": "Organized list of my malware development resources",
+    "stars": 1462,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "malware",
+      "malware-development",
+      "malware-research"
+    ]
+  },
+  {
+    "name": "Awesome-Ionic",
+    "full_name": "Alexintosh/Awesome-Ionic",
+    "html_url": "https://github.com/Alexintosh/Awesome-Ionic",
+    "description": "\ud83d\ude0e A curated list of amazingly awesome Ionic libraries, resources and solutions.",
+    "stars": 1461,
+    "updated_at": "2024-12-31",
+    "language": "Unknown",
+    "topics": [
+      "angular",
+      "cordova-plugin",
+      "ionic",
+      "ionic-libraries"
+    ]
+  },
+  {
+    "name": "Awesome-GPT-Store",
+    "full_name": "Anil-matcha/Awesome-GPT-Store",
+    "html_url": "https://github.com/Anil-matcha/Awesome-GPT-Store",
+    "description": "Custom GPT Store - A collection of major GPTS available in public",
+    "stars": 1456,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "agentgpt",
+      "ai-agents",
+      "awesome-gpt-store",
+      "awesome-gpts",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-api",
+      "chatgpt-plugins",
+      "customgpt",
+      "gpt-4",
+      "gpt-store",
+      "gpts",
+      "gptshowcas",
+      "gptslist",
+      "gptstore"
+    ]
+  },
+  {
+    "name": "Awesome_GPT_Super_Prompting",
+    "full_name": "CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+    "html_url": "https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting",
+    "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+    "stars": 1456,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "adversarial-machine-learning",
+      "agent",
+      "ai",
+      "assistant",
+      "chatgpt",
+      "gpt",
+      "gpt-3",
+      "gpt-4",
+      "hacking",
+      "jailbreak",
+      "leaks",
+      "llm",
+      "prompt-engineering",
+      "prompt-injection",
+      "prompt-security",
+      "prompts",
+      "system-prompt"
+    ]
+  },
+  {
+    "name": "awesome-web-desktops",
+    "full_name": "syxanash/awesome-web-desktops",
+    "html_url": "https://github.com/syxanash/awesome-web-desktops",
+    "description": "Websites, web apps, portfolios which look like desktop operating systems",
+    "stars": 1454,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "classic-mac-os",
+      "cloud-os",
+      "design",
+      "desktop",
+      "directory",
+      "list",
+      "retro",
+      "web-desktop",
+      "web-os",
+      "webdesign",
+      "webtop",
+      "windows-xp",
+      "windows98"
+    ]
+  },
+  {
+    "name": "awesome-programming-books-1",
+    "full_name": "greyireland/awesome-programming-books-1",
+    "html_url": "https://github.com/greyireland/awesome-programming-books-1",
+    "description": "\u8ba1\u7b97\u673a\u7ecf\u5178\u4e66\u7c4d\ud83d\udcda\uff0c\u4fdd\u7559\u4e66\u5355",
+    "stars": 1451,
+    "updated_at": "2024-12-22",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-radar-perception",
+    "full_name": "ZHOUYI1023/awesome-radar-perception",
+    "html_url": "https://github.com/ZHOUYI1023/awesome-radar-perception",
+    "description": " A curated list of radar datasets, detection, tracking and fusion",
+    "stars": 1448,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "autonomous-driving",
+      "autonomous-vehicles",
+      "dataset",
+      "deep-learning",
+      "detection",
+      "fusion",
+      "radar",
+      "slam"
+    ]
+  },
+  {
+    "name": "awesome-qt",
+    "full_name": "JesseTG/awesome-qt",
+    "html_url": "https://github.com/JesseTG/awesome-qt",
+    "description": "A curated list of awesome tools, libraries, and resources for the Qt framework.",
+    "stars": 1448,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "qt",
+      "qt-applications",
+      "qt-framework"
+    ]
+  },
+  {
+    "name": "Awesome-AISourceHub",
+    "full_name": "AmbroseX/Awesome-AISourceHub",
+    "html_url": "https://github.com/AmbroseX/Awesome-AISourceHub",
+    "description": "\u672c\u4ed3\u5e93\u6536\u96c6AI\u79d1\u6280\u9886\u57df\u9ad8\u8d28\u91cf\u4fe1\u606f\u6e90\u3002 \u53ef\u4ee5\u8d77\u5230\u4e00\u4e2a\u540c\u6b65\u4fe1\u606f\u6e90\u7684\u4f5c\u7528\uff0c\u907f\u514d\u4fe1\u606f\u5dee\u548c\u4fe1\u606f\u8327\u623f\u3002",
+    "stars": 1447,
+    "updated_at": "2025-01-06",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "awesome",
+      "hub",
+      "infomation",
+      "knowledge",
+      "source",
+      "technology",
+      "twitter",
+      "wechat"
+    ]
+  },
+  {
+    "name": "Awesome-Cybersecurity-Datasets",
+    "full_name": "shramos/Awesome-Cybersecurity-Datasets",
+    "html_url": "https://github.com/shramos/Awesome-Cybersecurity-Datasets",
+    "description": "A curated list of amazingly awesome Cybersecurity datasets",
+    "stars": 1445,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "attack",
+      "cybersecurity",
+      "data",
+      "dataframe",
+      "datasets",
+      "deep",
+      "deeplearning",
+      "events",
+      "ids",
+      "ips",
+      "learning",
+      "logs",
+      "machinelearning",
+      "malware",
+      "security",
+      "traffic"
+    ]
+  },
+  {
+    "name": "awesome-semantic-web",
+    "full_name": "semantalytics/awesome-semantic-web",
+    "html_url": "https://github.com/semantalytics/awesome-semantic-web",
+    "description": "A curated list of various semantic web and linked data resources.",
+    "stars": 1445,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "owl",
+      "r2rml",
+      "rdf",
+      "semantic-web",
+      "sparql"
+    ]
+  },
+  {
+    "name": "k8s_awesome_document",
+    "full_name": "0voice/k8s_awesome_document",
+    "html_url": "https://github.com/0voice/k8s_awesome_document",
+    "description": "\u30102021\u5e74\u65b0\u9c9c\u51fa\u7089\u3011K8s\uff08Kubernetes\uff09\u7684\u5de5\u7a0b\u5e08\u8d44\u6599\u5408\u8f91\uff0c\u4e66\u7c4d\u63a8\u8350\uff0c\u9762\u8bd5\u9898\uff0c\u7cbe\u9009\u6587\u7ae0\uff0c\u5f00\u6e90\u9879\u76ee\uff0cPPT\uff0c\u89c6\u9891\uff0c\u5927\u5382\u8d44\u6599",
+    "stars": 1445,
+    "updated_at": "2025-01-04",
+    "language": "Unknown",
+    "topics": [
+      "docker",
+      "go",
+      "golang",
+      "k8s",
+      "kubernetes"
+    ]
+  },
+  {
+    "name": "awesome-devsecops",
+    "full_name": "JakobTheDev/awesome-devsecops",
+    "html_url": "https://github.com/JakobTheDev/awesome-devsecops",
+    "description": "Curating the best DevSecOps resources and tooling.",
+    "stars": 1444,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "application-security",
+      "awesome",
+      "awesome-list",
+      "devops",
+      "devsecops",
+      "hacktoberfest",
+      "secure-software-development"
+    ]
+  },
+  {
+    "name": "awesome-ansible",
+    "full_name": "ansible-community/awesome-ansible",
+    "html_url": "https://github.com/ansible-community/awesome-ansible",
+    "description": "Awesome Ansible List",
+    "stars": 1444,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "ansible",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "learning-ansible"
+    ]
+  },
+  {
+    "name": "awesome-vector-search",
+    "full_name": "currentslab/awesome-vector-search",
+    "html_url": "https://github.com/currentslab/awesome-vector-search",
+    "description": "Collections of vector search related libraries, service and research papers",
+    "stars": 1441,
+    "updated_at": "2024-12-29",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "knn-search",
+      "machine-learning",
+      "nearest-neighbor-search",
+      "search-engine",
+      "similarity-search",
+      "vector",
+      "vector-search",
+      "vector-search-engine"
+    ]
+  },
+  {
+    "name": "awesome-lite-websites",
+    "full_name": "mdibaiee/awesome-lite-websites",
+    "html_url": "https://github.com/mdibaiee/awesome-lite-websites",
+    "description": "A list of awesome lightweight websites without all the bloat",
+    "stars": 1440,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "collection",
+      "links",
+      "websites"
+    ]
+  },
+  {
+    "name": "Awesome-explainable-AI",
+    "full_name": "wangyongjie-ntu/Awesome-explainable-AI",
+    "html_url": "https://github.com/wangyongjie-ntu/Awesome-explainable-AI",
+    "description": "A  collection of research materials on explainable AI/ML",
+    "stars": 1439,
+    "updated_at": "2025-01-05",
+    "language": "Markdown",
+    "topics": [
+      "counterfactual-explanations",
+      "explainable-ai",
+      "explanation-system",
+      "interpretability",
+      "interpretable-ai",
+      "recourse",
+      "xai",
+      "xml"
+    ]
+  },
+  {
+    "name": "vietnam",
+    "full_name": "awesome-jobs/vietnam",
+    "html_url": "https://github.com/awesome-jobs/vietnam",
+    "description": "The best place to find devs in Vietnam!",
+    "stars": 1439,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-threat-modelling",
+    "full_name": "hysnsec/awesome-threat-modelling",
+    "html_url": "https://github.com/hysnsec/awesome-threat-modelling",
+    "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
+    "stars": 1438,
+    "updated_at": "2025-01-06",
+    "language": "Dockerfile",
+    "topics": [
+      "appsec",
+      "awesome",
+      "awesome-list",
+      "devsecops",
+      "devsecops-university",
+      "practical-devsecops",
+      "security-review",
+      "threat-modeling"
+    ]
+  },
+  {
+    "name": "awesome-dbdev",
+    "full_name": "huachaohuang/awesome-dbdev",
+    "html_url": "https://github.com/huachaohuang/awesome-dbdev",
+    "description": "Awesome materials about database development.",
+    "stars": 1436,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "database"
+    ]
+  },
+  {
+    "name": "awesome-matlab",
+    "full_name": "uhub/awesome-matlab",
+    "html_url": "https://github.com/uhub/awesome-matlab",
+    "description": "A curated list of awesome Matlab frameworks, libraries and software.",
+    "stars": 1434,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-deep-rl",
+    "full_name": "tigerneil/awesome-deep-rl",
+    "html_url": "https://github.com/tigerneil/awesome-deep-rl",
+    "description": "For deep RL and the future of AI. ",
+    "stars": 1434,
+    "updated_at": "2025-01-03",
+    "language": "HTML",
+    "topics": [
+      "aaai",
+      "aamas",
+      "agi",
+      "aistats",
+      "artificial-general-intelligence",
+      "deep-reinforcement-learning",
+      "distributional",
+      "exploration-exploitation",
+      "game",
+      "hierarchical-reinforcement-learning",
+      "iclr",
+      "icml",
+      "ijcai",
+      "inverse-rl",
+      "multiagent-reinforcement-learning",
+      "planning",
+      "reinforcement-learning",
+      "reward",
+      "theoretical-computer-science",
+      "uai"
+    ]
+  },
+  {
+    "name": "awesome-azure-architecture",
+    "full_name": "lukemurraynz/awesome-azure-architecture",
+    "html_url": "https://github.com/lukemurraynz/awesome-azure-architecture",
+    "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
+    "stars": 1425,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "azure",
+      "cloud",
+      "microsoft",
+      "security"
+    ]
+  },
+  {
+    "name": "awesome-gleam",
+    "full_name": "gleam-lang/awesome-gleam",
+    "html_url": "https://github.com/gleam-lang/awesome-gleam",
+    "description": "\ud83d\udcaf A collection of Gleam libraries, projects, and resources",
+    "stars": 1422,
+    "updated_at": "2025-01-05",
+    "language": "Gleam",
+    "topics": [
+      "awesome-list",
+      "gleam",
+      "libraries",
+      "projects"
+    ]
+  },
+  {
+    "name": "awesome-linuxaudio",
+    "full_name": "nodiscc/awesome-linuxaudio",
+    "html_url": "https://github.com/nodiscc/awesome-linuxaudio",
+    "description": "[mirror] A list of software and resources for professional audio/video/live events production on Linux.",
+    "stars": 1420,
+    "updated_at": "2025-01-06",
+    "language": "Shell",
+    "topics": [
+      "audio",
+      "free-software",
+      "ladspa",
+      "lighting",
+      "linux",
+      "list",
+      "lv2",
+      "production",
+      "software",
+      "video",
+      "vst"
+    ]
+  },
+  {
+    "name": "awesome-meteor",
+    "full_name": "Urigo/awesome-meteor",
+    "html_url": "https://github.com/Urigo/awesome-meteor",
+    "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
+    "stars": 1419,
+    "updated_at": "2024-12-21",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-LaTeX",
+    "full_name": "egeerardyn/awesome-LaTeX",
+    "html_url": "https://github.com/egeerardyn/awesome-LaTeX",
+    "description": "Curated list of LaTeX awesomeness",
+    "stars": 1419,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-transit",
+    "full_name": "MobilityData/awesome-transit",
+    "html_url": "https://github.com/MobilityData/awesome-transit",
+    "description": "Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:",
+    "stars": 1418,
+    "updated_at": "2025-01-05",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "bus",
+      "datasets",
+      "gtfs",
+      "gtfs-analysis",
+      "gtfs-converters",
+      "gtfs-feed",
+      "gtfs-files",
+      "gtfs-libraries",
+      "gtfs-realtime",
+      "gtfs-utils",
+      "gtfs-validator",
+      "list",
+      "realtime-data",
+      "tools",
+      "transit",
+      "transit-agencies",
+      "transit-data",
+      "transit-map"
+    ]
+  },
+  {
+    "name": "awesome-json",
+    "full_name": "burningtree/awesome-json",
+    "html_url": "https://github.com/burningtree/awesome-json",
+    "description": "A curated list of awesome JSON libraries and resources.",
+    "stars": 1413,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "awesome-list",
+      "json"
+    ]
+  },
+  {
+    "name": "awesome-google-colab",
+    "full_name": "firmai/awesome-google-colab",
+    "html_url": "https://github.com/firmai/awesome-google-colab",
+    "description": "Google Colaboratory Notebooks and Repositories (by @firmai)",
+    "stars": 1411,
+    "updated_at": "2024-12-27",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "coursera",
+      "data-science",
+      "google-colab",
+      "google-colab-notebook",
+      "jupyter-notebook",
+      "machine-learning",
+      "notebooks",
+      "python",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "Awesome-Edge-Detection-Papers",
+    "full_name": "MarkMoHR/Awesome-Edge-Detection-Papers",
+    "html_url": "https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers",
+    "description": ":books: A collection of edge/contour/boundary detection papers and toolbox.",
+    "stars": 1408,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "boundary-detection",
+      "contour-detection",
+      "contour-extraction",
+      "edge-detection",
+      "edge-detection-algorithms",
+      "edge-detection-papers",
+      "edge-detection-toolbox",
+      "edge-extraction",
+      "edge-toolbox"
+    ]
+  },
+  {
+    "name": "awesome-move",
+    "full_name": "MystenLabs/awesome-move",
+    "html_url": "https://github.com/MystenLabs/awesome-move",
+    "description": "Code and content from the Move community.",
+    "stars": 1407,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list"
+    ]
+  },
+  {
+    "name": "awesome-wordpress",
+    "full_name": "miziomon/awesome-wordpress",
+    "html_url": "https://github.com/miziomon/awesome-wordpress",
+    "description": "A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. ",
+    "stars": 1405,
+    "updated_at": "2025-01-04",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "name": "awesome-imbalanced-learning",
+    "full_name": "ZhiningLiu1998/awesome-imbalanced-learning",
+    "html_url": "https://github.com/ZhiningLiu1998/awesome-imbalanced-learning",
+    "description": "\ud83d\ude0e Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries \\| \u6709\u5173\u7c7b\u522b\u4e0d\u5e73\u8861/\u957f\u5c3e\u5b66\u4e60\u7684\u4e00\u5207\uff1a\u8bba\u6587\u3001\u4ee3\u7801\u3001\u6846\u67b6\u4e0e\u5e93",
+    "stars": 1405,
+    "updated_at": "2025-01-01",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "class-imbalance",
+      "deep-learning",
+      "ensemble-learning",
+      "fair-ml",
+      "fairness-ml",
+      "imbalanced-classes",
+      "imbalanced-classification",
+      "imbalanced-data",
+      "imbalanced-learning",
+      "machine-learning",
+      "skewed-data"
+    ]
+  },
+  {
+    "name": "awesome-diffusion-categorized",
+    "full_name": "wangkai930418/awesome-diffusion-categorized",
+    "html_url": "https://github.com/wangkai930418/awesome-diffusion-categorized",
+    "description": "collection of diffusion model papers categorized by their subareas",
+    "stars": 1403,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "continual-learning",
+      "controlnet",
+      "detection",
+      "diffusion",
+      "diffusion-model",
+      "diffusion-models",
+      "few-shot",
+      "image-edit",
+      "inpainting",
+      "inversion",
+      "segmentation",
+      "stable-diffusion",
+      "text-guided",
+      "tracking"
+    ]
+  },
+  {
+    "name": "awesome-for-non-programmers",
+    "full_name": "szabgab/awesome-for-non-programmers",
+    "html_url": "https://github.com/szabgab/awesome-for-non-programmers",
+    "description": "No description",
+    "stars": 1401,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "readme"
+    ]
+  },
+  {
+    "name": "Awesome-Implicit-NeRF-Robotics",
+    "full_name": "zubair-irshad/Awesome-Implicit-NeRF-Robotics",
+    "html_url": "https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics",
+    "description": "A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites",
+    "stars": 1400,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "3d-computer-vision",
+      "6d-pose-estimation",
+      "computer-vision",
+      "deep-learning",
+      "dynamics",
+      "implicit-neural-representation",
+      "implicit-representations",
+      "manipulation",
+      "navigation",
+      "nerf",
+      "neural-radiance-fields",
+      "planning",
+      "pose-estimation",
+      "robotics",
+      "slam"
+    ]
+  },
+  {
+    "name": "Awesome-Talking-Face",
+    "full_name": "JosephPai/Awesome-Talking-Face",
+    "html_url": "https://github.com/JosephPai/Awesome-Talking-Face",
+    "description": "\ud83d\udcd6 A curated list of resources dedicated to talking face.",
+    "stars": 1396,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-wasm-runtimes",
+    "full_name": "appcypher/awesome-wasm-runtimes",
+    "html_url": "https://github.com/appcypher/awesome-wasm-runtimes",
+    "description": "A list of webassemby runtimes",
+    "stars": 1396,
+    "updated_at": "2025-01-03",
+    "language": "Unknown",
+    "topics": [
+      "cranelift",
+      "engine",
+      "javascript",
+      "rust",
+      "virtual-machine",
+      "vm",
+      "wasm",
+      "wasm-runtime",
+      "webassembly"
+    ]
+  },
+  {
+    "name": "awesome-parcel",
+    "full_name": "parcel-bundler/awesome-parcel",
+    "html_url": "https://github.com/parcel-bundler/awesome-parcel",
+    "description": "\ud83d\udd17 A curated list of awesome Parcel resources, libraries, tools and boilerplates",
+    "stars": 1395,
+    "updated_at": "2024-12-11",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "awesome-immigration",
+    "full_name": "AwesomeVisa/awesome-immigration",
+    "html_url": "https://github.com/AwesomeVisa/awesome-immigration",
+    "description": "An Awesome list of long-term visas",
+    "stars": 1394,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "immigration",
+      "remote-work",
+      "visa"
+    ]
+  },
+  {
+    "name": "awesome-search",
+    "full_name": "frutik/awesome-search",
+    "html_url": "https://github.com/frutik/awesome-search",
+    "description": "Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness",
+    "stars": 1390,
+    "updated_at": "2025-01-02",
+    "language": "HTML",
+    "topics": [
+      "autocomplete-suggestions",
+      "ecommerce-search",
+      "evaluating-search",
+      "knowledge-graph",
+      "learning-to-rank",
+      "natural-language-processing",
+      "query-understanding",
+      "ranking",
+      "relevance-algorithms",
+      "relevant-search",
+      "search",
+      "search-engine",
+      "search-engines",
+      "search-intents",
+      "search-ui",
+      "search-ux",
+      "semantic-search",
+      "spelling-correction",
+      "suggestions",
+      "synonyms"
+    ]
+  },
+  {
+    "name": "awesome-typography",
+    "full_name": "Jolg42/awesome-typography",
+    "html_url": "https://github.com/Jolg42/awesome-typography",
+    "description": "\u270f\ufe0e Curated list about digital typography \ud83d\udd25",
+    "stars": 1389,
+    "updated_at": "2025-01-06",
+    "language": "Unknown",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "color-fonts",
+      "emoji",
+      "font-editor",
+      "font-family",
+      "fonts",
+      "opentype",
+      "opentype-fonts",
+      "otf",
+      "truetype",
+      "ttf",
+      "typeface",
+      "typography",
+      "unicode",
+      "webfonts",
+      "woff",
+      "woff2"
+    ]
+  },
+  {
+    "name": "awesome-awesomeness-zh_CN",
+    "full_name": "justjavac/awesome-awesomeness-zh_CN",
+    "html_url": "https://github.com/justjavac/awesome-awesomeness-zh_CN",
+    "description": "\u4e00\u4efd\u5173\u4e8e\u201c\u8d44\u6599\u6c47\u603b\u201d\u7684\u6c47\u603b\u3002",
+    "stars": 1388,
+    "updated_at": "2025-01-03",
+    "language": "JavaScript",
+    "topics": [
+      "android",
+      "nodejs",
+      "python",
+      "swift"
     ]
   }
 ];
