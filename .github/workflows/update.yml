@@ -24,19 +24,18 @@ jobs:
       - name: Set search parameters
         run: |
           echo "SEARCH_QUERY=awesome in:name stars:>100" >> $GITHUB_ENV
-          echo 'SEARCH_PARAMS={"q": "awesome in:name stars:>100", "sort": "stars", "order": "desc", "per_page": 100}' >> $GITHUB_ENV
+          echo "SEARCH_PARAMS='{\"q\": \"awesome in:name stars:>100\", \"sort\": \"stars\", \"order\": \"desc\", \"per_page\": 100}'" >> $GITHUB_ENV
       - name: Run update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python update_readme.py
+          python update_data.py
       - name: Deploy to GitHub Pages
         run: |
-          cp index_template.html index.html
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md index.html
-          git commit -m 'Auto update README and deploy to GitHub Pages'
+          git add README.md data/* data.js index.html
+          git commit -m "Auto update data and deploy to GitHub Pages"
           git push
           
       - name: Deploy Pages

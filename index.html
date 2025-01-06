@@ -16,6 +16,7 @@
     <div class="container">
         <h1 class="mb-4">Awesome-Awesome</h1>
         <p class="lead mb-4">A curated list of awesome repositories on GitHub, with interactive sorting and filtering.</p>
+        <p class="text-muted">Last updated: <span id="lastUpdate"></span></p>
         
         <div class="table-responsive">
             <table id="repoTable" class="table table-striped">
@@ -29,27 +30,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td><a href="https://github.com/sindresorhus/awesome" target="_blank">sindresorhus/awesome</a></td>
-                        <td>Markdown</td>
-                        <td data-order="250000"><span class="star-count">⭐</span> 250k</td>
-                        <td data-order="2023-12-01">2023-12-01</td>
-                        <td>😎 Awesome lists about all kinds of interesting topics</td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://github.com/vinta/awesome-python" target="_blank">vinta/awesome-python</a></td>
-                        <td>Python</td>
-                        <td data-order="180000"><span class="star-count">⭐</span> 180k</td>
-                        <td data-order="2023-12-02">2023-12-02</td>
-                        <td>A curated list of awesome Python frameworks, libraries, software and resources</td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://github.com/avelino/awesome-go" target="_blank">avelino/awesome-go</a></td>
-                        <td>Go</td>
-                        <td data-order="110000"><span class="star-count">⭐</span> 110k</td>
-                        <td data-order="2023-12-03">2023-12-03</td>
-                        <td>A curated list of awesome Go frameworks, libraries and software</td>
-                    </tr>
+                    <!-- Data will be loaded from data.js -->
                 </tbody>
             </table>
         </div>
@@ -58,14 +39,37 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
+    <!-- Load data from data.js -->
+    <script src="data.js"></script>
     <script>
-        $(document).ready(function() {
-            $('#repoTable').DataTable({
+        function initializeDataTable() {
+            const table = $('#repoTable').DataTable({
+                data: repoData,
+                columns: [
+                    { 
+                        data: null,
+                        render: function(data, type, row) {
+                            return `<a href="${row.html_url}" target="_blank">${row.full_name}</a>`;
+                        }
+                    },
+                    { data: 'language' },
+                    { 
+                        data: 'stars',
+                        render: function(data, type, row) {
+                            if (type === 'display') {
+                                return `<span class="star-count">⭐</span> ${data.toLocaleString()}`;
+                            }
+                            return data;
+                        }
+                    },
+                    { data: 'updated_at' },
+                    { data: 'description' }
+                ],
                 pageLength: 25,
                 order: [[2, 'desc']], // Sort by stars by default
-                dom: 'Blfrtip', // Buttons, length, filter, table, processing, info, pagination
+                dom: 'Blfrtip',
                 buttons: [
-                    'colvis', // Column visibility
+                    'colvis',
                     {
                         extend: 'collection',
                         text: 'Export',
@@ -78,27 +82,31 @@
                     info: "Showing _START_ to _END_ of _TOTAL_ repositories"
                 },
                 initComplete: function () {
-                    // Add column-specific filters
+                    // Add text input filters for each column
                     this.api().columns().every(function () {
                         var column = this;
-                        var title = $(column.header()).text();
+                        var title = $(column.header()).text().trim();
                         
-                        // Create filter for each column except Description
+                        // Create text input filter for each column except Description
                         if (title !== 'Description') {
-                            var select = $('<select class="form-select form-select-sm"><option value="">Filter ' + title + '</option></select>')
+                            var input = $('<input type="text" class="form-control form-control-sm" placeholder="Filter ' + title + '">')
                                 .appendTo($(column.header()))
-                                .on('change', function () {
-                                    var val = $.fn.dataTable.util.escapeRegex($(this).val());
-                                    column.search(val ? '^'+val+'$' : '', true, false).draw();
+                                .on('keyup change', function () {
+                                    if (column.search() !== this.value) {
+                                        column.search(this.value).draw();
+                                    }
                                 });
-
-                            column.data().unique().sort().each(function (d, j) {
-                                select.append('<option value="'+d+'">'+d+'</option>');
-                            });
                         }
                     });
                 }
             });
+        }
+
+        $(document).ready(function() {
+            // Show last update time
+            document.getElementById('lastUpdate').textContent = lastUpdate;
+            // Initialize table
+            initializeDataTable();
         });
     </script>
     
@@ -119,10 +127,11 @@
         .dt-buttons {
             margin-bottom: 10px;
         }
-        th select {
+        th input {
             width: 100%;
             margin-top: 5px;
             padding: 2px;
+            font-size: 0.9em;
         }
         .buttons-colvis {
             margin-right: 5px;
