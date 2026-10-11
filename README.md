@@ -5,205 +5,205 @@ A curated list of awesome repositories on GitHub, sorted by stars.
 | Repository | Language | Stars | Last Updated | Description |
 |------------|----------|-------|--------------|-------------|
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 514215 | 2026-10-04 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Unknown | ⭐ 517277 | 2026-10-11 | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] |
 
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 324971 | 2026-10-04 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | ⭐ 326414 | 2026-10-11 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
 
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | ⭐ 323686 | 2026-10-04 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Unknown | ⭐ 325366 | 2026-10-11 | A list of Free Software network services and web applications which can be hosted on your own servers |
 
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go | ⭐ 186788 | 2026-10-04 | A curated list of awesome Go frameworks, libraries and software |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go | ⭐ 187754 | 2026-10-11 | A curated list of awesome Go frameworks, libraries and software |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | ⭐ 140640 | 2026-10-04 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | ⭐ 141166 | 2026-10-11 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Unknown | ⭐ 121794 | 2026-10-04 | A collection of various awesome lists for hackers, pentesters and security researchers |
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Unknown | ⭐ 122117 | 2026-10-11 | A collection of various awesome lists for hackers, pentesters and security researchers |
 
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | ⭐ 119424 | 2026-10-04 | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Unknown | ⭐ 120180 | 2026-10-11 | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
 
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Swift | ⭐ 115351 | 2026-10-04 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Swift | ⭐ 115770 | 2026-10-11 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
 
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Unknown | ⭐ 95795 | 2026-10-04 | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | Unknown | ⭐ 96077 | 2026-10-11 | A collection of MCP servers. |
 
-| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | Unknown | ⭐ 89836 | 2026-10-04 | A list of awesome beginners-friendly projects. |
+| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | Unknown | ⭐ 90094 | 2026-10-11 | A list of awesome beginners-friendly projects. |
 
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | Unknown | ⭐ 84782 | 2026-10-03 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  |
+| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | Unknown | ⭐ 84896 | 2026-10-11 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  |
 
-| [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | Unknown | ⭐ 79297 | 2026-10-04 | A topic-centric list of HQ open datasets. |
+| [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | Unknown | ⭐ 79420 | 2026-10-11 | A topic-centric list of HQ open datasets. |
 
-| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | JavaScript | ⭐ 76949 | 2026-10-03 | The iconic SVG, font, and CSS toolkit |
+| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | JavaScript | ⭐ 76955 | 2026-10-10 | The iconic SVG, font, and CSS toolkit |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | ⭐ 76433 | 2026-10-04 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | ⭐ 76824 | 2026-10-11 | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | Unknown | ⭐ 74793 | 2026-10-04 | A collection of awesome things regarding React ecosystem |
+| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | Unknown | ⭐ 74848 | 2026-10-10 | A collection of awesome things regarding React ecosystem |
 
-| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Python | ⭐ 74516 | 2026-10-04 | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Unknown | ⭐ 74630 | 2026-10-11 | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
 
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Unknown | ⭐ 74502 | 2026-10-04 | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | Python | ⭐ 74568 | 2026-10-11 | A curated list of awesome Machine Learning frameworks, libraries and software. |
 
-| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Unknown | ⭐ 73597 | 2026-10-04 | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | Unknown | ⭐ 73724 | 2026-10-11 | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
 
-| [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | Unknown | ⭐ 73536 | 2026-10-03 | 🎉 A curated list of awesome things related to Vue.js |
+| [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | Unknown | ⭐ 73515 | 2026-10-10 | 🎉 A curated list of awesome things related to Vue.js |
 
-| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | Unknown | ⭐ 71568 | 2026-10-04 | :books: List of awesome university courses for learning Computer Science! |
+| [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) | Unknown | ⭐ 71768 | 2026-10-11 | :books: List of awesome university courses for learning Computer Science! |
 
-| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Unknown | ⭐ 66995 | 2026-10-03 | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] |
+| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | Unknown | ⭐ 67064 | 2026-10-11 | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] |
 
-| [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | Unknown | ⭐ 62916 | 2026-10-04 | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
+| [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | Unknown | ⭐ 63322 | 2026-10-11 | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
 
-| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | Dart | ⭐ 61407 | 2026-10-04 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. |
+| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | Dart | ⭐ 61456 | 2026-10-11 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. |
 
-| [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) | Unknown | ⭐ 60855 | 2026-10-03 | 后端架构师技术图谱 |
+| [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) | Unknown | ⭐ 60834 | 2026-10-11 | 后端架构师技术图谱 |
 
-| [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Rust | ⭐ 59667 | 2026-10-04 | A curated list of Rust code and resources. |
+| [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | Rust | ⭐ 59766 | 2026-10-11 | A curated list of Rust code and resources. |
 
-| [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | Unknown | ⭐ 57813 | 2026-10-04 | A curated list of awesome Android UI/UX libraries |
+| [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | Unknown | ⭐ 57885 | 2026-10-10 | A curated list of awesome Android UI/UX libraries |
 
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Python | ⭐ 55026 | 2026-10-04 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Python | ⭐ 55395 | 2026-10-11 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins |
 
-| [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | Swift | ⭐ 53512 | 2026-10-04 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
+| [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | Swift | ⭐ 53581 | 2026-10-11 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  |
 
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Unknown | ⭐ 52932 | 2026-10-04 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | Unknown | ⭐ 53045 | 2026-10-11 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
 
-| [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | Unknown | ⭐ 49189 | 2026-10-04 | A curated list of software and architecture related design patterns. |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | Unknown | ⭐ 49359 | 2026-10-11 | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | Unknown | ⭐ 49187 | 2026-10-03 | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | Unknown | ⭐ 49281 | 2026-10-10 | A curated list of software and architecture related design patterns. |
 
-| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | Unknown | ⭐ 49148 | 2026-10-04 | A curated list of awesome frameworks, libraries and software for the Java programming language. |
+| [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | Unknown | ⭐ 49221 | 2026-10-11 | A curated list of awesome frameworks, libraries and software for the Java programming language. |
 
-| [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) | Unknown | ⭐ 48547 | 2026-10-04 | Curated List of React Components & Libraries. |
+| [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) | Unknown | ⭐ 48582 | 2026-10-11 | Curated List of React Components & Libraries. |
 
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | ⭐ 47228 | 2026-10-04 | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Python | ⭐ 47433 | 2026-10-11 | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
 
-| [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | JavaScript | ⭐ 46533 | 2026-10-03 | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
+| [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | JavaScript | ⭐ 46545 | 2026-10-11 | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
 
-| [docker/awesome-compose](https://github.com/docker/awesome-compose) | HTML | ⭐ 46459 | 2026-10-03 | Awesome Docker Compose samples |
+| [docker/awesome-compose](https://github.com/docker/awesome-compose) | HTML | ⭐ 46496 | 2026-10-10 | Awesome Docker Compose samples |
 
-| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | Java | ⭐ 41995 | 2026-10-04 | Learn System Design concepts and prepare for interviews using free resources. |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | Java | ⭐ 42137 | 2026-10-11 | Learn System Design concepts and prepare for interviews using free resources. |
 
-| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | JavaScript | ⭐ 41385 | 2026-10-03 | The best design tools and plugins for everything 👉 |
+| [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | JavaScript | ⭐ 41456 | 2026-10-11 | The best design tools and plugins for everything 👉 |
 
-| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | JavaScript | ⭐ 40875 | 2026-10-03 | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
+| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | JavaScript | ⭐ 40893 | 2026-10-11 | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
 
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | JavaScript | ⭐ 39673 | 2026-10-04 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | JavaScript | ⭐ 39890 | 2026-10-10 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
 
-| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | Unknown | ⭐ 39300 | 2026-10-04 | Integrate the DeepSeek API into popular software |
+| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | Unknown | ⭐ 39346 | 2026-10-11 | Integrate the DeepSeek API into popular software |
 
-| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | Unknown | ⭐ 37716 | 2026-10-04 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
+| [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) | Unknown | ⭐ 37759 | 2026-10-11 | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. |
 
-| [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | CSS | ⭐ 37402 | 2026-10-04 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | CSS | ⭐ 37748 | 2026-10-11 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
 
-| [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | Unknown | ⭐ 36959 | 2026-10-03 | :whale: A curated list of Docker resources and projects |
+| [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | Unknown | ⭐ 37009 | 2026-10-11 | :whale: A curated list of Docker resources and projects |
 
-| [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) | Unknown | ⭐ 35712 | 2026-10-03 | Awesome React Native components, news, tools, and learning material! |
+| [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) | Unknown | ⭐ 35707 | 2026-10-09 | Awesome React Native components, news, tools, and learning material! |
 
-| [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | Unknown | ⭐ 35544 | 2026-10-04 | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | Unknown | ⭐ 35569 | 2026-10-11 | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
 
-| [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | Unknown | ⭐ 35325 | 2026-10-03 | A curated list of amazingly awesome open-source sysadmin resources. |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | Unknown | ⭐ 35481 | 2026-10-11 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
 
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | Unknown | ⭐ 35170 | 2026-10-04 | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
+| [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) | Unknown | ⭐ 35383 | 2026-10-11 | A curated list of amazingly awesome open-source sysadmin resources. |
 
-| [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) | Unknown | ⭐ 35033 | 2026-10-03 | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. |
+| [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) | Unknown | ⭐ 35028 | 2026-10-10 | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. |
 
-| [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | Unknown | ⭐ 34529 | 2026-10-04 | Elevate your AI research writing, no more tedious polishing ✨  |
+| [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | Unknown | ⭐ 34681 | 2026-10-10 | Elevate your AI research writing, no more tedious polishing ✨  |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | ⭐ 33899 | 2026-10-04 | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | ⭐ 34267 | 2026-10-11 | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
 
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | Ruby | ⭐ 33696 | 2026-10-04 | A curated list of awesome awesomeness |
+| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | Ruby | ⭐ 33716 | 2026-10-10 | A curated list of awesome awesomeness |
 
-| [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | Unknown | ⭐ 32724 | 2026-10-03 | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
+| [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | Unknown | ⭐ 32737 | 2026-10-11 | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | Unknown | ⭐ 31681 | 2026-10-04 | A community collection of OpenClaw use cases for making life easier. |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | Unknown | ⭐ 31668 | 2026-10-10 | A community collection of OpenClaw use cases for making life easier. |
 
-| [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Unknown | ⭐ 31246 | 2026-10-03 | 😎 A curated list of awesome GitHub Profile which updates in real time  |
+| [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Unknown | ⭐ 31301 | 2026-10-10 | 😎 A curated list of awesome GitHub Profile which updates in real time  |
 
-| [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Unknown | ⭐ 30958 | 2026-10-03 | Use your macOS terminal shell to do awesome things. |
+| [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Unknown | ⭐ 30973 | 2026-10-11 | Use your macOS terminal shell to do awesome things. |
 
-| [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) | Makefile | ⭐ 30630 | 2026-10-04 | Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 |
+| [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) | Makefile | ⭐ 30637 | 2026-10-11 | Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 |
 
-| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | Unknown | ⭐ 30263 | 2026-10-04 | A list of AI autonomous agents |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | Unknown | ⭐ 30358 | 2026-10-11 | A list of AI autonomous agents |
 
-| [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | Unknown | ⭐ 30105 | 2026-10-03 | :memo: An awesome Data Science repository to learn and apply for real world problems. |
+| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Unknown | ⭐ 30135 | 2026-10-11 | :scream: A curated list of amazingly awesome OSINT |
 
-| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | Unknown | ⭐ 30089 | 2026-10-04 | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
+| [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | Unknown | ⭐ 30131 | 2026-10-10 | :memo: An awesome Data Science repository to learn and apply for real world problems. |
 
-| [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | HTML | ⭐ 29951 | 2026-10-04 | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
+| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | Unknown | ⭐ 30124 | 2026-10-11 | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 
-| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | Unknown | ⭐ 29889 | 2026-10-04 | :scream: A curated list of amazingly awesome OSINT |
+| [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | HTML | ⭐ 30029 | 2026-10-11 | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
 
-| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | ⭐ 29676 | 2026-10-04 | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | ⭐ 29759 | 2026-10-10 | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 
-| [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) | JavaScript | ⭐ 29097 | 2026-10-03 | 🎨 A curated list of delightful VS Code packages and resources. |
+| [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) | JavaScript | ⭐ 29108 | 2026-10-11 | 🎨 A curated list of delightful VS Code packages and resources. |
 
-| [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Unknown | ⭐ 29007 | 2026-10-04 | A curated list of awesome Deep Learning tutorials, projects and communities. |
+| [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | Unknown | ⭐ 29029 | 2026-10-10 | A curated list of awesome Deep Learning tutorials, projects and communities. |
 
-| [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) | TeX | ⭐ 28640 | 2026-10-03 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application |
+| [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) | TeX | ⭐ 28689 | 2026-10-11 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application |
 
-| [sdras/awesome-actions](https://github.com/sdras/awesome-actions) | Unknown | ⭐ 28284 | 2026-10-03 | A curated list of awesome actions to use on GitHub |
+| [sdras/awesome-actions](https://github.com/sdras/awesome-actions) | Unknown | ⭐ 28304 | 2026-10-11 | A curated list of awesome actions to use on GitHub |
 
-| [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | Unknown | ⭐ 27747 | 2026-10-03 | 😱 Falsehoods Programmers Believe in |
+| [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | Unknown | ⭐ 27768 | 2026-10-10 | 😱 Falsehoods Programmers Believe in |
 
-| [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | Unknown | ⭐ 27434 | 2026-10-03 | Awesome-LLM: a curated list of Large Language Model |
+| [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | Unknown | ⭐ 27449 | 2026-10-10 | Awesome-LLM: a curated list of Large Language Model |
 
-| [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Unknown | ⭐ 27335 | 2026-10-04 | A collection of awesome penetration testing resources and tools |
+| [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Unknown | ⭐ 27394 | 2026-10-11 | A collection of awesome penetration testing resources and tools |
 
-| [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) | Unknown | ⭐ 27303 | 2026-10-03 | Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF] |
+| [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | Java | ⭐ 27318 | 2026-10-11 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
 
-| [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | Java | ⭐ 27196 | 2026-10-03 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) | Unknown | ⭐ 27305 | 2026-10-10 | Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF] |
 
-| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | HTML | ⭐ 26918 | 2026-10-03 | A curated list of awesome warez and piracy links |
+| [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | HTML | ⭐ 26915 | 2026-10-10 | A curated list of awesome warez and piracy links |
 
-| [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | Ruby | ⭐ 26312 | 2026-10-03 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
+| [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | Ruby | ⭐ 26316 | 2026-10-10 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
 
-| [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | TeX | ⭐ 26198 | 2026-10-03 | The most cited deep learning papers |
+| [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | TeX | ⭐ 26197 | 2026-10-10 | The most cited deep learning papers |
 
-| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | Unknown | ⭐ 26058 | 2026-10-03 | 💅🏻 ⚒ A collection of awesome design systems |
+| [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | Unknown | ⭐ 26094 | 2026-10-10 | 💅🏻 ⚒ A collection of awesome design systems |
 
-| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | Unknown | ⭐ 25722 | 2026-10-04 | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. |
+| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | Unknown | ⭐ 25860 | 2026-10-11 | 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. |
 
-| [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | HTML | ⭐ 25616 | 2026-10-03 | 🐧 A list of awesome Linux softwares  |
+| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Shell | ⭐ 25633 | 2026-10-11 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
 
-| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | Unknown | ⭐ 25598 | 2026-10-03 | A curated list of awesome places to learn and/or practice algorithms. |
+| [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | HTML | ⭐ 25629 | 2026-10-10 | 🐧 A list of awesome Linux softwares  |
 
-| [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | Shell | ⭐ 25485 | 2026-10-04 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | Unknown | ⭐ 25610 | 2026-10-10 | A curated list of awesome places to learn and/or practice algorithms. |
 
-| [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) | Unknown | ⭐ 24396 | 2026-10-04 | 🐬 A collection of awesome resources for the Flipper Zero device. |
+| [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) | Unknown | ⭐ 24454 | 2026-10-11 | 🐬 A collection of awesome resources for the Flipper Zero device. |
 
-| [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | Unknown | ⭐ 24354 | 2026-10-03 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
+| [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | Unknown | ⭐ 24356 | 2026-10-10 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
 
-| [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Unknown | ⭐ 23827 | 2026-10-04 | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog) |
+| [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | Unknown | ⭐ 23861 | 2026-10-11 | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog) |
 
-| [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | Unknown | ⭐ 23587 | 2026-10-04 | A curated list of awesome computer vision resources |
+| [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | Unknown | ⭐ 23587 | 2026-10-11 | A curated list of awesome computer vision resources |
 
-| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | Unknown | ⭐ 22771 | 2026-10-03 | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
+| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | Unknown | ⭐ 22770 | 2026-10-10 | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
 
-| [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Python | ⭐ 21908 | 2026-10-04 | List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting. |
+| [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) | Unknown | ⭐ 22359 | 2026-10-11 | 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems. |
 
-| [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | Unknown | ⭐ 21640 | 2026-10-04 | A collection of awesome .NET libraries, tools, frameworks and software |
+| [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | Python | ⭐ 21934 | 2026-10-10 | List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting. |
 
-| [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) | Unknown | ⭐ 21532 | 2026-10-03 | A curated list of awesome READMEs |
+| [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | Unknown | ⭐ 21648 | 2026-10-11 | A collection of awesome .NET libraries, tools, frameworks and software |
 
-| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Shell | ⭐ 21440 | 2026-10-03 | Collections of awesome neovim plugins. |
+| [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) | Unknown | ⭐ 21552 | 2026-10-10 | A curated list of awesome READMEs |
 
-| [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | C# | ⭐ 21397 | 2026-10-03 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
+| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Shell | ⭐ 21474 | 2026-10-10 | Collections of awesome neovim plugins. |
 
-| [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) | Python | ⭐ 21291 | 2026-10-03 | 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  |
+| [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | C# | ⭐ 21405 | 2026-10-11 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
 
-| [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | Unknown | ⭐ 20969 | 2026-10-04 | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
+| [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) | Python | ⭐ 21311 | 2026-10-11 | 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  |
 
-| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | Unknown | ⭐ 20802 | 2026-10-04 | List of projects that provide terminal user interfaces |
+| [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | Unknown | ⭐ 20992 | 2026-10-11 | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning |
 
-| [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | TypeScript | ⭐ 20604 | 2026-10-04 | A curated list of awesome things related to shadcn/ui. |
+| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | Unknown | ⭐ 20856 | 2026-10-11 | List of projects that provide terminal user interfaces |
 
-| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | Shell | ⭐ 20496 | 2026-10-03 | 🖥 📊 🕹 🛠 A curated list of command line apps |
+| [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | TypeScript | ⭐ 20621 | 2026-10-10 | A curated list of awesome things related to shadcn/ui. |
 
-| [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | C | ⭐ 19979 | 2026-10-03 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
+| [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | Shell | ⭐ 20527 | 2026-10-11 | 🖥 📊 🕹 🛠 A curated list of command line apps |
 
-| [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | Python | ⭐ 19898 | 2026-10-03 | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | C | ⭐ 19980 | 2026-10-11 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
 
-| [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Python | ⭐ 19732 | 2026-10-03 | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
+| [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | Python | ⭐ 19943 | 2026-10-11 | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
 
-| [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) | Unknown | ⭐ 19290 | 2026-10-04 |   A curated list of awesome applications, softwares, tools and shiny things for macOS. |
+| [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Python | ⭐ 19748 | 2026-10-10 | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
 
-| [keon/awesome-nlp](https://github.com/keon/awesome-nlp) | Unknown | ⭐ 19053 | 2026-10-04 | :book: A curated list of resources dedicated to Natural Language Processing (NLP) |
+| [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) | Unknown | ⭐ 19306 | 2026-10-11 |   A curated list of awesome applications, softwares, tools and shiny things for macOS. |
 
 
 > Note: This list is automatically updated weekly. Last update time can be found in the debug info below.
